@@ -1,0 +1,389 @@
+neologism    neology    coinage
+structure    anatomical_structure    complex_body_part    bodily_structure    body_structure
+presence
+digit    figure
+adeptness    adroitness    deftness    facility    quickness
+acquisition
+environmental_condition
+military_action    action
+meal    repast
+writing    authorship    composition    penning
+doubt    uncertainty    incertitude    dubiety    doubtfulness    dubiousness
+impression    effect
+freedom
+production
+influence
+goal    end
+member    fellow_member
+meeting    coming_together
+depression    impression    imprint
+settlement
+wind    air_current    current_of_air
+part    section    division
+definition
+railway    railroad    railroad_line    railway_line    railway_system
+mover
+structure    anatomical_structure    complex_body_part    bodily_structure    body_structure
+temporary_state
+messenger    courier
+preference    druthers
+disposition
+practice    pattern
+audience
+display
+challenge
+data    information
+structure    anatomical_structure    complex_body_part    bodily_structure    body_structure
+mistreatment
+dental_care
+wit    humor    humour    witticism    wittiness
+turn    play
+characteristic
+legal_document    legal_instrument    official_document    instrument
+increase    step-up
+neologism    neology    coinage
+conflict    struggle    battle
+liberty
+defense    defence    defense_force    defence_force
+subjugation    subjection
+blend    blending
+shape    form
+product    production
+actor    doer    worker
+concession    conceding    yielding
+concern
+center    centre
+longness
+substance
+persecution
+unskilled_person
+craft    craftsmanship    workmanship
+artifact    artefact
+injustice    unjustness
+objection
+alkaloid
+virtuosity
+obscurity
+manner    mode    style    way    fashion
+similarity
+statement
+written_record    written_account
+indication    indicant
+clergyman    reverend    man_of_the_cloth
+speech    speech_communication    spoken_communication    spoken_language    language    voice_communication    oral_communication
+return    paying_back    getting_even
+time
+device
+thing
+badge
+integrity
+wood
+assets
+idea    thought
+diversion    recreation
+measure    step
+beverage    drink    drinkable    potable
+entrance    entering
+performance    execution    carrying_out    carrying_into_action
+language    linguistic_communication
+flow    flowing
+power    powerfulness
+alluvial_sediment    alluvial_deposit    alluvium    alluvion
+activity
+unreality    irreality
+happening    occurrence    occurrent    natural_event
+engagement    booking
+sign
+force    personnel
+exercise    practice    drill    practice_session    recitation
+regular_payment
+landmass    land_mass
+area    country
+location
+meagerness    meagreness    leanness    poorness    scantiness    scantness    exiguity
+happening    occurrence    occurrent    natural_event
+situation
+foodstuff    food_product
+operator    manipulator
+container
+alcohol    alcoholic_drink    alcoholic_beverage    intoxicant    inebriant
+affliction
+transmission    transmittal    transmitting
+attack    onslaught    onset    onrush
+belief
+solvent    dissolvent    dissolver    dissolving_agent    resolvent
+hindrance    hinderance    deterrent    impediment    balk    baulk    check    handicap
+bread    breadstuff    staff_of_life
+improvement
+digit    dactyl
+female_offspring
+word
+organization    organisation
+feeling
+duty
+nutriment    nourishment    nutrition    sustenance    aliment    alimentation    victuals
+outbreak    eruption    irruption
+example    illustration    instance    representative
+union    unification
+boundary_line    border    borderline    delimitation    mete
+group    grouping
+dance
+entrance    entering
+social_group
+pride    pridefulness
+friend
+cooking    cookery    preparation
+father    male_parent    begetter
+message    content    subject_matter    substance
+speech    speech_communication    spoken_communication    spoken_language    language    voice_communication    oral_communication
+arrival
+sports_equipment
+keyboard_instrument
+scale_value
+substance
+share    portion    part    percentage
+labor    labour    toil
+differentiation    distinction
+method
+grant
+activity
+prevention    bar
+day
+playing_card
+edge
+abstraction    abstract_entity
+emotion
+molester
+series
+periodic_event    recurrent_event
+course    course_of_action
+skillfulness
+demonstration    demo
+sex_appeal    desirability    desirableness    oomph
+activity
+playing_card
+actuality
+spacing    spatial_arrangement
+holder
+range    reach
+transportation    transport    transfer    transferral    conveyance
+boundary    bound    bounds
+body
+rule    prescript
+collection    aggregation    accumulation    assemblage
+speaker    talker    utterer    verbalizer    verbaliser
+social_process
+sector    sphere
+object    physical_object
+writing    written_material    piece_of_writing
+change_of_state
+pitch    delivery
+time_unit    unit_of_time
+workplace    work
+thought
+relation
+university
+moderation    mitigation
+animal_group
+ratio
+external_body_part
+possession
+switch    electric_switch    electrical_switch
+force    personnel
+motion    movement    move
+relationship    human_relationship
+persecution
+current    stream
+asset    plus
+donor    giver    presenter    bestower    conferrer
+fragment
+form    shape    pattern
+military_personnel    soldiery    troops
+end_product    output
+location
+damages    amends    indemnity    indemnification    restitution    redress
+critical_appraisal    critical_analysis
+stringed_instrument
+personality
+conveyance    transport
+mistake    error    fault
+quality
+artifact    artefact
+hypothesis    possibility    theory
+interest    stake
+trace    vestige    tincture    shadow
+system
+visual_percept    visual_image
+temporal_arrangement    temporal_order
+large_indefinite_quantity    large_indefinite_amount
+act    deed    human_action    human_activity
+foreigner    alien    noncitizen    outlander
+happening    occurrence    occurrent    natural_event
+topographic_point    place    spot
+difficulty
+experience
+harmony    musical_harmony
+pass    mountain_pass    notch
+region
+material    stuff
+size
+outburst    burst    flare-up
+state
+perception
+electrical_device
+affliction
+fragment
+defense    defence    vindication
+periodic_event    recurrent_event
+acquisition
+certainty
+experience
+decision_making    deciding
+coin
+hour    time_of_day
+stickiness
+amount
+effigy    image    simulacrum
+education
+creating_from_raw_materials
+sensing    perception
+pleasure    pleasance
+act    deed    human_action    human_activity
+creating_from_raw_materials
+causal_agent    cause    causal_agency
+bodily_process    body_process    bodily_function    activity
+representation
+cleaner
+unlawfulness
+painting    picture
+punishment    penalty    penalization    penalisation
+display    exhibit    showing
+function    office    part    role
+stimulation    stimulus    stimulant    input
+section    subdivision
+organization    organisation
+person    individual    someone    somebody    mortal    soul
+discussion    give-and-take    word
+financial_institution    financial_organization    financial_organisation
+beginning    start    commencement
+trick    fast_one
+refuge    sanctuary    asylum
+front
+graphite    black_lead    plumbago
+organization    organisation
+person    individual    someone    somebody    mortal    soul
+compound    chemical_compound
+development    evolution
+dryness    waterlessness    xerotes
+emotion
+award    accolade    honor    honour    laurels
+function    office    part    role
+oeuvre    work    body_of_work
+sensation    esthesis    aesthesis    sense_experience    sense_impression    sense_datum
+behavior    behaviour    conduct    doings
+application    coating    covering
+attempt    effort    endeavor    endeavour    try
+position    spatial_relation
+juvenile    juvenile_person
+spot
+sheet    flat_solid
+concretism    concrete_representation
+juncture    occasion
+animal_tissue
+greeting    salutation
+power    powerfulness
+prosody    inflection
+practice
+device
+sympathy    fellow_feeling
+activity
+person    individual    someone    somebody    mortal    soul
+introduction    debut    first_appearance    launching    unveiling    entry
+influence
+person    individual    someone    somebody    mortal    soul
+area    country
+relationship
+obstruction    obstructor    obstructer    impediment    impedimenta
+law
+fast    fasting
+plant_process    enation
+waste    waste_material    waste_matter    waste_product
+fastener    fastening    holdfast    fixing
+animation    spiritedness    invigoration    brio    vivification
+position    place
+expertness    expertise
+duty
+number
+photograph    photo    exposure    picture    pic
+intelligence
+artifact    artefact
+administrative_unit    administrative_body
+time_period    period_of_time    period
+administrative_unit    administrative_body
+animal_group
+drop    drib    driblet
+hate    hatred
+point    point_in_time
+state
+region    part
+feeling
+division
+fire    firing
+disruption    perturbation
+cargo_ship    cargo_vessel
+association
+sound
+acceptance
+happening    occurrence    occurrent    natural_event
+organization    organisation
+body_of_water    water
+belonging
+business
+affectation    mannerism    pose    affectedness
+injury    hurt    harm    trauma
+class    form    grade    course
+container
+spatial_property    spatiality
+rotation    revolution    gyration
+nude_dancing
+gathering    assemblage
+earthquake    quake    temblor    seism
+transferred_property    transferred_possession
+cognitive_state    state_of_mind
+badge
+appraisal    assessment
+origin    origination    inception
+misfortune    bad_luck    tough_luck    ill_luck
+appearance
+person    individual    someone    somebody    mortal    soul
+remark    comment    input
+occupation    business    job    line_of_work    line
+exhilaration    excitement
+chemical_phenomenon
+condition    status
+hairdo    hairstyle    hair_style    coiffure    coif
+protection
+accident    stroke    fortuity    chance_event
+activity
+plan_of_action
+neighborhood    neighbourhood
+restoration
+somesthesia    somaesthesia    somatesthesia    somatic_sensation
+surface
+wave    moving_ridge
+implement
+offspring    progeny    issue
+person    individual    someone    somebody    mortal    soul
+body_part
+large_indefinite_quantity    large_indefinite_amount
+gonad    sex_gland
+meal    repast
+affliction
+list    listing
+object    physical_object
+generality
+sound
+expressive_style    style
+amount
+trial_period    test_period
+inactivity
