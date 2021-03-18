@@ -1,389 +1,389 @@
-portmanteau    8    ` brunch ' is a well - known portmanteau
-fundus    1    the fundus of the stomach
-occurrence    4    a disease of frequent occurrence
-zero    10    In unary and k - adic notation in general , zero is the empty string .
-dexterity    9    She twirled the knife through her fingers with impressive dexterity .
-assumption    2    the Nazi assumption of power in 1934
-clime    4    plants from a cold clime travel best in winter
-defense    4    they died in the defense of Stalingrad
-potluck    4    Here 's a good potluck of beans and stew .
-adoxography    4    Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things
-peradventure    3    this proves beyond peradventure that he is innocent
-mark    4    he left an indelible mark on the American theater
-liberty    1    at liberty to choose whatever occupation one wishes
-making    1    the making of measurements
-manipulation    1    his manipulation of his friends was scandalous
-intention    1    The intention of this legislation is to boost the economy .
-brother    3    Thank you , brother . I would like to thank the brother who just spoke .
-socialization    1    Force socialization rarely creates strong friendships , but there are exceptions .
-dimple    4    The accident created a dimple in the hood of the car .
-conclusion    1    the conclusion of the peace treaty
-breeze    1    The breeze rustled the papers on her desk .
-middle    5    I woke up in the middle of the night .
-redefinition    7    words like ` conservative ' require periodic redefinition
-rail    4    he was concerned with rail safety
-hitter    2    a hard hitter
-ball    1    the ball at the base of the thumb
-fatigue    1    growing fatigue was apparent from the decline in the execution of their athletic skills
-herald    4    Rouge Dragon is a herald at the College of Arms .
-wish    4    it was his last wish
-aptness    1    The aptness of men to follow example
-cooperation    1    economic cooperation
-house    3    he counted the house
-sight    4    he was a familiar sight on the television
-gauntlet    3    threw down the gauntlet
-metadata    3    Most websites contain metadata to tell the computer how to lay the words out on the screen .
-bridge    6    her glasses left marks on the bridge of her nose
-abuse    1    All abuse , whether physical , verbal , psychological or sexual , is bad .
-brush    6    She gave her hair a quick brush .
-laugh    3    thanks for the laugh
-move    3    It 's your move ! Roll the dice !
-streak    1    a streak of wildness
-deed    3    he signed the deed
-escalation    4    higher wages caused an escalation of prices
-blend    5    ` smog ' is a blend of ` smoke ' and ` fog '
-fight    1    a fight broke out at the hockey game
-license    2    the intolerable license with which the newspapers break ... the rules of decorum"- Edmund Burke
-bastion    2    the last bastion of communism
-bondage    5    he sought release from his bondage to Satan
-homogenization    1    the homogenization of cream
-plume    1    a plume of smoke
-work    7    the symphony was hailed as an ingenious work
-demon    3    she 's a demon at math
-bye    3    he had a bye in the first round
-affair    5    it is none of your affair
-capital    2    the drug capital of Columbia
-longevity    2    had unusual longevity in the company
-fuel    1    more fuel is needed during the winter months
-torture    7    In every war there are acts of torture that cause the world to shudder .
-grunt    3    he went from grunt to chairman in six years
-tradecraft    13    the CIA chief of station accepted responsibility for his agents ' failures of tradecraft
-squeaker    4    which hinge is the squeaker ?
-wrong    4    Injustice is a heinous wrong .
-protest    6    the senator rose to register his protest
-scopolamine    1    transdermal scopolamine is used to treat motion sickness
-bravura    3    in a final bravura the ballerina appeared to be floating in water
-nowhere    4    he came out of nowhere
-wise    2    in no wise
-sort    4    she served a creamy sort of dessert thing
-explanation    1    the explanation was very simple
-log    3    they kept a log of all transmission by the radio station
-gesture    2    a political gesture
-minister    1    The minister said a prayer on behalf of the entire congregation .
-pronunciation    4    that is the correct pronunciation
-revenge    4    Indifference is the sweetest revenge .
-minute    2    Wait a minute , I 'm not ready yet !
-pull    2    A zipper pull
-snorter    9    the storm was n't long but it was a snorter
-button    6    The politician wore a bright yellow button with the slogan " Vote Smart " emblazoned on it .
-probity    5    in a world where financial probity may not be widespread
-ash    4    The woods planted in ash will see a different mix of species .
-amount    1    the amount he had in cash was insufficient
-whimsy    0    whimsy can be humorous to someone with time to enjoy it
-nightlife    4    in the summer the nightlife shifts to the dance clubs
-precaution    10    he put an ice pack on the injury as a precaution
-refresher    5    The nap was a welcome refresher .
-invasion    1    an invasion of locusts
-mechanism    1    a mechanism of social control
-usage    1    English usage
-stream    3    he felt a stream of air
-preponderance    1    the preponderance of good over evil
-delta    2    the Nile delta
-recreation    1    for recreation he wrote poetry and solved crossword puzzles
-falsity    9    The belief that the world is flat is a falsity .
-collapse    1    the collapse of the old star under its own gravity
-gig    3    they played a gig in New Jersey
-poster    3    I saw a poster for it on the side of a bus .
-rank    7    the strike was supported by the union rank and file
-rehearsal    1    a rehearsal will be held the day before the wedding
-pay    3    he wasted his pay on drink
-continent    5    pioneers had to cross the continent on foot
-corner    5    he tripled to the rightfield corner
-home    11    Canadian tariffs enabled United States lumber companies to raise prices at home
-wateriness    1    the wateriness of his blood
-finish    8    my horse was several lengths behind at the finish
-urgency    7    they departed hurriedly because of some great urgency in their affairs
-curd    1    bean curd
-jockey    4    he 's a truck jockey
-cup    3    he put the cup back in the saucer
-wine    3    She ordered some wine for the meal .
-bane    1    The bane of my existence
-forwarding    1    the forwarding of resumes to the personnel department
-charge    3    the wrestler 's charge carried him past his adversary
-opinion    2    In my opinion , white chocolate is better than milk chocolate .
-remover    1    rust remover
-obstacle    5    lack of imagination is an obstacle to one 's advancement
-toast    2    All toasters toast toast .
-upgrade    6    the power plant received a new upgrade
-finger    14    Human hands have five fingers : the thumb , the forefinger ( or index finger ) , the middle finger , the ring finger and the little finger .
-daughter    13    I already have a son , so I would like to have a daughter .
-cognate    3    English is a cognate of Greek , German , Russian and Persian .
-adhocracy    8    the need for informational flexibility can lead to adhocracy
-glow    1    a glow of regret
-chore    4    Washing dishes is a chore , but we can not just stop eating .
-mince    1    a mince of mushrooms
-recrudescence    1    a recrudescence of racism
-excuse    5    That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?
-marriage    1    a marriage of ideas
-circumference    8    a danger to all races over the whole circumference of the globe
-straggle    1    a straggle of followers
-extension    7    the dancer was praised for her uncanny extension
-invasion    1    An invasion of bees
-body    2    the whole body filed out of the auditorium
-dignity    4    it was beneath his dignity to cheat
-mate    4    He 's my best mate .
-cuisine    7    The restaurant is noted for its excellent cuisine .
-dad    5    He had n't seen his dad in years .
-story    4    The book tells the story of two roommates .
-word    3    we had a word or two about it
-landing    5    the plane made a smooth landing
-shot    5    he trained at putting the shot
-piano    10    Most of the works by Frédéric Chopin are for the piano .
-average    3    he is about average in height
-chemistry    1    The chemistry of indigo
-allowance    2    my weekly allowance of two eggs
-effort    5    It took a lot of effort to find a decent - sized , fully - furnished apartment within walking distance of the office .     He made a conscious effort to not appear affected by the stories in the paper .
-contradistinction    2    sculpture in contradistinction to painting
-system    5    that language has a complex system for indicating gender
-subsidy    1    a subsidy for research in artificial intelligence
-instruction    2    Students receive instruction in the arts and sciences .
-save    7    the relief pitcher got credit for a save
-holiday    4    Today is a Wiccan holiday !
-suit    1    what suit is trumps ?
-border    6    the rug had a wide blue border
-group    3    There is a group of houses behind the hill ;    he left town to join a Communist group
-reverence    6    the French treat food with gentle reverence
-fondler    8    the woman charged that her jailer was a fondler
-succession    1    a succession of failures
-heartbeat    5    The policeman waited for a heartbeat in vain
-path    1    the path of virtue
-efficiency    1    The efficiency of the planning department is deplorable .
-show    1    a show of impatience
-sultriness    1    the sultriness of her look was unmistakable
-operation    4    they organized a rescue operation
-spade    4    she led a low spade
-reality    1    the reality of his situation slowly dawned on him
-distribution    2    worldwide in distribution
-officer    3    he is an officer of the court
-earshot    10    I 'll row out on the lake but stay within earshot .
-connection    8    The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .
-bourne    6    " For though from out our bourne of Time and Place , The flood may bear me far , I hope to see my Pilot face to faceWhen I have crossed the bar .
-militia    4    their troops were untrained militia
-canon    2    the neoclassical canon
-exhibition    4    There was an art exhibition on in the town hall .
-caller    4    - Who 's the caller ?
-professionalization    1    the professionalization of warfare
-department    5    his work established a new department of literature
-draw    4    the luck of the draw
-literature    11    one aspect of Waterloo has not yet been treated in the literature
-arousal    3    To influence the arousal of brain and behavior
-knuckleball    8    Even the pitcher does n't know where his knuckleball is going .
-month    4    he was given a month to pay the bill
-studio    1    His studio was cramped when he began as an artist .
-mainstream    6    his thinking was in the American mainstream
-kinship    2    anthropology 's kinship with the humanities
-gown    5    the relations between town and gown are always sensitive
-abatement    1    The abatement of a nuisance is the suppression thereof .
-breed    5    he experimented on a particular breed of white rats
-eccentricity    5    For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .
-breast    3    he beat his breast in anger
-property    5    he is a man of property
-button    3    Pat pushed the button marked " shred " on the blender .
-military    1    their military is the largest in the region
-maneuver    4    he made a great maneuver
-partnership    5    the action teams worked in partnership with the government
-oppression    3    the tyrant 's oppression of the people
-torrent    7    the houses were swept away in the torrent
-advantage    4    The enemy had the advantage of a more elevated position .
-tipper    2    a generous tipper
-snatch    2    Martin 's snatch at the bridle failed and the horse raced away
-strand    1    a strand of pearls
-horse    2    A clothes horse ;    a sawhorse
-crop    2    the annual crop of students brings a new crop of ideas
-part    5    the government must do its part
-relief    4    he has been on relief for many years
-criticism    4    the senator received severe criticism from his opponent
-string    1    a string of islands
-identity    2    A right identity , x * I = x for any x in the structure
-trailer    1    The trailer for that movie makes it seem like it would be fun .
-fuckup    6    You 've got to fire that fuckup .
-domesticity    4    making a hobby of domesticity
-facility    6    the assembly plant is an enormous facility
-conjecture    4    The physicist used his conjecture about subatomic particles to design an experiment .
-right    2    take a right at the corner
-footprint    5    the computer had a desktop footprint of 10 by 16 inches
-frame    2    A stocking frame ; a lace frame ; a spinning frame
-view    6    they look the same in outward view
-sequence    5    he played the trumps in sequence
-plenty    2    there was plenty of food for everyone
-promulgation    1    the promulgation was written in English
-exile    3    He lived in exile .
-success    1    his success in the marathon was unexpected
-peak    1    the peak of perfection
-problem    3    what 's the problem ?
-taste    11    to ask at that particular time was the ultimate in bad taste
-preparation    3    he left the preparation of meals to his wife
-gap    0    gap between income and outgo
-land    9    Maybe that 's how it works in TV - land , bu not in the real world .
-impregnation    1    the impregnation of wood with preservative
-distance    6    I could see it in the distance
-rush    7    the linebackers were ready to stop a rush
-death    5    the animal died a painful death
-sensation    4    the news caused a sensation
-load    3    that 's a load off my mind
-cross    4    a mule is a cross between a horse and a donkey
-scraping    4    all that bowing and scraping did not impress him
-apology    3    it was an apology for a meal
-beat    8    in the old days a policeman walked a beat and knew all his people by name
-accession    0    accession to such demands would set a dangerous precedent
-assurance    1    an assurance of help when needed
-vision    9    the runners emerged from the trees into his clear vision
-closure    3    they regretted the closure of the day care center
-dollar    4    he worships the almighty dollar
-twilight    9    I could just make out her face in the twilight .
-adhesion    1    the adhesion of Seville was decisive
-number    25    The word “ fifteen ” , the Arabic numeral “ 15 ” , and the Roman numeral “ XV ” are all numerals representing the number fifteen .
-god    3    he was a god among men
-experience    2    a surprising experience
-building    2    the entire building complained about the noise
-look    1    a look of triumph
-delight    5    the new car is a delight
-activity    1    catalytic activity
-construction    5    The engineer marvelled at his construction .
-power    5    He needed a lot of power to hit the ball out of the stadium .
-response    4    this situation developed in response to events in Africa
-drawing    1    the drawing of water from the well
-char    10    “ Among other native delicacies , they give you fresh char . ”
-shadiness    4    there 's too much shadiness to take good photographs
-nude    4    they swam in the nude
-detention    1    his detention was politically motivated
-parade    6    The floats and horses in the parade were impressive , but the marching bands were really amazing .
-portfolio    9    he remembered her because she was carrying a large portfolio
-kick    1    the kick must be synchronized with the arm movements
-passage    2    the outward passage took 10 days
-association    9    you can not be convicted of criminal guilt by association
-acquaintance    9    I know of the man ; but have no acquaintance with him .
-deliberation    3    it was the deliberation of his act that was insulting
-foundation    3    he lacks the foundation necessary for advanced study
-installation    8    he gave a speech as part of his installation into the hall of fame
-shtik    3    he 's a shtik crazy
-harbour    6    The city has an excellent natural harbour .
-nose    5    the hound has a good nose
-pencil    2    an eyebrow pencil
-commission    9    The real - estate broker charged a four percent commission for their knowledge on bidding for commercial properties ; for their intellectual perspective on making a formal offer and the strategy to obtain a mutually satisfying deal with the seller in favour of the buyer .
-denizen    5    The bald eagle is a denizen of the northern part of the state .
-base    9    he told the painter that he wanted a yellow base with just a hint of green
-growth    1    a growth of hair
-drought    10    when England defeated Pakistan it ended a ten - year drought
-joy    1    a joy to behold
-aliyah    2    students making aliyah
-capacity    2    limited runway capacity
-writing    0    writing was a form of therapy for him
-sound    5    the main body of the sound ran parallel to the coast
-easiness    2    the very easiness of the deed held her back
-painting    2    a small painting by Picasso
-go    3    it 's my go
-tilt    3    the court 's tilt toward conservative rulings
-youth    0    youth everywhere rises in revolt
-club    1    each club played six home games with teams in its own division
-board    2    room and board
-embodiment    1    the embodiment of hope
-crisis    6    they went bankrupt during the economic crisis
-muscle    4    the senators used their muscle to get the party leader to resign
-wish    3    he got his wish
-influence    4    he was a bad influence on the children
-stress    0    stress is a vasoconstrictor
-heritage    3    the world 's heritage of knowledge
-restraint    7    the room was simply decorated with great restraint
-pity    3    it 's a pity he could n't do it
-dissipation    1    the dissipation of the mist
-intellect    4    he has a keen intellect
-induction    6    he was ordered to report for induction into the army
-grip    8    in Britain they call a bobby pin a grip
-terror    2    he used terror to make them confess
-danger    13    " Two territorial questions .. unsettled .. each of which was a positive danger to the peace of Europe " ( Times , 5 Sept. 3/2 ) .
-association    7    conditioning is a form of learning by association
-blockage    3    There was a blockage in the sewer , so we called out the plumber .
-prohibition    5    they were restrained by a prohibition in their charter
-diet    1    The diet of the Giant Panda consists mainly of bamboo .
-fuzz    9    he tried to clear his head of the whisky fuzz
-scrap    7    the unhappy couple got into a terrible scrap
-snap    3    the infielder 's snap and throw was a single motion
-life    1    real life
-setting    2    a place setting of sterling flatware
-sophistication    5    he practiced the art of sophistication upon reason
-role    5    My neighbor was the lead role in last year 's village play .
-square    10    the carpenter who built this room must have lost his square
-shot    6    the nurse gave him a flu shot
-largeness    6    the might have repercussions of unimaginable largeness
-surface    10    it was not what it appeared to be on the surface
-agency    3    she has free agency
-hour    3    we live an hour from the airport
-agency    3    The superintendence and agency of Providence in the natural world . --Woodward .
-breed    4    Google represents a new breed of entrepreneurs
-tear    12    he took the manuscript in both hands and gave it a mighty tear
-hostility    5    he could not conceal his hostility
-middle    2    In the middle of the marathon , David collapsed from fatigue .
-activity    3    the level of activity declines with age
-hell    2    war is hell
-stab    3    he took a stab at forecasting
-cut    4    he played the first cut on the cd
-barrage    1    a barrage of questions
-breakdown    8    After so much stress , he suffered a breakdown and simply gave up .
-bottom    4    they started at the bottom of the hill
-affiliation    3    a valuable financial affiliation
-buzz    1    the buzz of excitement was so great that a formal denial was issued
-recognition    7    territorial disputes were resolved in Guatemala 's recognition of Belize in 1991
-fire    3    Clinton directed his fire at the Republican Party
-fiefdom    3    The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .
-flowage    4    rock fracture and rock flowage are different types of geological deformation
-closeness    2    the sudden closeness of the dock sent him into action
-patronage    6    The restaurant had an upper class patronage .
-attitude    10    The airliner had to land with a nose - up attitude after the incident .
-pull    4    it was a long pull but we made it
-section    10    the history of this work is discussed in the next section
-dish    4    they served me a dish of rice
-shape    6    geometry is the mathematical science of shape
-spin    5    the campaign put a favorable spin on the story
-strip    17    You use strips of paper in papier mache .     He welded together some pieces of strip .
-meeting    3    there was no meeting of minds
-tremor    3    She felt a tremor in her stomach before going on stage .
-acquisition    3    the child 's acquisition of language
-confusion    4    the army retreated in confusion
-stripe    3    businessmen of every stripe joined in opposition to the proposal
-check    8    as he called the role he put a check mark by each student 's name
-rise    6    they asked for a 10 % rise in rates
-toilet    4    he made his morning toilet and went to breakfast
-reappearance    1    the reappearance of Halley 's comet
-transfer    1    the transfer of the music from record to tape suppressed much of the background noise
-dig    7    they set up camp next to the dig
-profession    1    a profession of disagreement
-bang    3    he got a bang on the head
-exchange    4    they had a bitter exchange
-motivation    5    we did not understand his motivation
-bang    12    When he struck it with a hammer , there was a loud bang .
-care    5    he handled the vase with care
-break    2    Make a break for it
-help    3    there 's no help for it
-policy    9    you should have read the small print on your policy
-street    4    be careful crossing the street
-reinstatement    1    her reinstatement to her former office followed quickly
-pressure    2    he used pressure to stop the bleeding
-board    1    the board has seven members
-wake    7    there 's no weeping at an Irish wake
-tool    3    He was a tool , no more than a pawn to her .
-kid    0    kid gloves
-gem    3    he had the gem set in a ring for his wife
-can    6    Could you tell me where I can find the restroom ?
-mess    4    the house was a mess
-nut    7    He was driving his car like a nut .
-dinner    7    guests should never be late to a dinner party
-attack    4    he published an unexpected attack on my work
-ticket    6    this car could be just the ticket for a small family
-catch    1    the catch was only 10 fish
-totality    3    appalled by the totality of the destruction
-noise    15    He knew that it was trash day , when the garbage collectors made all the noise .
-smoothness    11    the weather system of the Pacific is determined by the uninterrupted smoothness of the ocean
-inadequacy    5    juvenile offenses often reflect an inadequacy in the parents
-probation    0    probation is part of the sentencing process
-delay    6    instant replay caused too long a delay
+portmanteau	8	` brunch ' is a well - known portmanteau
+fundus	1	the fundus of the stomach
+occurrence	4	a disease of frequent occurrence
+zero	10	In unary and k - adic notation in general , zero is the empty string .
+dexterity	9	She twirled the knife through her fingers with impressive dexterity .
+assumption	2	the Nazi assumption of power in 1934
+clime	4	plants from a cold clime travel best in winter
+defense	4	they died in the defense of Stalingrad
+potluck	4	Here 's a good potluck of beans and stew .
+adoxography	4	Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things
+peradventure	3	this proves beyond peradventure that he is innocent
+mark	4	he left an indelible mark on the American theater
+liberty	1	at liberty to choose whatever occupation one wishes
+making	1	the making of measurements
+manipulation	1	his manipulation of his friends was scandalous
+intention	1	The intention of this legislation is to boost the economy .
+brother	3	Thank you , brother . I would like to thank the brother who just spoke .
+socialization	1	Force socialization rarely creates strong friendships , but there are exceptions .
+dimple	4	The accident created a dimple in the hood of the car .
+conclusion	1	the conclusion of the peace treaty
+breeze	1	The breeze rustled the papers on her desk .
+middle	5	I woke up in the middle of the night .
+redefinition	7	words like ` conservative ' require periodic redefinition
+rail	4	he was concerned with rail safety
+hitter	2	a hard hitter
+ball	1	the ball at the base of the thumb
+fatigue	1	growing fatigue was apparent from the decline in the execution of their athletic skills
+herald	4	Rouge Dragon is a herald at the College of Arms .
+wish	4	it was his last wish
+aptness	1	The aptness of men to follow example
+cooperation	1	economic cooperation
+house	3	he counted the house
+sight	4	he was a familiar sight on the television
+gauntlet	3	threw down the gauntlet
+metadata	3	Most websites contain metadata to tell the computer how to lay the words out on the screen .
+bridge	6	her glasses left marks on the bridge of her nose
+abuse	1	All abuse , whether physical , verbal , psychological or sexual , is bad .
+brush	6	She gave her hair a quick brush .
+laugh	3	thanks for the laugh
+move	3	It 's your move ! Roll the dice !
+streak	1	a streak of wildness
+deed	3	he signed the deed
+escalation	4	higher wages caused an escalation of prices
+blend	5	` smog ' is a blend of ` smoke ' and ` fog '
+fight	1	a fight broke out at the hockey game
+license	2	the intolerable license with which the newspapers break ... the rules of decorum"- Edmund Burke
+bastion	2	the last bastion of communism
+bondage	5	he sought release from his bondage to Satan
+homogenization	1	the homogenization of cream
+plume	1	a plume of smoke
+work	7	the symphony was hailed as an ingenious work
+demon	3	she 's a demon at math
+bye	3	he had a bye in the first round
+affair	5	it is none of your affair
+capital	2	the drug capital of Columbia
+longevity	2	had unusual longevity in the company
+fuel	1	more fuel is needed during the winter months
+torture	7	In every war there are acts of torture that cause the world to shudder .
+grunt	3	he went from grunt to chairman in six years
+tradecraft	13	the CIA chief of station accepted responsibility for his agents ' failures of tradecraft
+squeaker	4	which hinge is the squeaker ?
+wrong	4	Injustice is a heinous wrong .
+protest	6	the senator rose to register his protest
+scopolamine	1	transdermal scopolamine is used to treat motion sickness
+bravura	3	in a final bravura the ballerina appeared to be floating in water
+nowhere	4	he came out of nowhere
+wise	2	in no wise
+sort	4	she served a creamy sort of dessert thing
+explanation	1	the explanation was very simple
+log	3	they kept a log of all transmission by the radio station
+gesture	2	a political gesture
+minister	1	The minister said a prayer on behalf of the entire congregation .
+pronunciation	4	that is the correct pronunciation
+revenge	4	Indifference is the sweetest revenge .
+minute	2	Wait a minute , I 'm not ready yet !
+pull	2	A zipper pull
+snorter	9	the storm was n't long but it was a snorter
+button	6	The politician wore a bright yellow button with the slogan " Vote Smart " emblazoned on it .
+probity	5	in a world where financial probity may not be widespread
+ash	4	The woods planted in ash will see a different mix of species .
+amount	1	the amount he had in cash was insufficient
+whimsy	0	whimsy can be humorous to someone with time to enjoy it
+nightlife	4	in the summer the nightlife shifts to the dance clubs
+precaution	10	he put an ice pack on the injury as a precaution
+refresher	5	The nap was a welcome refresher .
+invasion	1	an invasion of locusts
+mechanism	1	a mechanism of social control
+usage	1	English usage
+stream	3	he felt a stream of air
+preponderance	1	the preponderance of good over evil
+delta	2	the Nile delta
+recreation	1	for recreation he wrote poetry and solved crossword puzzles
+falsity	9	The belief that the world is flat is a falsity .
+collapse	1	the collapse of the old star under its own gravity
+gig	3	they played a gig in New Jersey
+poster	3	I saw a poster for it on the side of a bus .
+rank	7	the strike was supported by the union rank and file
+rehearsal	1	a rehearsal will be held the day before the wedding
+pay	3	he wasted his pay on drink
+continent	5	pioneers had to cross the continent on foot
+corner	5	he tripled to the rightfield corner
+home	11	Canadian tariffs enabled United States lumber companies to raise prices at home
+wateriness	1	the wateriness of his blood
+finish	8	my horse was several lengths behind at the finish
+urgency	7	they departed hurriedly because of some great urgency in their affairs
+curd	1	bean curd
+jockey	4	he 's a truck jockey
+cup	3	he put the cup back in the saucer
+wine	3	She ordered some wine for the meal .
+bane	1	The bane of my existence
+forwarding	1	the forwarding of resumes to the personnel department
+charge	3	the wrestler 's charge carried him past his adversary
+opinion	2	In my opinion , white chocolate is better than milk chocolate .
+remover	1	rust remover
+obstacle	5	lack of imagination is an obstacle to one 's advancement
+toast	2	All toasters toast toast .
+upgrade	6	the power plant received a new upgrade
+finger	14	Human hands have five fingers : the thumb , the forefinger ( or index finger ) , the middle finger , the ring finger and the little finger .
+daughter	13	I already have a son , so I would like to have a daughter .
+cognate	3	English is a cognate of Greek , German , Russian and Persian .
+adhocracy	8	the need for informational flexibility can lead to adhocracy
+glow	1	a glow of regret
+chore	4	Washing dishes is a chore , but we can not just stop eating .
+mince	1	a mince of mushrooms
+recrudescence	1	a recrudescence of racism
+excuse	5	That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?
+marriage	1	a marriage of ideas
+circumference	8	a danger to all races over the whole circumference of the globe
+straggle	1	a straggle of followers
+extension	7	the dancer was praised for her uncanny extension
+invasion	1	An invasion of bees
+body	2	the whole body filed out of the auditorium
+dignity	4	it was beneath his dignity to cheat
+mate	4	He 's my best mate .
+cuisine	7	The restaurant is noted for its excellent cuisine .
+dad	5	He had n't seen his dad in years .
+story	4	The book tells the story of two roommates .
+word	3	we had a word or two about it
+landing	5	the plane made a smooth landing
+shot	5	he trained at putting the shot
+piano	10	Most of the works by Frédéric Chopin are for the piano .
+average	3	he is about average in height
+chemistry	1	The chemistry of indigo
+allowance	2	my weekly allowance of two eggs
+effort	5	It took a lot of effort to find a decent - sized , fully - furnished apartment within walking distance of the office .     He made a conscious effort to not appear affected by the stories in the paper .
+contradistinction	2	sculpture in contradistinction to painting
+system	5	that language has a complex system for indicating gender
+subsidy	1	a subsidy for research in artificial intelligence
+instruction	2	Students receive instruction in the arts and sciences .
+save	7	the relief pitcher got credit for a save
+holiday	4	Today is a Wiccan holiday !
+suit	1	what suit is trumps ?
+border	6	the rug had a wide blue border
+group	3	There is a group of houses behind the hill ;    he left town to join a Communist group
+reverence	6	the French treat food with gentle reverence
+fondler	8	the woman charged that her jailer was a fondler
+succession	1	a succession of failures
+heartbeat	5	The policeman waited for a heartbeat in vain
+path	1	the path of virtue
+efficiency	1	The efficiency of the planning department is deplorable .
+show	1	a show of impatience
+sultriness	1	the sultriness of her look was unmistakable
+operation	4	they organized a rescue operation
+spade	4	she led a low spade
+reality	1	the reality of his situation slowly dawned on him
+distribution	2	worldwide in distribution
+officer	3	he is an officer of the court
+earshot	10	I 'll row out on the lake but stay within earshot .
+connection	8	The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .
+bourne	6	" For though from out our bourne of Time and Place , The flood may bear me far , I hope to see my Pilot face to faceWhen I have crossed the bar .
+militia	4	their troops were untrained militia
+canon	2	the neoclassical canon
+exhibition	4	There was an art exhibition on in the town hall .
+caller	4	- Who 's the caller ?
+professionalization	1	the professionalization of warfare
+department	5	his work established a new department of literature
+draw	4	the luck of the draw
+literature	11	one aspect of Waterloo has not yet been treated in the literature
+arousal	3	To influence the arousal of brain and behavior
+knuckleball	8	Even the pitcher does n't know where his knuckleball is going .
+month	4	he was given a month to pay the bill
+studio	1	His studio was cramped when he began as an artist .
+mainstream	6	his thinking was in the American mainstream
+kinship	2	anthropology 's kinship with the humanities
+gown	5	the relations between town and gown are always sensitive
+abatement	1	The abatement of a nuisance is the suppression thereof .
+breed	5	he experimented on a particular breed of white rats
+eccentricity	5	For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .
+breast	3	he beat his breast in anger
+property	5	he is a man of property
+button	3	Pat pushed the button marked " shred " on the blender .
+military	1	their military is the largest in the region
+maneuver	4	he made a great maneuver
+partnership	5	the action teams worked in partnership with the government
+oppression	3	the tyrant 's oppression of the people
+torrent	7	the houses were swept away in the torrent
+advantage	4	The enemy had the advantage of a more elevated position .
+tipper	2	a generous tipper
+snatch	2	Martin 's snatch at the bridle failed and the horse raced away
+strand	1	a strand of pearls
+horse	2	A clothes horse ;    a sawhorse
+crop	2	the annual crop of students brings a new crop of ideas
+part	5	the government must do its part
+relief	4	he has been on relief for many years
+criticism	4	the senator received severe criticism from his opponent
+string	1	a string of islands
+identity	2	A right identity , x * I = x for any x in the structure
+trailer	1	The trailer for that movie makes it seem like it would be fun .
+fuckup	6	You 've got to fire that fuckup .
+domesticity	4	making a hobby of domesticity
+facility	6	the assembly plant is an enormous facility
+conjecture	4	The physicist used his conjecture about subatomic particles to design an experiment .
+right	2	take a right at the corner
+footprint	5	the computer had a desktop footprint of 10 by 16 inches
+frame	2	A stocking frame ; a lace frame ; a spinning frame
+view	6	they look the same in outward view
+sequence	5	he played the trumps in sequence
+plenty	2	there was plenty of food for everyone
+promulgation	1	the promulgation was written in English
+exile	3	He lived in exile .
+success	1	his success in the marathon was unexpected
+peak	1	the peak of perfection
+problem	3	what 's the problem ?
+taste	11	to ask at that particular time was the ultimate in bad taste
+preparation	3	he left the preparation of meals to his wife
+gap	0	gap between income and outgo
+land	9	Maybe that 's how it works in TV - land , bu not in the real world .
+impregnation	1	the impregnation of wood with preservative
+distance	6	I could see it in the distance
+rush	7	the linebackers were ready to stop a rush
+death	5	the animal died a painful death
+sensation	4	the news caused a sensation
+load	3	that 's a load off my mind
+cross	4	a mule is a cross between a horse and a donkey
+scraping	4	all that bowing and scraping did not impress him
+apology	3	it was an apology for a meal
+beat	8	in the old days a policeman walked a beat and knew all his people by name
+accession	0	accession to such demands would set a dangerous precedent
+assurance	1	an assurance of help when needed
+vision	9	the runners emerged from the trees into his clear vision
+closure	3	they regretted the closure of the day care center
+dollar	4	he worships the almighty dollar
+twilight	9	I could just make out her face in the twilight .
+adhesion	1	the adhesion of Seville was decisive
+number	25	The word “ fifteen ” , the Arabic numeral “ 15 ” , and the Roman numeral “ XV ” are all numerals representing the number fifteen .
+god	3	he was a god among men
+experience	2	a surprising experience
+building	2	the entire building complained about the noise
+look	1	a look of triumph
+delight	5	the new car is a delight
+activity	1	catalytic activity
+construction	5	The engineer marvelled at his construction .
+power	5	He needed a lot of power to hit the ball out of the stadium .
+response	4	this situation developed in response to events in Africa
+drawing	1	the drawing of water from the well
+char	10	“ Among other native delicacies , they give you fresh char . ”
+shadiness	4	there 's too much shadiness to take good photographs
+nude	4	they swam in the nude
+detention	1	his detention was politically motivated
+parade	6	The floats and horses in the parade were impressive , but the marching bands were really amazing .
+portfolio	9	he remembered her because she was carrying a large portfolio
+kick	1	the kick must be synchronized with the arm movements
+passage	2	the outward passage took 10 days
+association	9	you can not be convicted of criminal guilt by association
+acquaintance	9	I know of the man ; but have no acquaintance with him .
+deliberation	3	it was the deliberation of his act that was insulting
+foundation	3	he lacks the foundation necessary for advanced study
+installation	8	he gave a speech as part of his installation into the hall of fame
+shtik	3	he 's a shtik crazy
+harbour	6	The city has an excellent natural harbour .
+nose	5	the hound has a good nose
+pencil	2	an eyebrow pencil
+commission	9	The real - estate broker charged a four percent commission for their knowledge on bidding for commercial properties ; for their intellectual perspective on making a formal offer and the strategy to obtain a mutually satisfying deal with the seller in favour of the buyer .
+denizen	5	The bald eagle is a denizen of the northern part of the state .
+base	9	he told the painter that he wanted a yellow base with just a hint of green
+growth	1	a growth of hair
+drought	10	when England defeated Pakistan it ended a ten - year drought
+joy	1	a joy to behold
+aliyah	2	students making aliyah
+capacity	2	limited runway capacity
+writing	0	writing was a form of therapy for him
+sound	5	the main body of the sound ran parallel to the coast
+easiness	2	the very easiness of the deed held her back
+painting	2	a small painting by Picasso
+go	3	it 's my go
+tilt	3	the court 's tilt toward conservative rulings
+youth	0	youth everywhere rises in revolt
+club	1	each club played six home games with teams in its own division
+board	2	room and board
+embodiment	1	the embodiment of hope
+crisis	6	they went bankrupt during the economic crisis
+muscle	4	the senators used their muscle to get the party leader to resign
+wish	3	he got his wish
+influence	4	he was a bad influence on the children
+stress	0	stress is a vasoconstrictor
+heritage	3	the world 's heritage of knowledge
+restraint	7	the room was simply decorated with great restraint
+pity	3	it 's a pity he could n't do it
+dissipation	1	the dissipation of the mist
+intellect	4	he has a keen intellect
+induction	6	he was ordered to report for induction into the army
+grip	8	in Britain they call a bobby pin a grip
+terror	2	he used terror to make them confess
+danger	13	" Two territorial questions .. unsettled .. each of which was a positive danger to the peace of Europe " ( Times , 5 Sept. 3/2 ) .
+association	7	conditioning is a form of learning by association
+blockage	3	There was a blockage in the sewer , so we called out the plumber .
+prohibition	5	they were restrained by a prohibition in their charter
+diet	1	The diet of the Giant Panda consists mainly of bamboo .
+fuzz	9	he tried to clear his head of the whisky fuzz
+scrap	7	the unhappy couple got into a terrible scrap
+snap	3	the infielder 's snap and throw was a single motion
+life	1	real life
+setting	2	a place setting of sterling flatware
+sophistication	5	he practiced the art of sophistication upon reason
+role	5	My neighbor was the lead role in last year 's village play .
+square	10	the carpenter who built this room must have lost his square
+shot	6	the nurse gave him a flu shot
+largeness	6	the might have repercussions of unimaginable largeness
+surface	10	it was not what it appeared to be on the surface
+agency	3	she has free agency
+hour	3	we live an hour from the airport
+agency	3	The superintendence and agency of Providence in the natural world . --Woodward .
+breed	4	Google represents a new breed of entrepreneurs
+tear	12	he took the manuscript in both hands and gave it a mighty tear
+hostility	5	he could not conceal his hostility
+middle	2	In the middle of the marathon , David collapsed from fatigue .
+activity	3	the level of activity declines with age
+hell	2	war is hell
+stab	3	he took a stab at forecasting
+cut	4	he played the first cut on the cd
+barrage	1	a barrage of questions
+breakdown	8	After so much stress , he suffered a breakdown and simply gave up .
+bottom	4	they started at the bottom of the hill
+affiliation	3	a valuable financial affiliation
+buzz	1	the buzz of excitement was so great that a formal denial was issued
+recognition	7	territorial disputes were resolved in Guatemala 's recognition of Belize in 1991
+fire	3	Clinton directed his fire at the Republican Party
+fiefdom	3	The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .
+flowage	4	rock fracture and rock flowage are different types of geological deformation
+closeness	2	the sudden closeness of the dock sent him into action
+patronage	6	The restaurant had an upper class patronage .
+attitude	10	The airliner had to land with a nose - up attitude after the incident .
+pull	4	it was a long pull but we made it
+section	10	the history of this work is discussed in the next section
+dish	4	they served me a dish of rice
+shape	6	geometry is the mathematical science of shape
+spin	5	the campaign put a favorable spin on the story
+strip	17	You use strips of paper in papier mache .     He welded together some pieces of strip .
+meeting	3	there was no meeting of minds
+tremor	3	She felt a tremor in her stomach before going on stage .
+acquisition	3	the child 's acquisition of language
+confusion	4	the army retreated in confusion
+stripe	3	businessmen of every stripe joined in opposition to the proposal
+check	8	as he called the role he put a check mark by each student 's name
+rise	6	they asked for a 10 % rise in rates
+toilet	4	he made his morning toilet and went to breakfast
+reappearance	1	the reappearance of Halley 's comet
+transfer	1	the transfer of the music from record to tape suppressed much of the background noise
+dig	7	they set up camp next to the dig
+profession	1	a profession of disagreement
+bang	3	he got a bang on the head
+exchange	4	they had a bitter exchange
+motivation	5	we did not understand his motivation
+bang	12	When he struck it with a hammer , there was a loud bang .
+care	5	he handled the vase with care
+break	2	Make a break for it
+help	3	there 's no help for it
+policy	9	you should have read the small print on your policy
+street	4	be careful crossing the street
+reinstatement	1	her reinstatement to her former office followed quickly
+pressure	2	he used pressure to stop the bleeding
+board	1	the board has seven members
+wake	7	there 's no weeping at an Irish wake
+tool	3	He was a tool , no more than a pawn to her .
+kid	0	kid gloves
+gem	3	he had the gem set in a ring for his wife
+can	6	Could you tell me where I can find the restroom ?
+mess	4	the house was a mess
+nut	7	He was driving his car like a nut .
+dinner	7	guests should never be late to a dinner party
+attack	4	he published an unexpected attack on my work
+ticket	6	this car could be just the ticket for a small family
+catch	1	the catch was only 10 fish
+totality	3	appalled by the totality of the destruction
+noise	15	He knew that it was trash day , when the garbage collectors made all the noise .
+smoothness	11	the weather system of the Pacific is determined by the uninterrupted smoothness of the ocean
+inadequacy	5	juvenile offenses often reflect an inadequacy in the parents
+probation	0	probation is part of the sentencing process
+delay	6	instant replay caused too long a delay
