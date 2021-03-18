@@ -6,7 +6,7 @@ from transformers import PreTrainedTokenizer
 
 
 class WiCTSVDatasetEncodingOptions(Enum):
-    CTX_DEF = '[CLS] context [SEP] definition [SEP]'
+    CTX_DEF = '[CLS] context [SEP] definition; hypernyms [SEP]'
 
 
 class WiCTSVDataset(torch.utils.data.Dataset):
@@ -30,6 +30,7 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         targets = [cxt.split(' ')[tgt_ind] for cxt, tgt_ind in zip(contexts, target_inds)]
         self.tgt_start_len = []
         self.descr_start_len = []
+        sense_ids_strs = []
         for cxt, tgt_ind, def_, hyps, tgt in zip(contexts, target_inds, definitions, hypernyms, targets):
             cxt_index_map, cxt_index_list = self._get_token_index_map_and_list(cxt, tokenizer)
 
@@ -37,12 +38,14 @@ class WiCTSVDataset(torch.utils.data.Dataset):
             target_len = len(cxt_index_map[tgt_ind])
             self.tgt_start_len.append((target_start_ind, target_len))
 
+            sense_identifiers_str = def_ + '; ' + ', '.join(hyps)
+            sense_ids_strs.append(sense_identifiers_str)
             descrs_start_ind = len(cxt_index_list) + len(['[CLS]', '[SEP]'])
-            descrs_len = len(tokenizer.tokenize(def_))
+            descrs_len = len(tokenizer.tokenize(sense_identifiers_str))
             self.descr_start_len.append((descrs_start_ind, descrs_len))
 
         if encoding_type == WiCTSVDatasetEncodingOptions.CTX_DEF:
-            tokenizer_input = [[context, definition] for context, definition in zip(contexts, definitions)]
+            tokenizer_input = [[context, sense_ids] for context, sense_ids in zip(contexts, sense_ids_strs)]
         # elif
         # tokenizer_input = [[context, def_and_hyp] for context, def_and_hyp in
         #                   zip(contexts, self._concatenate_definitions_and_hypernyms(definitions,
@@ -78,9 +81,9 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         return index_map, index_list
 
 
-    @staticmethod
-    def _concatenate_definitions_and_hypernyms(definitions, hypernyms, sep="; ", hypernym_sep=", "):
-        return [sep.join([d, hypernym_sep.join(h_list)]) for d, h_list in zip(definitions, hypernyms)]
+    # @staticmethod
+    # def _concatenate_definitions_and_hypernyms(definitions, hypernyms, sep="; ", hypernym_sep=", "):
+    #     return [sep.join([d, hypernym_sep.join(h_list)]) for d, h_list in zip(definitions, hypernyms)]
 
 
     @staticmethod

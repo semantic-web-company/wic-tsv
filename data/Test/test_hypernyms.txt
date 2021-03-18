@@ -1,67 +1,67 @@
-topographic_point    place    spot
-neurocognitive_disorder    confusion
-factory    mill    manufacturing_plant    manufactory
-neurocognitive_disorder    confusion
-neurocognitive_disorder    memory_disorder
-pneumonia    viral_pneumonia    coronavirus_infection
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+topographic_point	place	spot
+neurocognitive_disorder	confusion
+factory	mill	manufacturing_plant	manufactory
+neurocognitive_disorder	confusion
+neurocognitive_disorder	memory_disorder
+pneumonia	viral_pneumonia	coronavirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 prion_disease
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 fiction
-class    stratum    social_class    socio-economic_class
-juncture    occasion
-neurologic_manifestation    vestibular_disease
+class	stratum	social_class	socio-economic_class
+juncture	occasion
+neurologic_manifestation	vestibular_disease
 cocktail
-body_of_water    water
-trace    hint    suggestion
+body_of_water	water
+trace	hint	suggestion
 object_oriented_programming_language
-facility    installation
-neurocognitive_disorder    memory_disorder
-headache    head_ache    cephalalgia
+facility	installation
+neurocognitive_disorder	memory_disorder
+headache	head_ache	cephalalgia
 snack_food
 time_of_life
-liquid_body_substance    bodily_fluid    body_fluid    humor    humour
-rush    spate    surge    upsurge
-provision    supply    supplying
+liquid_body_substance	bodily_fluid	body_fluid	humor	humour
+rush	spate	surge	upsurge
+provision	supply	supplying
 cocktail
-change    alteration    modification
+change	alteration	modification
 prion_disease
 public_transport
 rank
-object    physical_object
+object	physical_object
 prion_disease
 cocktail
-key    keyboard_key
+key	keyboard_key
 cocktail
 attack
 surprise
 object_oriented_programming_language
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 crystal
 people
 prion_disease
 security
-neurocognitive_disorder    memory_disorder
-clothing    article_of_clothing    vesture    wear    wearable    habiliment
+neurocognitive_disorder	memory_disorder
+clothing	article_of_clothing	vesture	wear	wearable	habiliment
 cocktail
-neurocognitive_disorder    confusion
-examination    scrutiny
-person    individual    someone    somebody    mortal    soul
+neurocognitive_disorder	confusion
+examination	scrutiny
+person	individual	someone	somebody	mortal	soul
 cocktail
 activity
 presiding_officer
-reality    realness    realism
-neurocognitive_disorder    memory_disorder
-basal_ganglia    limbic_system
+reality	realness	realism
+neurocognitive_disorder	memory_disorder
+basal_ganglia	limbic_system
 control
-time_period    period_of_time    period
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+time_period	period_of_time	period
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 cocktail
-key    keyboard_key
-orderliness    methodicalness
-flow    flowing
+key	keyboard_key
+orderliness	methodicalness
+flow	flowing
 cocktail
-banishment    proscription
+banishment	proscription
 cocktail
 cocktail
 mathematical_operator
@@ -69,12 +69,12 @@ data_structure
 place
 marking
 cocktail
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 attainment
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 watering
 cocktail
-bad_temper    ill_temper
+bad_temper	ill_temper
 prion_disease
 data_structure
 cocktail
@@ -82,236 +82,236 @@ cocktail
 object_oriented_programming_language
 cocktail
 cocktail
-misfortune    bad_luck    tough_luck    ill_luck
+misfortune	bad_luck	tough_luck	ill_luck
 computer_program
 cocktail
 source_code_management_operation
-motto    slogan    catchword    shibboleth
-act    deed    human_action    human_activity
+motto	slogan	catchword	shibboleth
+act	deed	human_action	human_activity
 cocktail
-revision    alteration
-bettor    better    wagerer    punter
-playing_period    period_of_play    play
-buying    purchasing
-person    individual    someone    somebody    mortal    soul
+revision	alteration
+bettor	better	wagerer	punter
+playing_period	period_of_play	play
+buying	purchasing
+person	individual	someone	somebody	mortal	soul
 cocktail
 bedroom_furniture
 cocktail
 cocktail
-key    keyboard_key
+key	keyboard_key
 development
 data_structure
 cocktail
 cocktail
-operation    military_operation
-proceeding    legal_proceeding    proceedings
+operation	military_operation
+proceeding	legal_proceeding	proceedings
 computer_program
 primitive_data_type
 point
-neurologic_manifestation    vestibular_disease
-part    portion
+neurologic_manifestation	vestibular_disease
+part	portion
 people
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 cocktail
 influence
 primitive_data_type
 cocktail
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
 cocktail
 cocktail
 support
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-ending    conclusion    finish
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+ending	conclusion	finish
 activity
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 leader
-person    individual    someone    somebody    mortal    soul
+person	individual	someone	somebody	mortal	soul
 prion_disease
-fastener    fastening    holdfast    fixing
+fastener	fastening	holdfast	fixing
 prion_disease
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 cocktail
 visual_signal
-neurocognitive_disorder    memory_disorder
-uvea    anterior_eye_segment
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-qualification    making
+neurocognitive_disorder	memory_disorder
+uvea	anterior_eye_segment
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+qualification	making
 physiological_property
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 secretion
 consideration
-punishment    penalty    penalization    penalisation
+punishment	penalty	penalization	penalisation
 basic_cognitive_process
-hypothesis    possibility    theory
+hypothesis	possibility	theory
 cocktail
-debt_instrument    obligation    certificate_of_indebtedness
-decrease    diminution    reduction    step-down
-capability    capableness
-failure    loser    nonstarter    unsuccessful_person
+debt_instrument	obligation	certificate_of_indebtedness
+decrease	diminution	reduction	step-down
+capability	capableness
+failure	loser	nonstarter	unsuccessful_person
 edge
 public_transport
 cocktail
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 data_structure
-opportunity    chance
-part    portion    component_part    component    constituent
-uvea    anterior_eye_segment
+opportunity	chance
+part	portion	component_part	component	constituent
+uvea	anterior_eye_segment
 object_oriented_programming_language
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
-protective_covering    protective_cover    protection
-uvea    anterior_eye_segment
+protective_covering	protective_cover	protection
+uvea	anterior_eye_segment
 quality
-performance    public_presentation
+performance	public_presentation
 primitive_data_type
-standard    criterion    measure    touchstone
+standard	criterion	measure	touchstone
 complex_data_type
 source_code_management_operation
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 scene
-honor    honour    laurels
-neurologic_manifestation    vestibular_disease
+honor	honour	laurels
+neurologic_manifestation	vestibular_disease
 cocktail
 invulnerability
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 prion_disease
-hairdo    hairstyle    hair_style    coiffure    coif
-status    position
+hairdo	hairstyle	hair_style	coiffure	coif
+status	position
 primitive_data_type
-worktable    work_table
-description    verbal_description
-unpleasant_person    disagreeable_person
+worktable	work_table
+description	verbal_description
+unpleasant_person	disagreeable_person
 arrangement
-neurocognitive_disorder    confusion
-gun_emplacement    weapons_emplacement
-singer    vocalist    vocalizer    vocaliser
-broadcast    program    programme
-inhalation    inspiration    aspiration    intake    breathing_in
+neurocognitive_disorder	confusion
+gun_emplacement	weapons_emplacement
+singer	vocalist	vocalizer	vocaliser
+broadcast	program	programme
+inhalation	inspiration	aspiration	intake	breathing_in
 cocktail
 body
 adjective
 cocktail
 data_structure
 support
-past    past_times    yesteryear
+past	past_times	yesteryear
 actuality
-improvement    betterment    advance
-degree    grade    level
-action    activity    activeness
+improvement	betterment	advance
+degree	grade	level
+action	activity	activeness
 intensification
 complex_data_type
 cocktail
-telling    apprisal    notification
+telling	apprisal	notification
 primitive_data_type
 source_code_management_operation
 trait
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 object_oriented_programming_language
 object_oriented_programming_language
-defense    defence    defensive_measure
+defense	defence	defensive_measure
 good_person
-uvea    anterior_eye_segment
-vogue    trend    style
-pain    hurting
-person    individual    someone    somebody    mortal    soul
-buffoonery    clowning    japery    frivolity    harlequinade    prank
+uvea	anterior_eye_segment
+vogue	trend	style
+pain	hurting
+person	individual	someone	somebody	mortal	soul
+buffoonery	clowning	japery	frivolity	harlequinade	prank
 object_oriented_programming_language
 primitive_data_type
 mathematical_operator
-examination    scrutiny
+examination	scrutiny
 philosopher
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 cocktail
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 support
 atmospheric_phenomenon
 location
-quiescence    quiescency    dormancy    sleeping
+quiescence	quiescency	dormancy	sleeping
 truthfulness
 cocktail
 line
-pneumonia    viral_pneumonia    coronavirus_infection
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 trait
 floater
 change
-neurocognitive_disorder    confusion
-poker    poker_game
+neurocognitive_disorder	confusion
+poker	poker_game
 prion_disease
 cocktail
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 cocktail
 health_profession
 mathematical_operator
-key    keyboard_key
-basal_ganglia    limbic_system
-degree    level    stage    point
+key	keyboard_key
+basal_ganglia	limbic_system
+degree	level	stage	point
 principle
-television_station    TV_station
-pneumonia    viral_pneumonia    coronavirus_infection
-basal_ganglia    limbic_system
-neurologic_manifestation    vestibular_disease
+television_station	TV_station
+pneumonia	viral_pneumonia	coronavirus_infection
+basal_ganglia	limbic_system
+neurologic_manifestation	vestibular_disease
 cocktail
 crisis
 primitive_data_type
-remark    comment    input
-cry    outcry    call    yell    shout    vociferation
+remark	comment	input
+cry	outcry	call	yell	shout	vociferation
 cocktail
 computer_network
 data_structure
-retaliation    revenge
-time_interval    interval
-basal_ganglia    limbic_system
-interrogation    examination    interrogatory
+retaliation	revenge
+time_interval	interval
+basal_ganglia	limbic_system
+interrogation	examination	interrogatory
 cocktail
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 cocktail
 failure
 cocktail
-key    keyboard_key
+key	keyboard_key
 flank
 cocktail
-class    stratum    social_class    socio-economic_class
+class	stratum	social_class	socio-economic_class
 cocktail
-assertion    averment    asseveration
-neurocognitive_disorder    confusion
-resident    occupant    occupier
-inclination    disposition    tendency
+assertion	averment	asseveration
+neurocognitive_disorder	confusion
+resident	occupant	occupier
+inclination	disposition	tendency
 object_oriented_programming_language
-content    cognitive_content    mental_object
-key    keyboard_key
-social_station    social_status    social_rank    rank
-neurocognitive_disorder    memory_disorder
+content	cognitive_content	mental_object
+key	keyboard_key
+social_station	social_status	social_rank	rank
+neurocognitive_disorder	memory_disorder
 payment
-bottom    underside    undersurface
+bottom	underside	undersurface
 computer_program
 side
-respect    esteem    regard
-bench_warrant    arrest_warrant
-manner    personal_manner
-neurocognitive_disorder    confusion
-object    physical_object
+respect	esteem	regard
+bench_warrant	arrest_warrant
+manner	personal_manner
+neurocognitive_disorder	confusion
+object	physical_object
 source_code_management_operation
-condition    status
-pneumonia    viral_pneumonia    coronavirus_infection
+condition	status
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
 source_code_management_operation
 cocktail
-concept    conception    construct
-prayer    petition    orison
+concept	conception	construct
+prayer	petition	orison
 object_oriented_programming_language
-adult    grownup
+adult	grownup
 relative_quantity
-club    social_club    society    guild    gild    lodge    order
-comparison    comparing
+club	social_club	society	guild	gild	lodge	order
+comparison	comparing
 noise
 state
-act    deed    human_action    human_activity
+act	deed	human_action	human_activity
 cocktail
-diversion    recreation
-pneumonia    viral_pneumonia    coronavirus_infection
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+diversion	recreation
+pneumonia	viral_pneumonia	coronavirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 complex_data_type
 cocktail
 computer_program
@@ -321,173 +321,173 @@ pleading
 mathematical_operator
 cocktail
 cocktail
-knowledge_domain    knowledge_base    domain
-physical_condition    physiological_state    physiological_condition
-natural_process    natural_action    action    activity
+knowledge_domain	knowledge_base	domain
+physical_condition	physiological_state	physiological_condition
+natural_process	natural_action	action	activity
 color_property
 physical_property
-group    grouping
-common_fraction    simple_fraction
+group	grouping
+common_fraction	simple_fraction
 type
 space
 complex_data_type
 pair
 cocktail
 cocktail
-small_indefinite_quantity    small_indefinite_amount
+small_indefinite_quantity	small_indefinite_amount
 cocktail
 cocktail
 hypersomnia
 people
 object
-railway    railroad    railroad_line    railway_line    railway_system
+railway	railroad	railroad_line	railway_line	railway_system
 cocktail
 source_code_management_operation
-neurocognitive_disorder    confusion
-accomplishment    achievement
+neurocognitive_disorder	confusion
+accomplishment	achievement
 circumstance
 force
-clothing    article_of_clothing    vesture    wear    wearable    habiliment
+clothing	article_of_clothing	vesture	wear	wearable	habiliment
 social_relation
 freshness
-process    physical_process
-conference    group_discussion
+process	physical_process
+conference	group_discussion
 cocktail
-distorted_shape    distortion
-miscalculation    misreckoning    misestimation
+distorted_shape	distortion
+miscalculation	misreckoning	misestimation
 cocktail
-material    stuff
-suffering    hurt
-reference_point    point_of_reference    reference
-neurocognitive_disorder    confusion
+material	stuff
+suffering	hurt
+reference_point	point_of_reference	reference
+neurocognitive_disorder	confusion
 computer_program
 production
 aptitude
 self-propelled_vehicle
 protective_fold
-pregnancy    gestation    maternity
+pregnancy	gestation	maternity
 value
 cocktail
 cocktail
 mathematical_operator
 mathematical_operator
-adversity    hardship    hard_knocks
+adversity	hardship	hard_knocks
 statement
-countenance    visage
-status    position
+countenance	visage
+status	position
 data_structure
-smell    odor    odour    olfactory_sensation    olfactory_perception
+smell	odor	odour	olfactory_sensation	olfactory_perception
 source_code_management_operation
-path    route    itinerary
-sum    sum_of_money    amount    amount_of_money
+path	route	itinerary
+sum	sum_of_money	amount	amount_of_money
 object_oriented_programming_language
-printer    pressman
+printer	pressman
 complex_data_type
-uvea    anterior_eye_segment
-recognition    identification
-room    way    elbow_room
+uvea	anterior_eye_segment
+recognition	identification
+room	way	elbow_room
 magnitude
 distance
-group    grouping
-expressive_style    style
+group	grouping
+expressive_style	style
 object_oriented_programming_language
 activity
 data_structure
-political_unit    political_entity
-celestial_body    heavenly_body
+political_unit	political_entity
+celestial_body	heavenly_body
 cocktail
 ladle
 garment
-effusion    gush    outburst    blowup    ebullition
-neurologic_manifestation    vestibular_disease
+effusion	gush	outburst	blowup	ebullition
+neurologic_manifestation	vestibular_disease
 cocktail
-basal_ganglia    limbic_system
+basal_ganglia	limbic_system
 cocktail
 cocktail
-applause    hand_clapping    clapping
-purpose    intent    intention    aim    design
+applause	hand_clapping	clapping
+purpose	intent	intention	aim	design
 cocktail
 substance
-basal_ganglia    limbic_system
-uvea    anterior_eye_segment
+basal_ganglia	limbic_system
+uvea	anterior_eye_segment
 prion_disease
 relation
 hand_tool
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-jewelry    jewellery
-retention    keeping    holding
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+jewelry	jewellery
+retention	keeping	holding
 state
-common_fraction    simple_fraction
-neurologic_manifestation    vestibular_disease
+common_fraction	simple_fraction
+neurologic_manifestation	vestibular_disease
 anxiety
 ignorance
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 cocktail
 oppression
 cocktail
-key    keyboard_key
+key	keyboard_key
 magnitude
-communication    communicating
+communication	communicating
 cocktail
 cocktail
 cocktail
-power    powerfulness
-memory    remembering
-voter    elector
+power	powerfulness
+memory	remembering
+voter	elector
 flow
-curve    curved_shape
-content    cognitive_content    mental_object
-person    individual    someone    somebody    mortal    soul
-steering    guidance    direction
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+curve	curved_shape
+content	cognitive_content	mental_object
+person	individual	someone	somebody	mortal	soul
+steering	guidance	direction
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 social_control
-organization    organisation
-financial_institution    financial_organization    financial_organisation
+organization	organisation
+financial_institution	financial_organization	financial_organisation
 noise
 prion_disease
 cocktail
 cocktail
 cocktail
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 source_code_management_operation
-key    keyboard_key
+key	keyboard_key
 cocktail
 source_code_management_operation
 force
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 complex_data_type
-key    keyboard_key
+key	keyboard_key
 cocktail
-person    individual    someone    somebody    mortal    soul
+person	individual	someone	somebody	mortal	soul
 explanation
 cocktail
-key    keyboard_key
+key	keyboard_key
 cocktail
 cocktail
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 cocktail
 area
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 stick
-orderliness    order
+orderliness	order
 cocktail
 cocktail
 phenomenon
-building    edifice
-utterance    vocalization
+building	edifice
+utterance	vocalization
 external_body_part
-fixed_charge    fixed_cost    fixed_costs
+fixed_charge	fixed_cost	fixed_costs
 cocktail
 book
 complex_data_type
 cocktail
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 source_code_management_operation
 cocktail
 mathematical_operator
 drink
 cocktail
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 promotion
 case
 cocktail
@@ -497,182 +497,182 @@ cocktail
 point
 film
 computer_program
-uvea    anterior_eye_segment
-duct    epithelial_duct    canal    channel
+uvea	anterior_eye_segment
+duct	epithelial_duct	canal	channel
 cocktail
-basal_ganglia    limbic_system
-defectiveness    faultiness
+basal_ganglia	limbic_system
+defectiveness	faultiness
 prion_disease
 primitive_data_type
-humanistic_discipline    humanities    liberal_arts    arts
-neurocognitive_disorder    memory_disorder
+humanistic_discipline	humanities	liberal_arts	arts
+neurocognitive_disorder	memory_disorder
 institution
-opportunity    chance
-punishment    penalty    penalization    penalisation
+opportunity	chance
+punishment	penalty	penalization	penalisation
 object_oriented_programming_language
 prion_disease
 cocktail
-release    waiver    discharge
+release	waiver	discharge
 approval
 fastidiousness
-ancestry    lineage    derivation    filiation
-proceeding    legal_proceeding    proceedings
+ancestry	lineage	derivation	filiation
+proceeding	legal_proceeding	proceedings
 cocktail
-offspring    progeny    issue
+offspring	progeny	issue
 cocktail
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 source_code_management_operation
-student    pupil    educatee
-attraction    attractive_force
-writing    written_material    piece_of_writing
-travel    traveling    travelling
+student	pupil	educatee
+attraction	attractive_force
+writing	written_material	piece_of_writing
+travel	traveling	travelling
 interaction
 position
 high_status
 lover
 newness
 mathematical_operator
-opposition    oppositeness
+opposition	oppositeness
 fragment
-applicant    applier
-neurocognitive_disorder    memory_disorder
-announcement    promulgation
-basal_ganglia    limbic_system
-character    grapheme    graphic_symbol
-neurocognitive_disorder    memory_disorder
+applicant	applier
+neurocognitive_disorder	memory_disorder
+announcement	promulgation
+basal_ganglia	limbic_system
+character	grapheme	graphic_symbol
+neurocognitive_disorder	memory_disorder
 computer_program
 liking
 prion_disease
 mathematical_operator
-man    adult_male
+man	adult_male
 primitive_data_type
 utility
-person    individual    someone    somebody    mortal    soul
-weather    weather_condition    conditions    atmospheric_condition
+person	individual	someone	somebody	mortal	soul
+weather	weather_condition	conditions	atmospheric_condition
 hair
 trouble
-feature    characteristic
+feature	characteristic
 object_oriented_programming_language
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 cocktail
-tract    piece_of_land    piece_of_ground    parcel_of_land    parcel
+tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
 city_district
-condition    status
-resoluteness    firmness    firmness_of_purpose    resolve    resolution
+condition	status
+resoluteness	firmness	firmness_of_purpose	resolve	resolution
 property
 source_code_management_operation
-basal_ganglia    limbic_system
-intuition    hunch    suspicion
+basal_ganglia	limbic_system
+intuition	hunch	suspicion
 belief
 influence
-person    individual    someone    somebody    mortal    soul
-elite    elite_group
-pneumonia    viral_pneumonia    coronavirus_infection
-appointment    assignment    designation    naming
-status    position
+person	individual	someone	somebody	mortal	soul
+elite	elite_group
+pneumonia	viral_pneumonia	coronavirus_infection
+appointment	assignment	designation	naming
+status	position
 cocktail
-sin    sinning
-energy    free_energy
+sin	sinning
+energy	free_energy
 cocktail
-broadcast    program    programme
+broadcast	program	programme
 claim
 source_code_management_operation
-basal_ganglia    limbic_system
+basal_ganglia	limbic_system
 writing
-sexual_desire    eros    concupiscence    physical_attraction
-gathering    assemblage
-path    route    itinerary
-photograph    photo    exposure    picture    pic
-pneumonia    viral_pneumonia    coronavirus_infection
+sexual_desire	eros	concupiscence	physical_attraction
+gathering	assemblage
+path	route	itinerary
+photograph	photo	exposure	picture	pic
+pneumonia	viral_pneumonia	coronavirus_infection
 complex_data_type
 cocktail
-concoction    mixture    intermixture
-protective_covering    protective_cover    protection
-indication    indicant
+concoction	mixture	intermixture
+protective_covering	protective_cover	protection
+indication	indicant
 cocktail
 source_code_management_operation
-key    keyboard_key
+key	keyboard_key
 cocktail
 cocktail
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 time
-gonad    sex_gland
-neurologic_manifestation    vestibular_disease
+gonad	sex_gland
+neurologic_manifestation	vestibular_disease
 state
 cocktail
-uvea    anterior_eye_segment
-motion    movement    move    motility
-puff    drag    pull
+uvea	anterior_eye_segment
+motion	movement	move	motility
+puff	drag	pull
 cocktail
 primitive_data_type
-neurologic_manifestation    vestibular_disease
-incitement    incitation    provocation
+neurologic_manifestation	vestibular_disease
+incitement	incitation	provocation
 source_code_management_operation
 cocktail
 cocktail
 agent
-signal    signaling    sign
-group    grouping
-motion    movement    move    motility
+signal	signaling	sign
+group	grouping
+motion	movement	move	motility
 primitive_data_type
 sound
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-progress    progression    procession    advance    advancement    forward_motion    onward_motion
-glassware    glasswork
-exhalation    expiration    breathing_out
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-reaction    response
-uvea    anterior_eye_segment
-key    keyboard_key
-beginning    origin    root    rootage    source
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+progress	progression	procession	advance	advancement	forward_motion	onward_motion
+glassware	glasswork
+exhalation	expiration	breathing_out
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+reaction	response
+uvea	anterior_eye_segment
+key	keyboard_key
+beginning	origin	root	rootage	source
 cocktail
 cocktail
-tune    melody    air    strain    melodic_line    line    melodic_phrase
+tune	melody	air	strain	melodic_line	line	melodic_phrase
 cocktail
-content    cognitive_content    mental_object
+content	cognitive_content	mental_object
 limb
-tone    tone_of_voice
-progress    progression    procession    advance    advancement    forward_motion    onward_motion
+tone	tone_of_voice
+progress	progression	procession	advance	advancement	forward_motion	onward_motion
 object_oriented_programming_language
 music
 cocktail
-infectious_agent    infective_agent
+infectious_agent	infective_agent
 feeling
-recognizance    recognisance
+recognizance	recognisance
 relation
-neurocognitive_disorder    confusion
-repair    fix    fixing    fixture    mend    mending    reparation
+neurocognitive_disorder	confusion
+repair	fix	fixing	fixture	mend	mending	reparation
 cocktail
-neurologic_manifestation    vestibular_disease
-time_unit    unit_of_time
-neurocognitive_disorder    memory_disorder
-animal    animate_being    beast    brute    creature    fauna
-layer    bed
-merchandise    ware    product
+neurologic_manifestation	vestibular_disease
+time_unit	unit_of_time
+neurocognitive_disorder	memory_disorder
+animal	animate_being	beast	brute	creature	fauna
+layer	bed
+merchandise	ware	product
 word
 source_code_management_operation
 objection
-person    individual    someone    somebody    mortal    soul
-honor    honour    laurels
+person	individual	someone	somebody	mortal	soul
+honor	honour	laurels
 object_oriented_programming_language
 cocktail
 cocktail
-basal_ganglia    limbic_system
-indebtedness    liability    financial_obligation
-small_indefinite_quantity    small_indefinite_amount
-expressive_style    style
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-breathing    external_respiration    respiration    ventilation
+basal_ganglia	limbic_system
+indebtedness	liability	financial_obligation
+small_indefinite_quantity	small_indefinite_amount
+expressive_style	style
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+breathing	external_respiration	respiration	ventilation
 friend
-doctrine    philosophy    philosophical_system    school_of_thought    ism
-corrective    restorative
-wit    humor    humour    witticism    wittiness
+doctrine	philosophy	philosophical_system	school_of_thought	ism
+corrective	restorative
+wit	humor	humour	witticism	wittiness
 source_code_management_operation
 symbol
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 data_structure
-transferred_property    transferred_possession
-manner    mode    style    way    fashion
+transferred_property	transferred_possession
+manner	mode	style	way	fashion
 cocktail
 thing
 cocktail
@@ -680,455 +680,455 @@ primitive_data_type
 succession
 control
 complex_data_type
-basal_ganglia    limbic_system
+basal_ganglia	limbic_system
 cocktail
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 data_structure
 party
 control
-assurance    pledge
+assurance	pledge
 body_covering
-decision    determination    conclusion
+decision	determination	conclusion
 certainty
-pile    heap    mound    agglomerate    cumulation    cumulus
+pile	heap	mound	agglomerate	cumulation	cumulus
 cocktail
 cocktail
-written_communication    written_language    black_and_white
-condition    status
+written_communication	written_language	black_and_white
+condition	status
 cocktail
-basal_ganglia    limbic_system
-position    post    berth    office    spot    billet    place    situation
-simple_closed_curve    Jordan_curve
-neurocognitive_disorder    confusion
+basal_ganglia	limbic_system
+position	post	berth	office	spot	billet	place	situation
+simple_closed_curve	Jordan_curve
+neurocognitive_disorder	confusion
 cocktail
-popular_music    popular_music_genre
-degree    grade    level
-contest    competition
+popular_music	popular_music_genre
+degree	grade	level
+contest	competition
 number
 angular_unit
 representation
 cocktail
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 quality
-musical_composition    opus    composition    piece    piece_of_music
+musical_composition	opus	composition	piece	piece_of_music
 cocktail
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
 computer_program
 word
 operation
-attraction    attractive_force
+attraction	attractive_force
 belief
-key    keyboard_key
+key	keyboard_key
 data_structure
-organization    organisation
+organization	organisation
 complex_data_type
-young_person    youth    younker    spring_chicken
+young_person	youth	younker	spring_chicken
 cocktail
-gathering    assemblage
+gathering	assemblage
 cocktail
-maneuver    manoeuvre    tactical_maneuver    tactical_manoeuvre
+maneuver	manoeuvre	tactical_maneuver	tactical_manoeuvre
 mathematical_operator
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 complex_data_type
-degree    level    stage    point
-while    piece    spell    patch
+degree	level	stage	point
+while	piece	spell	patch
 data_structure
-engagement    participation    involvement    involution
+engagement	participation	involvement	involution
 mathematical_operator
-presentation    presentment    demonstration
+presentation	presentment	demonstration
 point
-micturition    urination
+micturition	urination
 cocktail
 playing_card
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 object_oriented_programming_language
-clock_time    time
-ending    conclusion    finish
+clock_time	time
+ending	conclusion	finish
 cocktail
-placement    location    locating    position    positioning    emplacement
+placement	location	locating	position	positioning	emplacement
 phenomenon
 pot
-distinctness    sharpness
-path    route    itinerary
+distinctness	sharpness
+path	route	itinerary
 domestic_pigeon
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 search
-entrance    entering    entry    ingress    incoming
-condition    status
-section    subdivision
-omission    skip
-basal_ganglia    limbic_system
+entrance	entering	entry	ingress	incoming
+condition	status
+section	subdivision
+omission	skip
+basal_ganglia	limbic_system
 cocktail
-uvea    anterior_eye_segment
-action    activity    activeness
-mix    mixture
+uvea	anterior_eye_segment
+action	activity	activeness
+mix	mixture
 cocktail
 cocktail
 mathematical_operator
-creativity    creativeness    creative_thinking
+creativity	creativeness	creative_thinking
 symbol
 elegance
-measure    quantity    amount
+measure	quantity	amount
 cocktail
 cocktail
 arrival
-place    property
-whole    unit
+place	property
+whole	unit
 race
 ideal
 region
-failing    weakness
+failing	weakness
 flock
 computer_program
-basal_ganglia    limbic_system
-sound    auditory_sensation
+basal_ganglia	limbic_system
+sound	auditory_sensation
 cocktail
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-motion    movement    move    motility
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+motion	movement	move	motility
 disposition
 cocktail
 primitive_data_type
-persuasion    suasion
-imagination    imaging    imagery    mental_imagery
+persuasion	suasion
+imagination	imaging	imagery	mental_imagery
 experience
 source_code_management_operation
 cocktail
 cocktail
-hindrance    hinderance    deterrent    impediment    balk    baulk    check    handicap
+hindrance	hinderance	deterrent	impediment	balk	baulk	check	handicap
 staff
-request    asking
-neurocognitive_disorder    memory_disorder
-play    frolic    romp    gambol    caper
+request	asking
+neurocognitive_disorder	memory_disorder
+play	frolic	romp	gambol	caper
 cocktail
 cocktail
 cocktail
-effusion    gush    outburst    blowup    ebullition
+effusion	gush	outburst	blowup	ebullition
 source_code_management_operation
 thoroughfare
-end    ending
+end	ending
 data_structure
 excellence
 cocktail
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 cocktail
-motivation    motive    need
-uvea    anterior_eye_segment
+motivation	motive	need
+uvea	anterior_eye_segment
 swine
 primitive_data_type
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 cocktail
 cocktail
 female_sibling
-intensity    intensiveness
-point    point_in_time
-thinking    thought    thought_process    cerebration    intellection    mentation
+intensity	intensiveness
+point	point_in_time
+thinking	thought	thought_process	cerebration	intellection	mentation
 cocktail
 game_equipment
-large_indefinite_quantity    large_indefinite_amount
-presentation    presentment    demonstration
-yard    grounds    curtilage
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-basal_ganglia    limbic_system
-gathering    assemblage
-body_of_water    water
-liquid_body_substance    bodily_fluid    body_fluid    humor    humour
-ingot    metal_bar    block_of_metal
-neurologic_manifestation    vestibular_disease
+large_indefinite_quantity	large_indefinite_amount
+presentation	presentment	demonstration
+yard	grounds	curtilage
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+basal_ganglia	limbic_system
+gathering	assemblage
+body_of_water	water
+liquid_body_substance	bodily_fluid	body_fluid	humor	humour
+ingot	metal_bar	block_of_metal
+neurologic_manifestation	vestibular_disease
 belief
 arithmetic_operation
-combination    combining    compounding
-ending    conclusion    finish
-journey    journeying
-remedy    curative    cure    therapeutic
-coach    four-in-hand    coach-and-four
-position    place
+combination	combining	compounding
+ending	conclusion	finish
+journey	journeying
+remedy	curative	cure	therapeutic
+coach	four-in-hand	coach-and-four
+position	place
 unenlightenment
-affair    occasion    social_occasion    function    social_function
-abnormality    abnormalcy
-highjacking    hijacking
+affair	occasion	social_occasion	function	social_function
+abnormality	abnormalcy
+highjacking	hijacking
 complex_data_type
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-reflex    reflex_response    reflex_action    instinctive_reflex    innate_reflex    inborn_reflex    unconditioned_reflex    physiological_reaction
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+reflex	reflex_response	reflex_action	instinctive_reflex	innate_reflex	inborn_reflex	unconditioned_reflex	physiological_reaction
 data_structure
 statement
 shame
-region    part
-loss    red_ink    red
-raw_material    staple
+region	part
+loss	red_ink	red
+raw_material	staple
 object_oriented_programming_language
-object    physical_object
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-uvea    anterior_eye_segment
-increase    increment
-act    deed    human_action    human_activity
+object	physical_object
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+uvea	anterior_eye_segment
+increase	increment
+act	deed	human_action	human_activity
 object_oriented_programming_language
 cocktail
 arithmetic_operation
 cocktail
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 primitive_data_type
-idea    thought
+idea	thought
 cocktail
-neurocognitive_disorder    memory_disorder
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+neurocognitive_disorder	memory_disorder
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 mathematical_operator
-tenure    term_of_office    incumbency
+tenure	term_of_office	incumbency
 social_process
-pneumonia    viral_pneumonia    coronavirus_infection
-basal_ganglia    limbic_system
-neurologic_manifestation    vestibular_disease
+pneumonia	viral_pneumonia	coronavirus_infection
+basal_ganglia	limbic_system
+neurologic_manifestation	vestibular_disease
 acceptance
 cocktail
-wealth    wealthiness
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+wealth	wealthiness
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 cocktail
-basal_ganglia    limbic_system
-fence    fencing
+basal_ganglia	limbic_system
+fence	fencing
 rate
-state_of_matter    state
+state_of_matter	state
 cocktail
 cause
-uvea    anterior_eye_segment
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+uvea	anterior_eye_segment
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 acquisition
-neurologic_manifestation    vestibular_disease
-intersection    crossroad    crossway    crossing    carrefour
-agreement    accord
-neurocognitive_disorder    confusion
-season    time_of_year
-time_period    period_of_time    period
-neurologic_manifestation    vestibular_disease
-pneumonia    viral_pneumonia    coronavirus_infection
-building    edifice
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+neurologic_manifestation	vestibular_disease
+intersection	crossroad	crossway	crossing	carrefour
+agreement	accord
+neurocognitive_disorder	confusion
+season	time_of_year
+time_period	period_of_time	period
+neurologic_manifestation	vestibular_disease
+pneumonia	viral_pneumonia	coronavirus_infection
+building	edifice
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 category
-complex_number    complex_quantity    imaginary_number    imaginary
+complex_number	complex_quantity	imaginary_number	imaginary
 musical_time
 mathematical_operator
 creating_from_raw_materials
 cocktail
 felony
 cocktail
-connection    connexion    connectedness
-neurologic_manifestation    vestibular_disease
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-pneumonia    viral_pneumonia    coronavirus_infection
-increase    step-up
-linguistic_process    language
-reason    ground
-key    keyboard_key
+connection	connexion	connectedness
+neurologic_manifestation	vestibular_disease
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
+increase	step-up
+linguistic_process	language
+reason	ground
+key	keyboard_key
 complex_data_type
 nature
-signal    signaling    sign
+signal	signaling	sign
 name
 cocktail
 prion_disease
 adjective
-act    deed    human_action    human_activity
-disrepute    discredit
+act	deed	human_action	human_activity
+disrepute	discredit
 cocktail
-good_health    healthiness
-pneumonia    viral_pneumonia    coronavirus_infection
-happening    occurrence    occurrent    natural_event
+good_health	healthiness
+pneumonia	viral_pneumonia	coronavirus_infection
+happening	occurrence	occurrent	natural_event
 source_code_management_operation
-progress    progression    procession    advance    advancement    forward_motion    onward_motion
-metallic_element    metal
+progress	progression	procession	advance	advancement	forward_motion	onward_motion
+metallic_element	metal
 cocktail
-neurocognitive_disorder    memory_disorder
-union    unification
-elasticity    snap
-basal_ganglia    limbic_system
-extramarital_sex    free_love
+neurocognitive_disorder	memory_disorder
+union	unification
+elasticity	snap
+basal_ganglia	limbic_system
+extramarital_sex	free_love
 cocktail
-questioning    inquiring
+questioning	inquiring
 acquisition
-neurocognitive_disorder    confusion
-code    computer_code
+neurocognitive_disorder	confusion
+code	computer_code
 physical_property
-proceeding    legal_proceeding    proceedings
-key    keyboard_key
+proceeding	legal_proceeding	proceedings
+key	keyboard_key
 prion_disease
 data_structure
 cocktail
-concealment    concealing    hiding
-rescue    deliverance    delivery    saving
+concealment	concealing	hiding
+rescue	deliverance	delivery	saving
 cocktail
 object_oriented_programming_language
 cocktail
 primitive_data_type
-status    position
-rotation    rotary_motion
-neurologic_manifestation    vestibular_disease
-countenance    visage
-physical_condition    physiological_state    physiological_condition
+status	position
+rotation	rotary_motion
+neurologic_manifestation	vestibular_disease
+countenance	visage
+physical_condition	physiological_state	physiological_condition
 restraint
-speed    speeding    hurrying
-neurocognitive_disorder    memory_disorder
-acquiring    getting
-weather    weather_condition    conditions    atmospheric_condition
-journey    journeying
-banishment    proscription
+speed	speeding	hurrying
+neurocognitive_disorder	memory_disorder
+acquiring	getting
+weather	weather_condition	conditions	atmospheric_condition
+journey	journeying
+banishment	proscription
 room
 negative_stimulus
-basal_ganglia    limbic_system
+basal_ganglia	limbic_system
 throw
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 primitive_data_type
 cocktail
-contrivance    stratagem    dodge
-pneumonia    viral_pneumonia    coronavirus_infection
+contrivance	stratagem	dodge
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
-vessel    watercraft
-consequence    effect    outcome    result    event    issue    upshot
+vessel	watercraft
+consequence	effect	outcome	result	event	issue	upshot
 cocktail
-cereal    cereal_grass
+cereal	cereal_grass
 timing
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 lineman
-understanding    apprehension    discernment    savvy
+understanding	apprehension	discernment	savvy
 mathematical_operator
-paperback_book    paper-back_book    paperback    softback_book    softback    soft-cover_book    soft-cover
+paperback_book	paper-back_book	paperback	softback_book	softback	soft-cover_book	soft-cover
 cocktail
 therapy
-sexual_desire    eros    concupiscence    physical_attraction
-neurocognitive_disorder    memory_disorder
-administrative_unit    administrative_body
+sexual_desire	eros	concupiscence	physical_attraction
+neurocognitive_disorder	memory_disorder
+administrative_unit	administrative_body
 prion_disease
-faculty    mental_faculty    module
+faculty	mental_faculty	module
 primitive_data_type
-chemical    chemical_substance
+chemical	chemical_substance
 consciousness
 spot
-pneumonia    viral_pneumonia    coronavirus_infection
-custom    usage    usance
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
+custom	usage	usance
+pneumonia	viral_pneumonia	coronavirus_infection
 magnitude
 cocktail
 data_structure
 cocktail
-building    edifice
-disposition    temperament
+building	edifice
+disposition	temperament
 size
 cocktail
 visual_communication
 shortening
 cocktail
 cocktail
-approach    approaching    coming
-prevention    bar
+approach	approaching	coming
+prevention	bar
 data_structure
 cocktail
-process    physical_process
+process	physical_process
 production
 consumer_goods
 relation
 area
 prion_disease
 time
-center    centre    midpoint
+center	centre	midpoint
 magnitude
-rotation    revolution    gyration
-uvea    anterior_eye_segment
+rotation	revolution	gyration
+uvea	anterior_eye_segment
 animal_group
 quality
-dessert    sweet    afters
+dessert	sweet	afters
 temperature
-text    textual_matter
+text	textual_matter
 cocktail
 convenience_food
-person    individual    someone    somebody    mortal    soul
+person	individual	someone	somebody	mortal	soul
 cocktail
 cocktail
-person    individual    someone    somebody    mortal    soul
+person	individual	someone	somebody	mortal	soul
 dish
-consequence    effect    outcome    result    event    issue    upshot
+consequence	effect	outcome	result	event	issue	upshot
 cocktail
 blow
-gathering    assemblage
+gathering	assemblage
 mark
-position    spatial_relation
+position	spatial_relation
 enclosure
 cocktail
-aid    assist    assistance    help
+aid	assist	assistance	help
 cocktail
 activity
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
-greeting    salutation
-neurocognitive_disorder    confusion
-guardianship    keeping    safekeeping
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
+greeting	salutation
+neurocognitive_disorder	confusion
+guardianship	keeping	safekeeping
 cocktail
 mathematical_operator
 implement
 cocktail
 cocktail
-uvea    anterior_eye_segment
-negligence    carelessness    neglect    nonperformance
+uvea	anterior_eye_segment
+negligence	carelessness	neglect	nonperformance
 expanse
 computer_program
-means    agency    way
-code_of_conduct    code_of_behavior
-freak    monster    monstrosity    lusus_naturae
-pneumonia    viral_pneumonia    coronavirus_infection
-murder    slaying    execution
-gear    gear_mechanism
+means	agency	way
+code_of_conduct	code_of_behavior
+freak	monster	monstrosity	lusus_naturae
+pneumonia	viral_pneumonia	coronavirus_infection
+murder	slaying	execution
+gear	gear_mechanism
 cocktail
 cocktail
 wheeled_vehicle
-key    keyboard_key
+key	keyboard_key
 economic_process
-pneumonia    viral_pneumonia    coronavirus_infection
+pneumonia	viral_pneumonia	coronavirus_infection
 cocktail
-transferred_property    transferred_possession
+transferred_property	transferred_possession
 action
 acoustic_phenomenon
-locomotion    travel
-uvea    anterior_eye_segment
-cognitive_state    state_of_mind
+locomotion	travel
+uvea	anterior_eye_segment
+cognitive_state	state_of_mind
 sound_property
-anxiety    anxiousness
+anxiety	anxiousness
 cocktail
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 prion_disease
-neurocognitive_disorder    memory_disorder
-neurologic_manifestation    vestibular_disease
+neurocognitive_disorder	memory_disorder
+neurologic_manifestation	vestibular_disease
 complex_data_type
-happening    occurrence    occurrent    natural_event
+happening	occurrence	occurrent	natural_event
 condition
-uvea    anterior_eye_segment
+uvea	anterior_eye_segment
 complex_data_type
-shame    disgrace    ignominy
+shame	disgrace	ignominy
 cocktail
-group    grouping
+group	grouping
 cocktail
 medium
-salience    saliency    strikingness
+salience	saliency	strikingness
 contentment
 cocktail
 mathematical_operator
-outgo    spending    expenditure    outlay
+outgo	spending	expenditure	outlay
 noise
 bovine
-largeness    bigness
+largeness	bigness
 agreement
 lever
 communication
 complex_data_type
-share    portion    part    percentage
+share	portion	part	percentage
 cocktail
-child    kid    youngster    minor    shaver    nipper    small_fry    tiddler    tike    tyke    fry    nestling
+child	kid	youngster	minor	shaver	nipper	small_fry	tiddler	tike	tyke	fry	nestling
 sound
 excavation
-annoyance    bother    botheration    pain    infliction    pain_in_the_neck    pain_in_the_ass
-burning    combustion
-means    agency    way
+annoyance	bother	botheration	pain	infliction	pain_in_the_neck	pain_in_the_ass
+burning	combustion
+means	agency	way
 cocktail
 cocktail
-neurologic_manifestation    vestibular_disease
-basal_ganglia    limbic_system
-key    keyboard_key
+neurologic_manifestation	vestibular_disease
+basal_ganglia	limbic_system
+key	keyboard_key
 proximity
-cereal    cereal_grass
+cereal	cereal_grass
 primitive_data_type
 debt
 prion_disease
@@ -1137,18 +1137,18 @@ data_structure
 sound_property
 cocktail
 cocktail
-responsibility    responsibleness
-group    grouping
+responsibility	responsibleness
+group	grouping
 cocktail
-exclamation    exclaiming
-blow    bump
+exclamation	exclaiming
+blow	bump
 mathematical_operator
 computer_program
-maneuver    manoeuvre    tactical_maneuver    tactical_manoeuvre
+maneuver	manoeuvre	tactical_maneuver	tactical_manoeuvre
 stupidity
-polynomial    multinomial
+polynomial	multinomial
 work
-basal_ganglia    limbic_system
+basal_ganglia	limbic_system
 relation
 line
 force
@@ -1156,151 +1156,151 @@ actuality
 cocktail
 cocktail
 voice
-basal_ganglia    limbic_system
-key    keyboard_key
+basal_ganglia	limbic_system
+key	keyboard_key
 complex_data_type
 object_oriented_programming_language
 rank
-material    stuff
+material	stuff
 cocktail
-consequence    effect    outcome    result    event    issue    upshot
+consequence	effect	outcome	result	event	issue	upshot
 cocktail
-helping    portion    serving
+helping	portion	serving
 statement
 cocktail
-protective_covering    protective_cover    protection
-neurologic_manifestation    vestibular_disease
-woman    adult_female
+protective_covering	protective_cover	protection
+neurologic_manifestation	vestibular_disease
+woman	adult_female
 computer_program
 complex_data_type
 source_code_management_operation
 cocktail
-conserve    preserve    conserves    preserves
-pain    hurting
+conserve	preserve	conserves	preserves
+pain	hurting
 cocktail
-consequence    aftermath
+consequence	aftermath
 cocktail
 cocktail
-neurocognitive_disorder    confusion
-neurocognitive_disorder    confusion
-small_indefinite_quantity    small_indefinite_amount
+neurocognitive_disorder	confusion
+neurocognitive_disorder	confusion
+small_indefinite_quantity	small_indefinite_amount
 computer_program
-program    programme    computer_program    computer_programme
-small_indefinite_quantity    small_indefinite_amount
-disputant    controversialist    eristic
-process    physical_process
+program	programme	computer_program	computer_programme
+small_indefinite_quantity	small_indefinite_amount
+disputant	controversialist	eristic
+process	physical_process
 emotion
 cocktail
 cocktail
-elder    senior
+elder	senior
 source_code_management_operation
-basal_ganglia    limbic_system
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+basal_ganglia	limbic_system
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 object_oriented_programming_language
-neurologic_manifestation    vestibular_disease
+neurologic_manifestation	vestibular_disease
 object_oriented_programming_language
-treaty    pact    accord
+treaty	pact	accord
 cocktail
 computer_program
 influence
 computer_program
 football_play
-management    direction
+management	direction
 cocktail
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 cocktail
 physical_entity
-pain    hurting
+pain	hurting
 primitive_data_type
-brace    bracing
+brace	bracing
 sound
-protective_covering    protective_cover    protection
-flavivirus_infection    hemorrhagic_fever    viral_hemorrhagic_fever    arbovirus_infection
+protective_covering	protective_cover	protection
+flavivirus_infection	hemorrhagic_fever	viral_hemorrhagic_fever	arbovirus_infection
 utility
 computer_program
-geographical_area    geographic_area    geographical_region    geographic_region
-natural_process    natural_action    action    activity
-position    post    berth    office    spot    billet    place    situation
+geographical_area	geographic_area	geographical_region	geographic_region
+natural_process	natural_action	action	activity
+position	post	berth	office	spot	billet	place	situation
 combination
 cocktail
-legal_document    legal_instrument    official_document    instrument
-neurocognitive_disorder    confusion
+legal_document	legal_instrument	official_document	instrument
+neurocognitive_disorder	confusion
 cocktail
-progress    progression    procession    advance    advancement    forward_motion    onward_motion
+progress	progression	procession	advance	advancement	forward_motion	onward_motion
 computer_program
 cocktail
-accretion    accumulation
+accretion	accumulation
 source_code_management_operation
 follower
 stir
-gear    gear_mechanism
-neurocognitive_disorder    memory_disorder
-basal_ganglia    limbic_system
-natural_depression    depression
-basal_ganglia    limbic_system
+gear	gear_mechanism
+neurocognitive_disorder	memory_disorder
+basal_ganglia	limbic_system
+natural_depression	depression
+basal_ganglia	limbic_system
 cocktail
 complex_data_type
 complex_data_type
-addition    add-on    improver
+addition	add-on	improver
 computer_program
 cocktail
-cigarette    cigaret    coffin_nail    butt    fag
+cigarette	cigaret	coffin_nail	butt	fag
 brick
 voice
-transgression    evildoing
+transgression	evildoing
 concern
 object_oriented_programming_language
-neurocognitive_disorder    memory_disorder
+neurocognitive_disorder	memory_disorder
 mathematical_operator
-lumber    timber
+lumber	timber
 cocktail
 value
-neurocognitive_disorder    confusion
+neurocognitive_disorder	confusion
 capitalist
 cocktail
 cocktail
-somesthesia    somaesthesia    somatesthesia    somatic_sensation
-accomplishment    achievement
+somesthesia	somaesthesia	somatesthesia	somatic_sensation
+accomplishment	achievement
 data_structure
 event
-neurocognitive_disorder    memory_disorder
-maneuver    manoeuvre    tactical_maneuver    tactical_manoeuvre
-neurocognitive_disorder    confusion
+neurocognitive_disorder	memory_disorder
+maneuver	manoeuvre	tactical_maneuver	tactical_manoeuvre
+neurocognitive_disorder	confusion
 social_control
 computer_program
 representative
-spot    speckle    dapple    patch    fleck    maculation
-outside    exterior
+spot	speckle	dapple	patch	fleck	maculation
+outside	exterior
 complex_data_type
 hallucination
 prion_disease
 state
-interest    stake
-organism    being
-key    keyboard_key
-pneumonia    viral_pneumonia    coronavirus_infection
-departure    going    going_away    leaving
+interest	stake
+organism	being
+key	keyboard_key
+pneumonia	viral_pneumonia	coronavirus_infection
+departure	going	going_away	leaving
 prion_disease
 computer_program
-prosody    inflection
+prosody	inflection
 cocktail
-stream    watercourse
+stream	watercourse
 data_structure
 cocktail
-nutriment    nourishment    nutrition    sustenance    aliment    alimentation    victuals
-attention    attending
-journey    journeying
-committedness    commitment
-collection    aggregation    accumulation    assemblage
+nutriment	nourishment	nutrition	sustenance	aliment	alimentation	victuals
+attention	attending
+journey	journeying
+committedness	commitment
+collection	aggregation	accumulation	assemblage
 prion_disease
-key    keyboard_key
+key	keyboard_key
 difficulty
 cocktail
 quality
 sound
-measure    step
+measure	step
 appearance
 location
-unit    social_unit
+unit	social_unit
 string
 computer_program
