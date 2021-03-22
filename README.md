@@ -23,12 +23,19 @@ evaluation and to get the final scores from the predictions.
 ### Cite
 
 ```
-@misc{breit2021wictsv,
-      title={WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context}, 
-      author={Anna Breit and Artem Revenko and Kiamehr Rezaee and Mohammad Taher Pilehvar and Jose Camacho-Collados},
-      year={2021},
-      eprint={2004.15016},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@ARTICLE{breit2021wictsv,
+       author = {{Breit}, Anna and {Revenko}, Artem and {Rezaee}, Kiamehr and {Taher Pilehvar}, Mohammad and {Camacho-Collados}, Jose},
+        title = "{WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computation and Language},
+         year = 2020,
+        month = apr,
+          eid = {arXiv:2004.15016},
+        pages = {arXiv:2004.15016},
+archivePrefix = {arXiv},
+       eprint = {2004.15016},
+ primaryClass = {cs.CL},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv200415016B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
