@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from model_evaluation.data_processors import read_wic_tsv_test
+from model_evaluation.data_processors import read_wic_tsv
 from model_evaluation.wictsv_dataset import WiCTSVDataset
 
 base_path = Path(__file__).parent.parent / 'data'
@@ -10,7 +10,7 @@ wic_tsv_test = base_path / 'Test'
 
 if __name__ == "__main__":
     for data_path, ds_type in [(wic_tsv_train, 'train'), (wic_tsv_dev, 'dev'), (wic_tsv_test, 'test')]:
-        data = read_wic_tsv_test(data_path)
+        data = read_wic_tsv(data_path)
         contexts, target_inds, hypernyms, definitions, labels = data
         single_data = zip(labels, contexts, definitions)
         with open(base_path / f'{ds_type}_gloss.csv', 'w') as f:

@@ -117,7 +117,7 @@ body	3	they found the body in the lake
 transcript	4	you can obtain a transcript of this radio program by sending a self - addressed envelope to the station
 scale	7	The Holocaust was insanity on an enormous scale .
 shade	8	his brother 's success left him in the shade
-end	2	At the end of the road , turn left .  At the end of the story , the main characters fall in love .
+end	2	At the end of the road , turn left . At the end of the story , the main characters fall in love .
 congregation	1	a congregation of children pleaded for his autograph
 lunchtime	3	It 's almost lunchtime , so I think I 'll finish up later this afternoon .
 foot	1	the foot of the list
@@ -386,7 +386,7 @@ hand	2	a ranch hand
 day	7	he was a successful pianist in his day
 sense	1	a sense of danger
 due	3	Give him his due — he is a good actor .
-sentence	5	The judge leniently granted a sentence with no hard time .  He is not living at home because he is doing time .
+sentence	5	The judge leniently granted a sentence with no hard time . He is not living at home because he is doing time .
 appearance	4	David Beckham 's first appearance with the LA Galaxy at Giants Stadium against the New York Red Bulls last night drew a crowd of 66237 .
 edge	1	the edge of the leaf is wavy
 wallah	2	the book wallah
@@ -441,7 +441,7 @@ snorter	6	The maths problem is a real snorter , is n't it ?
 score	2	the winning score came with less than a minute left to play
 silence	4	there was a shocked silence
 way	3	that 's the way it is
-concern	6	Mark 's health was of great concern to Connie .  The recent events in London are of no concern to most people in Australia .
+concern	6	Mark 's health was of great concern to Connie . The recent events in London are of no concern to most people in Australia .
 one	3	this is the one I ordered
 chain	1	the chain of command
 rate	5	he works at a great rate
@@ -452,7 +452,7 @@ business	5	he bought his brother 's business
 truth	4	the lawyer questioned the truth of my account
 stretch	3	he did a stretch in the federal penitentiary
 area	3	it was his area of specialization
-condition	4	Hypnosis is a peculiar condition of the nervous system .  Steps were taken to ameliorate the condition of slavery .  Security is defined as the condition of not being threatened .  Aging is a condition over which we are powerless .
+condition	4	Hypnosis is a peculiar condition of the nervous system . Steps were taken to ameliorate the condition of slavery . Security is defined as the condition of not being threatened . Aging is a condition over which we are powerless .
 statement	4	a Cadillac makes a statement about who you are
 position	1	what position does he play ?
 war	1	a war of wits
@@ -568,7 +568,7 @@ smoke	5	his dreams all turned to smoke
 copy	4	the clone was a copy of its ancestor
 luck	1	bad luck caused his downfall
 stay	4	they had a nice stay in Paris
-principle	2	Bernoulli 's principle ;  The http://en.wikipedia.org/wiki/Pauli_exclusion_principle Pauli Exclusion Principle prevents two fermions from occupying the same state .  The principle of the internal combustion engine
+principle	2	Bernoulli 's principle ; The http://en.wikipedia.org/wiki/Pauli_exclusion_principle Pauli Exclusion Principle prevents two fermions from occupying the same state . The principle of the internal combustion engine
 grain	1	A grain of sand
 likelihood	2	In all likelihood the meeting will be cancelled .
 life	4	He gave up on life .
@@ -1095,7 +1095,7 @@ finish	6	it was a fight to the finish
 street	3	Walk down the street .
 hold	4	she kept a firm hold on the railing
 action	9	gawkers always try to get as close to the action as possible
-bit	6	I 'll be there in a bit ; I need to take care of something first .  He was here just a bit ago , but it looks like he 's stepped out .
+bit	6	I 'll be there in a bit ; I need to take care of something first . He was here just a bit ago , but it looks like he 's stepped out .
 shopping	3	she loaded her shopping into the car"women carrying home shopping did n't give me a second glance
 tendency	1	a tendency to be too strict
 light	2	Put that light out !
@@ -1105,7 +1105,7 @@ company	6	a hook - and - ladder company
 night	4	it vanished into the night
 stay	3	a lengthy hospital stay
 tension	3	there is a tension between these approaches to understanding history
-time	9	The judge leniently granted a sentence with no hard time .  He is not living at home because he is doing time .
+time	9	The judge leniently granted a sentence with no hard time . He is not living at home because he is doing time .
 hegemony	12	to say they have priority is not to say they have complete hegemony
 throat	1	the throat of a chimney
 application	1	the application of indexes to tables of data
@@ -1360,7 +1360,7 @@ thing	6	I could n't tell what the thing was
 shag	4	the dog 's woolly shag
 shower	8	Would male strippers be appropriate for the divorce shower ?
 figure	1	a figure of $ 17 was suggested
-time	11	Time stops for nobody .  the ebb and flow of time
+time	10	Time stops for nobody . the ebb and flow of time
 history	1	a history of France
 head	1	the head of the whole operation
 life	5	the battery had a short life
