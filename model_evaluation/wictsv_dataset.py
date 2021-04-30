@@ -20,7 +20,10 @@ class WiCTSVDataset(torch.utils.data.Dataset):
                  focus_token=None,
                  encoding_type=WiCTSVDatasetEncodingOptions.CTX_DEF):
         self.len = len(contexts)
-        self.labels = labels
+        if labels is not None:
+            self.labels = torch.tensor(labels, dtype=torch.float)
+        else:
+            self.labels = None
         self.tokenizer = tokenizer
         if focus_token is not None:
             contexts, target_inds = self.mark_target_in_context(contexts=contexts,

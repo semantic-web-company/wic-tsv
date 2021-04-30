@@ -142,7 +142,7 @@ piano	10	Most of the works by Frédéric Chopin are for the piano .
 average	3	he is about average in height
 chemistry	1	The chemistry of indigo
 allowance	2	my weekly allowance of two eggs
-effort	5	It took a lot of effort to find a decent - sized , fully - furnished apartment within walking distance of the office .     He made a conscious effort to not appear affected by the stories in the paper .
+effort	5	It took a lot of effort to find a decent - sized , fully - furnished apartment within walking distance of the office . He made a conscious effort to not appear affected by the stories in the paper .
 contradistinction	2	sculpture in contradistinction to painting
 system	5	that language has a complex system for indicating gender
 subsidy	1	a subsidy for research in artificial intelligence
@@ -151,7 +151,7 @@ save	7	the relief pitcher got credit for a save
 holiday	4	Today is a Wiccan holiday !
 suit	1	what suit is trumps ?
 border	6	the rug had a wide blue border
-group	3	There is a group of houses behind the hill ;    he left town to join a Communist group
+group	3	There is a group of houses behind the hill ; he left town to join a Communist group
 reverence	6	the French treat food with gentle reverence
 fondler	8	the woman charged that her jailer was a fondler
 succession	1	a succession of failures
@@ -198,7 +198,7 @@ advantage	4	The enemy had the advantage of a more elevated position .
 tipper	2	a generous tipper
 snatch	2	Martin 's snatch at the bridle failed and the horse raced away
 strand	1	a strand of pearls
-horse	2	A clothes horse ;    a sawhorse
+horse	2	A clothes horse ; a sawhorse
 crop	2	the annual crop of students brings a new crop of ideas
 part	5	the government must do its part
 relief	4	he has been on relief for many years
@@ -345,7 +345,7 @@ section	10	the history of this work is discussed in the next section
 dish	4	they served me a dish of rice
 shape	6	geometry is the mathematical science of shape
 spin	5	the campaign put a favorable spin on the story
-strip	17	You use strips of paper in papier mache .     He welded together some pieces of strip .
+strip	15	You use strips of paper in papier mache . He welded together some pieces of strip .
 meeting	3	there was no meeting of minds
 tremor	3	She felt a tremor in her stomach before going on stage .
 acquisition	3	the child 's acquisition of language

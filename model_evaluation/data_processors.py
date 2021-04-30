@@ -12,10 +12,10 @@ def _read_tsv(input_file, quotechar=None):
         return lines
 
 
-def read_wic_tsv_test(wic_tsv_folder: Path,
-                      tgt_column=0,
-                      tgt_ind_column=1,
-                      cxt_column=2):
+def read_wic_tsv(wic_tsv_folder: Path,
+                 tgt_column=0,
+                 tgt_ind_column=1,
+                 cxt_column=2):
     targets = []
     contexts = []
     target_inds = []

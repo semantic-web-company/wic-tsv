@@ -506,7 +506,7 @@ kuru	23	The documentary takes its audience into a mysterious world of sorcery , 
 string	18	len ( ) function is an inbuilt function in Python programming language that returns the length of the string .
 history	3	all of human history
 amnesia	0	Amnesia is a very vast phenomena but it is interesting to note that it can originate both from a pure physical neurological damage ( organic amnesia ) and also by very long list of purely psychological reasons .
-home	1	A home for outcasts ;    a home for the blind ;    a veterans ' home
+home	1	A home for outcasts ; a home for the blind ; a veterans ' home
 hearing	10	they make good music -- you should give them a hearing
 music	5	he fell asleep to the music of the wind chimes
 python	6	That leaves two groups : the pythons and the boas . These snakes are constrictors , killing their prey by wrapping around it and suffocating it .
@@ -1216,12 +1216,12 @@ sleeper	5	the winner was a true sleeper -- no one expected him to get it
 susurrus	2	a soft susurrus of conversation
 blind	6	he spent hours reading to the blind
 dengue	2	So although Dengue Fever is doing the Cambodian 60s pop thing , it 's close enough geographically to Vietnam to kind of make sense in this context ... and either way the song rips .
-heat	7	This furnace puts out 5000 BTUs of heat .     That engine is really throwing off some heat .     Removal of heat from the liquid caused it to turn into a solid .
+heat	7	This furnace puts out 5000 BTUs of heat . That engine is really throwing off some heat . Removal of heat from the liquid caused it to turn into a solid .
 daemon	19	Socrates , the father of Greek philosophy , was famous for claiming that he was born with a personal Daemon , who the gods had given to him as a gift .
 property	7	self - confidence is not an endearing property
 softening	3	refrigeration delayed the softening of the fruit
 manhood	7	He feared the speedy decline of all manhood .
-complexion	2	A rugged complexion ;    a sunburnt complexion
+complexion	2	A rugged complexion ; a sunburnt complexion
 americano	33	This was a bit too much for the sweeter American palate , so they would order it on ice with sweet vermouth and club soda . Eventually the drink became known as the Americano . Fast forward 100 years and even an Americano is too bitter for most American palates .
 security	10	we support the armed services in the name of national security
 delirium	3	Who knows what Delirium sees , through her mismatched eyes ?
@@ -1279,7 +1279,7 @@ right	6	We 're on the side of right in this contest .
 host	5	Atlanta was chosen to be host for the Olympic Games
 shift	4	The Full version of Shift on the iPhone includes ... .
 corona	0	Corona 's economy is strong and getting stronger !
-shipment	5	We 're expecting another shipment of oranges tomorrow .
+shipment	4	We 're expecting another shipment of oranges tomorrow .
 kuru	30	Upon my latest search of the NeuroPrion database , ( of which I have access to but ca n't widely share ) I noted a stack of new Manuscripts about Kuru .
 daemon	16	Since a daemon does not have a controlling terminal , we need to see how a daemon can report error conditions when something goes wrong .
 emphasis	1	his emphasis on civil rights
@@ -1298,7 +1298,7 @@ wall	6	competition was pushing them to the wall
 aviation	5	First on the menu ? Aviation . Your blog post popped up in my head and I ordered it .
 humour	6	The sensitive subject was treated with humour , but in such way that no one was offended .
 bell	3	saved by the bell
-guard	2	The prison guard unlocked the door of the cell .     After completing the repairs , he replaced the sump guard .
+guard	2	The prison guard unlocked the door of the cell . After completing the repairs , he replaced the sump guard .
 manifestation	1	a manifestation of disease
 region	4	here we enter the region of opinion
 team	7	We need more volunteers for the netball team .
