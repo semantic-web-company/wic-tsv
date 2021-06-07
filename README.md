@@ -21,8 +21,7 @@ in [data](./data).
 [model_evaluation](./model_evaluation) Contains code  to read the dataset as torch dataset as well as additional scripts to prepare for the
 evaluation and to get the final scores from the predictions.
 
-[HyperBert](./HyperBert) Contains a few model identical to the ones used in the evaluation, extended with some ideas from the participants of the challenges, in particular, the paper [Vandenbussche, P. Y., Scerri, T., & Daniel Jr, R. (2021, January). Word Sense Disambiguation with Transformer Models. In Proceedings of the 6th Workshop on Semantic Deep Learning (SemDeep-6) (pp. 7-12).](https://www.aclweb.org/anthology/2021.semdeep-1.pdf).
-
+[HyperBert](./HyperBert) Contains a few model identical to the ones used in the evaluation, extended with some ideas from the participants of the challenges, in particular, the paper [Vandenbussche, P. Y., Scerri, T., & Daniel Jr, R. (2021, January). Word Sense Disambiguation with Transformer Models. In Proceedings of the 6th Workshop on Semantic Deep Learning (SemDeep-6) (pp. 7-12).](https://www.aclweb.org/anthology/2021.semdeep-1.pdf) and [Moreno, J. G., Pontes, E. L., & Dias, G. (2021, January). CTLR@ WiC-TSV: Target Sense Verification using Marked Inputs andPre-trained Models. In Proceedings of the 6th Workshop on Semantic Deep Learning (SemDeep-6) (pp. 1-6).](https://www.aclweb.org/anthology/2021.semdeep-1.1.pdf).
 
 ## HyperBert Models
 
@@ -61,3 +60,7 @@ The parameters are optional, for defaults check the respective files.
     abstract = "We present WiC-TSV, a new multi-domain evaluation benchmark for Word Sense Disambiguation. More specifically, we introduce a framework for Target Sense Verification of Words in Context which grounds its uniqueness in the formulation as binary classification task thus being independent of external sense inventories, and the coverage of various domains. This makes the dataset highly flexible for the evaluation of a diverse set of models and systems in and across domains. WiC-TSV provides three different evaluation settings, depending on the input signals provided to the model. We set baseline performance on the dataset using state-of-the-art language models. Experimental results show that even though these models can perform decently on the task, there remains a gap between machine and human performance, especially in out-of-domain settings. WiC-TSV data is available at https://competitions.codalab.org/competitions/23683.",
 }
 ```
+
+### Acknowledgement
+
+This work is supported has been supported by the European Union’s Horizon 2020 project Prêt-à-LLOD (grantagrement No 825182).
