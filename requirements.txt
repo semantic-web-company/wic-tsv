@@ -1,5 +1,5 @@
-torch
-transformers
+torch<=1.7
+transformers<4
 nltk
 scikit-learn
 numpy

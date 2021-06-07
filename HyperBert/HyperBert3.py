@@ -62,6 +62,7 @@ class HyperBert3(BertPreTrainedModel):
             output_attentions=output_attentions,
             output_hidden_states=output_hidden_states,
         )
+        # bert_output = bert_output.to_tuple()
         hidden_state = bert_output[0]  # (bs, seq_len, dim)
         cls_output = bert_output[1]  # (bs, dim)
 
@@ -119,17 +120,21 @@ if __name__ == '__main__':
     model_name = args.model_name
     tok = AutoTokenizer.from_pretrained(model_name)
     model = HyperBert3.from_pretrained(model_name)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model.to(device)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_train)
     print('train', Counter(labels))
     train_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                              tokenizer=tok,
+                             focus_token='$',
                              labels=labels)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_dev)
     print('dev', Counter(labels))
     dev_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                            tokenizer=tok,
+                           focus_token='$',
                            labels=labels)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_test)
@@ -137,14 +142,14 @@ if __name__ == '__main__':
         print('test', Counter(labels))
     test_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                             tokenizer=tok,
+                            focus_token='$',
                             labels=labels)
 
     def compute_metrics(p: EvalPrediction) -> Dict:
         fp = p.predictions
-        print(fp[:10], fp[-10:])
         binary_preds = (p.predictions > 0).astype(type(p.label_ids[0]))
-        preds: np.ndarray
-        acc = (binary_preds == p.label_ids).mean()
+        binary = binary_preds.T == p.label_ids
+        acc = binary.mean()
         precision, r, f1, _ = precision_recall_fscore_support(y_true=p.label_ids, y_pred=binary_preds, average='binary')
         return {
             "acc": acc,
@@ -159,15 +164,16 @@ if __name__ == '__main__':
         overwrite_output_dir=True,
         do_train=True,
         do_eval=True,
-        evaluate_during_training=True,
+        evaluation_strategy='steps',
+        # evaluate_during_training=True,
         # do_predict=True,
         num_train_epochs=5,
-        per_device_train_batch_size=8,
+        per_device_train_batch_size=4,
         # per_gpu_train_batch_size=64,
-        eval_steps=10,
+        eval_steps=20,
         # save_steps=3000,
         # logging_first_step=True,
-        logging_steps=10,
+        # logging_steps=10,
         # learning_rate=3e-5,
         # weight_decay=3e-7,
         # adam_epsilon=1e-7,

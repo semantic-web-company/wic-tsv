@@ -103,9 +103,10 @@ class WiCTSVDatasetCLSCharOffsets(torch.utils.data.Dataset):
 
 
 def compute_metrics(p: EvalPrediction) -> Dict:
+    fp = p.predictions
     binary_preds = (p.predictions > 0).astype(type(p.label_ids[0]))
-    preds: np.ndarray
-    acc = accuracy_score(y_true=p.label_ids, y_pred=binary_preds)
+    binary = binary_preds.T == p.label_ids
+    acc = binary.mean()
     precision, r, f1, _ = precision_recall_fscore_support(y_true=p.label_ids, y_pred=binary_preds, average='binary')
     return {
         "acc": acc,
@@ -138,17 +139,21 @@ if __name__ == '__main__':
     model_name = args.model_name
     tok = AutoTokenizer.from_pretrained(model_name)
     model = HyperBertCLS.from_pretrained(model_name)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model.to(device)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_train)
     print('train', Counter(labels))
     train_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                              tokenizer=tok,
+                             focus_token='$',
                              labels=labels)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_dev)
     print('dev', Counter(labels))
     dev_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                            tokenizer=tok,
+                           focus_token='$',
                            labels=labels)
 
     contexts, target_ses, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_test)
@@ -156,6 +161,7 @@ if __name__ == '__main__':
         print('test', Counter(labels))
     test_ds = WiCTSVDataset(contexts, target_ses, hypernyms, definitions,
                             tokenizer=tok,
+                            focus_token='$',
                             labels=labels)
 
     training_args = TrainingArguments(
@@ -163,15 +169,16 @@ if __name__ == '__main__':
         overwrite_output_dir=True,
         do_train=True,
         do_eval=True,
-        evaluate_during_training=True,
-        # do_predict=True,
+        evaluation_strategy='epoch',
         num_train_epochs=5,
         per_device_train_batch_size=8,
+        # evaluate_during_training=True,
+        # do_predict=True,
         # per_gpu_train_batch_size=64,
-        eval_steps=10,
+        # eval_steps=10,
         # save_steps=3000,
         # logging_first_step=True,
-        logging_steps=10,
+        # logging_steps=10,
         # learning_rate=3e-5,
         # weight_decay=3e-7,
         # adam_epsilon=1e-7,
