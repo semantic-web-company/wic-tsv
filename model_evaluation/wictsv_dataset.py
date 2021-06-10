@@ -115,7 +115,6 @@ class WiCTSVDataset(torch.utils.data.Dataset):
 
         return marked_contexts, marked_target_inds
 
-
     def __getitem__(self, idx):
         item = {key: val[idx] for key, val in self.encodings.items()}
         item['target_start_len'] = torch.tensor(self.tgt_start_len[idx])

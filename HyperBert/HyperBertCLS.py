@@ -38,7 +38,7 @@ class HyperBertCLS(BertPreTrainedModel):
             head_mask=None,
             inputs_embeds=None,
             output_attentions=None,
-            output_hidden_states=None,
+            output_hidden_states=True,
             *args,
             **kwargs
     ):
@@ -52,8 +52,8 @@ class HyperBertCLS(BertPreTrainedModel):
             output_attentions=output_attentions,
             output_hidden_states=output_hidden_states,
         )
-        # hidden_state = bert_output[0]  # (bs, seq_len, dim)
-        cls_output = bert_output[1]  # (bs, dim)
+        hidden_lastbutone_layer = bert_output[2][-2]  # (bs, seq_len, dim)
+        cls_output = hidden_lastbutone_layer[:, 0]  # one layer before the last one
 
         pooled_output = cls_output
 
@@ -170,26 +170,14 @@ if __name__ == '__main__':
         do_train=True,
         do_eval=True,
         evaluation_strategy='epoch',
-        num_train_epochs=5,
+        num_train_epochs=10,
         per_device_train_batch_size=8,
-        # evaluate_during_training=True,
-        # do_predict=True,
-        # per_gpu_train_batch_size=64,
-        # eval_steps=10,
-        # save_steps=3000,
-        # logging_first_step=True,
-        # logging_steps=10,
-        # learning_rate=3e-5,
-        # weight_decay=3e-7,
-        # adam_epsilon=1e-7,
     )
     trainer = Trainer(
         model=model,
         args=training_args,
-        # prediction_loss_only=True,
         train_dataset=train_ds,
         eval_dataset=dev_ds,
-        # eval_dataset=test_ds,
         compute_metrics=compute_metrics,
     )
     output = trainer.train()

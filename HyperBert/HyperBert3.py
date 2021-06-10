@@ -39,7 +39,7 @@ class HyperBert3(BertPreTrainedModel):
             head_mask=None,
             inputs_embeds=None,
             output_attentions=None,
-            output_hidden_states=None,
+            output_hidden_states=True,
     ):
         tgt_inds = []
         descr_inds = []
@@ -62,11 +62,10 @@ class HyperBert3(BertPreTrainedModel):
             output_attentions=output_attentions,
             output_hidden_states=output_hidden_states,
         )
-        # bert_output = bert_output.to_tuple()
-        hidden_state = bert_output[0]  # (bs, seq_len, dim)
+        hidden_lastbutone_layer = bert_output[2][-2]  # (bs, seq_len, dim)
         cls_output = bert_output[1]  # (bs, dim)
 
-        for i, seq_out in enumerate(hidden_state.split(1, dim=0)):
+        for i, seq_out in enumerate(hidden_lastbutone_layer.split(1, dim=0)):
             seq_out = seq_out.squeeze()
             row_tgt_embeds = seq_out[tgt_inds[i]]
             row_tgt_mean_embeds = torch.mean(row_tgt_embeds, dim=0).squeeze()  # (1, dim)
@@ -81,9 +80,7 @@ class HyperBert3(BertPreTrainedModel):
             descr_output,
             cls_output
         ), 1)  # (bs, 3*dim)
-        # pooled_output = cls_output
 
-        # pooled_output = self.pre_classifier(pooled_output)  # (bs, dim)
         pooled_output = nn.ReLU()(pooled_output)  # (bs, dim)
         pooled_output = self.dropout(pooled_output)  # (bs, dim)
         logits = self.hyper_classifier(pooled_output)  # (bs, 1)
@@ -164,19 +161,9 @@ if __name__ == '__main__':
         overwrite_output_dir=True,
         do_train=True,
         do_eval=True,
-        evaluation_strategy='steps',
-        # evaluate_during_training=True,
-        # do_predict=True,
-        num_train_epochs=5,
+        evaluation_strategy='epoch',
+        num_train_epochs=10,
         per_device_train_batch_size=4,
-        # per_gpu_train_batch_size=64,
-        eval_steps=20,
-        # save_steps=3000,
-        # logging_first_step=True,
-        # logging_steps=10,
-        # learning_rate=3e-5,
-        # weight_decay=3e-7,
-        # adam_epsilon=1e-7,
     )
     trainer = Trainer(
         model=model,
