@@ -1210,6 +1210,7 @@ differentiation	distinction
 magnitude
 consequence	import	moment
 grammatical_category	syntactic_category
+domestic_animal	domesticated_animal
 quality
 pause	intermission	break	interruption	suspension
 faculty	mental_faculty	module
@@ -1218,14 +1219,20 @@ line
 force
 allure	allurement	temptingness
 being	beingness	existence
+bill	account	invoice
 movability	movableness
 gear	gear_mechanism
+reordering
 hand	manus	mitt	paw
 business_activity	commercial_activity
+experience
+company
 exteroception
 indefinite_quantity
+time_period	period_of_time	period
 reflex	reflex_response	reflex_action	instinctive_reflex	innate_reflex	inborn_reflex	unconditioned_reflex	physiological_reaction
 distance
+movability	movableness
 striker
 dramatic_composition	dramatic_work
 channel
@@ -1236,6 +1243,7 @@ reason	ground
 certainty
 black_music	African-American_music
 validity	validness
+occasion
 commerce	commercialism	mercantilism
 reordering
 electrical_device
@@ -1247,14 +1255,18 @@ experience
 point
 ending	conclusion	finish
 angular_unit
+blemish	defect	mar
 commitment	dedication
 item	point
 illumination
+disagreement
 game
 politeness	civility
 portrayal	characterization	enactment	personation
 motion	movement	move
+trip
 excellence
+military_position	position
 social_group
 area
 action	action_mechanism
@@ -1262,7 +1274,10 @@ possibility	possibleness
 top
 content	cognitive_content	mental_object
 note	short_letter	line	billet
+gun_muzzle	muzzle
+meaning	significance	signification	import
 education	instruction	teaching	pedagogy	didactics	educational_activity
+horizontal_surface	level
 balance
 attribute
 process	physical_process
@@ -1271,6 +1286,7 @@ change
 measure	quantity	amount
 herb
 amount
+depression	impression	imprint
 visual_signal
 leg
 defense	defence	defensive_measure
@@ -1301,6 +1317,8 @@ effusion	gush	outburst	blowup	ebullition
 attack
 being	beingness	existence
 position	posture	attitude
+artifact	artefact
+medium
 taxonomic_group	taxonomic_category	taxon
 record
 topographic_point	place	spot
@@ -1314,7 +1332,9 @@ meal	repast
 footfall	footstep	step
 deference	respect
 stratum
+organization	organisation
 duration	continuance
+case	instance	example
 locomotion	travel
 playing_card
 act	deed	human_action	human_activity
@@ -1326,46 +1346,61 @@ work
 state
 establishment
 drive
+breeze	zephyr	gentle_wind	air
 pause
 writing
+feeling
 resentment	bitterness	gall	rancor	rancour
 communication
 note	short_letter	line	billet
 domestic_animal	domesticated_animal
 paper_money	folding_money	paper_currency
 astonishment	amazement
+number
 permission
 telephone	telephony
+degree	grade	level
 state_of_mind	frame_of_mind
 permission
 time_period	period_of_time	period
 hole
+drug_user	substance_abuser	user
 large_indefinite_quantity	large_indefinite_amount
 discipline
 land	dry_land	earth	ground	solid_ground	terra_firma
 approval	commendation
+extent
 abstraction	abstract_entity
 cognition	knowledge	noesis
 improvement	melioration
+toilet	lavatory	lav	can	john	privy	bathroom
+being	beingness	existence
 activity
+program	programme	computer_program	computer_programme
 property	belongings	holding
 expert
 illustration
 condiment
 marking
+subject	topic	theme
 object	physical_object
 organic_phenomenon
+artifact	artefact
 economic_condition
+toilet	lavatory	lav	can	john	privy	bathroom
 feeling
 fabric	cloth	material	textile
 rain	rainfall
+sound
 illustration
 moment	minute	second	instant
 past	past_times	yesteryear
+cognition	knowledge	noesis
 domestic_animal	domesticated_animal
 being	beingness	existence
 partition	divider
 collection	aggregation	accumulation	assemblage
+extremity
 slit
 physical_phenomenon
 affluence	richness
@@ -1374,54 +1409,82 @@ experience
 indefinite_quantity
 criterion	standard
 performance	public_presentation
+fashion
 cognition	knowledge	noesis
 creation
+region	part
 periodical
 liberty
 conservatism	conservativism
+external_body_part
 surface
 number
 area	country
 draft	bill_of_exchange	order_of_payment
 beginning	origin	root	rootage	source
 liberty
+message	content	subject_matter	substance
+term
+thing
 gathering	assemblage
 military_position	position
 washup	bathing
+creation
+bargain	buy	steal
+movability	movableness
 activity
 flavorer	flavourer	flavoring	flavouring	seasoner	seasoning
 change
 region	part
 causal_agent	cause	causal_agency
+layer	bed
 condition	status
 lineman
 turning	turn
+score
+character	grapheme	graphic_symbol
 plant_organ
 capability	capacity
 aspect	facet
+juncture	occasion
 arrival
 collection	aggregation	accumulation	assemblage
 end	ending
+relationship
+attribute
 merchandise	ware	product
 fact
 helping	portion	serving
+location
 end	terminal
+time_period	period_of_time	period
 gear	gear_mechanism
 unit_of_measurement	unit
+beginning	origin	root	rootage	source
+data_processing
+point
 force
 restriction	limitation
+area	expanse	surface_area
+certainty
 bottom
 look	looking	looking_at
 measure	quantity	amount
+cognition	knowledge	noesis
 small_indefinite_quantity	small_indefinite_amount
 set
 attribute
 batch	deal	flock	good_deal	great_deal	hatful	heap	lot	mass	mess	mickle	mint	mountain	muckle	passel	peck	pile	plenty	pot	quite_a_little	raft	sight	slew	spate	stack	tidy_sum	wad
+vicinity	locality	neighborhood	neighbourhood	neck_of_the_woods
 small_indefinite_quantity	small_indefinite_amount
+aim	object	objective	target
 canine	canid
 opening	gap
 condition	status
+person	individual	someone	somebody	mortal	soul
+constituent	grammatical_constituent
 ridge
+projection
 mark
 animal_communication
 frugality	frugalness
@@ -1434,38 +1497,58 @@ proposal
 structure	construction
 tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
 activity
+time_period	period_of_time	period
 body_part
 time_of_life
+company
 learning	acquisition
 magnitude
 treaty	pact	accord
+commercial_enterprise	business_enterprise	business
 legal_document	legal_instrument	official_document	instrument
+sum	sum_of_money	amount	amount_of_money
 aid	assist	assistance	help
 symptom
 meaning	substance
+top
+change_of_integrity
+diversion	recreation
+plan_of_action
+business_activity	commercial_activity
+section	subdivision
+understanding	apprehension	discernment	savvy
 drug_user	substance_abuser	user
+quality
+striker
 data_processing
 promontory	headland	head	foreland
 section	subdivision
 status	position
 horizontal_surface	level
+framework
 building	edifice
+disk	disc	saucer
 gathering	assemblage
 earthquake	quake	temblor	seism
+attribute
 difficulty
 washup	bathing
 business_relation
 perception
 gas
+prevailing_wind
 larceny	theft	thievery	thieving	stealing
 social_group
+attention	attending
 constituent	grammatical_constituent
+connection	connexion	connector	connecter	connective
 present	nowadays
 propulsion	actuation
 value
 plaything	toy
 collection	aggregation	accumulation	assemblage
 facility	installation
+external_body_part
 part	section	division
 demonstration	demo
 opening
@@ -1480,17 +1563,27 @@ situation	state_of_affairs
 electrical_phenomenon
 end	terminal
 definite_quantity
+facility	installation
 sense_organ	sensory_receptor	receptor
 lecture	lecturing
+formation
+natural_depression	depression
+hole
 vertebrate_foot	pedal_extremity
 surface
+subject	topic	theme
 list	listing
 gesture
+bottom
 side
+partition	divider
 course	course_of_action
+moment	minute	second	instant
 product	production
 society
 change_of_integrity
+quantity
+indefinite_quantity
 courtesy	good_manners
 trade	craft
 situation	position
@@ -1498,11 +1591,20 @@ downfall	ruin	ruination
 unit_of_measurement	unit
 strain	mental_strain	nervous_strain
 place_of_business	business_establishment
+side	face
+decorativeness
+scandal	outrage
+wilderness	wild
+land	dry_land	earth	ground	solid_ground	terra_firma
+group_action
 service
+part	portion	component_part	component	constituent
 deference	respect
 situation	state_of_affairs
 baseball	baseball_game
+evaluation	valuation	rating
 creation	creative_activity
+register
 request	petition	postulation
 creation
 occupation	business	job	line_of_work	line
@@ -1510,22 +1612,29 @@ situation	position
 education	instruction	teaching	pedagogy	didactics	educational_activity
 projection
 decline	diminution
+promontory	headland	head	foreland
 equipment
 condiment
 union	unification
+framework
+condition	status
 politeness	civility
 sound_property
 weakening
 integer	whole_number
 conformity	conformation	compliance	abidance
 representation
+departure	going	going_away	leaving
 opening	gap
 lifting_device
 journey	journeying
+mishap	misadventure	mischance
 happening	occurrence	occurrent	natural_event
 collection	aggregation	accumulation	assemblage
+agreement	understanding
 assignment	duty_assignment
 arrangement
+enterprise
 learning	acquisition
 assets
 sound
@@ -1538,24 +1647,37 @@ touch	touching
 organic_phenomenon
 device
 curiosity	wonder
+punctuation	punctuation_mark
 agreement	understanding
 noise
 expert
+content	cognitive_content	mental_object
 geographic_point	geographical_point
+friendship	friendly_relationship
+beverage	drink	drinkable	potable
 platform
 pericarp	seed_vessel
 inclination	disposition	tendency
 boredom	ennui	tedium
 space
+social_event
+passage
+decrease	decrement
 dependant	dependent
 being	beingness	existence
 state
+motivation	motive	need
+friend
 maneuver	manoeuvre	play
 formation
 company
 gas
+kilogram	kg	kilo
 extent
+introduction
 bleach
+reception
+unit	social_unit
 sound
 group_action
 pitch	delivery
@@ -1564,16 +1686,27 @@ string
 geographic_point	geographical_point
 natural_object
 change	alteration	modification
+response
 friendship	friendly_relationship
 time
 cost
 change_of_state
+ritual	rite
+graphic_art
 girl	miss	missy	young_lady	young_woman	fille
 relationship
+cognition	knowledge	noesis
 district	territory	territorial_dominion	dominion
+text	textual_matter
+attempt	effort	endeavor	endeavour	try
+good_nature
+reply	response
 nutriment	nourishment	nutrition	sustenance	aliment	alimentation	victuals
 helping	portion	serving
+happening	occurrence	occurrent	natural_event
+layer	bed
 area
+blow
 magnitude
 proposal
 gang	crew	work_party
@@ -1582,26 +1715,43 @@ stable_gear	saddlery	tack
 happening	occurrence	occurrent	natural_event
 sadness	unhappiness
 attitude	mental_attitude
+part	portion	component_part	component	constituent
 commercial_document	commercial_instrument
 state
 procedure	process
 base_hit	safety
 world_organization	world_organisation	international_organization	international_organisation	global_organization
+object	physical_object
 layer	bed
 meaning	substance
-musical_notation
 time_period	period_of_time	period
+musical_notation
+assertion	averment	asseveration
+set
+time_period	period_of_time	period
+act	enactment
 cloth_covering
+structure	anatomical_structure	complex_body_part	bodily_structure	body_structure
 permission
 series
 conformity	conformation	compliance	abidance
+formation
 typification	exemplification
+domestic_animal	domesticated_animal
+butter
+conformity	conformation	compliance	abidance
 collection	aggregation	accumulation	assemblage
 disturbance	disruption	commotion	flutter	hurly_burly	to-do	hoo-ha	hoo-hah	kerfuffle
+mat	gym_mat
 recognition	identification
+buying	purchasing
+grammatical_category	syntactic_category
 weave
 attitude	mental_attitude
+computer_memory_unit
+commerce	commercialism	mercantilism
 part	portion	component_part	component	constituent
+quantity
 scheme	strategy
 plane_figure	two-dimensional_figure
 secret
@@ -1610,26 +1760,36 @@ program	programme	computer_program	computer_programme
 time_period	period_of_time	period
 abstraction	abstract_entity
 sketch	study
+educational_institution
 top
 institution	establishment
+happening	occurrence	occurrent	natural_event
 wordbook
 surface
+cost
 motion	movement	move
 path	track	course
 breeze	zephyr	gentle_wind	air
 inclination	disposition	tendency
 change	alteration	modification
 fuel
+collection	aggregation	accumulation	assemblage
 beneficence
+organic_phenomenon
+linear_unit	linear_measure
 person	individual	someone	somebody	mortal	soul
 expressive_style	style
+facial_expression	facial_gesture
 cycle	oscillation
 dining_room	dining-room
 recognition	identification
 subject	topic	theme
+secret
 game
 noise
+mobilization	mobilisation	militarization	militarisation
 disk	disc
+vicinity	locality	neighborhood	neighbourhood	neck_of_the_woods
 confinement
 killing	kill	putting_to_death
 abuse	insult	revilement	contumely	vilification
@@ -1646,23 +1806,43 @@ high_status
 business_activity	commercial_activity
 domestic_animal	domesticated_animal
 building	edifice
+group_action
 military_installation
+manner	mode	style	way	fashion
+relation
+conference	group_discussion
+visual_percept	visual_image
+region
+mark
+reasoning	logical_thinking	abstract_thought
 support
+unit_of_measurement	unit
 body
 atom	molecule	particle	corpuscle	mote	speck
 marking
 right
 line
+tactile_property	feel
+product	production
+definite_quantity
+gas
+natural_object
 locomotion	travel
 thing
 space
+unit	social_unit
 item
 drive	ride
 external_body_part
+bottom
 blow
 reasoning	logical_thinking	abstract_thought
+entrance	entranceway	entryway	entry	entree
+indefinite_quantity
 sequence	chronological_sequence	succession	successiveness	chronological_succession
+body_of_water	water
 state
+person	individual	someone	somebody	mortal	soul
 woman's_clothing
 wealth	wealthiness
 political_unit	political_entity
@@ -1670,24 +1850,39 @@ being	beingness	existence
 part	portion
 artifact	artefact
 bodily_process	body_process	bodily_function	activity
+leg
+happening	occurrence	occurrent	natural_event
+lineman
+liabilities
 body_part
 visual_percept	visual_image
+mark	print
 extremity
 merchandise	ware	product
+appearance	visual_aspect
 connection	connexion	connector	connecter	connective
+domestic_animal	domesticated_animal
 expansion	enlargement
+movability	movableness
 frivolity	frivolousness
 company	troupe
+pitch
+side
+attribute
 laborer	manual_laborer	labourer	jack
 aid	assist	assistance	help
 damage	harm	impairment
 bodily_process	body_process	bodily_function	activity
 assertion	averment	asseveration
 relation
+leader
 work_of_art
 hand	manus	mitt	paw
+position	spatial_relation
 optical_phenomenon
+succession	sequence
 handwriting
+source_of_illumination
 difficulty
 attempt	effort	endeavor	endeavour	try
 company
@@ -1695,69 +1890,114 @@ judgment	judgement	assessment
 contest	competition
 perversion	sexual_perversion
 attempt	effort	endeavor	endeavour	try
+area	region
+beginning	origin	root	rootage	source
+unit	social_unit
 representation	mental_representation	internal_representation
 emotional_arousal
+act	deed	human_action	human_activity
 direction
 perfection	flawlessness	ne_plus_ultra
+visit
+time_period	period_of_time	period
 result	resultant	final_result	outcome	termination
+ending	conclusion	finish
 attempt	effort	endeavor	endeavour	try
 evidence	grounds
+orifice	opening	porta
 determination	purpose
+action	activity	activeness
+creation
+quality
 vertebrate_foot	pedal_extremity
 share	portion	part	percentage
+cloth_covering
+dramatic_composition	dramatic_work
 opening
+mechanism
 barrier
 natural_depression	depression
 intensity	intensiveness
 end	terminal
 proposal
 location
+property
 temperature_unit
+sector
 position	place
 support
 time_period	period_of_time	period
+funds	finances	monetary_resource	cash_in_hand	pecuniary_resource
 external_body_part
 extent
 animal_group
 orientation
 business_activity	commercial_activity
 intensity	intensiveness
+personal_letter
 stretching
 kind	sort	form	variety
 limit	demarcation	demarcation_line
+woman's_clothing
+perversion	sexual_perversion
 incompatibility
+motion	movement	move	motility
 cognition	knowledge	noesis
+association
 persuasion	suasion
 show
 friendship	friendly_relationship
+time_period	period_of_time	period
+pause	intermission	break	interruption	suspension
 funds	finances	monetary_resource	cash_in_hand	pecuniary_resource
+inclination	disposition	tendency
+mechanism
+share	portion	part	percentage
+abstraction	abstract
 education	instruction	teaching	pedagogy	didactics	educational_activity
+tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
 disturbance	disruption	commotion	flutter	hurly_burly	to-do	hoo-ha	hoo-hah	kerfuffle
+control
 vegetation	flora	botany
+merchandise	ware	product
 maneuver	manoeuvre	play
+pressure	pressure_level	force_per_unit_area
 individual
+personal_letter
 junction	conjunction
 failure
 introversion
 secret
 appendage
+public_knowledge	general_knowledge
 being	beingness	existence
 condition	status
+leadership	leading
+experience
 thing
 femininity	muliebrity
 meaning	significance	signification	import
 magnitude
+surface
 game_equipment
 cost
 happening	occurrence	occurrent	natural_event
+product	production
 warhorse
+conformity	conformation	compliance	abidance
 set
 image	mental_image
 state
+opportunity	chance
+expanse
 natural_ability
+space
+side
 running_away
 drug
+land	dry_land	earth	ground	solid_ground	terra_firma
 ordering	order	ordination
+state
 visual_property
 group_action
 facial_expression	facial_gesture
@@ -1767,67 +2007,118 @@ decrease	decrement
 acquaintance	friend
 cognition	knowledge	noesis
 destructiveness
+diversion	recreation
+insight	brainstorm	brainwave
 environment
 concept	conception	construct
 document	written_document	papers
+domestic_animal	domesticated_animal
+person	individual	someone	somebody	mortal	soul
+domestic_animal	domesticated_animal
+sector
 device
 point_of_view	viewpoint	stand	standpoint
 junction	conjunction
+thing
 cash	hard_cash	hard_currency
+suggestion	proposition	proffer
+position	place
 choice	selection	option	pick
 cognitive_state	state_of_mind
 military_position	position
 position	spatial_relation
+show
+time_period	period_of_time	period
+bodily_process	body_process	bodily_function	activity
+drug_user	substance_abuser	user
 clothing	article_of_clothing	vesture	wear	wearable	habiliment
+boundary	bound	bounds
 dramatic_composition	dramatic_work
+being	beingness	existence
+trip
 course	course_of_action
+touch	touching
 triteness	staleness
+cognition	knowledge	noesis
 division
+case	instance	example
 formation
+residence
 record
+subject	topic	theme
+downfall	ruin	ruination
+sound
+position	view	perspective
 campaign	cause	crusade	drive	movement	effort
+stream	watercourse
 care	attention	aid	tending
 rima
+score
+benefit	welfare
+case	instance	example
+facial_expression	facial_gesture
+transportation	transport	transfer	transferral	conveyance
+person	individual	someone	somebody	mortal	soul
 message	content	subject_matter	substance
+subject	topic	theme
 assets
 courtesy	good_manners
 disposition	temperament
 bunk	bunkum	buncombe	guff	rot	hogwash
+conformity	conformation	compliance	abidance
 dramatic_composition	dramatic_work
 place_of_business	business_establishment
 friend
 soup
 injury	hurt	harm	trauma
+facial_expression	facial_gesture
 content	cognitive_content	mental_object
 division
 occupation	business	job	line_of_work	line
+damage	harm	impairment
 stress
 road	route
+kilogram	kg	kilo
 ideal
+change	alteration	modification
 visit
 superior_skill
 persuasion	suasion
 understanding	apprehension	discernment	savvy
 cavity	enclosed_space
+placement	location	locating	position	positioning	emplacement
 disregard	neglect
 disk	disc	saucer
+region	part
+walk
+consumption	ingestion	intake	uptake
 combining	combine
+direction
+object	physical_object
 suggestion	proposition	proffer
 score
+foam	froth
+choice	pick	selection
 power	force
 attention	attending
+signal	signaling	sign
 utterance	vocalization
 situation	state_of_affairs
 immorality
+case	instance	example
 variety_meat	organs
+business_activity	commercial_activity
 view	aspect	prospect	scene	vista	panorama
 practice	pattern
+membrane
 attitude	mental_attitude
 disk	disc	saucer
 object	physical_object
 object
 component	constituent	element
+thing
 activity
+domestic_animal	domesticated_animal
 combustion	burning
 change
 cognition	knowledge	noesis
@@ -1842,21 +2133,40 @@ internal_organ	viscus
 source_of_illumination
 surprise
 cognition	knowledge	noesis
+music
+object	physical_object
 unit_of_measurement	unit
 success
 structure	anatomical_structure	complex_body_part	bodily_structure	body_structure
 fireplace	hearth	open_fireplace
 scene
 position	spatial_relation
+support
 residence	abode
 condition	status
 direction	instruction
+attack	onslaught	onset	onrush
+meaning	significance	signification	import
+domestic_animal	domesticated_animal
 history	account	chronicle	story
 restriction	limitation
+share	portion	part	percentage
+property
+incident
+subject	topic	theme
+faculty	mental_faculty	module
+news
 subject	topic	theme
 sequence	chronological_sequence	succession	successiveness	chronological_succession
 publication
+object	physical_object
 surface
+young_mammal
+connection	connexion	connector	connecter	connective
+time_period	period_of_time	period
+stratum
+persuasion	suasion
+descent
 request	petition	postulation
 happening	occurrence	occurrent	natural_event
 state
@@ -1865,20 +2175,28 @@ attitude	mental_attitude
 foodstuff	food_product
 opening
 concentration	engrossment	absorption	immersion
+aid	assist	assistance	help
 bottom
 imprisonment	internment
+time_interval	interval
 aim	object	objective	target
+friend
 ridge
 bunch	clump	cluster	clustering
+applause	hand_clapping	clapping
 repute	reputation
 state
 unpleasant_person	disagreeable_person
+domestic_animal	domesticated_animal
 set
 marital_status
+union	unification
 message	content	subject_matter	substance
 state
 fire	firing
 optical_phenomenon
+inhalation	inspiration	aspiration	intake	breathing_in
+state
 publication
 inaction	inactivity	inactiveness
 activity
@@ -1887,47 +2205,85 @@ income
 slit
 district	territory	territorial_dominion	dominion
 start
+toilet	lavatory	lav	can	john	privy	bathroom
 activity
 communicator
+formation
 courage	courageousness	bravery	braveness
 history	account	chronicle	story
+series
+front	front_end	forepart
+musical_composition	opus	composition	piece	piece_of_music
 manner	mode	style	way	fashion
+representation
 expert
 assertion	averment	asseveration
+boundary	bound	bounds
+income
+vicinity	locality	neighborhood	neighbourhood	neck_of_the_woods
 angular_unit
 delay	holdup
+social_station	social_status	social_rank	rank
+bottom
 happening	occurrence	occurrent	natural_event
+foam	froth
 layer
+orientation
 business_activity	commercial_activity
 soil_erosion
 perversion	sexual_perversion
+thing
+relation
 writing	written_material	piece_of_writing
 touch	touching
 stop
+diversion	recreation
+conformity	conformation	compliance	abidance
+taxonomic_group	taxonomic_category	taxon
 blow
 receptacle
 cognition	knowledge	noesis
 damper	muffler
+perfection	flawlessness	ne_plus_ultra
 suggestion	proposition	proffer
 pressure_unit
 stable_gear	saddlery	tack
+quantity
+text	textual_matter
+region	part
+beginning	origin	root	rootage	source
 marking
 shape	form
+unpleasant_person	disagreeable_person
 activity
+atom	molecule	particle	corpuscle	mote	speck
 dark	darkness
 growth	growing	maturation	development	ontogeny	ontogenesis
+dark	darkness
 interval	musical_interval
+illumination
 passage
+cognition	knowledge	noesis
+damage	harm	impairment
+beginning	origin	root	rootage	source
+state
+duty	responsibility	obligation
 consummation
 locomotion	travel
+receptacle
 impression	feeling	belief	notion	opinion
 sexual_activity	sexual_practice	sex	sex_activity
 visual_percept	visual_image
+thing
+linear_unit	linear_measure
 commitment	allegiance	loyalty	dedication
+substance
 thing
 liking
 material	stuff
 location
+facial_expression	facial_gesture
+experience
 danger
 mechanism
 stream	watercourse
@@ -1935,30 +2291,53 @@ political_unit	political_entity
 income
 decline	diminution
 chemoreceptor
+merchandise	ware	product
 bodily_property
+stratum
+constituent	grammatical_constituent
 time
 picture	image	icon	ikon
+object	physical_object
 assembly	assemblage	gathering
 press	pressure	pressing
 memorizer	memoriser
+area	region
 conference	group_discussion
 performance	public_presentation
+surface
 section	subdivision
 concave_shape	concavity	incurvation	incurvature
+external_body_part
 series
+aspect	facet
 inspiration
+history	account	chronicle	story
 consequence	effect	outcome	result	event	issue	upshot
+air
 depression	impression	imprint
 convex_shape	convexity
 structure
+contact	impinging	striking
 artifact	artefact
+organization	organisation
+time_period	period_of_time	period
+sailor	crewman
+concept	conception	construct
 time_interval	interval
 coach	four-in-hand	coach-and-four
+occupation	business	job	line_of_work	line
 leadership	leading
 effort	elbow_grease	exertion	travail	sweat
+motion
 legal_document	legal_instrument	official_document	instrument
+front	front_end	forepart
+body_of_water	water
 tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
+domestic_animal	domesticated_animal
+body
 subfigure
+part	portion	component_part	component	constituent
+periodic_event	recurrent_event
 support
 manner	mode	style	way	fashion
 phenomenon
@@ -1967,53 +2346,86 @@ superior_skill
 direction	way
 resource
 evidence	grounds
+request	petition	postulation
 exemplar	example	model	good_example
 look	looking	looking_at
 inspection	review
 natural_object
 somesthesia	somaesthesia	somatesthesia	somatic_sensation
+disclosure	revelation	revealing
 clothing	article_of_clothing	vesture	wear	wearable	habiliment
+program	programme	computer_program	computer_programme
 containerful
+offspring	progeny	issue
 section	segment
 organization	organisation
 cognition	knowledge	noesis
+source_of_illumination
 extent
 attainment
 love
 stratum
 courage	courageousness	bravery	braveness
+perfection	flawlessness	ne_plus_ultra
 device
 score
+circumstance
 coach	four-in-hand	coach-and-four
+creating_by_mental_acts
+mark
 defecation	laxation	shitting
 depression	impression	imprint
+subject	topic	theme
 stratum
+amorphous_shape
 fundamental_quantity	fundamental_measure
+geographic_point	geographical_point
+natural_object
 validity	validness
+texture
+domestic_animal	domesticated_animal
+ambivalence	ambivalency
+use	usage	utilization	utilisation	employment	exercise
 magnitude
 rotation	revolution	gyration
 noise
+justification
 disclosure	revelation	revealing
+decrease	decrement
 work_time
 bad_person
+set
 constriction
 amorphous_shape
 person	individual	someone	somebody	mortal	soul
 era	epoch
+set
 evidence	grounds
 communication	communicating
 inaction	inactivity	inactiveness
+cutting_implement
+extremity
+demand
 food	nutrient
+recording
 exteroception
+structure	anatomical_structure	complex_body_part	bodily_structure	body_structure
+time
 being	beingness	existence
+position	place
+pressure	pressure_level	force_per_unit_area
+property
 cognition	knowledge	noesis
 mechanism
+projection
+condition	status
 education	instruction	teaching	pedagogy	didactics	educational_activity
 interval	musical_interval
 opportunity	chance
 time_limit
 score
 body_part
+external_body_part
 deterioration	decline_in_quality	declension	worsening
 surface
 family	family_line	folk	kinfolk	kinsfolk	sept	phratry
@@ -2027,95 +2439,157 @@ accomplishment	achievement
 merchandise	ware	product
 staff
 unit	social_unit
+thing
 horizontal_surface	level
+wind	air_current	current_of_air
 shortening
+appearance	visual_aspect
 section	subdivision
 group	grouping
 projection
 temporal_property
+sound_property
 mat	gym_mat
+score
+obverse
 set
 fuel
 comment	commentary
+skillfulness
 disclosure	revelation	revealing
+object	physical_object
+award	accolade	honor	honour	laurels
 lineman
 container
 division
 lenience	leniency
 harmony	concord	concordance
 washup	bathing
+end	ending
 commerce	commercialism	mercantilism
 control
 wind	air_current	current_of_air
+recording
+area	expanse	surface_area
+individual
 large_indefinite_quantity	large_indefinite_amount
 area
 characteristic
 sympathy	fellow_feeling
+disk	disc	saucer
 path	track	course
 topographic_point	place	spot
 indefinite_quantity
 means	agency	way
 statement
+political_unit	political_entity
+domestic_animal	domesticated_animal
+visual_property
 expansion	enlargement
+improvidence	shortsightedness
 action	action_mechanism
 shortening
 social_gathering	social_affair
+air	aura	atmosphere
+part	portion	component_part	component	constituent
+mark
 part	portion	component_part	component	constituent
 condition	status
+property
 importance
 combustion	burning
+vocal_music
+locomotion	travel
 assortment	mixture	mixed_bag	miscellany	miscellanea	variety	salmagundi	smorgasbord	potpourri	motley
+end	terminal
+intemperance	intemperateness
 document	written_document	papers
 relation
 business	stage_business	byplay
 lineage	line	line_of_descent	descent	bloodline	blood_line	blood	pedigree	ancestry	origin	parentage	stemma	stock
+distance
+extremity
+thing
 creativity	creativeness	creative_thinking
+trip
+food	nutrient
 change_of_location	travel
 discipline	subject	subject_area	subject_field	field	field_of_study	study	bailiwick
 instrumentality	instrumentation
+area	country
 importance
+angular_unit
 collection	aggregation	accumulation	assemblage
 residence	abode
 publisher	publishing_house	publishing_firm	publishing_company
+edge_tool
 liabilities
 force
+perversion	sexual_perversion
+device
 large_indefinite_quantity	large_indefinite_amount
+statement
 franchise	enfranchisement
+pressure	pressure_level	force_per_unit_area
+tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
+membrane
 medicine	medication	medicament	medicinal_drug
+surface
 force
+foam	froth
 interval	musical_interval
 rotation	rotary_motion
 jump	jumping
 hit	hitting	striking
+fact
+part	portion
 death
 environment	environs	surroundings	surround
 feeling
+persuasion	suasion
 mark	print
+helping	portion	serving
 invention	innovation	excogitation	conception	design
 meal	repast
+personal_letter
 piece_of_cloth	piece_of_material
 change
 movability	movableness
+introduction
 program	programme	computer_program	computer_programme
 name
 preference	penchant	predilection	taste
+idea	thought
 lack	deficiency	want
 array
 postulate	posit
+collection	aggregation	accumulation	assemblage
+room
 social_group
+change	alteration	modification
 communication
 accretion	accumulation
 imprint
 state
+instrumentality	instrumentation
 sphere	domain	area	orbit	field	arena
+natural_object
+time_period	period_of_time	period
+meaning	significance	signification	import
 concentration	engrossment	absorption	immersion
+person	individual	someone	somebody	mortal	soul
+plan_of_action
 end	ending
+temperature_unit
 customer	client
 effortlessness
 chemical_process	chemical_change	chemical_action
 rectangle
 earthquake	quake	temblor	seism
+furniture	piece_of_furniture	article_of_furniture
+formation
 case	instance	example
+structure	construction
 piece_of_cloth	piece_of_material
 repeat	repetition
 region	part
@@ -2124,14 +2598,231 @@ increase	step-up
 share	portion	part	percentage
 group_action
 school_assignment	schoolwork
+decrease	diminution	reduction	step-down
 wealth	wealthiness
 economic_condition
+series
+striker
 institution	establishment
+time_period	period_of_time	period
+constituent	grammatical_constituent
 tactile_property	feel
 bodily_process	body_process	bodily_function	activity
 state
 machine
+public_square	square
 drive
 appearance	visual_aspect
+means	agency	way
+visit
 decision	determination	conclusion
 honesty	honestness
+domestic_animal	domesticated_animal
+development
+movability	movableness
+foam	froth
+musical_composition	opus	composition	piece	piece_of_music
+society
+plaything	toy
+size
+visual_signal
+inhalation	inspiration	aspiration	intake	breathing_in
+sum	sum_of_money	amount	amount_of_money
+part	section	division
+plane_figure	two-dimensional_figure
+scene
+purpose	intent	intention	aim	design
+letter	missive	request	asking
+handle	grip	handgrip	hold	support
+judgment	judgement	mind
+approval	commendation
+happening	occurrence	occurrent	natural_event
+passage
+publication
+object	physical_object
+insubstantiality
+concept	conception	construct
+multitude	masses	mass	hoi_polloi	people	the_great_unwashed
+time
+dance
+social_group
+unit	social_unit
+skillfulness
+grammatical_category	syntactic_category
+person	individual	someone	somebody	mortal	soul
+indulgence	lenience	leniency
+countenance	visage
+conservatism	conservativism
+small_indefinite_quantity	small_indefinite_amount
+decrease	lessening	drop-off
+plant_organ
+range	reach
+creating_by_mental_acts
+whole
+reason	ground
+facility	installation
+optical_illusion
+stroke	shot
+abstraction	abstract
+use	usage	utilization	utilisation	employment	exercise
+quality
+operation	military_operation
+news
+object	physical_object
+story
+collection	aggregation	accumulation	assemblage
+intuition	hunch	suspicion
+choice	pick	selection
+artifact	artefact
+bill	account	invoice
+good_health	healthiness
+discussion	treatment	discourse
+happening	occurrence	occurrent	natural_event
+demand
+presentation	presentment	demonstration
+efficiency
+small_indefinite_quantity	small_indefinite_amount
+communication	communicating
+party
+pressure	pressure_level	force_per_unit_area
+effort	elbow_grease	exertion	travail	sweat
+sheet_music
+real_property	real_estate	realty	immovable
+direction	instruction
+small_indefinite_quantity	small_indefinite_amount
+appointment	assignment	designation	naming
+amount
+creation
+seat
+state
+play	child's_play
+work_of_art
+stupefaction
+subject	topic	theme
+legal_right
+class	stratum	social_class	socio-economic_class
+scene
+tactile_property	feel
+front
+social_group
+aid	assist	assistance	help
+record
+written_communication	written_language	black_and_white
+award	accolade	honor	honour	laurels
+situation	state_of_affairs
+harmony	musical_harmony
+physical_phenomenon
+right
+companion	comrade	fellow	familiar	associate
+declaration
+relation
+undertaking	project	task	labor
+influence
+reflex	reflex_response	reflex_action	instinctive_reflex	innate_reflex	inborn_reflex	unconditioned_reflex	physiological_reaction
+case	instance	example
+fact
+tract	piece_of_land	piece_of_ground	parcel_of_land	parcel
+experience
+canine	canid	domestic_animal	domesticated_animal
+appearance	visual_aspect
+proximity
+start
+support
+area	country
+experience
+change
+smallness	littleness
+education	instruction	teaching	pedagogy	didactics	educational_activity
+time_period	period_of_time	period
+altitude	height
+forward_pass	aerial
+being	beingness	existence
+wit	humor	humour	witticism	wittiness
+personal_letter
+ill-being
+rational_motive
+portrayal	characterization	enactment	personation
+component	constituent	element
+position	place
+object	physical_object
+path	track	course
+decision	determination	conclusion
+nature
+position	spatial_relation
+ability
+crack	cleft	crevice	fissure	scissure
+constitution	composition	physical_composition	makeup	make-up
+descent	gravitation
+disposition
+motion	movement	move	motility
+document	text	textual_matter
+consequence	effect	outcome	result	event	issue	upshot
+prison_term	sentence	time
+guidance	counsel	counseling	counselling	direction
+management
+understanding	apprehension	discernment	savvy
+politeness	civility
+somesthesia	somaesthesia	somatesthesia	somatic_sensation
+happening	occurrence	occurrent	natural_event
+change
+signal	signaling	sign
+completion	culmination	closing	windup	mop_up
+punishment	penalty	penalization	penalisation
+differentiation	distinction
+external_body_part
+body
+happening	occurrence	occurrent	natural_event
+texture
+inclination	disposition	tendency
+use	usage	utilization	utilisation	employment	exercise
+turn	turning
+cognition	knowledge	noesis
+tone	tone_of_voice
+opportunity	chance
+image	mental_image
+amount
+drink
+nutriment	nourishment	nutrition	sustenance	aliment	alimentation	victuals
+longness
+attempt	effort	endeavor	endeavour	try
+involvement
+opening
+cloth_covering
+change_of_state
+state
+product	production
+cognition	knowledge	noesis
+decrease	decrement
+impression	effect
+state
+juncture	occasion
+lover
+attempt	effort	endeavor	endeavour	try
+legal_document	legal_instrument	official_document	instrument
+magnitude
+noise	interference	disturbance
+appearance	visual_aspect
+happening	occurrence	occurrent	natural_event
+involvement
+arrival
+resource
+table
+action	activity	activeness
+meaning	significance	signification	import
+material	stuff
+position	place
+succession
+striker
+state
+experiment	experimentation
+concealment	concealing	hiding
+show
+measure	quantity	amount
+living_thing	animate_thing
+change	alteration	modification
+impression	feeling	belief	notion	opinion
+leader
+formation
+part	portion
+attack
+object	physical_object
