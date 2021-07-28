@@ -568,7 +568,7 @@ smoke	5	his dreams all turned to smoke
 copy	4	the clone was a copy of its ancestor
 luck	1	bad luck caused his downfall
 stay	4	they had a nice stay in Paris
-principle	2	Bernoulli 's principle ; The http://en.wikipedia.org/wiki/Pauli_exclusion_principle Pauli Exclusion Principle prevents two fermions from occupying the same state . The principle of the internal combustion engine
+principle	2	Bernoulli 's principle ; The Pauli Exclusion Principle prevents two fermions from occupying the same state . The principle of the internal combustion engine
 grain	1	A grain of sand
 likelihood	2	In all likelihood the meeting will be cancelled .
 life	4	He gave up on life .
@@ -1210,6 +1210,7 @@ line	5	they attacked the enemy 's line
 size	3	that 's the size of the situation
 matter	1	Printed matter ; He always took some reading matter with him on the plane .
 case	5	it may rain in which case the picnic will be canceled
+head	1	the head of the page
 stuff	3	there 's good stuff in that book
 hold	3	he has a hold over them
 reason	1	the reason a steady state was never reached was that the back pressure built up too slowly
@@ -1218,14 +1219,20 @@ part	6	he tried to sing the tenor part
 push	6	he gave the door a hard push
 invitation	3	she threw the invitation away
 presence	3	he sensed the presence of danger
+check	6	he paid all his bills by check
 play	4	they made a futile play for power
 third	3	he is playing third
+make	1	what make of car is that ?
 left	2	take a left at the corner
 operation	2	the cognitive operation of remembering
+time	7	he was a great actor in his time
+number	1	the number of parameters is small
 touch	5	this dish could use a touch of garlic
 neighborhood	8	he always blames someone else in the immediate neighborhood
+life	0	life depends on many chemical and physical processes
 shock	8	loss of blood is an important cause of shock
 way	4	did n't know the way home
+play	6	We saw a two - act play in the theatre .
 head	6	This song keeps going through my head .
 play	3	they gave full play to the artist 's talent
 sound	1	the sound awakened them
@@ -1236,6 +1243,7 @@ occasion	1	an occasion arranged to honor the president
 confidence	0	confidence is always borrowed , never owned
 soul	1	the soul of honor
 effect	2	the magnetic effect was greater when the rod was lengthwise
+sale	4	He celebrated after the sale of company .
 business	2	Government and business could not agree
 make	1	What make of car do you drive ?
 panel	2	Today 's panel includes John Smith .
@@ -1247,14 +1255,18 @@ taste	4	arrogance and lack of taste contributed to his rapid success
 corner	5	a piano was in one corner of the room
 end	10	the so - called glorious experiment came to an inglorious end
 degree	2	a remarkable degree of frankness
+crack	4	Open the door a crack .
 pledge	4	his saxophone was in pledge
 position	6	atheists do not enjoy a favorable position in American life
 light	3	there was a light at every corner
+difference	6	It just wo n't make much difference to me .
 catch	3	There was a catch in his voice when he spoke his father 's name .
 respect	3	she lost all respect for him
 part	5	he wanted to feel a part of something bigger than himself
 pursuit	1	the pursuit of love
+run	4	He can have the run of the house .
 civilization	7	the people slowly progressed from barbarism to civilization
+line	2	toe the line
 interest	5	He has a lot of interest in vintage cars .
 corner	2	The chimney corner was full of cobwebs .
 movement	2	the second movement is slow and melodic
@@ -1262,7 +1274,10 @@ chance	3	you take a chance when you let her drive
 head	5	they say he gives good head
 goal	2	the winning goal came with less than a minute left to play
 excuse	2	a poor excuse for an automobile
+point	4	she walked to a point where she could survey the whole street
+sense	1	a sense of happiness
 course	1	the course of the river
+floor	2	The pit floor showed where a ring of post holes had been .
 tension	4	the direction of maximum tension moves asymptotically toward the direction of the shear
 quality	10	Membership of this golf club is limited to those of quality and wealth .
 action	7	his novels always have a lot of action
@@ -1271,6 +1286,7 @@ difference	9	You need to learn to be more tolerant of difference .
 point	3	get to the point
 tea	7	Go to the supermarket and buy some tea .
 number	4	he has an unlisted number
+line	4	the cast stood in line for the curtain call
 post	3	he occupied a post in the treasury
 stick	6	the policy so far is all stick and no carrot
 stand	2	a bedside stand
@@ -1301,6 +1317,8 @@ explosion	1	the explosion was heard a mile away
 flare	3	he threw a flare to the fullback who was tackled for a loss
 presence	7	I 'm convinced that there was a presence in that building that I ca n't explain , which led to my heroic actions .
 presentation	3	he prepared his presentation carefully in advance
+block	4	he held a large block of the company 's stock
+air	1	an air of mystery
 variety	3	the range and variety of his work is amazing
 book	5	I am reading a good book on economics
 tip	3	he got a tip on the stock market
@@ -1314,7 +1332,9 @@ bite	1	the bite of satire
 tramp	2	a homeless tramp
 court	5	players had to reserve a court in advance
 bed	8	slices of hard - boiled egg on a bed of spinach
+defense	0	defense against hurricanes is an urgent problem
 stretch	1	a stretch of clear water
+time	9	The judge leniently granted a sentence with no hard time . He is not living at home because he is doing time .
 run	9	she broke the record for the half - mile run
 heart	5	you have n't got the heart for baseball
 wear	4	the tires showed uneven wear
@@ -1326,46 +1346,61 @@ action	2	A rifle action
 feeling	4	I had a strange feeling in my leg
 academy	2	The military academy at West Point ; a riding academy ; the Academy of Music .
 energy	0	energy can take a wide variety of forms
+breath	4	I could hear the breath of the runner behind me .
 break	1	the break seems to have been caused by a fall
 hand	3	on the one hand ... , but on the other hand ...
+thing	4	to say the same thing in other terms
 score	11	he tried to blame the victim but his success on that score was doubtful
 sign	3	charges of opposite sign
 excuse	4	He 's a sorry excuse of a doctor .
 head	5	tickets are $ 5 per head
 note	3	there was a note of uncertainty in his voice
 surprise	1	The surprise attack was devastating .
+score	2	settling a score
 pass	7	the plane turned to make a second pass
 call	6	he was ejected for protesting the call
+quality	10	Membership of this golf club is limited to those of quality and wealth .
 case	3	it was a case of bad judgment
 leave	3	he took his leave
 life	3	pottery was his life
 eye	5	he tried to catch her eye
+head	6	This song keeps going through my head .
 lot	4	they were an angry lot
 control	3	he had lost control of his sphincters
 field	10	There are several species of wild flowers growing in this field .
 recognition	2	a sudden recognition of the problem he faced
+orbit	3	The Moon 's orbit around the Earth takes nearly one month to complete .
 set	7	his instructions deliberately gave them the wrong set
 head	7	I 've got to go to the head .
 development	1	the development and printing of his pictures took only two hours
+head	1	a head of lettuce
+life	6	he lived a long and happy life
 support	6	the statue stood on a marble support
+interpreter	5	she was famous as an interpreter of Shakespearean roles
 trust	5	He needs to regain her trust if he is ever going to win her back .
 authority	0	authority for the program was renewed several times
 picture	2	the political picture is favorable
 dip	3	there was a dip in the road
 patch	2	a briar patch
+head	1	200 head of cattle and 50 head of horses
 land	4	he returned to the land of his birth
 recognition	9	He looked at her for ten full minutes before recognition dawned .
+line	2	toe the line
 softness	6	suddenly her gigantic power melted into softness for the baby
+head	4	matters came to a head yesterday
 thing	6	I could n't tell what the thing was
 shag	4	the dog 's woolly shag
 shower	8	Would male strippers be appropriate for the divorce shower ?
+voice	1	the voice of the law
 figure	1	a figure of $ 17 was suggested
 time	10	Time stops for nobody . the ebb and flow of time
 history	1	a history of France
+head	1	200 head of cattle
 head	1	the head of the whole operation
 life	5	the battery had a short life
 wall	6	competition was pushing them to the wall
 book	3	he bought a book of stamps
+hand	2	a ranch hand
 slot	7	the TV program has a new time slot
 force	1	A force out was recorded on the scorecard .
 ease	6	they put it into containers for ease of transportation
@@ -1374,54 +1409,82 @@ life	5	he hoped for a new life in Australia
 load	5	I 'm worried that the load on that transformer will be too high .
 control	3	measures for the control of disease
 number	7	this sweater is an all - wool number
+cut	4	The lawyer took a cut of the profits .
 place	5	If you were in my place what would you do ?
 production	6	she tends to make a big production out of nothing
+side	5	it brought out his better side
 organ	11	Georgie Fame plays all types of keyboards including electric piano , organ , and Hammond organ .
 run	3	Nicklaus had a run of birdies
 reaction	2	a bad reaction to the medicine
+face	1	the face of the city is changing
 face	5	He 's always stuffing his face with chips .
 score	3	what was your score on your homework ?
 eye	7	the thread would n't go through the eye
 check	1	a check on its dependability under stress
 head	2	under the head of minor Roman poets
 run	5	Let 's go for a run in the car .
+direction	2	is the direction of the economy a function of government ?
+time	4	We had a wonderful time at the party .
+subject	2	Her favorite subject is physics .
 table	4	it was a sturdy table
 line	3	drop me a line when you get there
 shower	5	her friends organized a baby shower for her when she was expecting
+production	1	the production of white blood cells
+song	1	the song of bullets was in the air
+play	5	the ball was still in play
 play	4	there was too much play in the steering wheel
 vanilla	12	You can tell that the secret ingredient missing from New CokeTM was vanilla , because certain South American economies collapsed when it was introduced , and miraculously revived when the old formula was used again .
 movement	6	politicians have to respect a mass movement
 air	4	she was humming an air from Beethoven
 force	2	a public force is necessary to give security to the rights of citizens
+wall	1	a wall of prejudice
 nomination	2	the Republican nomination for Governor
 center	1	Shopping center
 reversal	3	there was a reversal of autonomic function
+run	3	Nicklaus had a run of birdies
+letter	1	The letter of a room
 head	1	The head of the compass needle is pointing due north .
 resistance	6	he encountered a general feeling of resistance from many citizens
 side	7	The patient was bleeding on the right side .
+head	1	The head of the compass needle is pointing due north .
 return	12	his gross income was enough that he had to file a tax return
 treasure	4	the pirates hid their treasure on a small island in the West Indies
 finish	10	when these final episodes are broadcast it will be the finish of the show
+account	1	An account of a battle .
+quality	3	a man of quality
 number	7	I hope to become one of their number before I die
 reason	1	the reason that war was declared
 wing	4	they are the progressive wing of the Republican Party
+space	5	they stopped at an open space in the jungle
 point	5	Cut the skin with the point of the knife .
+life	6	he wanted to live his own life without interference from others
 third	13	he answered the first question willingly , the second reluctantly , and the third with resentment
 bit	3	in just a bit
+head	6	At five years of age this head of cattle is worth perhaps $ 40
+operation	2	a multinational operation
+place	3	he overstepped his place
 pull	1	the pull up the hill had him breathing harder
 restraint	2	the unlawful restraint of trade
+space	8	they tested his ability to locate objects in space
+authority	2	Respect my authority !
 foot	4	We went there by foot because we could not afford a taxi .
 sight	1	the sight of his wife brought him back to reality
 play	5	it was all done in play
+head	1	200 head of cattle and 50 head of horses
 shot	1	The shot was wide off the mark .
 union	4	lightning produced an unusual union of the metals
 space	5	it all happened in the space of 10 minutes
 torrent	3	They endured a torrent of inquiries .
+place	1	a place in my heart
 touch	9	Suddenly , in the crowd , I felt a touch at my shoulder .
+point	4	life has lost its point
 bitch	3	Karma 's a bitch .
 mouth	5	the jar had a wide mouth
 mode	2	their nomadic mode of existence
+life	2	Get a life .
+construction	4	He had worked in construction all his life .
 bank	3	he operated a bank of switches
+head	1	The head of the compass needle is pointing due north .
 head	6	they tracked him back toward the head of the stream
 call	3	the salesman 's call on a customer
 economy	0	economy of effort
@@ -1434,38 +1497,58 @@ motion	5	the cinema relies on apparent motion
 defense	1	in defense he said the other man started it
 field	6	He was an expert in the field of Chinese history .
 line	2	a washing line
+school	2	the whole school turned out for the game
 system	5	they had to devise a system that did not depend on cooperation
 youth	1	Her youth and beauty is what attracted him to her .
+number	5	she preferred the black nylon number
 study	4	he is a quick study
 order	4	men from the fraternal order will staff the soup kitchen today
 peace	8	Our lounge strives to maintain an environment of peace for the comfort of our customers .
+field	8	A crop circle was made in a corn field .
 return	1	in return we gave them as good as we got
+loss	6	The match ended in their first loss of the season .
 support	6	he applied to the state for support
 pain	1	the pain of loneliness
 implication	4	he was suspected of implication in several robberies
+head	1	200 head of cattle
+connection	4	My headache has no connection with me going out last night .
+play	5	the ball was still in play
+play	4	there was too much play in the steering wheel
+business	3	a racially integrated business concern
+lead	9	we were just waiting for someone to take the lead
+recognition	9	He looked at her for ten full minutes before recognition dawned .
 head	1	a head of steam
+air	4	she was humming an air from Beethoven
+head	5	his horse won by a head
 operation	5	a large - scale farming operation
 point	8	We should meet at a pre - arranged point .
 conclusion	1	his conclusion took the evidence into account
 par	0	par for this course is 72
 floor	2	the whole floor complained about the lack of heat
+case	5	it may rain in which case the picnic will be canceled
 house	1	the house gets a percentage of every bet
+point	5	Cut the skin with the point of the knife .
 class	15	Apologizing for losing your temper , even though you were badly provoked , showed real class .
 shock	5	the armies met in the shock of battle
+time	7	he was a great actor in his time
 trouble	4	he won without any trouble
 shower	7	Her church group has planned an adoption shower .
 competition	5	The newspaper is featuring a competition to win a car .
 touch	5	this piano has a wonderful touch
 air	5	the program was on the air from 9 til midnight
+trade	7	they are accused of conspiring to constrain trade
 shrinkage	8	the material lost 2 inches per yard in shrinkage
 movement	9	the succession of flashing lights gave an illusion of movement
+notice	1	a notice of sale
 object	2	the sole object of her trip was to see her children
+line	4	the cast stood in line for the curtain call
 date	1	his date never stopped talking
 lift	2	Take the lift to the fourth floor .
 cost	2	The average cost of a new house is twice as much as t was 20 years ago .
 top	7	the title should be written at the top of the first page
 defense	4	he offered a persuasive defense of the theory
 utility	4	a computer system provides utility programs to perform the tasks needed by most users
+head	5	tickets are $ 5 per head
 end	1	one end of the box was marked ` This side up '
 reflection	6	The dog barked at his own reflection in the mirror .
 cut	4	That 's our finest cut of meat .
@@ -1480,17 +1563,27 @@ picture	2	the very picture of a modern general
 charge	5	this cartridge has a powder charge of 50 grains
 point	3	what is the point of discussing it ?
 unit	4	the team is a unit
+water	5	they were sitting by the water 's edge
 eye	4	they were in the eye of the storm
 talk	3	there has been talk about you lately
+head	6	At five years of age this head of cattle is worth perhaps $ 40
+bed	8	slices of hard - boiled egg on a bed of spinach
+cup	3	he drank a cup of coffee
 foot	6	I 'll meet you at the foot of the stairs .
 face	2	an angry face
+head	7	I 've got to go to the head .
 key	5	he spoke in a low key
 thrust	1	the thrust of the jet engines
+foot	4	armored from head to foot
 hand	2	the big hand counts the minutes
+wall	1	a wall of water
 path	6	the hurricane demolished houses in its path
+time	3	See you another time ; that 's three times he 's made the same mistake
 film	6	the table was covered with a film of dust
 civilization	7	he is remembered for his generosity and civilization
 opening	1	the opening received good critical reviews
+product	3	they improve their product every year
+neighborhood	1	my neighborhood voted for Bush
 deference	1	his deference to her wishes was very flattering
 pottery	5	The shelves were lined with pottery of all shapes and sizes .
 place	11	We thought we would win but only ended up in fourth place .
@@ -1498,11 +1591,20 @@ finish	2	his best finish in a major tournament was third
 point	6	he held me up at the point of a gun
 stress	4	Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .
 office	4	An executive or judical office ; a municipal office
+top	6	he stared as she buttoned her top
+finish	6	it was a fight to the finish
+skeleton	5	the battalion was a mere skeleton of its former self
+waste	3	much of the waste material is carried off in the sewers
+floor	8	we spread our sleeping bags on the dry floor of the tent
+action	2	A rifle action
 facility	5	he was famous for his facility as an archer
+unit	2	change per unit volume
 court	7	the king will visit the duke 's court
 element	3	water is the element of fishes
 ball	1	a ball of mud caught him on the shoulder
+score	11	he tried to blame the victim but his success on that score was doubtful
 art	1	an art exhibition
+inventory	10	they stopped selling in exact sizes in order to reduce inventory
 demand	4	the automobile reduced the demand for buggywhips
 piece	2	an important piece of the evidence
 work	1	the work of an active imagination
@@ -1510,22 +1612,29 @@ place	1	your place or mine ?
 course	5	the government took a firm course
 tail	4	Most primates have a tail and fangs .
 loss	5	the company operated at a loss last year
+point	4	To fall off a point
 setup	6	it takes time to learn the setup around here
 dip	5	I 'm going for a dip before breakfast .
 connection	3	there was a connection between eating that pickle and having that nightmare
+case	7	The teaching consists of theory lessons and case studies .
+place	1	your place or mine ?
 respect	10	He is an intellectual giant , and I have great respect for him .
 volume	8	The letter " G " was found in volume 4 .
 fall	12	when that became known the price of their stock went into free fall
 population	1	The population of New Jersey will not stand for this !
 line	4	there is a narrow line between sanity and insanity
 copy	3	catastrophes make good copy
+leave	3	she was granted leave to speak
 mouth	3	he stuffed his mouth with candy
 lift	7	some actresses have more than one face lift
 way	7	they did n't have much in the way of clothing
+slip	8	She could n't hurt a fly , young slip of a girl that she is .
 finish	9	the wine has a nutty flavor and a pleasant finish
 hand	3	give me a hand with the chores
+deal	4	it was a package deal
 fatigue	1	metal fatigue
 formation	1	the formation of sentences
+business	2	We do business all over the world .
 work	6	he was indebted to the pioneering work of John Dewey
 sum	1	the sum of all our troubles did not equal the misery they suffered
 song	4	I love hearing the song of canary birds .
@@ -1538,24 +1647,37 @@ hit	8	Where am I going to get my next hit ?
 recognition	2	give her recognition for trying
 light	4	he stepped into the light
 interest	3	in the common interest
+period	2	hastened the period of time of his recovery
 deal	1	a deal of trouble
 snap	5	he gave his fingers a snap
 shot	6	he left me an almost impossible shot
+end	1	one end of the box was marked ` This side up '
 work	8	mastering a second language requires a lot of work
+trust	5	He needs to regain her trust if he is ever going to win her back .
+tea	0	tea has fragrant white flowers
 stage	3	it set the stage for peaceful negotiations
 stone	6	he must have a heart of stone
 set	1	the set of prime numbers is infinite
 fatigue	5	he was hospitalized for extreme fatigue
 separation	1	the separation of wheat from chaff
+competition	5	The newspaper is featuring a competition to win a car .
+place	8	Do you want to come over to my place later ?
+drop	1	a drop of each sample was analyzed
 charge	5	he was arrested on a charge of larceny
 life	1	The life of this milk carton may be thousands of years in this landfill .
 stage	1	The stage pulled into town carrying the payroll for the mill and three ladies .
+life	5	he hoped for a new life in Australia
+light	2	Put that light out !
 shot	2	his parting shot was ` drop dead '
 line	2	a nice line of shoes
 number	10	in English the subject and the verb must agree in number
 air	8	if you 've time to spare go by air
+key	1	the key to development is economic integration
 coverage	6	they accused the paper of biased coverage of race relations
+opening	1	the opening received good critical reviews
 etiolation	1	his etiolation signaled years in prison
+tea	0	tea has fragrant white flowers
+side	6	he had a pain in his side
 voice	14	O Marcus , I am warm'd ; my heart Leaps at the trumpet 's voice . —
 action	3	a man of action
 ball	5	he played with his rubber ball in the bathtub
@@ -1564,16 +1686,27 @@ extension	1	the extension of ` satellite of Mars ' is the set containing only De
 work	0	work equals force times distance
 rock	4	that mountain is solid rock
 play	8	insiders said the company 's stock was in play
+reaction	12	When I last tried to eat strawberries I had a terrible allergic reaction .
 trust	8	the doctor - patient relationship is based on trust
 piece	7	it is not known who created this piece
 price	1	what price glory ?
 start	4	they got an early start
+marriage	4	a long and happy marriage
+scene	5	The crazy lady made a scene in the grocery store .
 baby	4	this project is his baby
 account	4	he gave an inaccurate account of the plot to kill the president
+place	8	Do you want to come over to my place later ?
 development	1	the development of Alaskan resources
+line	2	A dedicated line
+trial	1	a trial of progesterone failed to relieve the pain
+grace	5	it was debated whether saving grace could be obtained outside the membership of the church
+return	1	in return we gave them as good as we got
 course	3	he took a course in basket weaving
 round	3	there was a round of applause
+break	1	the break seems to have been caused by a fall
+wall	5	negotiations ran into a brick wall
 court	1	The court is now in session .
+shot	2	his parting shot was ` drop dead '
 volume	1	The volume of ticket sales decreased this week .
 motion	3	police controlled the motion of the crowd
 detail	5	the essay contained too much detail
@@ -1582,26 +1715,43 @@ bit	3	he had a bit of good luck
 change	3	she brought a change in her overnight bag
 misery	1	the misery and wretchedness of those slums is intolerable
 disposition	4	a swelling with a disposition to rupture
+unit	6	the dollar is the United States unit of currency
 order	4	The house is in order ; the machinery is out of order .
 feeling	4	he had a great feeling for music
 rule	1	the rule of St. Dominic
 double	8	his first job in Hollywood was as a double for Clark Gable
 community	9	the preachers and the bootleggers found they had a community of interests
+head	7	We will consider performance issues under the head of future improvements .
 wall	5	his back was to the wall
 extension	6	most BASIC files use the filename extension .BAS
+time	10	Time stops for nobody . the ebb and flow of time
 bar	10	it was an excellent kick but the ball hit the bar
+charge	5	this cartridge has a powder charge of 50 grains
+field	10	There are several species of wild flowers growing in this field .
 life	13	Having experienced both , the vampire decided that he preferred ( un)death to life .
+order	6	the machine is now in working order
 back	1	his back was nicely tanned
+head	1	200 head of cattle
 leave	4	a ten day 's leave to visit his mother
 concatenation	6	it was caused by an improbable concatenation of circumstances
 line	5	I ca n't follow your line of reasoning
+head	3	She gave great head .
 picture	8	they could still receive the sound but the picture was gone
+head	5	they say he gives good head
+stick	6	the policy so far is all stick and no carrot
+line	1	the line stretched clear around the corner
 law	3	there is a law against kidnapping
 splash	7	her red hat gave her outfit a splash of color
+canvas	5	the movie demanded a dramatic canvas of sound
 identity	2	Simply an identity element if both are true
+shopping	3	she loaded her shopping into the car"women carrying home shopping did n't give me a second glance
+number	1	the number of parameters is small
 check	6	he asked the waiter for the check
 tendency	3	fabric with a tendency to shrink
+block	4	he held a large block of the company 's stock
+business	3	a racially integrated business concern
 unit	5	an idea is not a unit that can be moved from one brain to another
+product	16	That store offers a variety of products . We 've got to sell a lot of product by the end of the month .
 plot	7	the characters were well drawn but the plot was banal
 heart	5	a five - pound beef heart will serve six
 confidence	2	I have confidence in our team
@@ -1610,26 +1760,36 @@ application	2	a novel application of electronics to medical diagnosis
 term	2	the general term of an algebraic equation of the n - th degree
 set	4	he gave a final set to his hat
 draft	4	they served beer on draft
+school	1	the school was built in 1932
 head	1	the head of a comet
 faith	3	he cherished the faith of a good woman
+appearance	4	A person makes his appearance as an historian , an artist , or an orator .
 vocabulary	2	My Russian vocabulary is very limited .
 end	1	the end of the year
+charge	5	he was arrested on a charge of larceny
 coast	2	The rocky coast of Maine has few beaches .
 round	1	The round of the seasons ; a round of pleasures
 breath	2	not a breath of scandal ever touched her
 trend	1	The trend of a coastline ; the upward trend of stock - market prices
 death	5	he seemed more content in death than he had ever been in life
 fire	2	hold your fire until you can see the whites of their eyes
+block	9	The store is huge , occupying an entire city block .
 grace	7	It has become less common to say grace before having dinner .
+life	1	The life of this milk carton may be thousands of years in this landfill .
+head	5	tickets are $ 5 per head
 case	14	for English , a compositor will ordinarily have two such cases , the upper case containing the capitals and the lower case containing the small letters
 delivery	4	she had a difficult delivery
+face	4	dew dripped from the face of the leaf
 pass	3	he had a pass for three days
 mess	5	My boss dumped a whole mess of projects on my desk today .
 identity	4	you can lose your identity when you join the army
 head	9	Be careful when you pet that dog on the head ; it may bite .
+confidence	0	confidence is always borrowed , never owned
 catch	7	it sounds good but what 's the catch ?
 hum	4	there is a constant hum of military preparation
+draft	4	they served beer on draft
 token	9	According to the Bible , the rainbow is a token of God 's covenant with Noah .
+place	11	We thought we would win but only ended up in fourth place .
 hold	3	Keep a firm hold on the handlebars .
 death	1	her death came as a terrible shock
 cut	4	he took a vicious cut at the ball
@@ -1646,23 +1806,43 @@ title	11	the professor did n't like his friends to use his formal title
 operation	7	the power of its engine determines its operation
 head	5	the beer had a large head of foam
 house	4	the children were playing house
+action	7	his novels always have a lot of action
 base	1	the base of the triangle
+fit	1	a fit of coughing
+component	1	a component or constituent element of a system
+audience	4	every artist needs an audience
+field	5	The design needs to be field - tested before we commit to manufacture .
+field	8	the set of all rational numbers is a field
+check	6	he paid all his bills by check
+line	2	A dedicated line
 seat	5	he was elected to a seat in the Senate
+point	4	To fall off a point
 inclusion	3	he admired the inclusion of so many ideas in such a short work
 grain	5	saw the board across the grain
 spot	9	For our anniversary we went back to the same spot where we first met .
 title	2	A good title to an estate , or an imperfect title
 rank	6	his salary was determined by his rank and seniority
+touch	2	the cooling touch of the night air
+work	7	a lot of people are out of work
+number	7	I hope to become one of their number before I die
+air	6	he threw the ball into the air
+body	3	they found the body in the lake
 run	3	I have a run in my stocking .
 piece	5	He 's packin ' a piece !
 opening	3	there is an opening in the sales department
+home	5	there 's no place like home
 piece	6	I need to rest for a piece
 spin	9	One of the planet 's moons has a slower spin than the others .
 face	3	Why the sad face ?
+foot	3	he followed on foot
 swing	5	the party went with a swing
 line	4	they were arrayed in line of battle
+door	3	education is the door to success
+run	5	the team enjoyed a brief run of victories
 run	4	he broke into a run
+drink	5	Can I buy you a drink ?
 order	8	a friend in New Mexico said that the order caused no trouble out there
+baby	4	this project is his baby
 top	7	a relief pitcher took over in the top of the fifth
 richness	6	the fire - light gave a richness of coloring to that side of the room
 union	1	the union of opposing factions
@@ -1670,24 +1850,39 @@ life	2	he got life for killing the guard
 neck	5	the horse won by a neck
 way	4	if I had my way
 reaction	2	In this reaction , the acid and base will neutralize each other , producing a salt .
+stick	6	The recipe calls for half a stick of butter .
+finish	2	his best finish in a major tournament was third
+end	5	he came to a bad end
+charge	5	he was arrested on a charge of larceny
 body	1	the body of the car was badly rusted
 field	11	The set of rational numbers , \mathbbQ , is the prototypical field .
+line	4	they were arrayed in line of battle
 end	5	no one wanted to play end
 number	8	she refused to give them her Social Security number
+face	4	They climbed the north face of the mountain .
 line	4	he has a smooth line but I did n't fall for it
+head	3	She gave great head .
 extension	1	good extension comes from a combination of training and native ability
+play	3	they gave full play to the artist 's talent
 fun	5	they began to fight like fun
 circus	9	they used the elephants to help put up the circus
+key	5	some students had stolen the key to the final exam
+hand	3	give me a hand with the chores
+space	5	they stopped at an open space in the jungle
 hand	3	Give him a hand .
 support	5	his faith was all the support he needed
 run	4	the ship made its run in record time
 breath	2	his sour breath offended her
 charge	6	the battle began with a cavalry charge
 connection	1	The connection between overeating and obesity
+head	6	This song keeps going through my head .
 piece	6	the children acted out a comic piece to amuse the guests
 left	2	The political left is not holding enough power .
+outwardness	6	what is the origin of the outwardness of our sensations of sound , smell , or taste
 fringe	1	The fringe of a picture
+opening	1	the opening received good critical reviews
 subscription	2	My library subscription is about to expire .
+light	3	can you shed light on this problem ?
 trouble	5	he got several girls in trouble
 trial	6	a sample for ten days free trial
 attendance	2	John 's attendance for the conventions was not good .
@@ -1695,69 +1890,114 @@ estimate	1	an estimate of what it would cost
 trial	5	candidates must compete in a trial of skill
 head	2	Tap the head of the drum for this roll .
 play	1	the play lasted two hours
+side	5	he is on the purchasing side of the business
+head	3	She gave great head .
+side	5	it brought out his better side
 example	6	but there is always the famous example of the Smiths
 excitement	5	he could hardly conceal his excitement when she agreed
+touch	5	this dish could use a touch of garlic
 point	1	a point of information
 finish	4	booze will be the finish of him
+call	4	he placed a phone call to London
+life	3	while there 's life there 's hope
 deal	7	he 's a master of the business deal
+end	1	the end of the year
 crack	5	he opened the window a crack
 lead	5	the children were playing with lead soldiers
+mouth	4	he rode into the mouth of the canyon
 industry	1	American industry is making increased use of computers to control production
+operation	2	the cognitive operation of remembering
+product	4	his reaction was the product of hunger and fatigue
+stuff	4	What is all that stuff on your bedroom floor ?
 foot	1	one foot of the chair was on the carpet
 cut	1	the cut from the accident scene to the hospital seemed too abrupt
+seat	5	he was elected to a seat in the Senate
+play	5	the ball was still in play
 mouth	5	she wiped lipstick from her mouth
+action	3	a man of action
 bar	10	he bought a hot dog and a coke at the bar
 bed	2	the track bed had washed away
 strength	1	the strength of the company 's stock in recent weeks
 point	4	10.5 ( " ten point five " ; = ten and a half )
 motion	2	the reflex motion of his eyebrows revealed his surprise
 region	4	here we enter the region of opinion
+way	4	if I had my way
 degree	3	he earned his degree at Princeton summa cum laude
+business	7	They did nearly a million dollars of business over the long weekend .
 back	1	the back of the dental chair was adjustable
 rest	6	I need to get a good rest tonight ; I was up late last night .
 age	6	it was replaced because of its age
+pocket	5	the trapped miners found a pocket of air
 head	1	the head of the hammer
 limit	8	The sequence of reciprocals has zero as its limit .
 school	3	he walked to school every morning
 view	5	they were soon out of view
 operation	3	the plane 's operation in high winds
 top	2	only the top side of the box was painted
+line	9	I tried to make a call , but the line was dead .
 tension	6	he suffered from fatigue and emotional tension
 color	4	she used a different color for the trim
 edge	4	his voice had an edge to it
+top	2	only the top side of the box was painted
+head	1	the head of a comet
 conflict	1	The conflict between the government and the rebels began three years ago .
+rotation	8	The medical resident finished a two - week rotation in pediatrics and began one in orthopaedics .
 history	3	all of human history
+order	4	it was on the order of a mile
 weapon	13	The club that is now mostly used for golf was once a common weapon .
 performance	5	we congratulated him on his performance at the rehearsal
 trust	7	he is the beneficiary of a generous trust set up by his father
+time	10	Time stops for nobody . the ebb and flow of time
+rest	14	Now that we 're all in agreement , we can put that issue to rest .
 bank	6	he cashed a check at the bank
+movement	2	the second movement is slow and melodic
+action	2	recent federal action undermined the segregationist position
+split	6	he inserted the wedge into a split in the log
+right	4	he writes with his right hand but pitches with his left
 course	1	the course was less than a mile
+range	7	the plains lay just beyond the mountain range
 splash	3	I heard a splash when the rock landed in the pond .
+authority	4	The world 's foremost authority on orangutans
 stand	4	They took a firm stand against copyright infringement .
+line	1	the line stretched clear around the corner
 figure	1	the figure was about a thousand
+head	2	Tap the head of the drum for this roll .
 head	1	a head of cauliflower
+line	5	Please speak up , the line is very faint .
 contact	7	they claimed that they had been in contact with extraterrestrial beings
 loss	6	It was written off as a loss .
 inwardness	0	inwardness is what an Englishman quite simply has , painlessly , as a birthright
 confidence	6	after that failure he lost his confidence
 grip	4	they kept a firm grip on the two top priorities
+light	4	he stepped into the light
 life	5	the oceans are teeming with life
 order	3	IBM received an order for a hundred computers
+lead	6	the police are following a promising lead
+time	9	The judge leniently granted a sentence with no hard time . He is not living at home because he is doing time .
 piece	4	it was a nice piece of work
 softness	10	orders have recently picked up after a period of extreme softness
 sense	3	A keen musical sense
 order	1	the order of Saint Benedict
+side	5	he was on the heavy side
 ball	1	the ball was already emptying out before the fire alarm sounded
 damage	6	The storm did a lot of damage to the area .
 thing	1	a thing of the spirit
+book	5	I am reading a good book on economics
 charger	5	Put the batteries in the charger overnight so we can use them tomorrow .
+line	1	the line of soldiers advanced with their bayonets fixed
 score	3	he studied the score of the sonata
 picture	5	the author gives a depressing picture of life in Poland
 conflict	2	the familiar conflict between Republicans and Democrats
+audience	4	every artist needs an audience
+stretch	8	I was right in the middle of a stretch when the phone rang .
 gift	5	The office is in the gift of the President .
+seat	1	The seat of these trousers is almost worn through .
+hand	6	I did n't hold a good hand all evening
 escape	5	they tried to stop the escape of gas from the damaged pipe
 agonist	9	" when bending the elbow the biceps are the agonist "
+field	5	The design needs to be field - tested before we commit to manufacture .
 series	2	The harmonic series has been much studied .
+conflict	1	The conflict between the government and the rebels began three years ago .
 light	5	it brought the scandal to light
 engagement	5	We are enjoying a long engagement , but have n't yet set a date .
 face	1	The face of this company .
@@ -1767,67 +2007,118 @@ drop	8	it was a miracle that he survived the drop from that height
 connection	3	there was a connection via the internet
 place	7	he put the lamp back in its place
 poison	3	We used a poison to kill the weeds .
+interest	2	in the interest of safety
+light	7	Hey , buddy , you got a light ?
 area	4	it was a mountainous area
 division	4	Magnolias belong to the division Magnoliophyta .
 form	3	sculpture is a form of art
+head	1	the head of the list
+face	4	dew dripped from the face of the leaf
+head	1	the head of the nail " , " a pinhead is the head of a pin
+business	4	show me where the business was today
 light	7	although he saw it in a different light , he still did not understand
 complexion	2	A rugged complexion ; a sunburnt complexion
 contact	5	litmus paper turns red on contact with an acid
+unit	1	a unit of wheat is a bushel
 change	3	he attributed the change to their marriage
+touch	2	the cooling touch of the night air
+back	1	his back was nicely tanned
 vote	5	they are expecting a large vote
 certainty	4	his victory is a certainty
 ground	6	he dropped the logs on the ground
 way	2	a lonely way of life
+performance	3	they admired his performance under stress
+run	5	the team enjoyed a brief run of victories
+breath	2	not a breath of scandal ever touched her
+head	1	12 head of big cattle and 14 head of branded calves
 drag	4	peeling potatoes is a drag
+border	2	A solid border around a table of figures
 scene	3	he made a scene
+life	5	the oceans are teeming with life
+run	3	she got a run in her stocking
 path	1	The path of a meteor , of a caravan , or of a storm
+catch	7	it sounds good but what 's the catch ?
 camp	10	city kids get to see the country at a summer camp
+place	3	he overstepped his place
 section	1	a section of a fishing rod
+time	10	Time stops for nobody . the ebb and flow of time
 center	5	his stories made him the center of the party
+court	1	The court is now in session .
 story	6	Our shop was on the fourth story of the building , so we had to install an elevator .
+head	1	a head of steam
+finish	9	the wine has a nutty flavor and a pleasant finish
+voice	3	the wee small voice of conscience
+light	7	Hey , buddy , you got a light ?
 war	0	war was declared in November but actual fighting did not begin until the following spring
+run	7	the assembly line was on a 12-hour run
 treatment	1	his treatment of the race question is badly biased
 mouth	6	they built a fire at the mouth of the cave
+break	1	the break seems to have been caused by a fall
+interest	4	Victorian furniture is an interest of mine .
+time	1	the time of year for planting
+face	2	an angry face
+delivery	4	she had a difficult delivery
+case	3	it was a case of bad judgment
 opinion	9	Every man is a fool in some man 's opinion .
+head	5	tickets are $ 5 per head
 protection	3	he made trade protection a plank in the party platform
 respect	18	Syngman Rhee kept imprisoned the Dowager Queen Yun Empress Sunjeong of the Korean Empire for fear of the respect the people held for her .
 heart	3	he drew a heart and called it a valentine
 bull	3	he was a bull of a man
+line	2	a nice line of shoes
 play	4	it is still my play
 office	5	during his first year in office
 light	3	follow God 's light
 stock	8	the rifle had been fitted with a special stock
 bite	4	the government 's weekly bite from my paycheck
+face	6	Put a big sign on each face of the building that can be seen from the road .
 end	3	she knotted the end of the thread
 section	7	there are three synagogues in the Jewish section
 land	7	he made it the law of the land
+run	5	Let 's go for a run in the car .
 tension	0	tension holds the belt in the pulleys
 drive	1	his drive and energy exhausted his co - workers
+key	1	The key to winning a game
 model	3	The computer weather model did not correctly predict the path of the hurricane .
+play	1	the play lasted two hours
 call	6	after two raises there was a call
 art	6	he said that architecture is the art of wasting space beautifully
 line	6	you must wait in a long line at the checkout counter
 recognition	12	he was unable to make his motion because he could n't get recognition by the chairman
 hollow	7	he built himself a cabin in a hollow high up in the Appalachians
+set	1	a set of golf clubs
 despite	1	the despite in which outsiders were held is legendary
 point	2	at that point I had to leave
+top	3	he removed the top of the carton
+foot	4	armored from head to foot
+drink	5	Can I buy you a drink ?
 mixture	3	he drank a mixture of beer and lemonade
+point	2	at that point I had to leave
+ground	6	they fought to regain the lost ground
 advance	1	An advance in health or knowledge
 love	1	his love for his work
+head	1	the head of the whole operation
+way	4	did n't know the way home
 influence	4	used her parents ' influence to get the job
 notice	2	he gave notice two months before he moved
+number	1	every number has a unique position in the sequence
 howl	1	the howl of the wind made him restless
 element	4	a component or constituent element of a system
 corruption	0	corruption of a minor
+time	7	he was a great actor in his time
 liver	2	a high liver
+business	5	he bought his brother 's business
 background	13	they got a bad connection and could hardly hear one another over the background signals
 quotation	4	Let 's get a quotation for repairing the roof before we decide whether it 's worth doing .
+head	1	200 head of cattle and 50 head of horses
 disposition	4	he has a happy disposition
 point	5	they sailed south around the point
 stuff	2	it was stuff I had heard before
 love	3	A mother 's love is not easily shaken .
 addition	1	the addition of a leap day every four years
+unit	4	The centimetre is a unit of length .
 education	3	a girl 's education was less important than a boy 's
+head	1	a head of cauliflower
 fire	5	put the kettle on the fire
 satisfaction	7	the chef tasted the sauce with great satisfaction
 process	3	events now in process
@@ -1842,21 +2133,40 @@ heart	5	the child won everyone 's heart
 light	3	they saw the light of the beacon
 shock	5	whole fields of wheat in shock
 place	3	he lost his place on the page
+piece	7	it is not known who created this piece
+stuff	5	you do n't have the stuff to be a United States Marine
 bit	5	I 'd like a big bit of cake , please .
 passing	1	the passing of winter
 head	4	they were at the head of the attack
 fire	3	he went through fire and damnation
 light	4	he finally saw the light
 direction	4	they proposed a new direction for the firm
+foot	1	the foot of the list
 place	4	he has a special place in my thoughts
 submission	5	what was the date of submission of your proposal ?
 rule	3	it was his rule to take a walk before breakfast
+fire	3	he went through fire and damnation
+point	6	he held me up at the point of a gun
+head	2	under the head of minor Roman poets
 life	13	it was a heavy play and the actors tried in vain to give life to it
 restraint	5	dogs should be kept under restraint
+cut	4	he took a vicious cut at the ball
+weakness	8	In a small number of horses , muscle weakness may progress to paralysis .
+scene	3	The most moving scene is the final one , where he realizes he has wasted his whole life .
 question	8	His claim to the property has come under question .
+language	12	the speed with which a program can be executed depends on the language in which it is written
+account	8	he predicted that although it is of small account now it will rapidly increase in importance
+head	5	his horse won by a head
 run	7	the defensive line braced to stop the run
 source	3	Pittsburgh is the source of the Ohio River
+part	5	he wanted to feel a part of something bigger than himself
 level	6	the pictures were at the same level
+baby	6	The annual report has been my baby since September .
+line	1	the line stretched clear around the corner
+life	13	it was a heavy play and the actors tried in vain to give life to it
+wall	4	We 're adding another wall in this room during the remodeling .
+line	2	a washing line
+drop	1	a drop of each sample was analyzed
 application	6	it is a job requiring serious application
 beginning	5	he was responsible for the beginning of negotiations
 end	6	we have given it at the end of the section since it involves the calculus
@@ -1865,20 +2175,28 @@ respect	2	out of respect for his privacy
 grain	3	there was a grain of truth in what he said
 mouth	5	New York is at the mouth of the Hudson
 focus	5	the controversy brought clearly into focus an important difference of opinion
+support	6	the statue stood on a marble support
 base	1	the base of the lamp
 custody	6	He was mistreated while in police custody .
+space	5	they stopped at an open space in the jungle
 point	2	the main point on the agenda was taken up first
+light	4	do you have a light ?
 bank	6	the plane went into a steep bank
 knot	7	the saw buckled when it hit a knot
+hand	2	a ranch hand
 stock	4	they will cut round stock to 1-inch diameter
 feeling	3	he lost all feeling in his arm
 pain	4	the patient developed severe pain and distension
+head	3	he stuck his head out the window
 union	4	there is strength in union
 marriage	4	Pat and Leslie 's marriage to each other lasted forty years .
+connection	3	there was a connection via the internet
 meaning	3	What is the meaning of this proverb ?
 position	9	Stop running all over the field and play your position !
 cover	5	There 's a $ 15 cover tonight .
 fringe	1	Her fringe is so long it covers her eyes .
+drag	4	peeling potatoes is a drag
+order	4	it was on the order of a mile
 book	5	they run things by the book around here
 rest	7	the gun was steadied on a special rest
 preparation	8	the resolution of one dissonance is often the preparation for another dissonance
@@ -1887,47 +2205,85 @@ return	1	the return of spring
 slot	5	Bob Dylan occupied the top slot for several weeks
 development	9	The organism has reached a crucial stage in its development .
 opening	6	A salamander darted out of an opening in the rocks .
+head	1	the head of the list
 game	5	I saw through his little game from the start
 source	6	he spent hours looking for the source of that quotation
+head	4	matters came to a head yesterday
 heart	1	The heart and soul of any democracy is its electorate .
 life	6	I have known him all his life
+course	1	the course of the river
+head	1	12 head of big cattle and 14 head of branded calves
+song	1	the song of the wind
 touch	3	he got in touch with his colleagues
+set	7	his instructions deliberately gave them the wrong set
 warhorse	13	As he spoke , the knight - errant , who had remounted his warhorse , galloped forward to the royal stand , with a silken kerchief bound round his wounded arm . — Arthur Conan Doyle , The White Company , Chapter 26 .
 claim	1	his claim on her attentions
+end	5	he came to a bad end
+return	5	they set out on their return to the base camp
+place	5	If you were in my place what would you do ?
 degree	4	murder in the second degree
 break	5	he finally got his big break
+quality	1	the quality of students has risen
+foot	6	I 'll meet you at the foot of the stairs .
 change	8	I paid with a twenty and pocketed the change
+head	1	the head of the column advanced boldly
 surface	7	the facts had been brought to the surface
+quarter	3	it 's a quarter til 4
 wash	4	My jacket needs a wash .
 washout	12	it was several days after the storm before they could repair the washout and open the road
 head	4	he was at the head of the column
+piece	6	I need to rest for a piece
+position	8	Chief of Staff is the second - highest position in the army .
 matter	6	physicists study both the nature of matter and the forces which govern it
 lap	1	the lap of the shingles should be at least ten inches
 stopover	3	they made a stopover to visit their friends
+interest	5	He has a lot of interest in vintage cars .
+line	4	he has a smooth line but I did n't fall for it
+order	4	The house is in order ; the machinery is out of order .
 shot	3	he wanted a shot at the champion
 slot	5	he followed the deer 's slot over the soft turf to the edge of the trees
 place	4	this is a nice place for a picnic
 shock	4	he was numb with shock
+finish	3	The car 's finish was so shiny and new .
 breath	6	he was fighting to his last breath
 bar	5	he was admitted to the bar in New Jersey
 bit	1	a bit of lint
+term	2	a prison term
+line	5	I ca n't follow your line of reasoning
+air	0	air pollution
+head	4	matters came to a head yesterday
 spot	10	Would you like to come round on Sunday for a spot of lunch ?
 plane	5	he lived on a worldly plane
+pain	1	the pain of loneliness
 ceremony	1	a ceremony commemorating Pearl Harbor
+grain	5	he does not have a grain of sense
 night	5	How do you sleep at night when you attack your kids like that ! ?
 habit	3	she had a habit twirling the ends of her hair
+night	3	From noon till night
 step	4	it 's only a step to the drugstore
+light	4	he stepped into the light
 place	4	He comes from a place near Chicago
+practice	6	a hard theory to put into practice
+run	7	the defensive line braced to stop the run
+head	3	he stuck his head out the window
+feeling	5	the surface had a greasy feeling
+demand	4	the automobile reduced the demand for buggywhips
 realization	2	a growing realization of the risk involved
 step	5	he paused on the bottom step
+case	3	it was a case of bad judgment
 effect	4	she retained that bold effect in her reproductions of the original painting
 love	1	their love left them indifferent to their surroundings
 field	3	The farmer 's field was a civil war battleground , and relics such a minnie bullets were frequently found while plowing .
+part	6	they resisted every effort on his part
+head	1	a head of cauliflower
 faith	2	I have faith in the goodness of my fellow man .
+stuff	5	the trunk was full of stuff
 subject	4	I am a British subject .
 inclination	2	the alkaline inclination of the local waters
 emission	1	The emission of heat from a fire
 region	3	in the abdominal region
+face	4	They climbed the north face of the mountain .
+time	4	he waited a long time
 threat	1	his threat to kill me was quite explicit
 drive	6	he took the family for a drive in his new car
 run	15	He went to Las Vegas and spent all his money over a three - day run .
@@ -1935,30 +2291,53 @@ land	5	he built the house on land leased from the city
 return	2	on his return from Australia we gave him a welcoming party
 loss	0	loss of livestock left the rancher bankrupt
 nose	4	he ducked under the nose of the gun
+line	12	The answer to the comprehension question can be found in the third line of the accompanying text .
 position	5	moved from third to fifth position
+wall	2	the south wall had a small window
+term	2	the general term of an algebraic equation of the n - th degree
 bit	7	the horse was not accustomed to a bit
 reflection	2	After careful reflection , I have decided not to vote for that proposition .
+wall	2	the south wall had a small window
 meeting	4	there was an informal meeting in my living room
 impression	5	I wanted to create an impression of success
 study	9	he knocked lightly on the closed door of the study
+side	5	it brought out his better side
 audience	4	the broadcast reached an audience of millions
 number	3	he had a number of chores to do
+side	5	it brought out his better side
 book	4	he used a large book as a doorstop
 impression	5	the events left a permanent impression in his mind
+face	7	She wanted to wipe him off the face of the earth .
 line	5	he 's not in my line of business
+side	1	Which side of the tray shall I put it on ?
 mother	4	The lioness was a mother of four cubs .
+life	6	he wanted to live his own life without interference from others
 product	3	This is a product of lime and nitric acid .
+breath	4	he took a deep breath and dived into the pool
 dent	3	it made a dent in my bank account
 point	3	he missed the point of the joke
 form	4	his resentment took the form of extreme hostility
+touch	5	this piano has a wonderful touch
 block	11	I knew his name perfectly well but I had a temporary block
+unit	8	He was a member of a special police unit .
+time	4	We had a wonderful time at the party .
+hand	3	on the one hand ... , but on the other hand ...
+section	1	a section of a fishing rod
 space	5	write your name in the space provided
 stage	6	then we embarked on the second stage of our Caribbean cruise
+land	5	he built the house on land leased from the city
 lead	2	a good lead for a job
 difficulty	4	they agreed about the difficulty of the climb
+stream	0	stream of consciousness
 title	1	his title to fame
+head	6	A reduction in the assessment per head of sheep
+channel	1	a channel is typically what you rent from a telephone company
 lot	1	a lot of money
+head	4	they were at the head of the attack
+church	6	This building used to be a church before being converted into a library .
 branch	1	a branch of Congress
+unit	1	a unit of wheat is a bushel
+cycle	9	The " Ring of the Nibelung " is a cycle of four operas by Richard Wagner , the famous nineteenth - century German composer .
 dog	1	the dog barked all night
 touch	4	he longed for the touch of her hand
 luck	1	the luck of the Irish
@@ -1967,53 +2346,86 @@ art	0	art does not need to be innovative to be good
 course	4	The ship changed its course 15 degrees towards south .
 support	4	they called for artillery support
 lead	1	the lead was in the dummy
+application	2	a novel application of electronics to medical diagnosis
 beauty	5	Brigitte Bardot was a renowned beauty .
 glimpse	7	from the window he could catch a glimpse of the lake
 check	7	I summoned the waiter , paid the check , and hurried to leave .
 cover	1	the cover concealed their guns from enemy aircraft
 pain	5	Your mother is a right pain .
+leak	1	A leak in a roof
 drag	3	he took a drag on his cigarette and expelled the smoke slowly
+application	1	the application of indexes to tables of data
 glass	4	We looked through the glass to see stars .
+baby	3	When is your baby due ?
 length	3	he determined the length of the shortest line segment joining the two points
 party	1	the party of the first part
 practice	4	I took over his practice when he retired
+light	5	it brought the scandal to light
 orbit	5	he 's out of my orbit
 credit	4	That engineer is a credit to the team .
 devotion	1	the devotion of his time and wealth to science
 bed	6	My cat often sleeps on my bed .
 heart	2	in your heart you know it is true
+finish	10	when these final episodes are broadcast it will be the finish of the show
 safety	3	He ran to safety
 break	3	there was a break in the action when a player was hurt
+case	2	The accusative case canonically indicates a direct object . Latin has six cases , and remnants of a seventh .
 stage	14	an early movie simply showed a long kiss by two actors of the contemporary stage
+formation	1	a formation of planes
+head	5	the beer had a large head of foam
 movement	1	the movement of cargo onto the vessel
 line	3	He drew a line on the chart
+head	1	the head of the page
 wall	1	the wall followed the road
+space	5	it all happened in the space of 10 minutes
 period	5	in England they call a period a stop
+work	7	a lot of people are out of work
+body	8	Penny was in the scullery , pressing the body of her new dress .
 effect	5	he just did it for effect
+grain	1	A grain of sand
+head	1	The head of the compass needle is pointing due north .
+conflict	1	The conflict between the government and the rebels began three years ago .
+play	5	the ball was still in play
 order	4	Magnolias belong to the order Magnoliales .
 roll	1	The roll of a ball
 clap	12	If your dick has " the drip " you probably have the clap and need to go to the sex clinic .
+reason	1	the reason that war was declared
 leak	6	one of the tires developed a leak
+drop	3	he had a drop too much to drink
 day	4	every dog has his day
 vermin	7	he examined the child 's head for vermin
+field	6	He needs some time in the field before his judgment can be trusted .
 squeeze	4	increased expenses put a squeeze on profits
 space	5	the astronauts walked in outer space without a tether
 face	9	I wish I had seen the look on his face when he got the news
 day	3	he deserves his day in court
+image	7	the company tried to project an altruistic image
 trail	3	there as a trail of blood
 contact	0	contact with the pier scraped paint from the hull
 rest	4	he threw away the rest
+bit	6	I 'll be there in a bit ; I need to take care of something first . He was here just a bit ago , but it looks like he 's stepped out .
+hand	3	Give him a hand .
+call	6	he was ejected for protesting the call
 water	7	He showed me the river of living water , sparkling like crystal , flowing from the throne of God .
+cover	1	the cover concealed their guns from enemy aircraft
 taste	4	she enjoyed her brief taste of independence
+head	6	At five years of age this head of cattle is worth perhaps $ 40
+patch	2	a cabbage patch
 life	5	he appointed himself emperor for life
+right	3	You have no right to go through my personal diary .
+head	5	the beer had a large head of foam
+body	1	the body of the car was badly rusted
 structure	4	artists must study the structure of the human body
 control	1	the control condition was inappropriate for the conclusions he wished to draw
+head	5	the beer had a large head of foam
+way	4	if I had my way
 class	3	an emerging professional class
 third	9	he was cut down on a close play at third
 throw	5	the catcher made a good throw to second base
 limitation	6	it is growing rapidly with no limitation in sight
 break	1	the break in the dam threatened the valley
 system	9	we ca n't do it unless we establish some system around here
+head	1	a head of lettuce
 slack	5	suddenly they were in a slack and the water was motionless
 side	10	the hypotenuse of a right triangle is always the longest side
 name	3	halt in the name of the law
@@ -2027,95 +2439,157 @@ beachhead	9	the Germans were desperately trying to contain the Anzio beachhead
 number	1	a number 13 shoe
 office	2	being in office already gives a candidate a great advantage
 side	6	they always sat on the right side of the church
+snorter	6	The maths problem is a real snorter , is n't it ?
 floor	1	The floor of a cave served the refugees as a home .
+air	7	open a window and let in some air
 cut	3	everyone got a cut of the earnings
+face	9	I wish I had seen the look on his face when he got the news
 lead	4	he took a long lead off first
 series	2	a comedy series
 tongue	4	she has a glib tongue
 rate	2	the literacy rate
+softness	6	he attributes the disappointing results to softness in the economy
 canvas	2	the crowded canvas of history
+break	3	there was a break in the action when a player was hurt
+head	1	the head of a comet
 image	3	although her popular image was contrived it served to inspire music and pageantry
 fire	4	We sat around the fire singing songs and telling stories .
 note	3	there was a note of gaiety in her manner
+command	5	General Smith was placed in command .
 leak	5	I have to take a leak .
+part	6	they resisted every effort on his part
+degree	4	murder in the second degree
 center	1	Convention center
 case	2	a mental case
 section	7	he always turns first to the business section
 mercy	3	It was a mercy that we were not inside when the roof collapsed
 accord	3	we are in accord with your proposal
 shower	7	the game was interrupted by a brief shower
+death	1	The death of my grandmother saddened the whole family .
 trade	5	as they say in the trade
 authority	3	he is an authority on corporate law
 air	5	the house had a neglected air
+cover	5	There 's a $ 15 cover tonight .
+space	8	they tested his ability to locate objects in space
+head	5	the beer had a large head of foam
 mess	1	a mess of porridge
 court	4	The queen and her court traveled to the city to welcome back the soldiers .
 point	3	he stuck the point of the knife into a tree
 concern	9	the safety of the ship is the captain 's concern
+point	3	he stuck the point of the knife into a tree
 round	3	we enjoyed our round of the local bars
 stop	4	it came to a stop at the bottom of the hill
 pace	5	he lived at a fast pace
 voice	6	After the fire a still small voice . — 1 Kings 19:12
 solution	1	the solution took three hours
+union	4	there is strength in union
+head	1	the head of the hammer
+color	4	she used a different color for the trim
 extension	4	the wire has an extension of 50 feet
+waste	3	much of the waste material is carried off in the sewers
 movement	4	he had a bowel movement
 cut	2	the unkindest cut of all
 company	10	the room was a mess because he had n't expected company
+note	14	I did n't have any coins to pay with , so I used a note .
 member	3	Canada is a member of the United Nations
+point	5	they sailed south around the point
+rest	5	The ocean was finally at rest .
 silence	2	he needed silence in order to sleep
+strength	1	the strength of the company 's stock in recent weeks
 account	9	he asked to see the executive who handled his account
 fire	3	There was a fire at the school last night and the whole place burned down .
+song	5	Thomas listened to his favorite song on the radio yesterday .
+run	3	she got a run in her stocking
 range	5	a piano has a greater range than the human voice
+point	4	life has lost its point
+drink	5	Can I buy you a drink ?
 form	7	he was at the top of his form
 relationship	10	he did n't want his wife to know of the relationship
 shtik	3	he played a shtik Beethoven
 family	2	he 's family
+piece	4	it was a nice piece of work
+end	5	he came to a bad end
+piece	3	he sacrificed a piece to get a strategic advantage
 flight	1	The flight of a refugee
+run	3	I have a run in my stocking .
+water	5	they were sitting by the water 's edge
 progress	1	great progress in the arts
 divinity	5	ancient Egyptians believed in the divinity of the Pharaohs
 system	5	he tried to understand their system of classification
+heart	1	the heart and soul of the Republican Party
 account	4	I expected a brief account
+degree	3	he earned his degree at Princeton summa cum laude
 class	5	she has a lot of class
 home	9	the teacher asked how many people made up his home
 newspaper	3	he read his newspaper at breakfast
+plane	7	any line joining two points on a plane lies wholly on that plane
 charge	1	his charge was deliver a message
 pull	6	he was sidelined with a hamstring pull
+head	1	the head of the stairs
+light	3	can you shed light on this problem ?
 lot	3	has a happy lot
+thing	6	I could n't tell what the thing was
 vote	6	he failed to get the Black vote
+head	1	200 head of cattle and 50 head of horses
+range	7	any good golf club will have a range where you can practice
+head	10	Pour me a fresh beer ; this one has no head .
 prescription	5	I tried to follow her prescription for success
+end	5	he came to a bad end
 pull	8	the chairman 's nephew has a lot of pull
+head	1	The head of the compass needle is pointing due north .
 third	4	it contains approximately a third of the minimum daily requirement
 spin	3	He put some spin on the cue ball .
 header	1	Your header is too long ; " Local Cannibals " will suffice .
 crash	1	the crash occurred during a thunderstorm and the system has been down ever since
+case	14	for English , a compositor will ordinarily have two such cases , the upper case containing the capitals and the lower case containing the small letters
+piece	6	the children acted out a comic piece to amuse the guests
 sleep	6	he felt better after a little sleep
 setting	8	you ca n't do that in a university setting
 thing	6	how could you do such a thing ?
+line	1	the line of soldiers advanced with their bayonets fixed
 stroke	4	the pregnancy was a stroke of bad luck
+drink	0	drink was his downfall
 concoction	6	he volunteered to taste her latest concoction
 feast	3	We had a feast to celebrate the harvest .
+line	4	he got out of line
 train	4	they joined the wagon train for safety
 flux	5	It is important to use flux when soldering or oxides on the metal will prevent a good bond .
 play	1	the play of light on the water
+opening	4	there was a small opening between the trees
 interpreter	5	his paintings reveal a sensitive interpreter of nature
 title	6	he had no documents confirming his title to his father 's estate
 weakness	1	his weakness increased as he became older
+reaction	4	there was a chemical reaction of the lime with the ground water
 absence	4	he visited during my absence
 bank	1	the bank is on the corner of Nassau and Witherspoon
 assumption	1	your assumption that I would agree was unwarranted
+post	7	if you hurry you 'll catch the post
+floor	1	the floor of the pelvis
 movement	2	a broad movement of the electorate to the right
+development	8	in chess your should take care of your development before moving your queen
 language	0	language sets homo sapiens apart from all other animals
 buildup	2	a military buildup in preparation for the invasion
 impression	4	he did a funny impression of a politician
 conflict	3	this form of conflict is essential to Mann 's writing
+system	3	in a static system oil can not be replaced by water on a surface
 lap	1	his lap was covered with food stains
+body	1	a body of law
+life	9	he could no longer cope with the complexities of life
+point	1	a point of information
 direction	5	Keep going in the same direction .
+face	2	an angry face
+play	3	they gave full play to the artist 's talent
 death	6	England scored a goal at the death to even the score at one all .
+degree	13	She has two bachelor 's degrees and is studying towards a master 's degree .
 trick	3	he played a trick on me
 readiness	3	putting them in readiness
 reaction	3	the forces of reaction carried the election
 box	6	an armed guard sat in the box with the driver
 shock	4	he had an unruly shock of black hair
+seat	5	he was elected to a seat in the Senate
+line	5	they attacked the enemy 's line
 clip	8	I went into the salon to get a clip .
+area	1	the area of a rectangle
 train	1	a train of thought
 return	1	A return to one 's question
 depth	1	the depth of the water
@@ -2124,14 +2598,231 @@ split	7	he was winning until he got a split in the tenth frame
 way	4	Do you know the way to the airport ?
 attendance	3	a student 's attendance is an important factor in her grade
 lesson	5	The accident was a good lesson to me .
+cut	2	the unkindest cut of all
 richness	6	he was well aware of the richness of his own appearance
 softness	0	softness is not something permitted of good leaders
+line	2	toe the line
+head	2	under the head of minor Roman poets
 faith	2	they broke faith with their investors
+time	3	See you another time ; that 's three times he 's made the same mistake
+term	1	The term allowed to a debtor to discharge his debt
 touch	3	he has a touch of rheumatism
 control	1	under control
 end	12	Start at the beginning and go on until you come to the end
 press	1	the press of business matters
+place	3	he lost his place on the page
 energy	5	jogging works off my excess energy
 cast	3	pottery of this cast was found throughout the region
+voice	3	the wee small voice of conscience
+call	6	after two raises there was a call
 appointment	11	I 'm leaving work early because I have a doctor 's appointment .
 integrity	1	the integrity of the nervous system is required for normal development
+head	4	matters came to a head yesterday
+progress	1	great progress in the arts
+play	4	there was too much play in the steering wheel
+head	5	the beer had a large head of foam
+movement	2	the second movement is slow and melodic
+civilization	7	the people slowly progressed from barbarism to civilization
+ball	5	he played with his rubber ball in the bathtub
+number	1	a number 13 shoe
+light	3	there was a light at every corner
+drag	3	he took a drag on his cigarette and expelled the smoke slowly
+loss	5	the company operated at a loss last year
+end	12	Start at the beginning and go on until you come to the end
+heart	3	he drew a heart and called it a valentine
+stage	3	it set the stage for peaceful negotiations
+sake	2	for the sake of argument
+invitation	3	she threw the invitation away
+stock	8	the rifle had been fitted with a special stock
+conclusion	1	his conclusion took the evidence into account
+recognition	2	give her recognition for trying
+example	6	but there is always the famous example of the Smiths
+place	3	he lost his place on the page
+book	5	I am reading a good book on economics
+head	1	the head of a comet
+smoke	3	it was just smoke and mirrors
+rule	3	it was his rule to take a walk before breakfast
+audience	4	the broadcast reached an audience of millions
+bit	3	in just a bit
+ball	1	the ball was already emptying out before the fire alarm sounded
+lot	4	they were an angry lot
+member	3	Canada is a member of the United Nations
+facility	5	he was famous for his facility as an archer
+number	10	in English the subject and the verb must agree in number
+life	4	his heroism saved a life
+softness	0	softness is not something permitted of good leaders
+face	2	an angry face
+reaction	3	the forces of reaction carried the election
+shtik	3	he played a shtik Beethoven
+shrinkage	8	the material lost 2 inches per yard in shrinkage
+head	1	a head of cauliflower
+view	5	they were soon out of view
+formation	1	the formation of sentences
+unit	5	an idea is not a unit that can be moved from one brain to another
+score	11	he tried to blame the victim but his success on that score was doubtful
+water	7	first you have to cut off the water
+movement	9	the succession of flashing lights gave an illusion of movement
+cut	4	he took a vicious cut at the ball
+thing	1	a thing of the spirit
+application	2	a novel application of electronics to medical diagnosis
+divinity	5	ancient Egyptians believed in the divinity of the Pharaohs
+support	4	they called for artillery support
+coverage	6	they accused the paper of biased coverage of race relations
+ground	6	he dropped the logs on the ground
+plot	7	the characters were well drawn but the plot was banal
+sum	1	the sum of all our troubles did not equal the misery they suffered
+heart	2	in your heart you know it is true
+way	4	if I had my way
+line	2	a washing line
+check	6	he asked the waiter for the check
+energy	5	jogging works off my excess energy
+detail	5	the essay contained too much detail
+contact	0	contact with the pier scraped paint from the hull
+call	6	after two raises there was a call
+performance	5	we congratulated him on his performance at the rehearsal
+economy	0	economy of effort
+bit	1	a bit of lint
+touch	3	he got in touch with his colleagues
+shower	5	her friends organized a baby shower for her when she was expecting
+head	1	a head of steam
+trouble	4	he won without any trouble
+score	3	he studied the score of the sonata
+land	5	he built the house on land leased from the city
+rule	1	the rule of St. Dominic
+touch	5	this dish could use a touch of garlic
+nomination	2	the Republican nomination for Governor
+number	3	he had a number of chores to do
+piece	6	the children acted out a comic piece to amuse the guests
+box	6	an armed guard sat in the box with the driver
+integrity	1	the integrity of the nervous system is required for normal development
+house	4	the children were playing house
+piece	7	it is not known who created this piece
+shock	4	he was numb with shock
+head	2	under the head of minor Roman poets
+seat	5	he was elected to a seat in the Senate
+trade	5	as they say in the trade
+light	4	he stepped into the light
+touch	5	this piano has a wonderful touch
+nose	4	he ducked under the nose of the gun
+body	2	the student body
+hand	3	give me a hand with the chores
+account	4	he gave an inaccurate account of the plot to kill the president
+reading	3	he bought some reading material at the airport
+degree	3	he earned his degree at Princeton summa cum laude
+picture	2	the political picture is favorable
+preparation	8	the resolution of one dissonance is often the preparation for another dissonance
+energy	0	energy can take a wide variety of forms
+title	1	his title to fame
+date	1	his date never stopped talking
+threat	1	his threat to kill me was quite explicit
+connection	3	there was a connection between eating that pickle and having that nightmare
+baby	4	this project is his baby
+grip	4	they kept a firm grip on the two top priorities
+shock	5	subjects received a small electric shock when they made the wrong response
+bit	3	he had a bit of good luck
+point	1	a point of information
+center	6	he hit the ball to deep center
+taste	4	she enjoyed her brief taste of independence
+dog	1	the dog barked all night
+etiolation	1	his etiolation signaled years in prison
+presence	3	he sensed the presence of danger
+opening	1	the opening received good critical reviews
+rest	7	the gun was steadied on a special rest
+scene	5	the police returned to the scene of the crime
+life	9	he could no longer cope with the complexities of life
+movement	1	the movement of cargo onto the vessel
+grain	3	there was a grain of truth in what he said
+course	3	he took a course in basket weaving
+life	5	the battery had a short life
+level	6	the pictures were at the same level
+flare	3	he threw a flare to the fullback who was tackled for a loss
+life	5	he hoped for a new life in Australia
+bite	1	the bite of satire
+line	3	drop me a line when you get there
+misery	1	the misery and wretchedness of those slums is intolerable
+reason	1	the reason that war was declared
+impression	4	he did a funny impression of a politician
+addition	1	the addition of cinnamon improved the flavor
+front	4	he walked to the front of the stage
+film	6	the table was covered with a film of dust
+trail	3	there as a trail of blood
+call	6	he was ejected for protesting the call
+disposition	4	he has a happy disposition
+arrangement	1	the arrangement of the furniture
+form	7	he was at the top of his form
+split	6	he inserted the wedge into a split in the log
+structure	4	artists must study the structure of the human body
+drop	8	it was a miracle that he survived the drop from that height
+tendency	3	fabric with a tendency to shrink
+snap	5	he gave his fingers a snap
+letter	3	mailed an indignant letter to the editor
+dent	3	it made a dent in my bank account
+life	2	he got life for killing the guard
+tip	3	he got a tip on the stock market
+house	1	the house gets a percentage of every bet
+recognition	2	a sudden recognition of the problem he faced
+deference	1	his deference to her wishes was very flattering
+feeling	4	I had a strange feeling in my leg
+finish	10	when these final episodes are broadcast it will be the finish of the show
+motion	3	police controlled the motion of the crowd
+number	4	he has an unlisted number
+finish	2	his best finish in a major tournament was third
+stick	6	the policy so far is all stick and no carrot
+line	4	there is a narrow line between sanity and insanity
+neck	5	the horse won by a neck
+vote	6	he failed to get the Black vote
+union	4	lightning produced an unusual union of the metals
+grain	5	saw the board across the grain
+direction	4	they proposed a new direction for the firm
+practice	4	I took over his practice when he retired
+left	2	take a left at the corner
+place	4	he has a special place in my thoughts
+note	3	there was a note of uncertainty in his voice
+shot	3	he wanted a shot at the champion
+impression	5	the events left a permanent impression in his mind
+figure	1	the figure was about a thousand
+draft	4	they served beer on draft
+mess	1	a mess of porridge
+extension	4	the wire has an extension of 50 feet
+play	4	they made a futile play for power
+inclusion	3	he admired the inclusion of so many ideas in such a short work
+mouth	5	the jar had a wide mouth
+lap	1	his lap was covered with food stains
+reversal	3	there was a reversal of autonomic function
+readiness	3	putting them in readiness
+work	6	he was indebted to the pioneering work of John Dewey
+operation	2	the cognitive operation of remembering
+fall	12	when that became known the price of their stock went into free fall
+image	3	although her popular image was contrived it served to inspire music and pageantry
+union	4	there is strength in union
+head	4	matters came to a head yesterday
+squeeze	4	she was his main squeeze
+trial	5	candidates must compete in a trial of skill
+law	3	there is a law against kidnapping
+degree	4	murder in the second degree
+background	13	they got a bad connection and could hardly hear one another over the background signals
+impression	5	I wanted to create an impression of success
+break	3	there was a break in the action when a player was hurt
+implication	4	he was suspected of implication in several robberies
+return	2	on his return from Australia we gave him a welcoming party
+support	6	he applied to the state for support
+stand	2	a bedside stand
+swing	5	the party went with a swing
+point	3	he missed the point of the joke
+color	4	she used a different color for the trim
+lead	4	he took a long lead off first
+run	3	Nicklaus had a run of birdies
+head	1	the head of the hammer
+degree	2	a remarkable degree of frankness
+trial	6	a sample for ten days free trial
+cover	1	the cover concealed their guns from enemy aircraft
+play	1	the play lasted two hours
+point	2	at that point I had to leave
+life	5	the oceans are teeming with life
+play	1	the play of light on the water
+effect	5	he just did it for effect
+head	1	the head of the whole operation
+line	6	you must wait in a long line at the checkout counter
+section	1	a section of a fishing rod
+touch	3	he has a touch of rheumatism
+unit	4	the team is a unit

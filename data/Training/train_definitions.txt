@@ -1210,6 +1210,7 @@ a conceptual separation or distinction
 the physical magnitude of something (how big it is)
 (used with negation) having consequence
 nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence
+a single domestic animal
 unspecified qualities required to do or be something
 time during which some action is awaited
 the capacity for rational thought or inference or discrimination
@@ -1218,14 +1219,20 @@ a line of scalp that can be seen when sections of hair are combed in opposite di
 the force used in pushing
 a tempting allurement
 the state of being present; current existence
+the bill in a restaurant
 movement or space for movement
 the third from the lowest forward ratio gear in the gear box of a motor vehicle
+the act of mixing cards haphazardly
 the hand that is on the left side of the body
 a business especially one run on a large scale
+a person's experience on a particular occasion
+a select company of people
 the faculty by which external objects or forces are perceived through contact with the body (especially the hands)
 the approximate amount of something (usually used prepositionally as in `in the region of')
+the period during which something is functional (as between birth and death)
 a reflex response to the passage of electric current through the body
 the property of distance in general
+movement or space for movement
 the striking part of a tool
 a dramatic work intended for performance by actors on a stage
 a narrow channel of the sea joining two larger bodies of water
@@ -1236,6 +1243,7 @@ reason
 freedom from doubt; belief in yourself and your abilities
 a secular form of gospel that was a major Black musical genre in the 1960s and 1970s
 (of a law) having legal validity
+an occasion (usually brief) for buying at specially reduced prices
 the activity of providing goods and services involving financial and commercial and industrial aspects
 the act of mixing cards haphazardly
 electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices
@@ -1247,14 +1255,18 @@ a brief experience of something
 the point where two lines meet or intersect
 the concluding parts of an event or occurrence
 a measure for arcs and angles
+a blemish resulting from a break without complete separation of the parts
 a binding commitment to do or give or refrain from something
 an item on a list or in a sequence
 having abundant light or illumination
+a disagreement or argument about something important
 a cooperative game in which a ball is passed back and forth
 a courteous expression (by word or deed) of esteem or regard
 an actor's portrayal of someone in a play
 the act of pursuing in an effort to overtake or capture
+a regular trip
 the quality of excellence in thought and manners and taste
+a fortified position (especially one marking the most forward position of troops)
 (usually plural) a social group whose members control some field of activity and who have common aims
 an interior angle formed by two meeting walls
 the driving and regulating parts of a mechanism (as of a watch or clock)
@@ -1262,7 +1274,10 @@ a possibility due to a favorable combination of circumstances
 the top of something
 the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
 a note explaining an absence
+the gun muzzle's direction
+the meaning of a word or expression; the way in which a word or expression or situation can be interpreted
 education imparted in a series of lessons or meetings
+the inside lower horizontal surface (as of a room, hallway, tent, or other structure)
 a balance between and interplay of opposing elements or tendencies (especially in art or literature)
 an essential and distinguishing attribute of something or someone; --Shakespeare
 a process existing in or produced by nature (rather than by the intent of human beings)
@@ -1271,6 +1286,7 @@ a significant change
 an instant of time
 dried leaves of the tea shrub; used to make tea
 the property possessed by a sum or total or indefinite quantity of units or individuals
+a slight depression in the smoothness of a surface
 a pole or stake set up to mark something (as the start or end of a race track)
 informal terms for the leg
 a defensive effort
@@ -1301,6 +1317,8 @@ a sudden outburst
 a sudden recurrence or worsening of symptoms
 the state of being present; current existence
 (obstetrics) position of the fetus in the uterus relative to the birth canal
+a solid piece of something (usually having flat rectangular sides)
+medium for radio and television broadcasting
 (biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics
 a record in which commercial accounts are recorded
 the top or extreme point of something (usually a mountain or hill)
@@ -1314,7 +1332,9 @@ a light informal meal
 a heavy footfall
 respectful deference
 a stratum of ore or coal thick enough to be mined with profit
+an organization of defenders that provides resistance against attack
 an unbroken period of time during which you do something
+an instance or single occasion for some event
 the act of running; traveling on foot at a fast pace
 a playing card in the major suit that has one or more red hearts on it
 the act of having on your person as a covering or adornment
@@ -1326,46 +1346,61 @@ the most important or interesting work or activity in a specific area or field
 the experiencing of affective and emotional states
 a learned establishment for the advancement of knowledge
 enterprising or ambitious drive
+a slight movement of the air
 a pause from doing something (as work)
 something written by hand
+a persistent illogical feeling of desire or aversion
 a resentment strong enough to justify retaliation
 a public display of a message
 a note explaining an absence
 a single domestic animal
 a piece of paper money (especially one issued by a central bank)
 the astonishment you feel when something totally unexpected happens to you
+a number that expresses the accomplishment of a team or an individual in a game or contest
 a document indicating permission to do something without restrictions
 a telephone connection
+a degree or grade of excellence or worth
 a specific state of mind that is temporary
 permission to do something
 the period from the present until death
 a small hole or loop (as in a needle)
+a user of (usually soft) drugs
 (often followed by `of') a large number or amount or extent
 discipline in personal and social activities
 extensive tract of level open land
 approval
+an area in which something acts or operates or has power or control:
 (mathematics) an abstract collection of numbers or symbols
 that which is responsible for one's thoughts and feelings; the seat of the faculty of reason
 a state in which things are improving; the result of developing (as in the early part of a game of chess)
+(nautical) a toilet on board a boat or ship
+the condition of living or the state of being alive
 the act of bearing the weight of or strengthening
+(computer science) a program that translates and executes source language statements one line at a time
 something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)
 an expert whose views are taken as definitive
 illustrations used to decorate or explain a text
 tasty mixture or liquid into which bite-sized foods are dipped
 a small contrasting part of something
+the subject matter at issue
 the solid part of the earth's surface
 (biology) the ability of one molecule to attach to another molecule that has a complementary shape
+something (as a cord or rope) that is long and thin and flexible
 a state of declining economic condition
+(nautical) a toilet on board a boat or ship
 a persistent illogical feeling of desire or aversion
 a fabric with long coarse nap
 a brief period of precipitation
+a sound suggestive of a vocal utterance
 a diagram or picture illustrating textual material
 a suitable moment
 the aggregate of past events
+that which is responsible for one's thoughts and feelings; the seat of the faculty of reason
 a single domestic animal
 the condition of living or the state of being alive
 an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure
 a collection of rules or prescribed standards on the basis of which decisions are made
+the (prehensile) extremity of the superior limb
 a small slit (as for inserting a coin or depositing mail)
 (physics) the influence that produces a change in a physical quantity
 a freedom from financial difficulty that promotes a comfortable state
@@ -1374,54 +1409,82 @@ the experience of being alive; the course of human events and activities
 a quantity that can be processed or transported at one time
 a standard against which other conditions can be compared in a scientific experiment
 a short theatrical performance that is part of a longer program
+the style in which a garment is cut
 an abstract mental location
 an artifact that has been created by someone or some process
+a place within a region identified relative to a center or reference location
 a periodical that is published by a special interest group
 unrestricted freedom to use
 extreme conservatism in political or social matters
+the front of the human head from the forehead to the chin and ear to ear
 a surface forming part of the outside of an object
 a number that expresses the accomplishment of a team or an individual in a game or contest
 an area that is approximately central within some larger region
 a written order directing a bank to pay money
 the source of water from which a stream arises
 unrestricted freedom to use
+a message describing how something is to be done
+the period of time a prisoner is imprisoned
+something (a person or object or scene) selected by an artist or photographer for graphic representation
 a company of people assembled at a table for a meal or game
 a fortified position (especially one marking the most forward position of troops)
 washing yourself by standing upright under water sprayed from a nozzle
+an artifact that has been created by someone or some process
+a very small sum
+movement or space for movement
 (game) the activity of doing something in an agreed succession
 a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)
 a change of position that does not entail a change of location
 the region above the ground
 one possessing or exercising power or influence or authority
+a layer of material that encloses space
 the condition of having been proposed as a suitable candidate for appointment or election
 (football) the person who plays center on the line of scrimmage and snaps the ball to the quarterback
 turning in an opposite direction or position
+a score in baseball made by a runner touching all four bases safely
+the conventional characters of the alphabet used to represent speech
 a dense cluster of flowers or foliage
 the capacity of an organism to defend itself against harmful environmental agents
 an aspect of something (as contrasted with some other implied aspect)
+a difficult juncture
 a coming to or returning home
 a collection of precious things
 the temporal end; the concluding time
+a formal contractual relationship established to provide for regular banking or brokerage or business services
+an essential and distinguishing attribute of something or someone; --Shakespeare
 an item of merchandise offered for sale
 a fact that logically justifies some premise or conclusion
 the wing of a fowl
+any location outside the Earth's atmosphere
 sharp end
+the period between birth and the present time
 the third from the lowest forward ratio gear in the gear box of a motor vehicle
 a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states
+the source of water from which a stream arises
+(computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)
+the particular portion of space occupied by something
 the force used in pulling
 a rule or condition that limits freedom
+a blank area
+freedom from doubt; belief in yourself and your abilities
 the lower part of anything
 the act of looking or seeing or observing
 (in games or plays or other performances) the time during which play proceeds
+that which is responsible for one's thoughts and feelings; the seat of the faculty of reason
 a small drink of liquor
 a set containing all and only the members of two or more given sets
 the unlimited expanse in which everything is located
 an overwhelming number or amount
+a general vicinity
 a slight but appreciable amount
+the object of an activity
 female of any member of the dog family
 an opening that resembles a mouth (as of a cave or a gorge)
 a particular functioning condition or arrangement
+a living person
+a group of words that form a constituent of a sentence and are considered as a single unit
 a long ridge or pile
+a projection out from one end; ,
 a V-shaped mark at one end of an arrow pointer
 the characteristic sound produced by a bird
 frugality in the expenditure of money or resources
@@ -1434,38 +1497,58 @@ a formal proposal for action made to a deliberative assembly for discussion and 
 a structure used to defend against attack
 a region where a battle is being (or has been) fought
 the principal activity in your life that you do to earn money
+the period of instruction in a school; the time period when school is in session
 a group of physiologically or anatomically related organs or parts
 the time of life between childhood and maturity
+a select company of people
 applying the mind to learning and understanding a subject (especially by reading)
 a degree in a continuum of size or quantity
 a treaty to cease hostilities
+a particular kind of commercial enterprise
 document giving the tax collector information about the taxpayer's tax liability
+the amount by which the cost of a business exceeds its revenue
 aiding the cause or policy or interests of
 a symptom of some physical hurt or disorder
 a meaning that is not expressly stated but can be inferred
+the top of something
+the act of bringing two things into contact (especially for communication)
+the act of playing for stakes in the hope of winning (including the payment of a price for a chance to win a prize)
+a preset plan of action in team sports
+the volume of commercial activity
+the introductory section of a story
+coming to understand something clearly and distinctly
 a user of (usually soft) drugs
+a distinctive but intangible quality surrounding a person or thing
+the striking part of a tool
 (computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)
 a promontory extending out into a large body of water
 the last section of a communication
 a state of being essentially equal or equivalent; equally balanced
 the inside lower horizontal surface (as of a room, hallway, tent, or other structure)
+the enclosing frame around a door or window opening
 a dwelling that serves as living quarters for one or more families
+a very small circular shape
 a body of students who graduate together
 an instance of agitation of the earth's crust
+the continuum of experience in which events pass from the future through the present to the past
 a source of difficulty
 washing yourself by standing upright under water sprayed from a nozzle
 a business relation in which two parties compete to gain customers
 the sensation produced by pressure receptors in the skin
 a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of
+steady winds blowing from east to west above and below the equator
 the act of stealing goods that are on display in a store
 a group of people with a common ideology who try together to achieve certain general goals
+the act of noticing or paying attention
 (grammar) a constituent that is acted upon
+a telephone connection
 the present
 the act of raising something
 value measured by what must be given or done or undergone to obtain something
 a conical child's plaything tapering to a steel point on which it can be made to spin
 the defendant and his legal advisors collectively
 a facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal
+the upper part of the human body or the front part of the body in animals; contains the face and brains
 a final part or section
 expression without words
 the act of penetrating or opening open with a sharp edge
@@ -1480,17 +1563,27 @@ a situation treated as an observable object
 the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons
 sharp end
 any division of quantity accepted as a standard of measurement or exchange
+a facility that provides a source of water
 the organ of sight
 the act of giving a talk to an audience
+the front of a military formation or procession
+a depression forming the ground under a body of water
+the hole (or metal container in the hole) on a golf green
 the part of the leg of a human being below the ankle joint
 a surface forming part of the outside of an object
+the subject matter at issue
 a list of answers to a test
 a sharp hand gesture (resembling a blow)
+the lower part of anything
 one of two sides of an issue
+an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure
 a course of conduct
+a suitable moment
 a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement
 a particular society at a particular time and place
 becoming open or being made open
+a quantity obtained by multiplication
+the approximate amount of something (usually used prepositionally as in `in the region of')
 courteous regard for people's feelings
 the craft of making earthenware
 a particular situation
@@ -1498,11 +1591,20 @@ the downfall of someone (as of persons on one side of a conflict)
 the unit of counting in scoring a game or contest
 (psychology) a state of mental or emotional strain or suspense
 place of business where professional or clerical duties are performed
+the highest or uppermost side of anything
+a decorative texture or appearance of a surface (or the substance that gives it that appearance)
+a scandal that is kept secret
+an uninhabited wilderness that is worthless for cultivation
+the ground on which people and animals move about
+an act by a government body or supranational organization
 a service that an organization or a piece of equipment offers you
+an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
 respectful deference
 the situation in which you are happiest and most effective
 the game of baseball
+a number or letter indicating quality (especially of a student's performance)
 the creation of beautiful or significant things
+(accounting) the value of a firm's current assets including raw materials and work in progress and finished goods
 an urgent or peremptory request
 an artistic or literary composition
 the occupation for which you are paid
@@ -1510,22 +1612,29 @@ a particular situation
 education imparted in a series of lessons or meetings
 any projection that resembles the tail of an animal
 gradual decline in amount or activity
+a promontory extending out into a large body of water
 equipment designed to serve a specific function
 tasty mixture or liquid into which bite-sized foods are dipped
 the state of being connected
+the enclosing frame around a door or window opening
+proper or appropriate position or location
 a courteous expression (by word or deed) of esteem or regard
 the magnitude of sound (usually in a specified direction)
 a sudden decline in strength or number or importance
 the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)
 acting in conformity
 a thing made to be similar or identical to another thing
+the act of departing politely
 an opening that resembles a mouth (as of a cave or a gorge)
 lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building
 a journey or passage
+an accidental misstep threatening (or causing) a fall
 designated event that concludes a contest (especially a race)
 the cards held in a card game by a given player at any given time
+an agreement between parties (usually arrived at after discussion) fixing obligations of each
 labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on)
 an arrangement of people or things acting as a unit
+a commercial or industrial enterprise and the people who constitute it
 applying the mind to learning and understanding a subject (especially by reading)
 a quantity of money
 a distinctive or characteristic sound
@@ -1538,24 +1647,37 @@ the act of contacting one thing with another
 (biology) the ability of one molecule to attach to another molecule that has a complementary shape
 a device for lighting or igniting fuel or charges or fires
 a sense of concern with and curiosity about someone or something
+a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations
 an agreement between parties (usually arrived at after discussion) fixing obligations of each
 the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand
 a person who shoots (usually with respect to their ability to shoot)
+the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
 a place where work is done
+a trustful relationship
+a beverage made by steeping tea leaves in water
 a large platform on which people can stand and can be seen by an audience
 the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed
 a relatively permanent inclination to react in a particular way
 (always used with a modifier) boredom resulting from overexposure to something
 the space where a division or parting occurs
+an occasion on which a winner is selected from among two or more contestants
+the passage that is being read
+a sudden sharp decrease in some quantity
 a person committed to your care
 a characteristic state or mode of living
 a specific identifiable position in a continuum or series or especially in a process
+a motive for living
+a person regarded very fondly
 (sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand
 a formation of people or things one beside another
 a select company of people
 a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of
+a kilogram of a narcotic drug
 the extent to which something is covered
+the initial part of the introduction
 (botany) the act of causing a plant to develop without chlorophyll by growing it without exposure to sunlight
+a reception or party at which tea is served
+one of two or more contesting groups
 the distinctive quality or pitch or condition of a person's speech
 a military engagement
 a pitch that is not in the strike zone
@@ -1564,16 +1686,27 @@ a string of characters beginning with a period and followed by one or more lette
 a place where work is done
 a lump or mass of hard consolidated mineral matter
 a weak and tremulous light
+a response that reveals a person's feelings or attitude
 a trustful relationship
 a period of indeterminate length (usually short) marked by some action or condition
 cost of bribing someone
 the act of starting something
+the act of marrying; the nuptial ceremony
+graphic art consisting of the graphic or photographic representation of a visual percept
 (slang) sometimes used as a term of address for attractive young women
 a formal contractual relationship established to provide for regular banking or brokerage or business services
+an abstract mental location
 a district that has been developed to serve some purpose
+text consisting of a row of words written across a page or computer screen
+the act of undergoing testing
+a disposition to kindness and compassion
+a quick reply to a question or remark (especially a witty or critical one)
 part of a meal served at one time
 a serving to each of a group (usually alcoholic)
+some abrupt occurrence that interrupts an ongoing activity
+a layer of material that encloses space
 an area wholly or partly surrounded by walls or buildings
+a blow hard enough to cause injury
 the property of something that is great in magnitude
 a formal proposal for action made to a deliberative assembly for discussion and vote
 a crew of workers selected for a particular task
@@ -1582,26 +1715,43 @@ piece of metal held in horse's mouth by reins and used to control the horse whil
 an event that occurs when something passes from one state or phase to another
 a feeling of intense unhappiness
 an attitude of mind especially one that favors one alternative over others
+an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
 a commercial document used to request someone to supply something in return for payment and providing specifications and quantities
 the experiencing of affective and emotional states
 (mathematics) a standard procedure for solving a class of mathematical problems
 a base hit on which the batter stops safely at second base
 a group of nations having common interests
+a rounded compact mass
 a layer of material that encloses space
 the most direct or specific meaning of a word or expression; the class of objects that an expression refers to
+an indefinite period (usually marked by specific attributes or activities)
 musical notation for a repeating pattern of musical beats
+an assertion that someone is guilty of a fault or offence
+all the competitors in a particular contest or sporting event
 the period from the present until death
+a legally binding command or decision entered on the court record (as if issued by a court or judge)
 the part of a garment that covers the back of your body
+the rounded end of a bone that fits into a rounded cavity in another bone to form a joint
 permission to do something
 a series of things depending on each other as if linked together
 acting in conformity
+the front of a military formation or procession
 a typical example of some state or quality
+a single domestic animal
+a rectangular quarter pound block of butter or margarine
+acting in conformity
 the collection of rules imposed by authority
 a prominent or sensational but short-lived news event
+the mat that forms the floor of the ring in which boxers or professional wrestlers compete
 the individual characteristics by which a thing or person is recognized or known
+searching for or buying goods or services
+the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)
 a textile pattern of squares or crossed lines (resembling a checkerboard)
 an attitude of mind especially one that favors one alternative over others
+(computer science) a sector or group of sectors that function as the smallest data unit permitted
+the activity of providing goods and services involving financial and commercial and industrial aspects
 an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
+a quantity obtained by multiplication
 a secret scheme to do something (especially something underhand or illegal)
 a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
 a secret that is confided or entrusted to another
@@ -1610,26 +1760,36 @@ a program that gives a computer instructions that provide the user with tools to
 a limited period of time
 (mathematics) an abstract collection of numbers or symbols
 a preliminary sketch of a design or picture
+an educational institution
 the top of something
 an institution to express belief in a divine power
+the event of coming into sight
 a listing of the words used in some enterprise
 the surface at either extremity of a three-dimensional object
+the price charged for some article or service
 the act of moving smoothly along a surface while remaining in contact with it
 the course along which communications spread
 a slight movement of the air
 a general tendency to change (as of opinion)
 the event of dying or departure from life
 fuel that is burning and is used as a means for cooking
+a number or quantity of related things dealt with as a unit
 (Christian theology) the free and unmerited favor or beneficence of God
+the organic phenomenon that distinguishes living organisms from nonliving ones
+the length or height based on the size of a human or animal head
 a person requiring professional services
 your characteristic style or manner of expressing yourself orally
+a contorted facial expression
 one complete cycle of operations (as by a computer)
 a (large) military dining room where service personnel eat or relax
 the individual characteristics by which a thing or person is recognized or known
 the subject matter at issue
+a secret that is confided or entrusted to another
 a cooperative game in which a ball is passed back and forth
 a humming noise
+compulsory military service
 a metal or plastic disk that can be redeemed or used in designated slot machines
+a general vicinity
 a state of being confined (usually for a short time)
 the act of killing
 a remark capable of wounding mentally
@@ -1646,23 +1806,43 @@ the status of being a champion
 a business especially one run on a large scale
 a single domestic animal
 a dwelling that serves as living quarters for one or more families
+an act by a government body or supranational organization
 installation from which a military force initiates operations
+the manner in which something fits
+something determined in relation to something that includes it
+a conference (usually with someone important)
+the area that is visible (as through an optical instrument)
+somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected
+a mark indicating that something has been noted or completed etc.
+a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning
 any support where you can sit (especially the part of a chair or bench etc. on which you sit)
+the unit of counting in scoring a game or contest
 any small intracellular body found within another (characteristic of certain diseases)
 a relatively small granular particle of a substance
 a small contrasting part of something
 an informal right to something
 a row or line of people (especially soldiers or police) standing abreast of one another
+the feel of mechanical action
+a product produced or accomplished through the effort or activity or agency of a person or thing
+a concept of quantity involving zero and units
+a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of
+an individual 3-dimensional object that has mass and that is distinguishable from other objects
 the act of running; traveling on foot at a fast pace
 a portion of a natural object
 an open or empty space in or between things
+a social unit living together
 an item that is an instance of some type
 a short drive in a car
 the front of the human head from the forehead to the chin and ear to ear
+the lower part of anything
 a sweeping blow or stroke
 a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning
+the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close
+the production achieved during a continuous period of operation (of a machine or factory etc.)
 an unbroken chronological sequence
+any large deep body of water
 established customary state (especially of society)
+an immature childish person
 a garment (especially for women) that extends from the shoulders to the waist or hips
 abundant wealth
 a political unit formed from previously independent people or organizations
@@ -1670,24 +1850,39 @@ a characteristic state or mode of living
 a narrow part of an artifact that resembles a neck in position or form
 any artifact consisting of a road or path affording passage from one place to another
 a bodily process occurring due to the effect of some antecedent stimulus or agent
+informal terms for the leg
+designated event that concludes a contest (especially a race)
+(American football) a position on the line of scrimmage
+financial liabilities (such as a tax)
 the body excluding the head and neck and limbs
 the area that is visible (as through an optical instrument)
+a mark that is long relative to its width
 either extremity of something that has length
 an item of merchandise offered for sale
+the general outward appearance of something
 a telephone connection
+a single domestic animal
 act of expanding in scope; making more widely available
+movement or space for movement
 a disposition to find (or make) causes for amusement
 a travelling company of entertainers; including trained animals
+pitch of the voice
+one of two sides of an issue
+the unlimited expanse in which everything is located
 a hired laborer on a farm or ranch
 aiding the cause or policy or interests of
 a row of unravelled stitches
 the process of taking in and expelling air during breathing
 an assertion that someone is guilty of a fault or offence
 a relation between things or events (as in the case of one causing the other or sharing features with it)
+a person who is in charge
 a work of art of some artistic value
 the hand that is on the left side of the body
+the quality or state of being outside or directed toward or relating to the outside or exterior
 one of the light or dark bands produced by the interference and diffraction of light
+a recognized sequence of moves at the beginning of a game of chess
 the act of signing your name; writing your signature (as on a document)
+any device serving as a source of illumination
 a source of difficulty
 the act of undergoing testing
 the number of people that are present
@@ -1695,69 +1890,114 @@ a judgment of the qualities of something or somebody
 (sports) a preliminary competition to determine qualifications
 oral stimulation of the genitals
 an attempt to get something
+either the left or right half of a body
+the source of water from which a stream arises
+one of two or more contesting groups
 a representative form or pattern
 the state of being emotionally aroused and worked up
+the act of putting two things together with no space between them
 any of 32 horizontal directions indicated on the card of a compass
 a highly developed state of perfection; having a flawless or impeccable quality; ; ; --Joseph Conrad
+a visit in an official or professional capacity
+the period between birth and the present time
 the type of treatment received (especially as the result of an agreement)
+the concluding parts of an event or occurrence
 a usually brief attempt
 evidence pointing to a possible solution
+the externally visible part of the oral cavity on the face and the system of organs surrounding the opening
 persevering determination to perform a task
+the state of being in effect or being operative
+an artifact that has been created by someone or some process
+unspecified qualities required to do or be something
 the part of the leg of a human being below the ankle joint
 a share of the profits
+the cloth covering for the buttocks
+a dramatic work intended for performance by actors on a stage
 the opening of a jar or bottle
+the operating part that transmits power to a mechanism
 a submerged (or partly submerged) ridge in a river or along a shore
 a depression forming the ground under a body of water
 physical energy or intensity
 sharp end
 a formal proposal for action made to a deliberative assembly for discussion and vote
 the extended spatial location of something
+how something is done or how it happens
 a unit of temperature on a specified scale
+business concerns collectively
 the part of something that is furthest from the normal viewer
 a support on which things can be put
 a prolonged period of time
+a supply of money
 the upper part of the human body or the front part of the body in animals; contains the face and brains
 the greatest possible degree of something
 a large group of fish
 a way of regarding situations or topics etc.
 a business especially one run on a large scale
 the greatest possible intensity
+a short personal letter
 the action of stretching something tight
 (physics) the characteristic of quarks that determines their role in the strong interaction
 the outside limit of an object or area or surface; a place farthest away from the center of something
+a garment (especially for women) that extends from the shoulders to the waist or hips
+oral stimulation of the genitals
 an incompatibility of dates or events
+the act of rotating as if on an axis
 all that is remembered of the past as preserved in writing; a body of knowledge
+a formal association of people with similar interests
 a means of persuading or arguing
 a dramatic or musical entertainment
 a trustful relationship
+a period of time considered as a resource under your control and sufficient to accomplish something
+a pause for relaxation
 the funds held by a gambling house or the dealer in some gambling games
+a general tendency to change (as of opinion)
+the operating part that transmits power to a mechanism
+a promised or claimed share of loot or money
+an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt
 education imparted in a series of lessons or meetings
+a large tract of grassy open land on which livestock can graze
 a prominent or sensational but short-lived news event
+the power or right to give orders or make decisions
 a growth of similar plants (usually trees) in a particular area
+a particular kind of product or merchandise
 a predetermined set of movements in dancing or skating
+the pressure exerted by a fluid
 an individual person
+a short personal letter
 (electronics) a junction where things (as two electrical conductors) touch or are in physical contact
 the act of losing someone or something
 preoccupation with what concerns human inner nature (especially ethical or ideological values); - H.R.Finch
 a secret that is confided or entrusted to another
 the appendage to an object that is designed to be held in order to use or move it
+public awareness
 the condition of living or the state of being alive
 a condition of regular or proper arrangement
+a position of leadership (especially in the phrase `take the lead')
+a person's experience on a particular occasion
 a portion of a natural object
 the trait of being effeminate (derogatory of a man)
 the meaning of a word or expression; the way in which a word or expression or situation can be interpreted
 a degree in a continuum of size or quantity
+an extended outer surface of an object
 round object that is hit or thrown or kicked in games
 the amount of money needed to purchase something
 an event
+a number of sheets (ticket or stamps etc.) bound together on one edge
 formerly a strong swift horse ridden into battle
+acting in conformity
 a set of twenty members
 a clear and telling mental image
 a state of opposition between persons or ideas or interests
+an opportunity to state your case and be heard
+a large and unbroken expanse or distance
 natural abilities or qualities
+a space reserved for sitting (as in a theater or on a train or airplane)
+a position given by its location to the side of an object
 the act of escaping physically
 (biochemistry) a drug that can combine with a receptor on a cell to produce a physiological reaction
+extensive tract of level open land
 similar things placed in order or happening one after another
+a state of opposition between persons or ideas or interests
 the visual effect of illumination on objects or scenes as created in pictures
 the act of sharing in the activities of a group
 a contorted facial expression
@@ -1767,67 +2007,118 @@ a sudden sharp decrease in some quantity
 (usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)
 an abstract mental location
 anything that harms or destroys
+a diversion that occupies one's time and thoughts (usually pleasantly)
+mental understanding as an enlightening experience
 a particular environment or walk of life
 one of the portions into which something is regarded as divided and which together constitute a whole
 a printed document with spaces in which to write
+a single domestic animal
+a part of a person that is used to refer to a person
+a single domestic animal
+business concerns collectively
 a device for lighting or igniting fuel or charges or fires
 a point of view or general attitude or inclination
 (electronics) a junction where things (as two electrical conductors) touch or are in physical contact
+a single undivided natural thing occurring in the composition of something else
 money received in return for its equivalent in a larger denomination or a different currency
+a suggestion of some quality
+the part of something that is furthest from the normal viewer
 a choice that is made by counting the number of people in favor of each alternative
 the state of being certain
 a position to be won or defended in battle (or as if in battle)
 space for movement
+a dramatic or musical entertainment
+the continuous period of time during which something (a machine or a factory) operates or continues in operation
+the process of taking in and expelling air during breathing
+a user of (usually soft) drugs
 clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)
+a line that indicates a boundary
 a subdivision of an act of a play
+a characteristic state or mode of living
+a regular trip
 a course of conduct
+the act of catching an object with the hands
 something that is considered amusing not because of its originality but because of its unoriginality
+an abstract mental location
 a specialized division of a large organization
+an instance or single occasion for some event
 the middle of a military or naval formation
+the residence of a sovereign or nobleman
 a record or narrative description of past events
+the subject matter at issue
+the downfall of someone (as of persons on one side of a conflict)
+a sound suggestive of a vocal utterance
+a particular perspective or aspect of a situation
 a concerted campaign to end something that is injurious
+a small stream
 care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
 the opening through which food is taken in and vocalizations emerge
+any frame in which a bowler fails to make a strike or spare
+a reason for wanting something done
+an instance or single occasion for some event
+a contorted facial expression
+the act of delivering or distributing something (as goods or mail)
+a person requiring professional services
 a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof
+the subject matter at issue
 defense against financial failure; financial independence
 courteous regard for people's feelings
 an inclination or tendency of a certain kind
 obscene words for unacceptable behavior
+acting in conformity
 a dramatic work intended for performance by actors on a stage
 place of business where professional or clerical duties are performed
 a person regarded very fondly
 liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces
 a painful wound caused by the thrust of an insect's stinger into skin
+a contorted facial expression
 the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
 a specialized division of a large organization
 agriculture considered as an occupation or way of life
+a row of unravelled stitches
 (physics) a stress that produces an elongation of an elastic physical body
 a wide scenic road planted with trees
+a kilogram of a narcotic drug
 something to be imitated
+a weak and tremulous light
 a visit in an official or professional capacity
 a superior skill that you can learn by study and practice and observation
 persuasive but insincere talk that is usually intended to deceive or impress
 coming to understand something clearly and distinctly
 a cavity or space in something
+the act of putting something in position
 contemptuous disregard
 a very small circular shape
+the upper part of anything
+travel by walking
+the act of swallowing
 an event that combines things in a mixture
+any of 32 horizontal directions indicated on the card of a compass
+material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)
 a tentative suggestion designed to elicit the reactions of others
 a score of zero in tennis or squash
+the foam or froth that accumulates at the top when you pour an effervescent liquid into a container
+doing as one pleases or chooses
 one having power to influence another
 the act of noticing or paying attention
+the number is used in calling a particular telephone
 a long loud emotional utterance
 the situation in which you are happiest and most effective
 moral perversion; impairment of virtue and moral principles
+an instance or single occasion for some event
 liver of an animal used as meat
+the volume of commercial activity
 the part of a scene (or picture) that lies behind objects in the foreground
 the practice of quoting from books or plays etc.
+a membrane that is stretched taut over a drum
 an attitude of mind especially one that favors one alternative over others
 a very small circular shape
 miscellaneous unspecified objects
 any object of warm affection or devotion
 a component that is added to something to improve it
+a single undivided natural thing occurring in the composition of something else
 the activities of educating or instructing; activities that impart knowledge or skill
+a single domestic animal
 the process of combustion of inflammable materials producing heat and light and (often) smoke
 act of fulfilling a desire or need or appetite
 (psychology) the performance of some composite cognitive activity; an operation that affects mental contents
@@ -1842,21 +2133,40 @@ the hollow muscular organ located behind the sternum and between the lungs; its 
 any device serving as a source of illumination
 an unpleasant or disappointing surprise
 an abstract mental location
+a musical work that has been created
+miscellaneous unspecified objects
 a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states
 success in satisfying a test or requirement
 the rounded end of a bone that fits into a rounded cavity in another bone to form a joint
 a fireplace in which a relatively small fire is burning
 an illuminated area
 the spatial relation between something and the course along which it points or moves
+lowest support of a structure
 where you live at a particular time
 the condition of having submitted to control by someone or something else
 directions that define the way a game or sport is to be conducted
+the act of firing weapons or artillery at an enemy
+a brief version of the essential meaning of something
+a single domestic animal
 an account of the series of events making up a person's life
 a rule or condition that limits freedom
+a share of the profits
+the property of lacking physical or mental strength; liability to failure under pressure or stress or strain
+an incident (real or imaginary)
+the subject matter at issue
+the mental faculty or power of vocal communication
+a short account of the news
 the subject matter at issue
 an unbroken chronological sequence
 a publication (or a passage from a publication) that is referred to
+something less than the whole of a human artifact
 a flat surface at right angles to a plumb line
+a very young mammal
+a telephone connection
+the period between birth and the present time
+(anatomy) a layer (a lining or membrane) that encloses a structure
+persuasive but insincere talk that is usually intended to deceive or impress
+the act of dropping something
 a verbal or written request for assistance or employment or admission to a school
 the event consisting of the start of something
 a final state
@@ -1865,20 +2175,28 @@ an attitude of admiration or esteem
 foodstuff prepared from the starchy grains of cereal grasses
 the opening of a jar or bottle
 the concentration of attention or energy on something
+aiding the cause or policy or interests of
 (anatomy) the part of an organ nearest its point of attachment
 holding by the police
+the interval between two times
 the object of an activity
+a person regarded very fondly
 a long ridge or pile
 a tight cluster of people or things
+a round of applause to signify approval
 the reputation and popularity a person has
 the experiencing of affective and emotional states
 a bothersome annoying person
+a single domestic animal
 a set containing all and only the members of two or more given sets
 the state of being a married couple voluntarily joined for life (or until divorce)
+the state of being connected
 the message that is intended or expressed or signified
 the relative position or standing of things or especially persons in a society
 fire that makes it difficult for the enemy to fire on your own individuals or formations
 one of the light or dark bands produced by the interference and diffraction of light
+a slow inhalation (as of tobacco smoke)
+established customary state (especially of society)
 a written work or composition that has been published (printed on pages bound together)
 a state of inaction
 the activity of putting or setting in order in advance of some act or purpose
@@ -1887,47 +2205,85 @@ the income or profit arising from such transactions as the sale of land or other
 a small slit (as for inserting a coin or depositing mail)
 a district that has been developed to serve some purpose
 the first performance (as of a theatrical production)
+(nautical) a toilet on board a boat or ship
 a contest with rules to determine a winner
 a person who supplies information
+the front of a military formation or procession
 the courage to carry on
 an account of the series of events making up a person's life
+a connected series of events or actions or developments
+the part in the front or nearest the viewer
+a short musical composition with words
 a distinguishing style
+representation consisting of the scenery and other properties used to identify the location of a dramatic production
 an experienced person who has been through many battles; someone who has given long service
 an assertion that something is true or factual
+a boundary marking the extremities of something
+the income or profit arising from such transactions as the sale of land or other property
+a general vicinity
 a measure for arcs and angles
 an act of delaying or interrupting the continuity
+high social status
+the lower part of anything
 an event that occurs when something passes from one state or phase to another
+the foam or froth that accumulates at the top when you pour an effervescent liquid into a container
 the outermost level of the land or sea
+one of the four major division of the compass
 any enterprise in which losses and gains cancel out
 the erosive process of washing away soil or gravel by water (as from a roadway)
 oral stimulation of the genitals
+a portion of a natural object
+the spatial property of a place where or way in which something is situated
 written works (especially in books or magazines)
 touching with the tongue
 a stopping place on a journey
+a diversion that occupies one's time and thoughts (usually pleasantly)
+acting in conformity
+(biology) taxonomic group containing one or more families
 a blow hard enough to cause injury
 (computer) a socket in a microcomputer that will accept a plug-in circuit board
 an abstract mental location
 a mechanical damper; absorbs energy of sudden impulses
+a highly developed state of perfection; having a flawless or impeccable quality; ; ; --Joseph Conrad
 an indirect suggestion
 (meteorology) a unit of pressure equal to a million dynes per square centimeter
 piece of metal held in horse's mouth by reins and used to control the horse while riding
+any distinct quantity contained in a polynomial
+text consisting of a row of words written across a page or computer screen
+the region above the ground
+the source of water from which a stream arises
 a small contrasting part of something
 (mathematics) an unbounded two-dimensional shape
+a bothersome annoying person
 any activity that is performed in an especially solemn elaborate or formal way
+a relatively small granular particle of a substance
 darkness
 the general form or mode of growth (especially of a plant or crystal)
+darkness
 a musical interval of two semitones
+having abundant light or illumination
 the passage that is being read
+knowledge of how something is usually done
+a row of unravelled stitches
+the source of water from which a stream arises
+the experiencing of affective and emotional states
+required activity
 something that is made real or concrete
 the act of changing location by raising the foot and setting it down
+(printing) the receptacle in which a compositor has his type, which is divided into compartments for the different letters, spaces, or numbers
 an impression (especially one that is artificial or contrived)
 sexual activities (often including sexual intercourse) between two people
 the area that is visible (as through an optical instrument)
+a portion of a natural object
+the length or height based on the size of a human or animal head
 loyalty or allegiance to a cause or a person
+the tangible substance that goes into the makeup of a physical object
 something (a person or object or scene) selected by an artist or photographer for graphic representation
 that toward which you are inclined to feel a liking
 a substance that is emitted or released
 a large indefinite location on the surface of the Earth
+a contorted facial expression
+a person's experience on a particular occasion
 something that is a source of danger
 a mechanism by which force or power is transmitted in a machine
 a small stream
@@ -1935,30 +2291,53 @@ a politically organized body of people under a single government
 the income or profit arising from such transactions as the sale of land or other property
 gradual decline in amount or activity
 the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals
+a particular kind of product or merchandise
 the arrangement of the body and its limbs
+(anatomy) a layer (a lining or membrane) that encloses a structure
+one of the substantive phrases in a logical proposition
 an indefinitely short time
 the image of something as reflected by a mirror (or other reflective material)
+anything that suggests a wall in structure or function or effect
 the social act of assembling for some common purpose
 the act of pressing one thing on or into the surface of another
 someone who memorizes quickly and easily (as the lines for a part in a play)
+either the left or right half of a body
 a conference (usually with someone important)
 a short theatrical performance that is part of a longer program
+a surface forming part of the outside of an object
 a major division of a long written composition
 a concavity in a surface produced by pressing
+the front of the human head from the forehead to the chin and ear to ear
 a connected series of events or actions or developments
+an aspect of something (as contrasted with some other implied aspect)
 a condition that is the inspiration for an activity or situation
+an account of the series of events making up a person's life
 a consequence of someone's efforts or of a particular set of circumstances
+the air that is inhaled and exhaled in respiration
 a depression scratched or carved into a surface
 a V shape
 a perceptual structure
+the event of something coming in contact with the body
 a solid piece of something (usually having flat rectangular sides)
+an organization regarded as part of a larger social group
+a period of time considered as a resource under your control and sufficient to accomplish something
+a member of the crew of a ship
+one of the portions into which something is regarded as divided and which together constitute a whole
 the interval between two times
 a large coach-and-four formerly used to carry passengers and mail on regular routes between towns
+agriculture considered as an occupation or way of life
 a position of leadership (especially in the phrase `take the lead')
 an effort that is inconvenient
+something that resembles a flowing stream in moving continuously
 a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it
+the part in the front or nearest the viewer
+a deep and relatively narrow body of water (as in a river or a harbor or a strait linking two larger bodies) that allows the best passage for vessels
 a parcel of land having fixed boundaries
+a single domestic animal
+the body of people who attend or belong to a particular local church
 a part of a forked or branching shape
+an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
+a single complete execution of a periodically repeated phenomenon
 metal supports for logs in a fireplace
 a distinguishing style
 an unknown and unpredictable phenomenon that leads to a favorable outcome
@@ -1967,53 +2346,86 @@ a superior skill that you can learn by study and practice and observation
 general line of orientation
 the financial means whereby one lives
 evidence pointing to a possible solution
+a verbal or written request for assistance or employment or admission to a school
 an outstanding example of its kind
 a quick look
 the act of inspecting or verifying
 a natural object that covers or envelops
 a somatic sensation of acute discomfort
+unauthorized (especially deliberate) disclosure of confidential information
 clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)
+a program that gives a computer instructions that provide the user with tools to accomplish a task
 the quantity a glass will hold
+the youngest member of a group (not necessarily young)
 a section of something that is long and narrow
 an organization to gain political power
 knowledge of how something is usually done
+any device serving as a source of illumination
 an area in which something acts or operates or has power or control:
 recognition by a college or university that a course of studies has been successfully completed; typically measured in semester hours
 feelings of ardent love
 a stratum of ore or coal thick enough to be mined with profit
 the courage to carry on
+a highly developed state of perfection; having a flawless or impeccable quality; ; ; --Joseph Conrad
 a device designed to prevent injury or accidents
 (tennis) a score consisting of winning a game when your opponent was serving
+a special set of circumstances
 a large coach-and-four formerly used to carry passengers and mail on regular routes between towns
+creation by mental activity
+a V-shaped mark at one end of an arrow pointer
 a euphemism for defecation
 a slight depression in the smoothness of a surface
+the subject matter at issue
 (anatomy) a layer (a lining or membrane) that encloses a structure
+an empty area (usually bounded in some way between things)
 an amount of time
+a place where work is done
+an individual 3-dimensional object that has mass and that is distinguishable from other objects
 (of a law) having legal validity
+the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric
+a single domestic animal
+opposition between two simultaneous but incompatible feelings
+utilization or exercise
 a degree in a continuum of size or quantity
 rotary motion of an object around its own axis
 a sudden very loud noise
+a justification for something existing or happening
 unauthorized (especially deliberate) disclosure of confidential information
+a sudden sharp decrease in some quantity
 the recurring hours when you are not sleeping (especially those when you are working)
 an irritating or obnoxious person
+all the competitors in a particular contest or sporting event
 the act of forcing yourself (or being forced) into or through a restricted space
 an empty area (usually bounded in some way between things)
 a part of a person that is used to refer to a person
 an era of existence or influence
+(mathematics) the set of values of the dependent variable for which a function is defined
 evidence pointing to a possible solution
 a communicative interaction
 a state of inaction
+the cutting part of a drill; usually pointed and threaded and is replaceable in a brace or bitstock or drill press
+the (prehensile) extremity of the superior limb
+a demand for a show of hands in a card game
 a liquid necessary for the life of most animals and plants
+a recording of a song that was first recorded or made popular by somebody else
 the faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth
+the rounded end of a bone that fits into a rounded cavity in another bone to form a joint
+a period of indeterminate length (usually short) marked by some action or condition
 the condition of living or the state of being alive
+location near or direction toward the right side; i.e. the side to the south when a person or object faces east
+the pressure exerted by a fluid
+the property of holding together and retaining its shape
 the complex composition of knowledge as elements and their combinations
 a mechanism that controls the operation of a machine
+a projection out from one end; ,
+the condition of things generally
 education imparted in a series of lessons or meetings
 the musical interval between one note and another three notes away from it
 a single chance or instance
 (law) a time period after which suits cannot be brought
 (tennis) a score consisting of winning a game when your opponent was serving
 a group of physiologically or anatomically related organs or parts
+the upper part of the human body or the front part of the body in animals; contains the face and brains
 a noticeable deterioration in performance or quality
 an extended outer surface of an object
 family based on male descent
@@ -2027,95 +2439,157 @@ an initial accomplishment that opens the way for further developments
 an item of merchandise offered for sale
 professional or clerical workers in an office
 one of two or more contesting groups
+something that is extraordinary or remarkable or prominent
 the inside lower horizontal surface (as of a room, hallway, tent, or other structure)
+a slight wind (usually refreshing)
 the act of shortening something by chopping off the ends
+the general outward appearance of something
 the introductory section of a story
 a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection
 any long thin projection that is transient
 the relative speed of progress or change
+a sound property that is free from loudness or stridency
 the mat that forms the floor of the ring in which boxers or professional wrestlers compete
+any frame in which a bowler fails to make a strike or spare
+(usually plural) the obverse side of a coin that usually bears the representation of a person's head
 (mathematics) the set of values of the dependent variable for which a function is defined
 fuel that is burning and is used as a means for cooking
 a comment or instruction (usually added)
+great skillfulness and knowledge of some subject or activity
 unauthorized (especially deliberate) disclosure of confidential information
+something less than the whole of a human artifact
+an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study
 (American football) the position of the player on the line of scrimmage who puts the ball in play
 a portable container for carrying several objects
 a specialized division of a large organization
 leniency and compassion shown toward offenders by a person or agency charged with administering justice
 harmony of people's opinions or actions or characters
 washing yourself by standing upright under water sprayed from a nozzle
+the time at which life ends; continuing until dead
 the commercial exchange (buying and selling on domestic or international markets) of goods and services
 the power or right to give orders or make decisions
 a slight wind (usually refreshing)
+a recording of a song that was first recorded or made popular by somebody else
+one of the areas between or below or above the lines of a musical staff
+an individual person
 (often followed by `of') a large number or amount or extent
 an area wholly or partly surrounded by walls or buildings
 a distinguishing or individuating characteristic
 a feeling of sympathy for someone or something
+a very small circular shape
 the course along which communications spread
 a spot where something halts or pauses
 the distance covered by a step
 a means or agency by which something is expressed or communicated
 a statement that solves a problem or explains how to solve the problem
+a political unit formed from previously independent people or organizations
+a single domestic animal
+a visual attribute of things that results from the light they emit or transmit or reflect
 act of expanding in scope; making more widely available
+the trait of wasting resources
 the driving and regulating parts of a mechanism (as of a watch or clock)
 the act of shortening something by chopping off the ends
 a social gathering of guests or companions
+a characteristic emotional quality
 anything that belongs to a set or class
+a V-shaped mark at one end of an arrow pointer
+something left after other parts have been taken away
 the state of being silent (as when no one is speaking)
+the property of being physically or mentally strong
 importance or value
 the process of combustion of inflammable materials producing heat and light and (often) smoke
+the act of singing
+the act of running; traveling on foot at a fast pace
 a variety of different things or activities
+sharp end
+the act of drinking alcoholic beverages to excess
 a printed document with spaces in which to write
 a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)
 (Yiddish) a contrived and often used bit of business that a performer uses to steal attention
 people descended from a common ancestor
+a distance
+either extremity of something that has length
+a portion of a natural object
 passing above and beyond ordinary bounds
+a regular trip
+a liquid necessary for the life of most animals and plants
 a movement forward
 the rational and systematic study of religion and its influences and of the nature of religious truth
 instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity
+an area that is approximately central within some larger region
 importance or value
+a measure for arcs and angles
 a collection of things sharing a common attribute
 where you live at a particular time
 a business firm that publishes newspapers
+a carpenter's hand tool with an adjustable blade for smoothing or shaping wood
 financial liabilities (such as a tax)
 the force used in pulling
+oral stimulation of the genitals
+a device for lighting or igniting fuel or charges or fires
 (often followed by `of') a large number or amount or extent
+a statement regarded as an object
 a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment
+the pressure exerted by a fluid
+a large tract of grassy open land on which livestock can graze
+a membrane that is stretched taut over a drum
 a drug that is available only with written instructions from a doctor or dentist to a pharmacist
+the surface at either extremity of a three-dimensional object
 the force used in pulling
+the foam or froth that accumulates at the top when you pour an effervescent liquid into a container
 the musical interval between one note and another three notes away from it
 the act of rotating rapidly
 a headlong jump (or fall)
 the act of colliding with something
+the actual state of things
+a separate part of a whole
 euphemisms for death (based on an analogy between lying in a bed and in a tomb)
 the context and environment in which something is set
 a persistent illogical feeling of desire or aversion
+persuasive but insincere talk that is usually intended to deceive or impress
 a mark made on a surface by a pen, pencil, or paintbrush
+a single serving of a beverage
 the invention of a scheme or story to suit some purpose
 a meal that is well prepared and greatly enjoyed
+a short personal letter
 piece of cloth forming the long back section of a gown that is drawn along the floor
 in constant change
 movement or space for movement
+the initial part of the introduction
 (computer science) a program that translates and executes source language statements one line at a time
 the name of a work of art or literary composition etc.
 a penchant for something even though it might not be good for you
+an idea evoked by some experience
 the state of being absent
 an arrangement of similar objects in a row or in tiers
 a statement that is assumed to be true and from which a conclusion can be drawn
+any particular collection of letters or packages that is delivered
+a large room in a exchange where the trading is done
 a group of people with a common ideology who try together to achieve certain general goals
+a recent event that has some relevance for the present situation
 a systematic means of communicating by the use of sounds or conventional symbols
 the result of the process of accumulation
 (dentistry) an imprint of the teeth and gums in wax or plaster
 a state of opposition between persons or ideas or interests
+instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity
 an area of control or responsibility
+a natural object consisting of a dead animal or person
+the period during which something is functional (as between birth and death)
+a brief version of the essential meaning of something
 the concentration of attention or energy on something
+a part of a person that is used to refer to a person
+a preset plan of action in team sports
 the time when something ends
+a unit of temperature on a specified scale
 a prostitute's customer
 a natural effortlessness; ; --Jane Austen
 (chemistry) a process in which one or more substances are changed into others
 a rectangular drawing
 an instance of agitation of the earth's crust
+furniture that is designed for sitting on
+a formation of people or things one behind another
 an instance or single occasion for some event
+a part of a structure having some specific characteristic or function
 piece of cloth forming the long back section of a gown that is drawn along the floor
 happening again (especially at regular intervals)
 (usually plural) the deepest and most remote part
@@ -2124,14 +2598,231 @@ an increase in the number of outstanding shares of a corporation without changin
 a portion of something divided into shares
 the act of being present (at a meeting or event etc.)
 a task assigned for individual study
+the act of reducing the amount or number
 abundant wealth
 a state of declining economic condition
+a connected series of events or actions or developments
+the striking part of a tool
 an institution to express belief in a divine power
+a period of time considered as a resource under your control and sufficient to accomplish something
+one of the substantive phrases in a logical proposition
 the feel of mechanical action
 (physiology) regulation or maintenance of a function or action or reflex etc
 a final state
 a machine used for printing
+a public square with room for pedestrians
 enterprising or ambitious drive
 the visual appearance of something or someone
+a means or agency by which something is expressed or communicated
+a brief social visit
 the act of putting a person into a non-elective position
 moral soundness
+a single domestic animal
+gradual improvement or growth or development
+movement or space for movement
+the foam or froth that accumulates at the top when you pour an effervescent liquid into a container
+a major self-contained part of a symphony or sonata
+a society in an advanced state of social development (e.g., with complex legal and political and religious organizations)
+a spherical object used as a plaything
+a clothing measurement
+a visual warning signal
+a slow inhalation (as of tobacco smoke)
+the amount by which the cost of a business exceeds its revenue
+a final part or section
+a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
+any scene regarded as a setting for exhibiting or doing something; --Shakespeare
+the purpose of achieving or obtaining
+a request (spoken or written) to participate or be present or take part in something
+the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun
+a position or opinion or judgment reached after consideration
+approval
+an occurrence of something
+the passage that is being read
+a written work or composition that has been published (printed on pages bound together)
+a rounded compact mass
+something with no concrete substance
+a principle or condition that customarily governs behavior
+the part of the general public interested in a source of information or entertainment
+an indefinitely short time
+the people assembled at a lavish formal dance
+an unofficial association of people or groups
+an organization that is a member of another organization (especially a state that belongs to a group of nations)
+skillful performance or ability without difficulty
+the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)
+a living person
+a disposition to be lenient in judging others
+the feelings expressed on a person's face
+extreme conservatism in political or social matters
+(Yiddish) a little; a piece
+process or result of becoming less or smaller
+a dense cluster of flowers or foliage
+the range of the eye
+creation by mental activity
+a single undivided whole
+grounds
+a facility that provides a source of water
+an optical illusion of motion produced by viewing a rapid succession of still pictures of a moving object
+in baseball; a batter's attempt to hit a pitched ball
+a special abstraction
+the act of bringing something to bear; using it for a particular purpose
+the quality of being divine
+a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission
+the news as presented by reporters for newspapers or radio or television
+the solid part of the earth's surface
+the story that is told in a novel or play or movie etc.
+the final aggregate
+the locus of feelings and intuitions
+doing as one pleases or chooses
+something (as a cord or rope) that is long and thin and flexible
+the bill in a restaurant
+a healthy capacity for vigorous activity
+extended treatment of particulars
+the physical coming together of two or more things
+a demand for a show of hands in a card game
+the act of presenting a play or a piece of music or other entertainment
+the efficient use of resources
+a small piece or quantity of something
+a communicative interaction
+a party of friends assembled to present gifts (usually of a specified kind) to a person
+the pressure exerted by a fluid
+an effort that is inconvenient
+a written form of a musical composition; parts for different instruments appear on separate staves on large pages
+the land on which real estate is located
+any one of a systematic body of regulations defining the way of life of members of a religious order
+a slight but appreciable amount
+the act of officially naming a candidate
+the property possessed by a sum or total or indefinite quantity of units or individuals
+an artistic or literary composition
+the driver's seat on a coach
+an undivided or unbroken completeness or totality with nothing wanting
+play in which children take the roles of father or mother or children and pretend to interact like adults
+a work of art of some artistic value
+the feeling of distress and disbelief that you have when something bad happens accidentally
+the subject matter at issue
+the legal right to sit as a member in a legislative or similar body
+people who perform a particular kind of skilled work
+an illuminated area
+the feel of mechanical action
+the front or forward projection of a tool or weapon
+a group of persons associated by some common tie or occupation and regarded as an entity
+physical assistance
+a record or narrative description of past events
+written material intended to be read
+an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study
+a situation treated as an observable object
+(music) a note that produces a dissonant chord is first heard in a consonant chord
+(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs
+an informal right to something
+a participant in a date
+declaration of an intention or a determination to inflict harm on another
+a relation between things or events (as in the case of one causing the other or sharing features with it)
+a project of personal concern to someone
+an intellectual hold or understanding
+a reflex response to the passage of electric current through the body
+an instance of some kind
+an isolated fact that is considered separately from the whole
+the piece of ground in the outfield directly ahead of the catcher
+a brief experience of something
+a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+a pale and sickly appearance
+the immediate proximity of someone or something
+the first performance (as of a theatrical production)
+a support on which things can be put
+the place where some action occurs
+the experience of being alive; the course of human events and activities
+the act of changing the location of something
+the smallest possible unit of anything
+education imparted in a series of lessons or meetings
+the period during which something is functional (as between birth and death)
+height above ground
+a short forward pass to a back who is running toward the sidelines
+the course of existence of an individual; the actions and events that occur in living
+wit having a sharp and caustic quality
+a short personal letter
+a state of ill-being due to affliction or misfortune
+a rational motive for a belief or action
+an impressionistic portrayal of a person
+a component that is added to something to improve it
+the part of something that is nearest to the normal viewer
+a thin coating or layer
+a track or mark left by something that has passed
+(sports) the decision made by an umpire or referee
+your usual mood
+the spatial property of the way in which something is placed
+an ability to perform well
+a lengthwise crack in wood
+the manner of construction of something and the arrangement of its parts
+a free and rapid descent by the force of gravity
+a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+the act of snapping the fingers; movement of a finger from the tip to the base of the thumb on the same hand
+a written message addressed to a person or organization
+an appreciable consequence (especially a lessening)
+a prison term lasting as long as the prisoner lives
+an indication of potential opportunity
+the management of a gambling house or casino
+coming to understand something clearly and distinctly
+a courteous expression (by word or deed) of esteem or regard
+a physical sensation that you experience
+event whose occurrence ends something
+the act of changing location from one place to another
+the number is used in calling a particular telephone
+the act of finishing
+threat of a penalty
+a conceptual separation or distinction
+the part of an organism (human or animal) that connects the head to the rest of the body
+a body of voters who have the same interests
+the occurrence of a uniting of separate parts
+the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric
+a general course along which something has a tendency to develop
+the exercise of a profession
+a turn toward the side of the body that is on the north when the person is facing east
+an abstract mental location
+a tone of voice that shows what the speaker is feeling
+a chance to do something
+a clear and telling mental image
+the property possessed by a sum or total or indefinite quantity of units or individuals
+a serving of drink (usually alcoholic) drawn from a keg
+soft semiliquid food
+amount or degree or range to which something extends
+an attempt to get something
+the relation of comprising something
+the opening of a jar or bottle
+the part of a piece of clothing that covers the thighs
+a change from one state to the opposite state
+the state of having been made ready or prepared for use or action (especially military action)
+a product produced or accomplished through the effort or activity or agency of a person or thing
+(psychology) the performance of some composite cognitive activity; an operation that affects mental contents
+a sudden sharp decrease in some quantity
+the general impression that something (a person or organization or product) presents to the public
+the state of being joined or united or linked
+a difficult juncture
+(slang) a person's girlfriend or boyfriend
+the act of undergoing testing
+legal document setting forth rules governing a particular kind of activity
+the seriousness of something (e.g., a burn or crime)
+extraneous signals that can be confused with the phenomenon to be observed or measured
+an outward appearance
+some abrupt occurrence that interrupts an ongoing activity
+a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)
+a coming to or returning home
+the financial means whereby one lives
+a small table for holding articles of various kinds
+a state of steady vigorous action that is characteristic of an activity
+a brief version of the essential meaning of something
+any material used for its color
+(baseball) the position taken by a base runner preparing to advance to the next base
+an unbroken series of events
+the striking part of a tool
+a specific identifiable position in a continuum or series or especially in a process
+trying something to find out about it
+the act of concealing the existence of something by obstructing the view of it
+a theatrical performance of a drama
+an instant of time
+living things collectively
+a weak and tremulous light
+an impression (especially one that is artificial or contrived)
+a person who is in charge
+a formation of people or things one behind another
+one of several parts or pieces that fit with others to constitute a whole object
+a slight attack of illness
+an assemblage of parts that is regarded as a single entity
