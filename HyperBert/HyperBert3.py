@@ -1,14 +1,13 @@
-from collections import defaultdict, Counter
+from collections import Counter
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
 
-import numpy as np
-from sklearn.metrics import precision_recall_fscore_support
 import torch
 import torch.nn as nn
+from sklearn.metrics import precision_recall_fscore_support
 from torch.nn import BCEWithLogitsLoss
-from transformers import BertPreTrainedModel, BertModel
 from transformers import AutoTokenizer, EvalPrediction
+from transformers import BertPreTrainedModel, BertModel
 from transformers import Trainer, TrainingArguments
 
 from model_evaluation.wictsv_dataset import WiCTSVDataset
@@ -104,7 +103,7 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset_path', nargs='?', default='../data', type=str)
+    parser.add_argument('--dataset_path', nargs='?', default='../data/en', type=str)
     parser.add_argument('--model_output_path', nargs='?', default='./model', type=str)
     parser.add_argument('--model_name', nargs='?', default='bert-base-uncased', type=str)
     args = parser.parse_args()
