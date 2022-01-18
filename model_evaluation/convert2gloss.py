@@ -3,7 +3,7 @@ from pathlib import Path
 from model_evaluation.data_processors import read_wic_tsv
 from model_evaluation.wictsv_dataset import WiCTSVDataset
 
-base_path = Path(__file__).parent.parent / 'data'
+base_path = Path(__file__).parent.parent / 'data' / 'en'
 wic_tsv_train = base_path / 'Training'
 wic_tsv_dev = base_path / 'Development'
 wic_tsv_test = base_path / 'Test'

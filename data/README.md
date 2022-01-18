@@ -1,4 +1,4 @@
-## WiC-TSV: the Word-in-Context Dataset for Target Sense Verification
+## WiC-TSV and WiC-TSV-de: the Word-in-Context Dataset for Target Sense Verification
 
 Data is split in training, development and test. Each split contains four files.
 

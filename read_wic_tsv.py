@@ -5,9 +5,8 @@ from transformers import BertTokenizer
 from model_evaluation import data_processors as dp
 from model_evaluation import wictsv_dataset as wd
 
-
 if __name__ == '__main__':
-    train_folder = Path('data/Training')
+    train_folder = Path('data/en/Training')
     contexts, target_inds, hypernyms, definitions, labels = dp.read_wic_tsv(wic_tsv_folder=train_folder)
     wt_ds = wd.WiCTSVDataset(
         contexts=contexts,

@@ -1,0 +1,425 @@
+Management	1	Das Management kann immer noch verbessert werden .
+Stern	2	Ein neuer Stern am Schlagerhimmel .
+Determinatum	20	`` Dampfschiff '' ist ein `` Determinativkompositum '' , bei dem das `` Determinans '' `` Dampf '' das `` Determinatum '' `` Schiff '' näher bestimmt und z.B . von `` Segelschiff '' , `` Schulschiff '' usw . unterscheidet .
+Blende	5	In der Technik ist die Blende zum Beispiel Bestandteil des Fotoapparates . Mit Ihr kann der Lichteinfall reguliert werden .
+Dublin	6	Letztes Jahr ist er quer durch Dublin gereist .
+Sprachzentrum	3	`` Das Internationale Sprachzentrum an der Universität Graz ( ISZ ) ist eine gemeinnützige Einrichtung der Erwachsenenbildung , die primär auf die Vermittlung von Fremdsprachen an Erwachsene spezialisiert ist . ''
+Aufschrei	3	`` Mit gellemdem Aufschrei stürzten die in den vordersten Reihen Stehenden zu Boden . ''
+Fregattenkapitän	1	Der Fregattenkapitän entspricht dem Oberstleutnant bei Heer und Luftwaffe .
+Begleiter	6	Er war der Sängerin ein einfühlsamer Begleiter .
+Sezessionskrieg	2	Nach dem Sezessionskrieg wurde die Sklaverei in den USA abgeschafft .
+Elbling	0	Elbling , dessen Ursprünge auf den Weinbau der Römer in Germanien zurückgeführt werden , ist heute nur noch in wenigen Gegenden verbreitet . Speziell an der Ober-Mosel wird diese spät reifende Weiß-Weinrebe , die frische , fruchtig trockene Weine ergibt , noch gepflegt .
+Streifendienst	15	`` Und deshalb begegnet man auch in deutschen Gerichtssälen Verhaltensweisen , die ich von meinem Streifendienst auf Bochums Straßen nur zu gut kenne . ''
+Schein	1	Der Schein ihrer Taschenlampen konnte die Dunkelheit kaum durchdringen .
+Zinfandel	1	`` Zinfandel , die wohl bekannteste Rebsorte Kaliforniens , hat ihren Ursprung in Europa und bringt Weine unterschiedlicher Art hervor . Die Weine sind fruchtig bis würzig-aromatisch und voll im Geschmack . ''
+Spieß	2	`` Der Spieß wollte sie zu irgendwas kommandieren , aber sie haben den Befehl glatt verweigert . ''
+Frankfurt	0	Frankfurt ist die Metropole im Rhein-Main-Gebiet .
+Verdikt	9	`` Ohne diese Schlüsselworte wurde jedes Argument mit einem Verdikt aus ebendiesem Vokabelschatz abgeschmettert . ''
+Hund	4	Er ist ein krummer Hund .
+Dank	13	Dabei ist die offizielle Presseerklärung , das Unternehmen sei ihm `` zu großem Dank verpflichtet '' , keineswegs als die übliche Trennungsfloskel zu verstehen .
+Sackratte	8	`` Ich weiß , werte Filzlaus , alte Sackratte , Schamlaus , Matrose am Mast - wie immer man dich genannt hat , dich zum `` Helden '' zu machen , ist mehr Konfetti auf dein Haupt als du verdienst . ''
+Abfahrt	8	Der Hinweis auf die Gutsschänke Neuhof bei der Abfahrt Langen südlich Frankfurt ist ebensowenig vergessen wie der Blaubeurer `` Forellenfischer '' .
+Ableitung	1	Die Ableitung gehört ebenso wie die `` Kurzwortbildung '' zur `` Morphologie '' .
+Oktogon	48	`` Auch in Sindelfingen wollte man ein originelles Cafe , in dem Achteckturm des Architekten Josef Paul Kleihues , doch der will damit nichts zu schaffen haben : Es behagt ihm nicht , verständlicherweise . Es befindet sich im Erdgeschoß seines gedrungenen , mit einer Milchglaspyramide gedeckten dreistöckigen Oktogons [ ... ] . ''
+Kardinal	2	`` Als Kardinal Anton Gruscha die Initiative ergriff , ordnete Franz Joseph I. am 18 . April 1896 dem Kultusministerium die Bereitstellung der Geldmittel an ; die Grundsteinlegung erfolgte am 10 . Oktober 1896 in seiner Anwesenheit . ''
+Krone	1	Die Krone ist der obere Teil eines Diamanten , beginnend von der Rundiste bis zur Tafelfacette .
+Zucker	2	Ich habe Zucker .
+Dornbirn	5	`` Im Jahr 1901 wurde Dornbirn von Kaiser Franz Joseph I. zur Stadt erhoben . ''
+Bahn	6	Der Autoscooter wurde in die richtige Bahn gelenkt .
+Henna	29	Das dunkle Gesicht ist sorgsam gewaschen , ein Hauch von Frische und süßen Düften strahlt davon aus ; die Augenbrauen sind untermalt , die Nägel der schönen Hände mit Henna geschminkt ; die perlenden Zähne zeigt das beständige Lächeln .
+Alabaster	16	`` Raspeln werden auch in der Bildhauerei zur Bearbeitung von Weichgesteinen , wie beispielsweise Speckstein , Alabaster , Kalkstein oder Marmor eingesetzt . ''
+Drachen	0	Drachen steigen lassen
+Schofel	4	Der ist so ein Schofel !
+Stahl	0	Stahl kann entweder aus Eisenerz oder aus Schrott hergestellt werden .
+Kopfgeld	12	`` Vespasian hatte ihnen freie Religionsübung gestattet , doch mußten sie das Kopfgeld von einem halben Sekel , das sie früher an den Tempelschatz zahlten , an den Kapitolinischen Jupiter entrichten . ''
+Gör	9	`` `` War das nicht die Leböff , das Gör ? `` , fragte ihn Frau Sorfrey , als er wieder hereinkam . `` Wieso Gör ? `` , erkundigte er sich unangenehm berührt . `` Na , da haben wir uns doch was herangezüchtet ! `` , behauptete die Lehrerin . ''
+Pflegeschwester	45	`` Weiterhin Geistliche und Vertreter kirchlicher Institutionen wie der Tübinger Stadtpfarrer Walter Schaal der sich zur Bekennende Kirche rechnete , Kaplan Wilhelm Mayer , der Häftling in Dachau gewesen war , der katholische Pfarrer Emil Dimmler und drei Diakonissen , die zu Ritters Tübinger Oberarztzeiten Pflegeschwestern im Klinischen Jugendheim waren . ''
+Gruppentherapie	11	Nach dem Busunglück behandelte der Chefarzt der Notaufnahme die Leichtverletzten mittels Gruppentherapie .
+Forint	4	In Ungarn wurde der Forint um das Jahr 1325 eingeführt .
+Demokratie	2	`` Die Demokratie ist nicht die beste aller Staatsformen , sondern nur die am wenigsten schlechte . ''
+Granne	1	Die Grannen halten das wärmende Unterhaar trocken .
+Befruchtung	5	Die Neuzeit lebte kraft ihrer Befruchtung durch die Antike auf .
+Landwehr	4	Seid ihr bereit zur Landwehr ?
+Blaubeere	38	`` Ich weiß nicht mehr , wie lange er auf dem Darß blieb , aber wir gingen noch oft zum Schwimmen und noch oft in den Wald , nicht nur wegen der Tierspuren , sondern auch , um Blaubeeren und wilde Himbeeren zu sammeln . ''
+Kleinvernatsch	6	Ein Jahrgangswein aus den Trauben des Kleinvernatsch ist ideal als Sommerwein . Grauvernatsch Weinbau : eine Variation der Rebsorte Vernatsch , die vorwiegend in Südtirol angebaut wird Rebe , Rebsorte , Vernatsch '' Von der Vernatschrebe sind sehr viele Variationen bekannt ; in Südtirol sind dies Großvernatsch ( Schiava Grossa ) bzw . heute dessen Züchtung Edelvernatsch ( Schiava Gentile ) , Mittervernatsch , Grauvernatsch und Tschaggelevernatsch . '' Grauvernatsch Weinbau : Wein aus der Rebsorte Grauvernatsch Weinsorte Reich mir doch bitte noch vom Grauvernatsch . Tschaggelevernatsch Weinbau : eine Variation der Rebsorte Vernatsch , die vorwiegend in Südtirol angebaut wird Rebe , Rebsorte , Vernatsch ... Die beiden anderen Varianten dieser Sorte , die Schiava Gentile , auch als Edelvernatsch bezeichnet , mit ihren kleineren Beeren und der Tschaggelevernatsch mit noch kleineren Beeren erbringen eine wesentlich bessere Weinqualität . ''
+Warte	7	In der Umgebung von Duderstadt sind zwei Warten erhalten .
+Vulgärsprache	7	`` ... aber andererseits wurde eben diese Vulgärsprache durch die Plattenerfolge in die Unterhaltungsindustrie integriert und in gewisser Weise verbraucht . ''
+Fasson	16	Kaum war ich vor die Tür gegangen , war meine neue Frisur schon ganz aus der Fasson .
+Dalles	8	Pass auf , sonst holst du dir den Dalles .
+Amerika	1	`` Amerika ist nicht die Welt . ''
+Thymian	1	Die Thymiane sind vor allem im Mittelmeerraum verbreitet .
+Vizefeldwebel	3	Was sagt der Vizefeldwebel dazu ?
+Flügelbauer	13	Die kleine aber in der 5 . Spielstunde fiese Endspielfalle eroberte einen wichtigen Flügelbauern und damit auch den Gesamtsieg zum 4,5 zu 3,5 für den VFB .
+Stein	1	Den Stein musst du ausspucken .
+Ektoplasma	3	Das Endo- und Ektoplasma lassen sich in ihrer Konsistenz voneinander unterscheiden .
+Zuckerrohrernter	0	Zuckerrohrernter sind entweder selbstfahrende Arbeitsmaschinen oder werden von Traktoren gezogen .
+Salz	1	Schwefligsaures Salz steht bei mir im Schrank .
+Pudel	15	`` Es kam ihm vor , als reisten in der U-Bahn genauso viele Menschen wie Pudel . ''
+Mantel	30	`` Mit der Bahn fuhren die Hamsterer weit hinaus aufs Land , zwanzig , dreißig , fünfzig Kilometer , mit dem Fahrrad auch , solange sie genug heile Schläuche und Mäntel hatten , notfalls eben zu Fuß . ''
+Nuttendiesel	22	Du warst doch dabei als wir diese Kiste Mädchenbrause leer gemacht hatten , Don Perpignan oder wie das Zeug hieß , echter Nuttendiesel .
+Durst	2	`` Sein Durst schien unstillbar . ''
+Altertum	29	`` Ein kaum zu überbietendes Gekröse aus Gerüchten und religionspolitischen Wahnsinnstaten umgibt den aus einem syrischen Geschlecht stammenden Despoten , der im 3 . Jahrhundert im größten Staat des Altertums die Macht an sich riss . ''
+Idiom	10	`` Die Juden von Alexandria hatten bekanntlich ihre semitischen eigenen Idiome schon so weit vergessen , daß sie sich genötigt sahen , eine griechische Übersetzung der Bibel - die Septuaginta - zu veranlassen . ''
+Lüftungsspezialist	2	`` Der Lüftungsspezialist Markus Späth baut als erstes Unternehmen im neuen Endinger Industriegebiet Holderacker . ''
+Messe	1	Die Messe beginnt um 10:00 Uhr .
+Baas	41	`` Und der Sohn , der nicht zu arbeiten brauchte , wo andere Jungen sich schon seit Jahren an Bord quälten , der beherrschte die Jüngeren . `` Hoi hoi , wenn die Wassergeusen dort kommen , wird der Hasko unser Baas , '' stichelten die Mattheszwillinge . ''
+Artigkeit	1	`` Artigkeit ist daher eine förmliche Pflicht , und jede Pflicht ist Tugend , sobald diese Pflicht erfüllet wird . ''
+Halbmond	3	Heute haben wir Halbmond ( der Mond steht im 1 . Viertel ) .
+Simsalabim	1	Mit Simsalabim ließ der Zauberer das Kaninchen verschwinden .
+Handvoll	7	Für eine Mehlschwitze röstet man einfach eine Handvoll Mehl in heißem Fett an und gießt es anschließend mit Brühe auf .
+Fürwort	11	`` Er '' in `` Er ist groß '' ist ein Fürwort .
+Schar	23	`` Begleitet von diesen Mitstreitern und deren Gefolgsleuten , reitet er im Frühjahr des folgenden Jahres zu Thorstein und baut sich mit seiner Schar vor dessen Hof auf . ''
+Verband	5	`` Der Andere wickelte den Verband auf . ''
+Prignitz	5	`` Die im Raum der Prignitz nachweisbaren Völker scheinen wenigstens zeitweise mit den Lutizen in einem politischen oder kultischen Verband gestanden zu haben , worauf vereinzelte Nachrichten deuten . ''
+Gegenschlag	29	`` Sie bildeten einen Teil der sogenannten Erstschlagkapazität , konnten aber auch zur Zweitschlagkapazität gerechnet werden , die einen gegnerischen Angriff auf das eigene Land überleben und für einen Gegenschlag bereitstehen sollten . ''
+Wildheit	6	`` Ein Blick reiner , ungezähmter Wildheit , das unerbittliche Wissen des nackten Seins '' .
+Lüftungswächter	5	`` Bei Gelb mahnt der Lüftungswächter zum Heizen und bei Rot sollte man tunlichst umgehend das Fenster öffnen . ''
+Kapsel	3	Sie nimmt drei Kapseln am Tag ein .
+Nebbich	14	`` Er war empört gewesen , daß der Bankier Roest ihn als Schnorrer und Nebbich empfangen hatte , aber er sah bald , daß er in dieser Stadt , die in einem Millionentaumel lebte , wirklich ein Nebbich war . ''
+Pauker	7	Spätestens in der Abi-Zeitung bekommen auch die Pauker ihr Fett weg .
+Abzeichen	5	Früher war das Sammeln von Abzeichen in der Mode .
+Meilenstein	1	Diesen Meilenstein haben wir locker geschafft .
+Fregattenkapitän	2	Besonders viele Fregattenkapitäne gibt es in der Bundeswehr nicht .
+Schinkenbeutel	6	[ ... ] verpackt in rot-weiß-karierten Schinkenbeuteln und Karton
+Inspektion	4	Ich muss nach der Inspektion den Inspektionsbericht schreiben .
+Server	3	`` Er baute Server bei Firmen auf und implementierte neue Software in die bestehenden Server auch großer Firmen . ''
+Gemeindeamt	6	Meinen neuen Meldezettel bekam ich am Gemeindeamt .
+Fabrik	2	In dieser Fabrik arbeitete schon mein Vater .
+Abbau	9	Auf den Verkauf der veralteten Fabrik erfolgte der komplette Abbau . Die Einzelteile wurden später nach China verkauft .
+Adler	9	Das Wappen Brandenburgs trägt in Silber einen goldbewehrten roten Adler .
+Schwedisch	30	`` Deutsch , Erdkunde , Sport und Geschichte - es gibt Schulfächer , die kennt jeder . Andere klingen eher ungewöhnlich : Astronomie zum Beispiel , Plattdeutsch , Chinesisch , Schwedisch , Sorbisch oder Darstellendes Spiel . ''
+Pfeffer	1	`` Pfeffer , Zimt , Muskatnüsse und Gewürznelken waren in Europa überaus begehrt . ''
+Hingabe	13	Nach den imaginären Wonnen der ersten `` Kristallbildung '' kommt der Moment der Hingabe , der die Geliebte von der Königin zur Sklavin erniedrigt .
+Rodeo	6	`` Drinnen auf der Tribüne beim Rodeo , wackelten die Balken und die Bretter . Die Männer brüllten und rochen nach Bier und Schweiß . ''
+Bauaufsicht	1	Die Bauaufsicht wird von der Baubehörde wahrgenommen .
+Lot	4	Er wurde mit einem Lot erschossen .
+Zarin	3	`` Denn die Zarin verbot den Sklavenhandel , der im Krim-Khanat geherrscht hatte . ''
+Hidalgo	6	Personen des Adels werden in Spanien Hidalgo genannt .
+Blick	15	`` Aus dem trüben Wasser des Noors ragt ein hölzernes Bollwerk , Palisaden versperren den Blick vom Wasser aus auf die dahinter liegende Stadt . ''
+Buchung	1	Ihre Buchung wurde auf Flug LH 446 entgegen genommen .
+Amarant	0	Amarante kommen auf allen Kontinenten außer der Antarktis vor .
+Haushaltshilfe	4	`` Der Anspruch auf Haushaltshilfe besteht nur , soweit eine im Haushalt lebende Person den Haushalt nicht weiterführen kann . ''
+Bogen	1	Der Bogen ist zu gross , es besteht Druck auf den Widerrist , was zu offenen Wunden führen kann . Zudem besteht die Gefahr , dass der Sattel nach vorne kippt und abdreht .
+Arsch	1	Du Arsch !
+Nordosten	4	Der Weg biegt nach Nordosten ab .
+Fernlicht	1	Im Fernlicht sah man zwei Rehe am Straßenrand stehen .
+Querschnitt	11	`` Gläser passten da allerdings nur hinein , wenn sie im Querschnitt weniger als fünf Millimeter messen würden '' . ( Quelle : Die Welt 2001 )
+Koloss	10	`` Der Däne neben Stefan war fast glatzköpfig und ein Koloss . ''
+Füller	2	Mit einem Füller kann man schreiben .
+Lüftungsfehler	6	`` Vermeiden Sie dabei allerdings den Lüftungsfehler , den viele machen : sie kippen ihre Fenster stundenlang und denken , sie würden die alte , verbrauchte Luft so gegen neue tauschen . ''
+Galerie	8	Vor dem alten Bücherregal im Arbeitszimmer liegt eine Galerie .
+Überzieher	12	`` Obwohl die Kirchen den Gebrauch für sündig hielten , wurden die Überzieher immer beliebter . ''
+Hirn	1	Gebratenes Hirn erinnert geschmacklich an Leber , roh schmeckt es nussartig und hat einen metallischen Nachgeschmack .
+Alk	2	Wenn der Alk ausgeht , sitzen wir auf dem Trockenen .
+Papierblume	6	An seinen Hut steckte er eine Papierblume aus rotem Krepp .
+Gänsefuß	5	Dieses Wort sollte man in Gänsefüße setzen .
+Schnauzer	8	Seine Frau will , dass er sich den Schnauzer abrasiert .
+Bariton	7	`` Der schlanke Richard S. , ein Bariton , trifft auf dem Wege zur Bühnenprobe den gewichtigen Tenor Leo Slezak . ''
+Bahn	4	Vom Teppichboden wurde eine Bahn zur Ansicht ausgerollt .
+Tamazight	10	`` Der Prinz verstand inzwischen erste Phrasen und Redewendungen auf Tamazight . Und er konnte sie - mehr schlecht denn recht - erwidern . ''
+Neigung	1	Seine Neigung gilt besonders Italien .
+Armeegeneral	5	`` Gleichzeitig wurde ein anderer Armeegeneral zum Chef des Generalstabes ernannt . ''
+Droschke	13	`` Und während er so weiterdröhnte , schlug Piepgras langsam das Verdeck seiner Droschke zurück und knüpfte das Kotleder los ... ''
+Knifte	8	Wenn Du Hunger hast , mach dir eine Knifte .
+Zuckerbrot	29	Man ließ die aus den Zuckerrüben gewonnene , geklärte und konzentrierte Zuckerlösung bei einer bestimmten Temperatur in kegelförmigen Behältern , der sogenannten Nutschbatterie auskristallisieren . Was herauskam nannte man Zuckerbrot oder Zuckerhut .
+Kätzchen	10	`` Sie geht zum Ufer hinunter , um ein paar Kätzchen für ihr Zimmer zu pflücken . ''
+Ruf	1	Der Ruf `` Feuer ! '' hallte durch das Haus .
+Nachgeburt	4	Sie ließ sich ihre Nachgeburt verpacken und nahm sie mit nach Hause .
+Kunststoffpreis	6	`` Immer dann , wenn der Kunststoffpreis über dem vereinbarten Swappreis liegt , bekommt das Unternehmen eine Auszahlung aus dem Swap - und zwar in Höhe der Differenz zu dem ursprünglich festgelegten Niveau . ''
+Soda	4	Einige Cocktails werden mit Soda gemischt .
+Affengriff	1	Der Affengriff ist meist die letzte Chance , den Rechner zu retten und den Nutzer vor dem Durchdrehen zu bewahren .
+Perle	5	Für ein Wampum wurden längliche Perlen aus Muschelschalen auf Fäden aufgereiht .
+Florist	6	Der Blumenstrauß stammt von einem ausgebildeten Floristen , nicht von der Tankstelle .
+Hast	3	Und mit überstürzter Hast empfahl er sich .
+Wasserbad	10	Nach dem Schwitzen in der Sauna stiegen wir in das Wasserbad .
+Studium	6	`` Seine aerodynamischen Erkenntnisse aus dem Studium des Windes und der Vogelflügel waren die Grundlage für den modernen Segelflug . ''
+Neun	1	Die Neun ist der Nachfolger der Acht .
+Prothese	4	Ein Beispiel für eine Prothese ist das Wort `` Esprit '' , das aus dem Französischen entlehnt wurde . Es geht zurück auf das lat . `` spiritus '' und erhielt im Französischen ein vorgeschaltetes prothetisches [ e ] .
+Umbuchung	1	Diese Umbuchung ist falsch gelaufen , die Wertstellung auf dem Konto erfolgte einen Tag zu spät .
+Spielzug	4	`` Mit möglichst wenigen Spielzügen das erwünschte Ziel zu erreichen , ist die eigentliche Anforderung an den Spieler . ''
+Schwenker	28	`` Ich ging hinunter , um mir ein großes Messer aus der Küche zu holen , stapelte Scheite in die Holzwiege , nahm auch die Kognakflasche und einen Schwenker und ging wieder hoch . ''
+Wasserglas	0	Wasserglas ist eine farblose Verbindung .
+Jugendarbeit	4	Dieses Museum zeigt einige Jugendarbeiten eines berühmten Holzschnitzers aus dem 19 . Jahrhundert .
+Veröffentlichungsdatum	6	Fragt man Amazons Alexa nach dem Veröffentlichungsdatum von Katy Perrys nächstem Album , dann antwortet Alexa `` 14ter August '' .
+Weiße	3	Bitte noch zwei Weiße !
+Lerchensporn	4	Lerchen sind am charakteristischen Lerchensporn leicht zu erkennen .
+Juwel	4	Der Schmuckhändler weiß mit Juwelen umzugehen .
+Lunula	1	Die Lunula ist meistens etwas heller , als der Rest des Nagels .
+Pilot	2	Ohne den Piloten hätte niemand die Serie angeschaut .
+Renaissance	3	Dem Rom der Renaissance ist der Hauptteil ihres Vortrags gewidmet .
+Blattfüßer	29	`` In ganz seichten Süßwasserpfützen , wie sie vorübergehend bei heftigen Niederschlägen oder durch Druckwasser von unten entstehen , findet man zuweilen massenhaft niedere Krebstiere aus der Ordnung der Blattfüßer ( Phyllopoda ) von einigen Zentimeter Länge . ''
+Tomate	0	Tomaten vertragen keinen kalten Regen .
+Deltaflieger	3	`` Der geübte Deltaflieger verwächst funktionstechnisch und erlebnismäßg so eng mit seinem Fluggerät , dass ihm der angelegte Flügel zu einer Art neuem Körperteil wird , dessen er sich wie eines verlängerten Arms oder einer gut sitzenden Prothese bedient . ''
+Organ	4	Die Haut ist ein Organ des Körpers .
+Biberschwanz	1	Der Biberschwanz ist eine sehr alte Dachziegelform .
+Abecedarium	1	`` Abecedarium ( Mz . Abecedarien ) nennt man die aus dem 14. und 15 . Jahrhundert stammenden , meist alphabetisch geordneten Zusammenfassungen zunächst des römischen und kanonischen , hernach auch des deutschen Rechts [ ... ] . ''
+Elagabal	15	`` Im Zentrum erhob sich ein mit Juwelen besetzter Prachttempel , der dem semitischen Sonnengott Elagabal gewidmet war . ''
+Durchfall	4	`` Das mit dem Durchfall störte mich weniger , aber was anderes passierte . ''
+Husarenritt	3	`` An unseren Husarenritt über die Felder und durch die Wälder Santa Annas kann ich mich kaum erinnern . ''
+Pfanne	5	Man kann Eier in der Pfanne braten .
+Spezifikum	3	Lachen ist ein Spezifikum des menschlichen Verhaltens .
+Vatikan	13	Nicht nur der Petersdom , sondern auch die Apotheke und die Post des Vatikans dürfen nicht mehr mit ärmellosen T-Shirts , kurzen Hosen und Miniröcken betreten werden .
+Konglomerat	2	Zu dem Konglomerat gehören neben dem Automobilbau auch Banken , Versicherungen oder Bauunternehmen . < ! -- Quelle : DIE WELT 2000 -- >
+Südwester	3	Ich bin geborener Südwester .
+Schicht	5	In diesem Bereich liegen einige Schichten Lehm und Eisenerz .
+Brixen	5	Knapp 50 Kilometer nördlich von Brixen liegt der Brennerpass .
+Tatschkerl	2	jemandem ein Tatschkerl geben
+Bahn	1	Die Bahnen der Nerven verlaufen nur annähernd identisch .
+Stampfer	5	Dieser Apfelmus ist aber ein Stampfer geworden .
+Irland	0	Irland wird oft mit Kelten , Magie und Aberglaube assoziiert .
+Tiefbau	1	Der Tiefbau für die neue U-Bahn soll 2014 fertig sein .
+Fleischlieferant	28	`` Die Schweinezucht wurde lange Zeit vernachlässigt , erlangte aber seit der zweiten Hälfte des 19 . Jahrhunderts immer größere Bedeutung , so daß das Schwein zum wichtigsten Fleischlieferanten aufstieg . ''
+Kegel	7	Die einen haben 's halt mit den Kegeln , die anderen mit dem Fußball .
+Kreuzer	9	`` Am 30 . Juli 1945 wurde der amerikanische Kreuzer Indianapolis mit fast 1200 Mann Besatzung von einem japanischen Unterseeboot torpediert . ''
+Stresstest	9	Auch bei Atomkraftwerken und Banken wurden im Jahr 2011 Stresstests durchgeführt .
+Auflieger	10	`` Damit sollte laut Polizei verhindert werden , dass der Auflieger durch Schwingungen der Brücke instabil werden und doch noch hinunterfallen könnte . ''
+Nüsschen	8	Die gelben Punkte auf den Erdbeeren sind die Nüsschen , also die eigentlichen Früchte .
+Flechte	4	Sie litt an einer Flechte .
+Stand	5	Sie mussten ganz früh einen Stand aufbauen .
+Hundemarke	1	Die Hundemarke wird von der zuständigen Gemeinde , bei ordentlicher Anmeldung des Hundes und nach Entrichtung der dann jährlich fälligen Hundesteuer , ausgegeben .
+Galakleid	5	`` Der große Auftritt im Galakleid gehört bei einer Preisverleihung dazu . Aber nicht jeder Dame gelingt dies [ ... ] ''
+Hammer	3	Sie warf den Hammer auf 45,7 Meter .
+Katzenjammer	2	`` Der Katzenjammer bei der Wirtschaft [ nach dem 'Nein ' zum EWR-Beitritt ] war damals gross , heute gibt es diesen Katzenjammer eigentlich nicht mehr . ''
+Fleischkloß	9	`` Schon auf der Treppe konnte er Reizl Korks Fleischklöße riechen . ''
+Denkmal	1	`` Denkmal für die gefallenen Luftschiffer : Am 1 . Juli 1900 wagte Graf Zeppelin den ersten Flug mit dem nach ihm benannten Fluggerät über den Bodensee . ''
+Allerheiligenkapelle	13	`` Mit dem Bau der Wettsteinbrücke 1878/79 nahte das Ende des nunmehr als Allerheiligenkapelle bekannten Gotteshauses . ''
+Gong	3	Als endlich der Gong zur großen Pause ertönte , gab es für die Schüler kein Halten mehr .
+Südost	1	Kurs Südost
+Knesset	9	`` Der Jurist David Rotem ist stellvertretender Präsident der Knesset und im neu gewählten israelischen Parlament designierter Vorsitzender des Rechtsausschusses . ''
+Funk	3	Dieses Taxi hat Funk .
+Schwertfisch	3	Der eher unauffällige Schwertfisch liegt zwischen den hellen Sternen Kanopus und Achernar .
+Hintermann	2	Einer der Hintermänner ist Peter Mustermann , dessen Aufgabe es war , die gegnerische Mannschaft zu beobachten .
+Luxemburg	1	Aufgrund Luxemburgs geographischer Lage wird dort neben dem Luxemburgischen als Nationalsprache sowohl Deutsch als auch Französisch gesprochen .
+Rio	15	Die Kriminalität in den Armenvierteln ( `` Favelas '' ) ist ein großes Problem in Rio .
+Abschlag	3	Mit seinem weiten Abschlag hatte er den Mitspielern gut zwanzig Meter abgenommen .
+Röster	2	Unser alter Röster stammt noch aus Omas Zeiten und wird jetzt bald den Geist aufgeben .
+Konservierung	27	Dort führten unter anderem von einer russischen TV-Station gesendete Berichte über ein bevorstehendes Importverbot aus Russland und der Ukraine zu einem wahren Ansturm auf das für die Konservierung von Lebensmitteln und Viehfutter wichtige Kochsalz .
+Zwischenstation	2	`` Als Zwischenstation auf dem Weg nach Indien hatte es einen neuen Namen erhalten : Das Kap der guten Hoffnung . ''
+Abitur	4	Ihre Schwester hat kein Abitur .
+Poker	3	Wir spielen gerne Poker .
+Eifer	3	Er zeigte deutlichen Eifer , als er seine Hausaufgaben erledigte .
+Ordinarius	12	`` Er könnte sie in den sechziger Jahren in seiner Zeit als Ordinarius bei einem feierlichen wissenschaftlichen Kongress hinter dem Namensschildchen auf seinem Platz vorgefunden haben ( ... ) . ''
+Hilferuf	6	`` Als die Retter nach dem Hilferuf das Schiff enterten fehlten von den Seeräubern jede Spur . ''
+Fuß	5	Das Glas hat einen breiten Fuß .
+Satellit	14	`` Samstags lud er alle zu sich ein , und gemeinsam schauten sie per Satellit die Bundesliga . ''
+Arschloch	12	`` Alles in allem , diese Sendung versammelte wieder einmal nichts als Arschlöcher . ''
+Kletterer	5	So zeichnete man den besten Kletterer der Tour de France bei Einführung der Bergwertung 1933 noch mit dem `` Grand Prix de la Montagne '' aus ; erst 42 jahre später wurde 1975 das mittlerweile berühmte Bergtrikot erstmals verwendet .
+Bolide	2	Mit diesen Boliden darf man im normalen Straßenverkehr nicht fahren .
+Birkengewächs	4	Die Erle ist ein Birkengewächs .
+Guide	5	`` Jim und mich weckte Guide Jonathan dann um halb sechs in der Frühe . ''
+Vizeadmiral	2	Bring dem Vizeadmiral sein Fernrohr !
+Staffel	3	Vor der ersten Staffel überflog eine Beobachtungsmaschine die Stadt .
+Zobel	3	Der Bestand des Zobels ist stark gefährdet .
+Staatssekretär	10	Seit dem 29 . Oktober 2009 ist Steffen Kampeter parlamentarischer Staatssekretär beim Bundesminister der Finanzen .
+Papierkorb	2	In den Papierkorb sollte wirklich nur Papier geworfen werden , für Teebeutel gibt es den Mülleimer .
+Staatssekretärin	24	`` Dieses Ziel ist nur zu erreichen , wenn in Schleswig-Holstein auch außerhalb der Hauptsaison neue , attraktive touristische Angebote entstehen '' , erklärte Staatssekretärin Dr. Tamara Zieschang . ''
+Bierkiste	6	Im Keller steht noch eine volle Bierkiste .
+Filter	4	Ein wichtiger Spezialfall eines Filters ist der Mengenfilter .
+Sabor	11	`` Niemand applaudiert den neuen , demokratischen Gesetzen , die der Sabor , das kroatische Parlament , laufend beschließt und auf die vor allem die Politiker sehr stolz sind . ''
+Segler	14	`` Wir hatten ein Vollschiff , eine Brigg und zwölf Schoner , insgesamt vierzehn Segler . ''
+Haus	14	`` Der alte Nagelstock , an dem die Nägel nicht wie üblich mit dem Haus des Hammers eingeschlagen werden , sondern zur Erschwernis mit der Finne , also mit der schmalen Seite des Hammers , war bereits voll mit Nägeln . ''
+Kunststoffpreis	10	Der Rohstoff Kunststoff wird aus Erdöl hergestellt und zum börsennotierten Kunststoffpreis abgegeben .
+Wangen	1	`` Wangen gehört zur Randzone der Metropolregion Stuttgart . ''
+Korallenhalsband	4	`` Jedenfalls sollte das Korallenhalsband nur der Abrichtung dienen , [ ... ] ''
+Fachbereich	10	`` Er maturierte am Technologischen Gewerbemuseum ( TGM ) im Fachbereich Schweißtechnik und studierte 1959 bis 1964 an der Hochschule für Musik und darstellende Kunst in Wien bei Alfred Jerger . ''
+Gras	18	`` Die Ledersitze sind heiß , und als Dean den Motor anläßt , gleiten kleine Vögel aus den Gräsern dicht über der Oberfläche zur Seemitte hin davon . ''
+Spülung	7	Für die Haarpflege verwendet sie immer eine Spülung .
+Ministerium	1	Das Ministerium für Umwelt , Forsten und Verbraucherschutz Rheinland-Pfalz ist in Mainz .
+Creme	6	`` Streichen Sie auf Verbrennungen keine Cremen oder Hausmittel wie etwa Mehl oder Melkfett . ''
+Art	7	`` Der Klettersport ist für mich eine Art Meditation geworden . ''
+Dramaturgie	3	Die besonders gute Dramaturgie der Inszenierung ließ sie über das mittelmäßige Spiel der Schauspieler hinwegsehen .
+Korallenhalsband	23	`` [ ... ] vollends sah man erst , als sie aufstand , daß sie [ ... ] irgendeine rote Kopftracht und ein Korallenhalsband trug . '' ( Gottfried Keller , Das Sinngedicht )
+Nasenring	6	Sie lässt sich am Wochenende einen Nasenring stechen .
+Schweiz	6	`` Mit Voralpen werden in der Schweiz jene Gebiete bezeichnet , die den Übergang vom leicht hügeligen Schweizer Mittelland zum Gebirgsraum der Alpen markieren . ''
+Ampel	26	`` Das kleine Städtchen Ilulissat liegt 250 Kilometer nördlich des Polarkreises , hat fünftausend Einwohner und ebenso viele Schlittenhunde , einhundert angemeldete Autos , aber keine Ampel . ''
+Ergänzung	10	Für die Erfassung , Stellung und Einberufung der Wehrpflichtigen ( Ergänzung ) ist das Bundesgebiet in Ergänzungsbereiche einzuteilen .
+Mädchenchor	1	Dieser Mädchenchor hat wunderschön gesungen .
+Leistungsgesellschaft	4	`` In der modernen Leistungsgesellschaft , glaubt Han , handle jeder wie sein eigener Unternehmer und sei damit Unterdrücker und Unterdrückter zugleich . ''
+Pfeiler	1	Der Pfeiler ist wegen seines parodontalen Abbaus für eine Brücke ungeeignet .
+Gestänge	13	In der riesigen Maschinenhalle drehen sich zwei gewaltige Wasserräder . Ober Zahnräder und Gestänge treiben sie zehn Solepumpen .
+Gewürzmühle	3	`` Die alte Gewürzmühle in dem heute zu den Mainzer Stadtteilen Bretzenheim und Oberstadt gehörenden Zahlbach wurde in den 1930er Jahren bezogen und ist seit 2001 stillgelegt . ''
+Artillerie	2	Wir müssen Artillerie auffahren .
+Romanze	1	Die Romanze stammt aus der spanischen Literatur .
+Brecher	27	`` Er trat in den Morgendunst hinaus und ließ seine Augen über die Bucht schweifen , wo jetzt 15 Schiffe in der relativ ruhigen Dünung jenseits der Brecher dümpelten . ''
+Saldo	1	Der Saldo Ihres Girokontos beträgt genau 100 Euro , leider jedoch im Soll .
+Silvaner	3	`` [ Der Silvaner ] stammt wahrscheinlich von der kaukasischen Wildrebe ( Vitis Vinifera ssp Caucasica V ) ab . [ ... ] Der Name kommt von Transsilvanien beziehungsweise vom Silvanus , dem römischen Gott des Waldes . ''
+Empfänger	1	Der Empfänger ist defekt .
+Paragraf	4	Beachten Sie bitte den Paragrafen 22 im Lehrbuch .
+Junge	2	`` Die Jungens von der gegnerischen Mannschaft riefen mich `` Itzig '' , sagten , ich hätte den Fußball verhext , fragten mich , ob mein Vater , der Chaim Finkelstein , auch ins Waschbecken pinkelte wie der Stiefvater meines Freundes Max Schulz , ob er seiner Frau auch den Hintern versohle , und wenn nicht , warum nicht ? ''
+Krabbe	2	`` Eine Krabbe zwickte ihn in den Nacken , und er peitschte aufs Wasser ein . ''
+Albatros	12	`` Schon das tierische `` Begrüßungskomitee '' wird Darwin verwundert haben : Albatrosse werden am 15 . September 1835 wohl die Ersten gewesen sein , die die nahende `` HMS Beagle '' inspizierten . Höchst ungewöhnlich , denn Albatrosse halten sich von den Tropen eigentlich fern - in warmen Gewässern finden sie nicht genug zu fressen . ''
+Biss	4	Hier kannst du den Biss immer noch gut sehen , obwohl er schon eine Woche alt ist .
+Klopfer	4	Überall im Garten waren Klopfer zu finden .
+Vinothek	6	Einer meiner Arbeitskollegen hat eine wertvolle Vinothek aufgebaut .
+Verteidiger	1	Der Verteidiger versuchte die Unschuld des Angeklagten nachzuweisen .
+Antagonist	5	`` Zum einen kann der Antagonist an anderen Wirkarealen oder Rezeptoren angreifen als der Agonist und auf diese Weise funktionell unerwünschte Wirkungen abmildern oder aufheben . ''
+Liesing	5	Mit der Industrialisierung kam für Liesing der große wirtschaftliche Aufschwung. < ref name= '' wiengvat '' / >
+Verbindung	1	Organische Verbindungen haben ein Grundgerüst aus Kohlenstoff .
+Kasperletheater	9	`` Ohne Rücksicht auf Demokratieverluste veranstaltet die FPÖ ihr Kasperletheater um die Präsidentschaftswahl . ''
+Kreuzgang	14	Die meisten vierbeinigen Tiere , darunter auch der Mensch , bewegen sich vorwiegend im Kreuzgang fort .
+Senke	20	Ebenen und Flachböden , die von Erhebungen , und seien diese noch so flach , umgeben sind , nennt man Senken. < ref name= '' Wagner_1921 '' > Hermann Wagner . Lehrbuch Der Geographie . Zweiter Teil Physikalische Geographie . Hahnsche Buchhandlung 1921 . S. 378 < /ref >
+Darwinismus	8	Im Sinne von Charles Darwin war es , Darwinismus nur als wissenschaftliche Theorie zu verstehen , abgesehen davon , dass Darwin viel zu bescheiden war , die plakative Kennzeichnung Darwinismus für seine Selektions-/Evolutionstheorie gelten zu lassen .
+Vakuummessung	9	`` Die Massedifferenz zwischen der ersten und der zweiten Vakuummessung beträgt -0,8 µg und zwischen der ersten und letzten Messung in Luft -1,7 µg . ''
+Block	23	`` Sie zücken ihre Handys und Adressbücher , bestehen darauf , dass ich die Namen und Adressen ihrer Verwandten in Europa in meinen Block schreibe . ''
+Rotfuchs	3	`` Wer Schweizer Rotfuchs trägt , kann das mit gutem Gewissen tun - nur , es gibt kaum Rotfuchskleider zu kaufen . ''
+Vielfraß	0	Vielfraß ist eine Tierart .
+Bommerlunder	4	Tri-o ! Tri-i-i-o ! Bommerlunder , me wan na go home . - ( Trio , `` Trio Bommerlunder '' )
+Urviech	15	`` Eigentlich ist sie keine Expertin für Vögel - ihr Forschungsgebiet sind Moschusochsen , jene Urviecher , die jemand in den Sechzigerjahren in der Nähe des Flughafens von Kangerlussuaq angesiedelt hat - und die sehr zartes Fleisch liefern . ''
+Frontlader	8	Sie kaufte sich für den neuen Fernseher einen Frontlader .
+Damm	13	`` Andererseits kann auch eine natürliche Geburt mit Problemen einhergehen , einem gerissenen Damm oder Blutungen . ''
+Schmutz	6	Statt klassische Literatur las er nur Schmutz .
+Spikes	25	`` Doch um mein Ohr summte diese Fliege , und ich genoss es , herumzufahren ... Das säuselnde Geräusch des Motors mit dem Dauerdröhnen der Spikes auf der Straße verschmelzen zu hören . ''
+Dinglichkeit	8	`` Der im Wasserrecht vorzufindende Grundsatz der `` Dinglichkeit '' und der daraus erfließenden Möglichkeit der Rechtsnachfolge in wasserrechtliche Rechtspositionen knüpft an gesetzlich eingeräumte Rechtspositionen wie verliehene Wasserechte oder Rechte iSd § 12 Abs 2 WRG an , hat aber keinen Anwendungsgbereich gegenüber Personen , denen wegen Übertretung der Bestimmungen des Wasserrechtsgesetzes ein wasserpolizeilicher Auftrag nach § 138 WRG zu erteilen ist ( Hinweis [ ... ] ) . ''
+Zirkel	9	`` Denn das Casino war eben nicht nur ein Zirkel gebildeter Bürgerlichkeit , ein Kommunikationskreis , in dem über Lessing und Moses Mendelssohn gesprochen wurde , es war auch ein Machtzentrum . ''
+Kranich	1	Der Kranich ist ein Sternbild des Südhimmels .
+Strumpf	31	`` Diese Kippen sammelten wir nun auf , stukten sie , was sagen will , daß man sie en passant , beiläufig , als wäre was am Schuhwerk oder an den Strümpfen zu richten , aufhob . ''
+Mauerblümchen	6	Ralf hat sich wirklich in dieses Mauerblümchen verliebt ? Das kann ich kaum glauben .
+Schwiegermuttersitz	1	Der Schwiegermuttersitz war Kaktus des Jahres 2008 .
+Joghurtbecher	5	`` Es gibt praktisch keinen Joghurtbecher , auf dem nicht `` mild '' steht . ''
+Apologet	8	`` Für den unbestreitbaren massiven Bevölkerungsschwund machen die Apologeten König Leopolds , damals wie heute , die Schlafkrankheit verantwortlich . ''
+Entwickler	3	Peter arbeitet als Entwickler in einer Softwarefirma .
+Gosse	1	Die Gosse muss mal wieder gereinigt werden .
+Blues	16	`` Über dem Flackern der Kerzen , dem Nebel des Zigarettenrauchs und den Tönen des schmeichelnden Blues war Sabina sich bewußt , daß Jay über sie nachdachte . ''
+Knaster	6	Heute habe ich vom örtlichen Tabakladen Knaster bekommen .
+Seide	22	Jetzt haben Forscher noch eine andere faszinierende Eigenschaft der Spinnenseide entdeckt - oder vielmehr wiederentdeckt . Denn bereits die alten Römer sollen Seide auf Wunden gelegt haben , damit sie schneller heilen .
+Setzling	11	`` Wenn er zu früh pflanzte , riskierte er , die Setzlinge zu verlieren . ''
+Ländle	20	`` Am 27 . November , neun Monate nach der Landtagswahl , hat der Bürger bei der ersten Volksabstimmung im Ländle die Dauerdiskussion um das Bahnprojekt Stuttgart 21 nun mit der ihm eigenen Souveränität für beendet erklärt . ''
+Lilie	0	Lilien gehören zu den elegantesten und anspruchsvollsten Sommerblumen .
+Grätsche	4	Er ging in die Grätsche , um seine Muskeln zu dehnen .
+Dreier	6	Das Brötchen kostete hier früher einen Dreier .
+Heizer	8	Sein Urgroßvater hatte in den 20er Jahren als Heizer bei der Reichswehr gedient .
+Feuerdrachen	11	`` Der Himmelsgott aber bemerkte die böse Tat und schickte einen Feuerdrachen zur Erde . Und so verbrannten der undankbare Sohn und seine Frau jämmerlich . ''
+Buntsandstein	11	`` Lediglich versteckt hinter einer Baumgruppe steht eine größere Ruine aus Buntsandstein , die von Efeu und Brombeeren überrankt wird . Dies muß das Haus sein , das der Professor beschrieben hat . ''
+Bastille	13	`` Das Schloß Tiffanges , ein hehres und feudalistisches Gebäude , war von Bastillen umgeben , durch welche es auf beiden Seiten vertheidigt ward . '' ( 1855 )
+Strickzimmer	6	`` Bevor man das eigentliche `` Strickzimmer '' , das El Dorado der Wollsocken , Schals und Pullunder , der Topflappen und kleinen Figürchen , die man auch aus Wolle stricken kann , betritt , empfängt einen schon das wunderbare Aroma von frisch gebrühtem Kaffee . ''
+Freiberg	3	Ich bin in Freiberg geboren .
+Beschneidung	6	Bei einer Vorhautverengung ist manchmal eine Beschneidung nötig .
+Mirage	4	`` Es ist eine Mirage ! Alles . Dieses Land . Diese Welt . Alles , was Sie über die Wirklichkeit zu wissen glauben , ist lediglich eine Illusion . Ein Traum . ''
+Benefaktiv	5	In der Kasusgrammatik ist der Benefaktiv der Kasus des von der Handlung Betroffenen .
+Sonderbilanz	6	`` Ausgangsbasis für die Aufstellung dieser Sonderbilanzen ist die Jahresbilanz , sei es , dass die gesetzlichen Vorschriften hierauf verweisen , sei es , dass die Sonderbilanzen aus den Jahresbilanzen [ ... ] abgeleitet werden . ''
+Steinschlag	6	In der Folge nehmen Bergstürze , Steinschlag und Muren zu - und die objektiven Gefahren steigen .
+Desinteresse	17	Daran mag auch absurd missverstandene Political Correctness und/oder kalkulierte , kurzfristig populistische Ausrichtung schuld sein oder schlichtes Desinteresse am Wählerwillen .
+Kaufmannsladen	5	`` Es gab auch einen Kaufmannsladen mit einer klingelnden Registrierkasse und einer kleinen Waage . ''
+Bildschirmfoto	2	`` Das Bildschirmfoto zeigt den früheren Bundeskanzler Schröder bei einem in Berlin aufgezeichneten Appell an die Entführer der Deutschen Susanne Osthoff . ''
+Glosse	5	In vielen Zeitungen findet man Glossen , in denen Spracherscheinungen kritisiert werden .
+Krause	1	Die Krausen in deinem Haar kannst du mit Haargel glätten .
+Eifer	1	Mit Eifer und Gewalt faßt sie die Hände beider Ehegatten , drückt sie zusammen und eilt auf ihr Zimmer .
+Leipzig	1	Mein Leipzig lob ' ich mir ! Es ist ein klein Paris und bildet seine Leute. < ref > { { Internetquelle | url=http : //www.deutschestextarchiv.de/book/view/goethe_faust01_1808 ? p=140 | titel=Faust . Eine Tragödie.| autor=
+Beidhänder	4	`` Mein Vater ist Beidhänder . ''
+Zwicker	1	Ein Zwicker ist vielen Weintrinkern zu sauer .
+Maschine	9	Ich habe viele Küchenmaschinen , das da ist eine Maschine zum Brotbacken .
+Bludenz	20	`` Das Montafon ist ein 39 km langes Tal in Vorarlberg ( Österreich ) , das von der Bielerhöhe bis Bludenz reicht und von der Ill durchflossen wird . ''
+Atrium	4	Das 24 Meter hohe Atrium zwischen den beiden Flügeln des Fünf-Sterne-Hauses überspannt eine teilweise verglaste Dachkonstruktion .
+Grus	21	Jede einzelne Rebe hockt in einem bis zu drei Meter tiefen Trichter , den man buddeln musste , um unter dem Grus an die fruchtbare Lavaasche zu kommen .
+Fakir	13	`` Neben Franzl hauste ein eigentümlicher , dicker Mann , eine Art von Fakir , der allerdings nicht aus Indien stammte , sondern aus Köln am Rhein . ''
+Küken	8	Dort legen unsere Hühner Eier und brüten ihre Küken aus .
+Benediktiner	3	Er ist ein Benediktiner .
+Achte	2	Sie sind Achte bei der Fußball WM 2002 geworden .
+Konservierung	14	`` Nur die von mir erfundene Technik der Plastination ermöglicht die lebensnahe und dauerhafte Konservierung von Großtieren wie von Bär Bruno in Gänze , insbesondere auch seiner Organe '' , schrieb er laut spiegel.de in einer Stellungnahme .
+Warnschuss	4	`` Es ist ein Warnschuss an ARD und ZDF . ''
+Gänseleber	7	`` Sonntags kochte Maria eine Suppe mit Gänseleber . ''
+Pfannkuchen	6	`` Sie reichte mir dafür zwei Pfannkuchen mit Streuzucker . ''
+Sexus	1	Mein Sexus ist der männliche .
+Schneckenrennen	1	Das Schneckenrennen gefiel besonders den Kindern .
+Elimination	7	Die Infektion ist auch noch nach der Elimination des Erregers nachweisbar .
+Zeichnen	10	Dieses Semester habe ich den Kurs `` freies und experimentelles Zeichnen '' belegt .
+Nasenbrille	6	Zum Betriebsfest setze ich mir die Nasenbrille mit der großen Nase und den dicken Augenbrauen auf .
+Brühe	6	Was ist das denn für eine Brühe ?
+Aba	3	`` Haupttracht der Araber ist die Aba oder Abadjeh , ein Mantelumhang aus dunkelbraunem oder -blauem `` Abastoff '' oder in reicherer Ausstattung mit Zierstreifen , der immer über einem weitärmeligen gegürteten Hemd getragen wird . ''
+Gummibaum	0	Gummibäume werden in großen Plantagen angepflanzt um Kautschuk zu gewinnen .
+Medea	0	Medea war als Priesterin im Tempel der Hekate tätig .
+Jaspé	4	Dieses T-Shirt ist aus Jaspé geschneidert worden .
+Isogramm	6	Auf der Niederschlagskarte Chinas gibt ein Isogramm einen Jahresniederschlag von 200 mm an .
+Risikospiel	7	`` Dann stürzen sie sich in ein Risikospiel , nennen wir es : Star-Stechen . ''
+Geruchstyp	2	`` Beim Geruchstyp werden die Reaktionen des Menschen bei Lebensmitteln und die Reaktionen der Tiere bei Futtermitteln berücksichtigt , wobei angenehme und unangenehme Gerüche unterschieden werden . ''
+Alpaka	4	Der Poncho besteht aus Alpaka .
+Stresstest	10	`` Denn der Alltag mit Kindern entpuppt sich als ultimativer Stresstest für eine Beziehung . ''
+Kletterer	20	Nach dem ersten Ruhetag und einer 186 Kilometer langen Mittelgebirgsetappe werden ab der 12 . Etappe wohl nur mehr die Kletterer wirklich Freude an den Teilstücken haben - die Alpen zeigen sich mit ihrer ganzen Pracht : ...
+Banner	2	Dieses nervige Banner ist nicht mehr auszuhalten !
+Thesaurus	1	Ein Thesaurus einer Sprache ordnet deren Wörter nach Themen und Wortfeldern , dient vor allem zum Auffinden besser passender Wörter beim Schreiben und enthält dafür in der Regel einen alphabetischen Index .
+Verfassungsrecht	14	`` Vornehmlich in den Ländern des deutschen Rechtskreises wird zwischen Staatsrecht im Allgemeinen und Verfassungsrecht im Besonderen unterschieden '' .
+Mini	6	`` Helen kratzte sich unter ihrem Mini . ''
+Ausklammerung	1	Die Ausklammerung von Problem x war wohl nicht besonders sinnvoll .
+Daube	10	Die Eisstockschützen versuchen , ihre Stöcke möglichst nahe an der Daube zu plazieren .
+Islamist	3	Zahlreiche Werke des Islamisten bezeugen tiefe Islamkenntnisse .
+Beihilfe	7	`` Nach Ablauf der Antragsfrist kann keine Beihilfe gewährt werden ! ''
+Fettarsch	18	`` Er verstand ausgezeichnet , dass Dahlerup im Ting etwas daran auszusetzen hatte , wenn diese verdammten `` Fettärsche '' in ihrem hilflosen Dänisch reinen Blödsinn und Unfug von sich gaben . ''
+Knaller	8	`` Bis auf drei Ladykracher hoben wir die Knaller bis zur Höhle auf . ''
+Arschloch	21	`` Du hast nie gelernt dich zu artikulieren und deine Freundin , die hat niemals für dich Zeit . Oh , Arschloch , Arschloch , Arschloch ! ''
+Heizer	18	`` Bei ersten Versuchen benutzte man kleine , auf dem Tender aufgestellte Kolbendampfmaschinen , deren Regelung jedoch vom Heizer zu viel Aufmerksamkeit forderte . ''
+Melange	8	`` Heute geht man nicht mehr wegen einer Melange oder der großen Auswahl an Tages- und Wochenzeitungen , sondern wegen drahtlosem Internet ins Kaffeehaus . ''
+Fischchen	10	`` Der Magnetrüher wurde auf höchste Stufe gestellt , das Fischchen war trapezförmig . ''
+Pantheon	7	`` Die Erhebung Csomas in ein buddhistisches Pantheon hat ihren Ursprung in dem Wunder der sechzehn Monate in der Zelle in Zangla . ''
+Nebbich	23	`` Diese unwiderstehliche Ostentation von Pofel und Pleite , dieses maximum en effort zu einem minimum en effet , dieser volle Einsatz von Nebbich und Nichts , den ich als das Kennzeichen des Mausi-Typus dargestellt habe und den die undankbare Heimat mit einem `` Gehst denn nicht ! '' ablehnt , zeigt ihn in der Rolle des geistig wie räumlich von mir distanzierten Weltbürgers , dem `` Bekannte , die aus Wien kamen '' , erst `` erzählen '' mußten , `` der Fackel-Kraus '' habe zwanzig Seiten über ihn geschrieben . ''
+Beidhänder	3	Er nahm seinen Beidhänder und griff den Feind an .
+Hawaii	2	Früher lebte Hawaii vor allem von seinem Fischfang und seiner Landwirtschaft. < ref name=live/ >
+Dickkopf	6	Er ist heute wieder ein richtiger Dickkopf .
+Delfin	7	`` Orcas gehören bekanntlich zur Familie der Delfine , sie verfügen über einen gewaltigen Appetit auf frische Heringe und machen vor den Lofoten Winterpause . ''
+Kläffer	3	`` Dieser kleine Kläffer hat ein so schräges Bellen , dass man wirklich meint , er ticke nicht richtig . ''
+Franzose	3	Gérard Depardieu ist Franzose .
+Gegacker	2	Das herrschende Gegacker , das allgemeine Geschwätz , das die französische Schriftstellerin so trefflich kennzeichnet , ist ein Placebo .
+Heu	23	Daphne R. hat vergangenes Jahr bei `` Life '' gearbeitet , einem Unternehmen , dessen einziger Lebenszweck erklärtermaßen darin bestand , Geld wie Heu zu machen .
+Vatermörder	1	`` Vatermörder werden heutzutage fast nur bei besonders festlichen Gelegenheiten in Verbindung mit einem Frack oder Smoking getragen . ''
+Malé	1	Auf Malé liegt der Großteil der maledivischen Hauptstadt .
+Schraffe	8	`` In diese wird das Bodenprofil durch schwarze Schraffen hineingebracht , je dichter die Bodenart , desto dichter die Schraffe . Die Schichtung der Bodenart wird durch verschiedene Schräge der Schraffen , die Mächtigkeit durch Zentimeterzahlen ausgedrückt . ''
+Note	9	Ich finde , dass sein Geschenk eine sehr persönliche Note aufweist .
+Genosse	8	`` Antrag der Abgeordneten Anna Elisabeth Aumayr und Genossen betreffend ein Bundesgesetz , mit dem das Bundesgesetz über das Inverkehrbringen von Zier- , Gemüse- und Obstarten ( Pflanzgutgesetz 1997 ) , BGBl . I Nr . 73/1997 , geändert wird ( 833/A ) ''
+Blockbuster	11	`` Es handelt sich bei dem Sprengkörper um einen so genannten Blockbuster mit 1300 Kilo Sprengstoff , der ganze Wohnblöcke zerstören sollte . Zuletzt war ein Blockbuster vor einem Jahr im Hamburger Hafen gefunden und entschärft worden . ''
+Tageskarte	7	Bei seinem Zoobesuch kaufte er sich eine Tageskarte .
+Fisch	0	Fische sind meist rätselhafte Menschen .
+Latte	5	Der Ball ging gegen die Latte .
+Lockdown	2	`` Der Lockdown wurde an der Sandy-Hook-Volksschule und dem angrenzenden Kindergarten regelmäßig geübt . ''
+Gurke	6	Die Zuckermelone zählt zur Gattung der Gurken .
+Sprachebene	3	Mit dem Stichwort Sprachebene im Index wird verwiesen auf : `` Menschliche Sprache ist geschichtet : In jeder Schicht werden Einheiten nach bestimmten Regeln zusammengesetzt . Die Einheiten der höheren Ebene ergeben sich nicht automatisch als Resultat der Kombination von Einheiten der niedrigeren Ebene ... ''
+Jugendfreund	12	Nach mehr als zwanzig Jahren gab es ein überraschendes Wiedersehen der beiden Jugendfreunde .
+Logik	1	Die Logik kann uns lehren , welche Schlussfolgerungen richtig sind und welche nicht .
+Dramaturgie	1	Die Dramaturgie des Theaters hatte nach vielen anstrengend Monaten das Wochenende über frei .
+Bogen	2	`` Mit Bögen verschießen sie Pfeile , deren Spitzen am Königshof von Priestern mit Gift bestrichen worden sind . ''
+Drohne	14	`` Vor zwei Wochen hatte die US-Armee in einem Memo alle Truppen angewiesen , Drohnen von DJI nicht mehr einzusetzen , die Batterien und Speicherkarten zu entfernen und die Fluggeräte sicher aufzubewahren . ''
+Hornhaut	1	Die Hornhaut ist die oberste Hautschicht .
+Kopfgeld	3	`` Als das Kopfgeld stieg , änderten die Touristen ihr Verhalten . ''
+Kartätsche	11	`` Sobald wir das Ufer sahen , legten wir ein paar Kartätschen nach . ''
+Slapstick	6	Charlie Chaplin war ein Meister des Slapsticks .
+Markise	13	Als es anfing zu regnen , sprang mein Vater auf , um die Markise einzurollen .
+Kluft	20	`` Die offizielle Arbeitslosenrate hält sich zwar bei etwa 12,5 Prozent , doch hinter dieser Zahl verbergen sich tiefe soziale Klüfte . ''
+Neun	1	Die Neun sticht immerhin die Sieben und Acht .
+Korsett	4	Bei Rückenproblemen kann ein Korsett sich als vorteilhaft erweisen .
+Baas	3	`` Der langjährige Baas des Kreises rechtsrheinischer Karnevalisten ( KrK ) , der heute noch in den Reihen der Großen Dünnwalder KG `` Fidele Jonge '' aktiv ist , feierte in der Gaststätte `` Puffelskooche '' seinen 75 . Geburtstag . ''
+Gleitlaut	3	Bei Jespersen steht Gleitlaut im Index mit Verweis auf `` Anglitt '' und `` Abglitt '' ( = Bewegung der Artikulationsorgane hin zum beabsichtigten Laut ( = Anglitt ) und weg von ihm ( = Abglitt ) ) .
+Kaffee	4	Ich trinke eine Tasse Kaffee .
+Kohlrübe	4	Zu Unrecht wird die Kohlrübe als Arme-Leute-Essen abqualifiziert .
+Wirrsal	8	`` Wo , wenn nicht gerade in dieser Wirrsal sollte ein geradezu inbrünstiges Verlangen nach Literatur gedeihen ? ''
+Anapher	26	In der Satzfolge : `` Peter ist krank . Er liegt im Bett . Er fühlt sich nicht wohl . '' ist `` er '' eine Anapher .
+Zenturio	4	Er war einer der Zenturionen , die bei Cannae fielen .
+Wasserstoff	3	`` Unzweifelhaft enthält Wasserstoffgas mehr Energie pro Gewichtseinheit als jeder andere chemische Brennstoff , jedoch muss Wasserstoff zunächst erst einmal energieintensiv hergestellt werden . `` < ref name= '' Wikipedia|Wasserstoff '' / >
+Siphon	22	`` Wenn er die Augen noch mehr zukniff , konnte er erkennen , wie eine schaumige Blasenkette in den durchsichtigen Plastikteilen des Siphons in das schwarze Gummirohr hinunterglitt . ''
+Mischtext	7	`` Erstaunlich ist , daß der deutsch-lateinische Mischtext ( Text 20 ) sich überhaupt modellieren läßt , da bei Sprachmischungen mit Inhomogenitäten zu rechnen ist .
+Bubikopf	16	`` Katrine ist Anfang dreißig , eine schlanke blonde Dänin mit spöttischen grünen Augen , einem Bubikopf und einem ausgesprochenen Hang zur Arktis . ''
+Krone	17	Im Zuge der Eingemeindung von Langendreer nach Bochum , wurden die Langendreerer Ortsteile Papenholz , Crengeldanz und Krone von Langendreer getrennt und der Stadt Witten zugeordnet .
+Bantusprache	10	Etwa 200 Millionen Menschen im mittleren und südlichen Afrika sprechen Bantusprachen .
+Braunelle	5	Auf dieser Wiese wachsen viele Braunellen .
+Markstein	9	`` Die Felder und Wiesen wurden verbessert und die Marksteine mit den Buchstaben L. B. rückten stellenweise weiter nach außen hin . ''
+Vorplatz	8	`` Wie eine Filmdiva kommt sie über den Vorplatz geschritten und drückt Ali an sich . ''
+Abkürzung	3	Weil er eine Abkürzung nahm , war er schneller am Ziel .
+Kuhschelle	1	Die Kuhschellen blühen im Frühjahr .
+Verabredung	1	Eine Verabredung war geplant , kam aber nicht zustande , weil wir uns verfehlten .
+Molly	8	Wenn bei der Haltung die grundsätzlichsten Bedürfnisse des Molly befriedigt werden , zeigt er sich als quirliger Fisch , den zu beobachten es viel Freude macht .
+Drachenblut	9	Siegfried aus den `` Nibelungen '' badete einst im Drachenblut .
+Induktion	5	Mit dem Verfahren der vollständigen Induktion kann bewiesen werden , dass eine Aussage für alle natürlichen Zahlen gilt .
+Schlinge	3	Das Jagen mit Schlingen ist bei uns verboten .
+Stollen	1	Die Stollen waren so stark abgenutzt , dass das Pferd kaum Halt hatte .
+Techno	6	Ich höre nur Elektro . Mit Techno habe ich nichts am Hut .
+Fassung	6	Die Glühbirne passt nicht in diese Fassung .
+Kette	3	`` Treib die Kette hier her ! ''
+Gleiter	7	`` Ein Motorboot , und zwar ein Gleiter soll es sein , haben sie gesagt . Verstehen sie ? Einen Gleiter ! ''
+Freifrau	3	Der Adelstitel `` Freifrau '' bezeichnet die Frau eines Freiherrn und ist Bestandteil des Familiennamens , er steht nach dem Vornamen .
+Zapfen	5	Es gibt drei Arten von Zapfen : Zur Wahrnehmung von rot , grün und blau .
+Mief	11	Es ist eine Atmosphäre der ungewaschenen Füße . Es ist der Mief der Kleinstadt , jener Brodem aus Klatsch , Geldgier , Ehrgeiz und politischen Interessen ; es ist jene Luft , wo die kleine Glocke an der Tür des Posamentierwarenladens scheppert und eine alte Jungfer nach vorn gestolpert kommt ...
+Junge	10	Theodor hat natürlich gleich am Anfang schon mit dem höchsten Jungen gestochen .
+Airbus	8	Das Emirat Dubai will offenbar seine Großbestellungen bei Airbus und Boeing umschichten .
+Buchgeschäft	5	`` Sie lebte in einem Buchgeschäft . ''
+Vertrautheit	7	`` Über Nacht wurde ich aus der Vertrautheit des Dorfes in die Anonymität des Molochs entlassen . ''
+Zehnerschlüssel	0	Zehnerschlüssel sind vor allem für die Reparatur von Fahrrädern nützlich .
+Spinnerei	31	`` Vom Bahnhof aus fuhr er mit einer armseligen Bummelbahn drei Stationen , dann mit einem Fährkahn über den Kanal und ging anschließend noch zwanzig Minuten zu Fuß , um zur Spinnerei zu gelangen . ''
+Kanalisation	15	Nach §55 ( 2 ) WHG soll Niederschlagswasser ortsnah versickert oder direkt oder über eine Kanalisation ohne Vermischung mit Schmutzwasser in ein Gewässer eingeleitet werden , d.h. die Mischkanalisation sollte daher in der Regel für neue öffentliche Abwasseranalagen nicht mehr hergestellt werden .
+Atlas	5	Ich muss das mal im Atlas nachschauen .

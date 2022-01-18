@@ -164,13 +164,9 @@ def print_stats(dataset: DatasetSplit, domain=None):
 
 if __name__ == '__main__':
     location = Path(__file__).parent.parent
-    train_folder = location / 'data' / 'Training'
-    dev_folder = location / 'data' / 'Development'
-    test_folder = location / 'data' / 'Test'
-
-    train_folder = location / 'data' / 'release_v1' / 'Training'
-    dev_folder = location / 'data' / 'release_v1' / 'Development'
-    test_folder = location / 'data' / 'release_v1' / 'Test'
+    train_folder = location / 'data' /'en' / 'Training'
+    dev_folder = location / 'data' /'en' /'Development'
+    test_folder = location / 'data' /'en' / 'Test'
 
     train_split = DatasetSplit(data_folder=Path(train_folder),
                                examples_file_name='train_examples.txt',

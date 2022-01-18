@@ -1,0 +1,2532 @@
+Stadtteil	Wiener_Bezirk	Gemeindebezirk
+Erfahrungen	Grundlage
+Physik
+Kraft
+Absperrung
+Pelz
+Waffe
+Marine	Kriegsschiff
+Zusammenarbeit
+Schule
+Redewendung
+Singvogel	Vogel	Krähe
+Weinsorte	Wein
+Fettpolster
+Telefonnummer
+Stadt
+Zustand
+Weg
+Jugendbewegung
+Katze
+Längenmaß
+Schrot
+Bedingung	Voraussetzung	Übereinkunft	Bestimmung
+Stielglas
+Laut
+Gläubiger	Anleger
+Bundesstaat
+Beweisführung	Theologie	Philosophie	Dogmatismus
+Mehrling
+Kunst
+Süßgras	Pflanze
+Stütze
+Jünger
+biologische_Einheit	Krankheitserreger	Krankheitskeim
+Handpuppe
+Ball
+Sportgerät
+Billard	Carambolage
+Form
+Flüssigkeit
+Frau
+Schrift
+Korb	Tragkorb	Behälter
+Emotion
+Arbeit	Werk
+Kombattant	Kämpfer
+Sprechstörung	Sprechen
+Gemüse	Kohl	Wintergemüse	Speise
+Regierung
+Pestizid	Biozid	Gift
+Baustoff	Malmittel
+Segelstange
+Überrest
+Katalog	Verzeichnis
+Verschluss
+Astronomie	Geophysik	Geografie	Navigation	Geowissenschaften
+Bedienelement	Drehvorrichtung
+Junge
+Gewebe
+Rang
+Finanzlage
+Golfschlag
+optisches_Spielzeug
+Scheinwerfer
+Hülsenfrüchtler	Schmetterlingsblütler
+Pflanze	Akanthusgewächs
+Inselstaat	Staat
+Pflicht
+Regelung	Lösung
+Werkzeug
+Singvogel	Vogel
+Urteil
+Handelsware
+Unterkunft
+Käfer	Insekt
+Frau
+Kind	Primat	Mensch	Junge
+Vogel	Spechtvogel
+tierische_Fortbewegung
+Entfernung
+Gericht
+Raubtier	Wildtier	Säugetier
+Person
+Behörde	Amt
+Person
+religiöses_Wesen
+Rötegewächs
+Stoffgemisch
+Zorn
+Hecke	Strauch	Pflanze
+Gestein	'' Geologie : '' _Lockergestein
+Hall
+Handlung
+Säge
+Person
+Angelegenheit
+Baum	Pflanze
+Raubvogel
+Inselstaat	Staat
+Becher
+Organfunktion
+Transporteur
+Abbau
+Bananengewächs	Faserpflanze	Faserbanane	Textilbanane
+Schriftsteller
+Massentötung
+Abwehrmaßnahme
+Ensemble
+Tier	Säugetier	Lebewesen	Dickhäuter	Paarhufer
+Turmdeckschiff	Turret-Deck	Dreiinselschiff
+Sprintpunkt
+Erfahrung
+Satteldecke	Pferdeausrüstung
+Fisch
+Halbinsel
+Nahrung
+Hilfe
+Veranstaltung
+Körperteil
+Geschlechtsorgan
+Bastelarbeit	Weihnachtszubehör	Dekoration
+Handlung
+Mann
+Verweis
+Suchspiel
+Frau
+Vorstellung
+Kopffüßer
+Zubehör
+Handlung
+Gegend	Gebiet
+Schriftzeichen
+Personengruppe
+Gerät	Hilfsmittel	Bürste	Werkzeug	Besen
+Blüte	Pflanze
+Besitzwechsel
+Geschoss	Explosionswaffe
+Sportschuhe| ( Sport- ) Schuh
+Datentyp
+Gegenstand
+Liebe
+zwischenmenschliche_Beziehung
+Aktion
+Fabeltier
+Germane
+Mensch
+Bauteil
+Baum	Nadelbaum
+Fernbus	Bus
+Heißgetränk	Kaffee	Lebensmittel	Getränk
+Auseinandersetzung
+Grafik
+Reh	'' zoologisch : '' _Hirsch
+Psychologie
+Schaf	Schafrasse
+Schmutz
+Rebsorte
+Fehler
+Geschäft
+Krokus	Pflanze
+Frucht
+Sinn
+Pflanzenmorphologie
+Geld
+Tiersprache	Tiergeräusch	Kommunikation
+Material	Substanz	Stoff
+Bedeutung
+Handelnder	Architekt	Ingenieur
+Wissenschaft	Elektronik	Naturwissenschaft	Technik	Physik
+Schach	Schachzug	Bewegung
+Feldhuhn	Fasanenartiger
+Mütze
+Kahlstelle
+Signalflagge	Schiffsflagge
+Esoterik	Chiropraktik
+Gegend	Gebiet
+Soldatin
+Straftat
+Hygienemaßnahme
+Ausgabe	Nummer
+Luftdruck
+Schnitzel	Speise	Fleisch
+Bergarbeiter
+Markenzeichen	Firmenzeichen
+Ritual
+Bevölkerung
+Erz	Vorprodukt
+Blasinstrument	Aerophon
+Panzer
+Bauteil
+Veränderung
+Rechenhilfsmittel
+Laden
+Unteroffiziersrang
+Kraut
+Fisch
+Waffensystem	Schützenpanzer	Panzer
+Brötchen
+Inhaltsverzeichnis
+Naturkatastrophe
+Haus
+Kunstgriff
+Waffe
+Unterstützung
+Frisur
+Schale
+Person
+akademischer_Grad/Examen
+Literatur
+Pflanze
+Planung
+Engel
+Unternehmen
+Droge
+Katholik	Gesandter
+Netzwerkkomponente
+Person	Mensch
+Hut
+Leistung	Test
+Extremitätenfehlbildung	Fehlbildung	Missbildung
+Stadtteil	Wiener_Bezirk	Gemeindebezirk
+Schule	Akademie
+Laut
+Verbesserung	Zuwachs
+Kohle
+Verkehrsweg
+Halswirbel
+Insel
+Hiebwaffe
+Anführer
+Sendung
+'' thematisch : '' _Beruf	Interpret	Musiker
+Fischerei
+Schiff
+Ernte
+Land
+Gebiet
+Studienfach
+Geschiebe	Materie	Ablagerung	Sediment	Material
+Auge
+Text
+Frau
+Gefühl
+Staatsform	Herrschaftsform
+Infektionskrankheit
+Nahrungsmittel	Fleisch
+Emulsion	Flüssigkeit	Lösung
+Familienoberhaupt
+Mischung
+Indeterminismus	Inkompatibilismus
+Schmierstoff
+Staat	Land
+Geisteszustand
+Staat
+Druckverfahren
+Utopie
+Grundbesitz
+Rekorder
+Kochwasser
+Architektur
+Verwalter	Beamter
+Zustand
+Nahrung	Brot
+Abstand
+Extremitätenfehlbildung	Fehlbildung	Missbildung
+Todesstrafe
+Entwässerungsanlage
+Küchenmaß
+Frau
+Tierkreiszeichen	Sternzeichen
+Burg
+Kolonie
+Krieg	Kampf	Streit	( bewaffneter ) _Konflikt
+Thymopsyche
+Primzahl
+Freizeitbeschäftigung
+Königsspringerspiel	offene_Spiele	Eröffnung
+Handelsplatz	Markt
+Person
+Geisteszustand
+Weite
+Kind
+Hohlmass
+Segen
+Fossil	Tier
+Mündigkeit
+Problem
+Tat
+Hauptstadt	Großstadt
+Fabelwesen
+Wertermittlung
+Rebsorte
+Campingausrüstung
+Handelsware
+Waffe	Handwaffe
+Staatsform	Herrschaftsform
+Lebewesen	Kraut	Pflanze
+Rhombus_ ( Oberoberbegriffe : _Parallelogramm	Rechteck	Viereck )
+Ware
+Vogel	Schreitvogel	Stelzvogel	Zugvogel
+Amtstracht
+Taftband
+Kabel
+Mineral
+Verschluss
+Tonart
+Besitz
+Parasit	Schmarotzer	Kraut	Pflanze
+Körperregion	Körperzone	Körperbereich
+Geländeform
+Sender_ '' oder '' _Fernseher	Empfänger	Fernsehsender
+Gotteshaus
+Geruch
+Niederschlag
+Assertion	Qualitätssicherung	Spezifikation	Softwaredesign	Verifikation
+Anwältin	Rechtsanwältin
+Bauch
+Witten
+Sozialversicherung
+Inselstaat	Antilleninsel	Staat
+Absicht
+Behälter
+Pfeiler	Säule
+Gefühlsregung	Gemütsbewegung	Emotion
+Karussell
+Zantedeschie
+Nahrung	Obst	Beere	Frucht	Speise
+Übergangsmetall	Metall	Schwermetall	Element
+Flüssigkeit	Chemie	chemische_Verbindung
+Schmerz
+Handel
+Möbel
+Strich
+Macht
+Musik	Lied
+Neigung
+Doldenblüter
+Eltern	Elternteil	Vorfahre	Familienangehöriger	Bezugsperson
+Material
+Reifen
+Insel
+Schach	Schachzug	Bauernzug
+Bier
+Kinderspielzeug
+Syntagma
+Pavillon
+Probe
+Adelstitel	Adel
+Handwerkerin
+Naturwissenschaft
+Aktienrecht
+Baustoff
+Polizist
+Dokument	Papier
+Disseminationseinheit	Diaspore
+Mädchen
+Tier	Insektenfresser	Sohlengänger	Säugetier
+Beruf
+Person	Pilot
+slawische_Sprache
+Rechtsanwalt	Anwalt
+Blatt
+Staat
+Herrscher	Staatsoberhaupt
+Stadt
+Blütenstand
+Ballspiel	Spiel
+Hund
+Pflanze	Windengewächs
+Frucht	Streufrucht
+Ehre
+beweglicher_Feiertag
+Flugzeug
+Sternsystem
+Tauchen
+Gebet	Psalm
+Weinflasche
+Augenzahl
+Kampf
+überheblicher_Mensch
+Sender
+Sprachfamilie
+Dichtungsform
+Marterwerkzeug
+Sinneszelle
+Rebsorte
+Personengruppe
+Soldat	Infanterist
+Fachsprache
+Stall
+Planet	Himmelskörper	Wandelstern
+Erdteil	Doppelkontinent
+Sachsen-Anhalter
+Sammlung
+Trassierungselement
+Kind
+Wort	Wortart
+Punkt
+Zeit
+Besatzungszone
+Bauwesen	Technik
+Nadelgehölz	Baum	Nadelbaum
+Fesselung	Gefangenschaft	Verwahrung	Sicherung
+Land
+Flüssigkeit
+Anrede	Titulierung
+Wald	Landschaft	Forst	Vegetation
+Ausscheidung
+Gradient
+Uhrwerk
+Gruß	Verabschiedung	Abschied	Geste
+Spektralfarbe	Farbe	Grundfarbe
+Kleinbahn	Eisenbahn	Schienenfahrzeug	Schmalspurbahn
+Schläger	Golfschläger
+Musikinstrument
+Brusttuch
+Prozess	Vorgang
+Leiter
+Tonquelle
+Material	Bedeckung
+SS-Offizier
+Legierung
+Logistik
+Vorschlag
+Raumfahrt	Shuttle-Programm
+Zensur
+Reise
+Mann
+Indianer
+Steinwild	Ziege
+menschliche_Beziehungen
+Wertloses
+Krokus	Pflanze
+Gerät
+Schulsprung
+Schraubwerkzeug	Handwerkzeug
+Zahlungsmittel	Geld
+Rind
+Säulendeckplatte
+Droge	Rauschgift
+Naturwissenschaft	Medizin
+Käfer	Aaskäfer
+Benutzung
+Sprachstamm
+Titel
+Interview
+Reaktion
+Pflanzenfamilie
+Bier
+Nebenhimmelsrichtung	Himmelsrichtung
+Deutscher	Europäer
+Zeichen
+Sportart	Ballspiel
+Rundfunkanstalt	Rundfunksender
+Fest
+Integriertes_Schulsystem	Schulwesen	Schule	Zwei-Säulen-Modell
+Verkehrsverbindung	Verkehrslinie
+Nuss	Same	Samen
+Wortart	Redeteil	Nomen	Nennwort	Namenwort_ '' ( jeweils_im_traditionellen_weiteren_Sinne ) ''
+Zeitraum	Zeiteinheit
+Essen	Gastronomie	Fleischgericht
+Fach	Lehrfach
+Stadt
+Haushaltsgerät	Kochgefäß
+Angleichung
+Sprache	Systematik
+Hauptstadt	Stadt
+Getränk	Alkohol
+Boxen	Trainingsmethode
+Person
+Ähre
+Autobus
+Kind	Primat	Mensch	Junge
+Vorsprung	Höcker
+Labyrinth	Irrgarten
+Erde
+Textsorte
+Bild
+Hut
+Hardware
+Ölsaat	Faserpflanze
+Pflanzenvermehrung
+Selbsteinschätzung
+Grafik
+Gefäß	Behältnis
+Ethik
+Vogel	Eule
+Weihnachten	Süßigkeit	Plätzchen
+Organ
+Gewichtseinheit
+Person	Institution
+Accessoir	Möbelstück
+Krankheit
+Verknotung
+Einheit
+Sprache	Sprachfamilie
+Staatsschutz	Kunstfreiheit	Pressefreiheit	Jugendschutz
+Brandschutz
+Möbel
+Bastelarbeit	Weihnachtszubehör	Dekoration
+Admiral
+Blume
+Umwandlung
+Syntagma	Wendung
+Wichtigkeit
+Feuerstelle
+Lebensmittel	Fleisch
+Nase
+Indianer
+Gebäude	Konzerthaus
+Göttin
+Getränkezubereitung
+Insekt
+Indogermanisch_ ( indogermanische_Sprache	indoeuropäische_Sprache )
+Viehseuche	Krankheit	Seuche
+Aufgabe
+Akzent/Ton
+Folter
+Sport
+Punkt
+Wildfrucht	Obst	Beere
+Bauwerk
+Soldat	Schütze
+Verhaltensweise
+Zeitraum
+Zeitschrift
+Seil
+Durchführung
+Sternbild
+Paprika	'' wissenschaftlich : '' _Capsicum
+Fass
+Grenze
+Person
+Kasus/Fall
+Unteroffizier
+Eis
+Wahrnehmung
+Halogen	Element
+Person
+Gruppe
+Vorgang
+Eukaryot	Einzeller	Eukaryont
+Sportart
+Sicherung
+Person
+Geschütz
+Energiequelle
+Zwischenraum
+Zustimmung
+Kochgeschirr
+Getränkekiste	Getränkekasten
+Medium
+Person
+Rauschmittel	Droge
+Anatomie	Auge
+Beruf
+Anregung
+Weichtier	Meeresbewohner	Kopffüßer
+Beutel
+Luftbewegung
+Kanton
+Wortkonstituente	Konstituente
+Körperteil	Sinnesorgan
+Bewegung
+Notenschrift	Musikzeichen	Zeichen
+Schlagart	Grundschlag
+Symbol	Schriftzeichen
+Rankengewächs	Traubengewächs
+Schiffsrumpf	Schiffsbau	Schiffsbauteil
+Wissenschaftler	Pädagoge
+Aufgabe
+Frucht
+Spielstätte
+Stimmung
+Mitmensch
+Skifahrer/Skifahrerin	Skiläufer/Skiläuferin
+Spiegel
+Blütezeit
+Münze
+Spiel
+Trockenbeere
+Zweiflügler	Insekt
+Eiferer
+Liste
+Spezialzeichen	Sonderzeichen
+Studentenverbindung
+Hütte
+alkoholisches_Getränk
+Sitz
+Wasserverschmutzung	Sauerstoffarmut	Eutrophierung
+Stoffwechselzustand
+Sprache
+Deuten
+( grammatisches/grammatikalisches ) _Geschlecht	Genus
+Zwergstrauch
+Wortbildung	Wortschatz
+Zuname	Nachname	Familienname
+Orthographie	Rechtschreibung
+Musikrichtung
+Software	Programm
+Fahrrad	Reifen
+Offizier
+Grammatik	Syntax
+Obst	Frucht
+Zitat
+Mannschaft	Sportler
+Rebe	Vernatsch	Rebsorte
+Erregtheit
+Leiter
+Hochschule	Fach
+Vermittlung	Auskunft
+Bewertungssystem
+Handwerk
+Kurzerzählung
+Formel	Ritus
+Person	Mensch
+Rüstung	Helm
+Sportboot
+Gebäude	Haus
+Kapitalverbrechen	Handlung	Tötungsdelikt	Straftat	verbotene_Handlung	Verbrechen	vorsätzliche_Handlung
+Differenzierungsmerkmal
+Europäer	Franzose
+Zeit
+Lebewesen	Kraut	Pflanze
+Kulturkreis
+Hebewerkzeug	Hebezeug
+Leistungsbewertung
+Filmfigur	Romanfigur
+Hülle
+Geldleistung
+Anrede
+Weichtier	Krake	Meeresbewohner
+Flüssigkeit	Tropfen
+Kleidungsteil
+Hebezeug
+Pflanze	Narzisse	Amaryllisgewächs	Blume
+Seerose
+Geschäft	Ort
+Niederlage	Schach
+Zeichen
+Rechenverfahren
+Geräusch
+Getränkekiste	Getränkekasten
+Kran
+Faserstoff
+Astronomie	Geophysik	Geografie	Navigation	Geowissenschaften
+Information
+Kognition
+Schaf	Nutztier	Vieh	Säugetier	Huftier
+Sportler
+Bezirkshauptstadt
+Schutz
+Körperteil	Auge	Sinnesorgan
+Heilmittel	Therapeutikum
+Gefäß
+Vorrichtung
+Kleidung
+Maltechnik
+Medizintechnik
+Pflanze	Myrtengewächs	Heilpflanze	Botanik	Baum
+Musik	Trauermusik	Kunst
+Luftstrom
+Schiffsteil
+Behälter
+Gesellschaft
+Kopfbedeckung	Kleidung
+Ball
+Nebensaison
+Geschoss
+Notenschrift	Musikzeichen	Zeichen
+Prozess
+SA-Offizier	SS-Offizier
+Tierbehausung
+Stück
+Gas
+Skatausdruck	Kartenspielausdruck
+Halle
+Bakterien
+Beamter
+Bauwerk
+Soldat	Mannschaftsdienstgrad	Mannschaft
+Fachkraft
+Geschiebe	Materie	Ablagerung	Sediment	Material
+Feld	Gelände
+Organisationseinheit
+Stätte	Ort
+Entlehnung
+Wetter
+Gelage	Fest
+Historie	Geschichte
+Trockenfrucht
+Potenz
+Ortschaft	Siedlung
+Versetzungszeichen	Vorzeichen
+exekutives_Recht
+Verbindung
+Archipel	Inselgruppe
+Rechtsnorm	ein_Recht
+Hochschulabschluss
+Orchidee	Lebewesen	Pflanze
+Gemüse	Kohl	Pflanze
+Bruch
+Ideologie
+Nachtfalter
+Klugheit
+Spielmaterial
+Selbstdisziplin
+Abgelegenheit	Grad_der_Häufigkeit	Gesuchtheit
+Ergebnis	Perfektion
+Nahrungsmittel	Lebensmittel
+Nahrung
+Kunst	Malerei	Darstellung
+afroasiatische_Sprache
+Stiefel
+Bund
+Volksfest
+Waffe	Schlagwaffe
+Zahn
+Beugung	Biegung	Flexion
+Differenzierungsmerkmal
+Personengruppe
+Person
+Frucht
+Zeichen
+Zufluchtsort
+Arbeit_ ( Schichtbetrieb )
+Plan
+Getränk
+Präsentation
+Tisch
+Körperteil
+Herzogtum	Gliedstaat
+Blatt
+Hund	Vorstehhund
+Arbeiter
+Flexibilität
+Wurf
+Spielkarte
+Theater
+Spielkarte	Karte
+Musikstück
+Käse
+Person	Pilot
+Hauptstadt	Stadt
+Anstalt
+Pflanze
+Finanzen	Geld
+Hängelampe	Lampe
+Fremdwort	Entlehnung
+Staat
+Leistungsklage
+Betrieb
+Steinleiden
+Ausgabe
+Gewehr
+Organ
+Heißgetränk	Kaffee	Lebensmittel	Getränk
+Geldleistung
+Flagge
+Code_ ( Kode )
+Selbstfahrlafette	Panzerjäger	Panzerkampfwagen	Waffensystem
+Indeterminismus	Inkompatibilismus
+Telefonnummer
+Käse
+Gemüse
+Handlung	Vorgang
+Faser	Bastfaser
+Abzeichen	Blesse
+Verkehrseinrichtung
+Wissenschaft	Naturwissenschaft
+Unteroffiziere_mit_Portepee
+Parallelepiped	Parallelotop	Spat	Parallelflach
+Zeichen
+Obst
+Mythos
+Werkzeug
+Händler
+Hautkrankheit	Hautausschlag
+Kleinstaat	Staat
+Grammatik	Syntax
+Zeit
+Zopf	Flechtzopf
+Linguistik	Grammatik	Sprachwissenschaft
+Getränk
+Prozess
+Körperregion	Körperzone	Körperbereich
+Intervention
+Feldwebel
+Gebirge
+Personengruppe
+Rock
+Symbol	Gefahrensymbol	Zeichen
+Metall
+Kleindenkmal	Verkehrsdenkmal
+Sekret	Drüsensekret
+Süderdteil	Ostfeste	Erdteil	Kontinent
+Verbrauch
+Röhre
+Kunstwerk
+Fiskalpolitik	Wirtschaft	Finanzpolitik
+Schwert	Hiebwaffe	Waffe
+Küchenabfall	Schaum
+Spielerin	Feldspielerin
+Räumlichkeit/Abteilung
+Schach	Turm
+Vogel	Papagei	Nestorpapagei
+gerade_Zahl
+Spiel
+Dunkel
+Zähigkeit
+König
+Narziss	Mann
+Weg
+Wildschwein	Jungtier
+Strahlenschutz
+Bezirk
+Prüfung	Abschlussprüfung
+Schrift	Formel
+Germane
+Slawe
+Hörfunk
+Aufmerksamkeit
+Arbeit	Erwerbstätigkeit
+Versammlung
+Blattstellung
+Handlung
+Stampfer
+Grundrecht
+Jahreszeit
+Gläubiger	Mensch
+Spektralfarbe	Farbe	Grundfarbe
+Flasche
+Massentötung
+Motor
+Erdzeitalter	Erdmittelalter
+Messgerät	Zeitmesser	Uhr
+Theater
+Situation
+Kunstwerk
+subjektives_Recht
+Kind	Nachwuchs	Mehrling
+Situation	Zustand	Konstellation	Lage	Status
+Tiefenkasus
+Benzin
+Mensch
+Reifen
+Fachkraft	Mensch
+Schuld
+Kunst	Unterhaltung
+Spruch
+Architektur
+Idee_oder_Verhalten
+Menge	Quantität
+Betrieb
+Symbolfigur	fiktive_Person	Gestalt
+Rechtschreibung/_Orthografie	Schrift	Zeichensetzung_ ( Interpunktion )
+Spiel
+Musikstück
+strafbare_Handlung
+Fußballtor	Tor
+Mondphase
+Vieleck	Polygon
+Tiernahrung	'' allgemein : '' _Futter
+Hinweis
+Abkommen
+Beruf
+Gefäß
+Blutreinigungsverfahren
+Provinz
+Nationalhymne
+Trockner
+Lampe
+Fahrzeuganbauteil
+Äußerung
+Einstellung
+Geistlicher	Mönch
+Kapelle	Gotteshaus
+Angelhaken	Angelzubehör
+Gebirge
+Musiker
+Sprache
+Schwaben
+Göttin
+Spiel
+Hinweisschild
+Gottesdienst
+Hülsenfrucht	Gemüse
+Heirat
+Röntgen
+Doktorfische
+Nachahmung
+Trockner
+Getränk	Spirituose
+Individualrecht
+Ziffer
+Geschichte
+Stadt
+Traube
+Schrift	Formel
+Vertebrata
+Standardmaßnahme
+Schmuck
+Schutzmaske
+Entwässerungsanlage
+Fett	Ablagerung
+Provinz
+Rautengewächs	Heilpflanze
+Weltreligion	Monotheismus	Religion
+Form
+Appetithäppchen
+US-Amerikaner
+Tafelgeschirr
+Alliaceae
+Praline
+Werkzeug	Schraubenschlüssel
+Militär
+Konsequenz
+Krieg
+Wort
+Verkehrsmittel	Kraftfahrzeug	Kraftwagen
+Reaktion
+Reinheitsmaß
+Differenzierungsmerkmal
+Abendkleidung	Kleidungsstück	Kleidung
+Adlige
+Kopfbedeckung	Kleidung
+Wortart
+Wild
+Tierproduktion	Landwirtschaft	Agrarwirtschaft	Pflanzenproduktion
+Gewürz
+Mortalität
+Burg
+Sprachfunktion
+Gefolgschaft	Gefolge
+Körperteil	Extremität
+Gefäß	Behälter
+Pudding
+Gespräch
+Kultwort	Kult
+Gemüse
+Jugendbewegung
+Körperteil
+Spielkarte	Karte
+Slawe
+Radrennfahrer	Bahnfahrer
+Nachtfalter	Schmetterling
+Abstoßung
+Wirtschaft	Finanzwesen
+Gebäude
+Vorschlag
+Reiten ) : '' _Entscheidung	'' beim_Sport_ ( zum_Beispiel_Golf
+Nachtfalter	Eule
+Handlungsmaßstab
+Chemikalie	Lösung
+aalartige_Fische_ ( `` Anguilliformes '' )	Fisch	Tier	Lebewesen	Echter_Aal|Echte_Aale_ ( `` Anguillidae '' )	Knochenfisch	Wirbeltier
+Nutzpflanze	Pflanze
+Stall
+Feststellung
+Transportmittel	Gerät
+Haar	Haare
+Meldung
+Übermittlung
+Blatt
+Schlafstätte	Bettstatt	Schlafgelegenheit	Bettstelle
+Kleidung
+Fachmann
+Information	Blatt
+Wort
+Lieferant
+Fuß
+Zoologie
+Waffe	Spieß
+Fahrzeug
+'' Teil_von : '' _Geschirr
+Gestell
+Wert
+Laut	Akustik	Kommunikation
+Staude	Strauch	Pflanze
+Feuchtgebiet	Landschaft	Biotop
+Gewässer	Binnengewässer	Stillgewässer
+Tierkreiszeichen
+Verletzung
+Lehrveranstaltung
+Person
+Verwandte	Geschwister
+Ortsteil
+Boxen	Trainingsmethode
+Holzgewächs	Pflanze	Baum	Laubbaum
+Mensch
+Malerfarbe	Farbe	Erdfarbe
+Handwerk	Bäckereiwesen
+Großverband
+Handlungsweise	Handlung	Aktion	Vorgehensweise	Plan	Vorgehen
+Elementarteilchen	Korpuskel
+Person
+Kunststoffschlauch	Schlauch
+Bewältigung
+Rechenzentrum	Cluster	Hochtechnologie	Computernetzwerk
+Luftdruck
+Restaurant
+Fledermaus
+Rechtsbrecher	Verbrecher	Krimineller
+Gebäck	Keks
+Sprachwissenschaft	Linguistik	Wortbildung	Grammatik	Wort
+Kind
+Ruheständler
+Unentschieden	Remis
+US-amerikanischer_Bundesstaat/US-Bundesstaat	Staat
+Werkstoff
+Musik
+Zahl	Ganzzahl
+Historie	Geschichte
+Schlaginstrument	Idiophon
+Ausrüstung
+Farbe
+Bewertung
+Titel
+Handeln
+Pferderasse
+Zweig
+Abwehrmaßnahme
+Regelung	Lösung
+Großeltern
+Kreuzblütler	Pflanze
+Hochschullehrer
+Figur
+Insigne
+Leiter
+Spielfeld
+Wortbildung
+Schreibmaschine
+Tier	Blumentier
+Reinlichkeitszustand
+Mensch
+Kuscheltier	Spielzeug
+Wasserbau	Technik
+Schimpfwort	Redensart
+Ware	Gegenstand	Sache	Gut
+Ehrentitel
+Nordamerikaner
+Raummaß	Frachtraum
+Herrschaftssoziologie	Soziologie
+Ochse
+Arbeit
+Falter	Nachtfalter	Schmetterling
+erdähnlicher_Planet	Planet	Himmelskörper	Wandelstern
+Mahlzeit
+Angestellter
+Ortsteil	Ortsgemeinde
+Pflanzenwachstum
+Meinungsäußerung
+Kind	Mensch	Junge
+Gesellschaft
+Geschichtskonzept
+Selbsteinschätzung	Selbstvertrauen
+Finanzlage
+Kopf
+Anzeichen
+Geistlicher	Mönch
+Maßnahme
+Kampf
+Wasservogel
+Zimmer
+Stand	Lokal
+Straße
+Restaurant
+Sprechakt	Linguistik	Pragmatik
+Helligkeit
+Hochschulausbildung	Studium
+Fossil
+Ort
+Wal	Naturwissenschaft	Anatomie	Biologie
+Symbol
+Fußballspieler
+Stabsoffiziersdienstgrad
+Geschwulst
+Schachfigur
+Literatur
+Zustand
+Raum
+Einheit
+Gewalt
+Werbegrafik	Anzeige	Ad
+Formation	Gliederungsform	Truppenteil
+Ampelpflanze	Zimmerpflanze	Hängepflanze
+Nesseltier	Hohltier	Meerestier	Blumentier
+Bewegung
+Haltung	Gesinnung
+Verwaltungsakt
+Fahrzeughersteller
+Verdauungsorgan
+Stadt
+Charaktereigenschaft	Gesinnung
+Arzneimittel	Medikament
+Kleid
+Wald	Ökosystem
+Ideologie	Weltanschauung
+Bauwesen	Bauelement	Statik
+Anlage
+Test	Prüfung
+Spielzeug	Dekoration
+Frucht
+Malerfarbe	Farbe	Erdfarbe
+Bahn	Golfbahn
+Axt	Waffe	Werkzeug	Beil
+Organ	Kaninchenohr	Tierohr	Ohr	Hasenohr
+Tai-Kadai-Sprache
+Trennzeichen
+Unterricht
+Baustoff	Füllmaterial	Baumaterial	Steinmaterial
+Erntegut	Bioabfall
+Film
+Lupenglas	Untersuchungsinstrument
+Neuaramäisch
+Materiestrom	Eruption
+Tier
+Amt	Amtszeit
+Person	Mensch
+religiöses_Wesen
+Himmelsrichtung
+Behälter
+Raumfahrt
+Information
+Läsion
+Elektrotechnik	Atomphysik	Physik
+Stellungsfeld
+Hut	Kleidungsstück
+Meinungsverschiedenheit
+Klärung	Kriminologie
+Adelstitel	Adel
+Steinleiden
+Pflanze	Heilpflanze	Wegerichgewächs	Bedecktsamer	Botanik	Biologie
+Griff
+Musiker	Sänger
+Fahrradsattel
+Handelnder	Architekt	Ingenieur
+Soldat
+Stoff
+Stadium
+Genussmittel	Biermixgetränk	Getränk	Biermischgetränk
+Italiener	Europäer
+Ankündigung	Festlegung
+Fehlbildung
+Ziffer	Zahlzeichen
+Gotteshaus
+Struktur
+Sportgerät
+Jubiläum	Jahrestag
+Hülsenfrucht	Gemüse	Samen
+Sport
+Dienstvertrag	Liefervertrag
+Zauberwesen
+Auffassung
+Stange
+Hohlraum	Blase
+Äußerung
+Auswertung
+Körperteil	Sinnesorgan
+slawische_Sprache
+Emotion
+Besitz
+Objekt	Gegenstand	Ziel
+Bundesland
+Planetoid	Asteroid	Kleinplanet
+Transportmittel
+Datentyp
+Gebäude	Werkstatt
+Schauplatz	Handlungsort
+Kosewort
+Lautäußerung
+Darstellung
+Gewässer
+Textil	Gewebe
+Raum
+spielen|Spielen
+Musikinstrument
+Sportgerät
+Kochwasser
+Entwässerungsanlage
+Wahrnehmung
+Reich
+Person
+Maschine
+Gruppe
+Lebenslage	Lebensumstand	Lebensbedingung
+Wasserfahrzeug
+Augenzahl
+Farbe
+Tier	Mollusk_ ( Weichtier )
+Jahr
+Schnee
+Körperflüssigkeit	Sekret
+Fluss	Nebenfluss
+Transportbehältnis
+Wirtschaft
+Person	Mensch
+Massenmedium
+geistiger_Zustand
+Legierung	Gemisch	Werkstoff	Metalllegierung
+Kompatibilität
+Planung
+Feuerwehrmann
+Ordnung
+Abbau
+Schicht
+alkoholisches_Getränk	Spirituose	Schnaps
+Person
+Technik	Fachfirma
+Linguistik
+Bauteil
+Stadt
+Hut	Damenhut
+Geschütz
+Sternbild
+Schachfigur
+Straftat
+Sportgerät
+Person
+Sportart
+Gelände	Landschaft
+Aufführung
+Ingenieur	Mathematik	Technik	Wissenschaft
+Kugel	Schnee
+Monoid
+Erkenntnistheorie
+Dasselfliege	Insekt
+Verbrennung
+Bedürfnis	körperliches_Verlangen
+Teppich
+Veranstaltung
+Zahnersatz
+Sport	Golf	Golfschlag
+Lippenblütengewächs	Heilpflanze	Küchenkraut	Pflanze
+Waffe	Sportwaffe
+Backware	Gebäck
+Internet	Usenet	Schimpfwort
+Schöpfung
+Vorstellung	Vorführung
+Gelage	Fest
+Entfernung
+Pflanze	Heilpflanze	Wegerichgewächs	Bedecktsamer	Botanik	Biologie
+Gebäude
+Verteidigungsanlage	Schutzraum	Bauwerk
+Spiel
+Pflege	Ernte
+Vermögensschätzung
+Beamter
+Maschinenteil	Maschine
+Mädchen
+Einzäunung
+Körperteil
+Frucht
+Geld
+Golfausrüstung
+Großstadt
+Arbeitskraft
+Warnung
+Pferderasse
+Bauch
+Gericht
+Aussage
+Werk
+Blattkäfer_ ( Chrysomélidae )	Käfer	Insekt
+Sinn
+Gebetsstätte	Gebetshaus	Sakralbau	Gotteshaus	Kultstätte	Bethaus
+Relation
+Deutscher	Preuße
+Lexikon
+Genehmigung
+Landwirtschaft
+Schiffsteil
+Schreibart_ '' oder '' _Schreibweise
+Europäer
+Musikrichtung
+Verwalter	Beamter
+Instinkt	Verhalten
+Pferderasse
+Elektrotechnik	Atomphysik	Physik
+Mehlspeise	Teigware	Speise
+Organfunktion
+Person
+Täuschung	Spiel
+Gewebe
+Gebäude
+Unterrichtsfach
+Markierung
+Buch_der_Bibel
+Pferd	Paarhufer
+Branntwein	Schnaps
+Gefühl
+Admiral
+General	SS-Offizier
+Botanik	Korbblütengewächs	Biologie	Pflanze
+( positives ) _Recht
+Bühnenstück	Spiel
+Orden	Ordensgemeinschaft
+Person
+Generalsdienstgrad
+Nachtschattengewächs
+Nachspeise	Vorspeise	Dessert
+Tier	Blumentier
+Anerkennung
+Exekutive
+Sportart	Ballsportart	Radsportart
+Personengruppe	Testgruppe
+Gas
+Weltkarte
+Tagfalter	Schmetterling	Falter	Insekt
+Komik
+Gericht	Lebensmittel	Fleisch	Fleischgericht
+Teppich
+Massentötung
+Assertion	Qualitätssicherung	Spezifikation	Softwaredesign	Verifikation
+Zeitalter	Epoche
+Textil	Gewebe
+Sklave
+Wahrnehmen	Betrachten
+Lebewesen	Frau	Mensch
+Ertrag	Ernte
+Prozess
+Körperhaltung	Tanzfigur_ ( Ballett )	Grundhaltung
+Wanze	Insekt
+Wohnungseinrichtung	Möbelstück
+Zoo	Tierhaltung
+Wildschwein	Jungtier
+Kompositum
+Pionier
+Lebensmittel	Fleisch	Innereien	Nahrungsmittel	Speise
+Schimpfwort	Beleidigung
+Stellungnahme
+Schätzkurs
+Kampfflugzeug	Flugzeug
+Begeisterung
+Urteil	Erkenntnis
+Anlage
+Medikament
+Rechtsanwalt	Anwalt
+Natur
+Bevölkerung
+Emotion
+Fest
+Geschichte
+Göttin
+Körperöffnung
+Sanitätsdienstgrad
+Strich	Prostitution
+Wegstunde
+Gericht
+Numerus
+Inselgruppe
+Gebäude
+Absicht
+Verknotung
+Text
+Dienstgrad
+Asteroid
+Programmiersprachelement
+Artikulationsorgan
+Generalsdienstgrad
+Ontologie	Metaphysik
+Verlust
+Deutscher	Alemanne
+Technik
+Leistung	Test
+Fachgebiet
+Rebsorte
+Schwanz
+Landkreis
+Nadelbaum
+Sport	Sportgerät
+Adeliger	Skandinavier	Wikinger
+Verhaltensweise
+Pflanze	Brombeere	Rosengewächs
+Bund	Zusammenschluss
+Inschrift
+Konstruktion
+Tier	Nutztier
+Insekt
+Zeichnung
+Verfrachtung
+Burg
+Stein	Baustein
+Besatzungszone
+Unternehmen	Einzelhandelsunternehmen
+Fraktur
+Maschine	Produktionsgerät
+Wehr
+Aussage
+Pokal
+Person
+Mathematik
+Waffe
+Effektor
+Betrieb
+Anführer
+Vegetation
+Mysterium
+Zupfinstrument
+Toilettenhäuschen
+Senkung
+Wertzeichen
+Zufall
+'' Teil_von '' : _Gleisunterbau
+Scherzwort
+Übermittlung
+Datenerfassung
+Tier
+Reinstoff
+Unterrichtsfach
+Stadt
+Staatsgebiet	Herrschaftsgebiet	Territorium
+Magnetwerkstoff	Keramik	Werkstoff
+Sportgerät
+Pferdefuhrwerk
+Literaturgenre
+Region	Westfalen
+Tiernahrung	'' allgemein : '' _Futter
+Wagnis
+Wirbeltier	Vogel	Greifvogel
+Handwerk
+Kraft
+Zustand
+physische_Geografie	Landschaft	Landschaftstyp
+Köm	Aquavit_-_Klarer_-_Schnaps	Spirituose	Kümmel
+Sportart	Ballsportart
+Verteidigung
+Lebewesen
+Organ
+Instrument
+Gerät
+Person
+Vereinzelungsanlage
+Wirbeltier	Fisch	Lebewesen	Tier
+Hindernis
+Handlung
+Mann
+Schachspielart
+Tier
+Kugel	Schmuck
+Fahrzeug
+Konifere	Pflanze
+Haltung
+Kind	Mensch
+Stundengebet	Gebet	Hore
+Person	Mensch
+Baum	Pflanze
+Vorhaben
+Vorrat	Qualifikation|Qualifikation
+Gebäude	Bauwerk
+Bundesstaat
+Ideologie	Weltanschauung
+Bergwerk
+Stadt
+Homo_sapiens	Afrikaner	Mensch
+Behandlungsmaßnahme
+Kapitalist
+Definition	Formulierung
+Schwaben
+Spiel	Kartenspiel
+Weg
+Röntgen
+Trajektorie	Kurve	Gerade
+Christ	Europäer
+Einsatz
+Zustand
+Obst	Frucht	Kernobst
+Hunderasse
+Musikstil
+Person
+Seemann	Seefahrer
+Amt	Posten	Stelle
+paramilitärische_Einheit
+Wechsel
+Technik_ ( im_Sinne_der_Beherrschung_einer_Fertigkeit )	Kompositionstechnik
+Vorhang	Theater
+Technik	Verfahren
+Pferderasse
+Ortsteil
+Fertigkeit	Fähigkeit
+Extremität	Flosse
+Lexikon
+Singvogel	Vogel	Sperlingsvogel	Zugvogel
+Historiolinguistik	Etymologie	Semantik
+Wicht	Knirps	Zwerg
+Heilpflanze	Küchenkraut
+Luftfahrzeug
+Ball
+Techniker	Künstler
+Soldat	Schütze
+Lüftung	Technik
+Emotion
+Europa	Kreis	Deutschland	Niedersachsen
+Lehrveranstaltung
+Zubehör
+Unternehmen
+Ornament
+Rüde
+Versmaß
+Handel
+Hellenist
+Musikwerk
+Spiel	Gesellschaftsspiel	Unterhaltung
+Tierkreiszeichen
+Schaf
+Dach
+Anfall	Infarkt
+Gast
+Stelle
+Rettung
+Instrument
+alkoholisches_Getränk
+Behälter
+Kennzeichnung
+Geisteswissenschaftler
+Genussmittel	Getränk
+Wirtschaft	Politik
+Behältnis	Behälter
+Kartoffelsorte	Kartoffel
+Fachkraft	Mensch
+Stoff
+Heiligenschein	Glorienschein
+Wort
+Prostituierte
+Großstadt	Hafenstadt
+Nerv
+Hygienemaßnahme
+Schule
+Geistlicher
+Person
+Textsorte	Nachricht
+Darsteller
+Luftfahrzeugführer
+Software
+Fisch	Plattfisch	Tier	Speisefisch	Meeresfisch	Wirbeltier
+Abhängigkeit	Sucht
+Raum
+Feldbefestigung
+Hieroglyphenschrift
+Technik	Wissenschaft
+Bombe
+Gravitationswellentheorie	Wellentheorie_des_Lichts/Wellentheorie_des_Schalls|des_Schalls
+Amtssitz	Amtsbezirk	Machtbereich
+Primat	Tier	Affe	Säugetier	Menschenaffe
+Gegenstand	Ding
+Person
+Tier	Insekt	Ungeziefer
+Wolke
+Teil
+Handlung
+Einsatz
+Zeichen
+Gebäude
+Krankheit
+Graben	Hohlraum	Kanal
+Körperflüssigkeit
+Stadt
+Stadt
+Himmelsrichtung
+Blume
+Kennzeichen
+Reserve
+Gebäude	Haus
+chemische_Reaktion	Reaktion
+Zustand	Naturzustand
+Krappgewächse	Nutzpflanze
+Gebäudeteil
+Schauspieler	Darsteller
+Wachhund	Haushund
+Mädchen
+Sport	Fußball	Fan
+Märchengestalt
+Schlafstörung	Traum
+Soldat	Militär
+Admiralsrang
+Intervall
+Schutzanstrich
+Kode
+Film
+Guthaben	Kapital
+Bauwerk	Wehrturm	Turm
+Spiel
+Kraft
+Schiff
+Beschichtung	Anstrich
+Diktion
+Sender
+Generalsrang
+Gegenstand	Ding	Zeug
+Physik|physikalisches_Phänomen
+Schreitvögel	Ciconiiformes
+Gesetz_ ( Wissenschaftstheorie )
+Salz
+schöne_Literatur	Literatur
+Person
+Laden
+Spielgerät	Ball
+Gesetz	Buch
+Mischwesen	Fabelwesen
+Dokument
+Person
+Geschlechtsorgan
+Gerät
+Geschirr
+Mode	Bekleidungsstück	Hut	Bekleidung	Kopfbedeckung
+Dacheindeckung	Dachziegel	Dachschindel
+Fischkonserve
+Objekt	Lebewesen
+Burg
+Knochen
+Hut	Damenhut
+Raubvogel	Nachtraubvogel
+Ideologie
+Zutat
+Modell	Begriffswelt
+Gefühl	Bewusstsein
+Raum
+Reinigungsmittel
+Hanfgewächs	Pflanze
+Ereignis
+Grafschaft
+Hautflügler
+Sammelnussfrucht
+Herzogtum	Gliedstaat
+Slip
+Bund	Zusammenschluss
+Verwaltungsbezirk
+Frau
+Nachschlagewerk
+Protokollierung	Darstellung_des_Sachverhalts	Stellungnahme
+Platonismus	Erkenntnistheorie
+Anerkennung
+Zustand
+Gemüse	Kohl	Lebensmittel
+alkoholisches_Getränk
+Person
+Jackett	Kleidungsstück	Kleidung	Herrenbekleidung
+Beleuchtungskörper	Lichtquelle	Gegenstand
+Holzverbindung
+Textilverarbeitung	Anatomie
+Unternehmen	Dienstleistungsunternehmen	Dienstleister
+Fossil
+Verkehrsweg
+Gastwirtschaft	Weinlokal
+Akademiker
+Schwein
+Verhütungsmittel
+Tier	Lebewesen	Jungtier
+Stiefel
+Licht
+Bildschirmformat
+Ausgabe	Nummer
+Stadt
+Loch
+Stängel
+Phänomen
+Hund
+Zahn
+Koordinate
+Geschwisterteil	Verwandter
+Text
+Kapelle	Gotteshaus
+Korn
+Einziehung
+Organisationseinheit
+Dichte	Sättigung	Densität
+Märchenwesen
+Rebsorte
+Laborgerät
+religiöse_Feier
+Stern	Himmelskörper	Gestirn
+Kuchen
+Verwaltungsakt
+Akzent/Ton
+Kunst	Beruf
+Verhalten
+Eierspeise
+Auge
+Astronomie	Geophysik	Geografie	Navigation	Geowissenschaften
+Kritik
+Zahnersatz
+Landeshauptstadt
+Tabakwaren
+Unteroffizier
+Offiziersdienstgrad
+Gewürz
+Sicherheitssoftware
+Ball
+Bauteil
+Schmuck
+Lebewesen	Pflanze
+Kompositum
+Gewichtsklasse
+Suppe	Eintopf
+Internetdienst
+Industrieberuf	Beruf	Handwerksberuf	Metallberuf
+Film
+Gefühl
+Deckel
+Gerät
+Pferderasse
+Fähre
+Spiel
+körperliches_Leiden
+Waffengattung
+Volk	Gemeinschaft	Gesellschaft	Kollektiv	Gruppe	Team	Ethnie
+Bauvorgang
+Physiologie
+Markt
+Vortrag
+Auftrag
+Emotion
+Bürgerkrieg	Krieg
+Anerkennung
+Organ
+ätherisches_Öl
+Glas	Gefäß
+Halbinsel
+Entwicklungsverfahren
+Monoid
+Handlung	Vorgang
+Musikstück
+Versteinerung
+Qualifikation
+Sternbild
+Schrot
+Gebäck	Keks
+Staat	Land
+Schmerz
+Tier
+Landkreis
+Zeile	Balken	Benutzeroberfläche	Ordner	Verzeichnis	Leiste	Liste	Band	Fenster
+Automodell
+Untersuchung
+Himmelsrichtung
+Arbeit	Pension	Rente
+Zierpflanze	Zierstrauch
+Dienstnehmer
+Ereignis	Fall
+Unternehmergeist
+Fisch
+Protest
+Kanalisation
+Sachbearbeiter	Verwalter
+Programmiersprache
+Vogel	Säbelschnäbler	Tier
+Meeressäuger	Säugetier
+Militärangehöriger
+Rechnung	Rechnen
+Medienwissenschaft
+Möbelstück
+Schäferspiel
+Geben
+Süddeutscher	Deutscher
+Fahrzeug	Wasserfahrzeug
+Kugel	Schnee
+Veranstaltung
+Süderdteil	Ostfeste	Erdteil	Kontinent
+Wasserfahrzeug
+Birkengewächs	Laubbaum
+Unteroffizier
+Theater
+Navigationsinstrument	Messinstrument
+Haken
+Krieg
+Turngerät
+Sternkonstellation	Konstellation	Sternbild
+Bedecktsamer	Gefäßpflanzen	Nelkenartige
+Dozent	Vortragender
+Luft	Raumluft
+Schnecke	Tier	Meerestier	Purpurschnecke
+chemisches_Element	Halbmetall
+Befinden
+Rechenhilfsmittel
+Schauplatz	Handlungsort
+Speisefisch	Meeresfisch
+Arbeiter
+Skelett	Körperteil
+Studentenverbindungsmitglied
+Hauptstadt	Millionenstadt	Stadt	Metropole
+Soldat
+Historiolinguistik	Etymologie	Semantik
+Wurf
+Farbe
+Frisur
+Zeit
+Ruf
+Küchengerät
+Bauteil
+Verdächtiger	Verhörter
+Pflanze	Enziangewächs
+Bildungserfolg
+Weltsprache	romanische_Sprache
+Meerestier
+Kapitän
+Topf
+Mahlzeit
+Brand
+Haushaltsgerät	Kühlschrank
+Erhebung
+Speisepilz	Delikatesse	Schlauchpilz	Potenzmittel	Aphrodisiakum
+Großlandschaft	Kontinentteil	Teilkontinent
+Rhythmik
+Speise	Süßspeise
+Zeitspanne
+Legislative
+ostgermanische	germanische	indogermanische_ ( indoeuropäische )	tote_Sprache
+Kodierung	Zeichensatz
+Auto
+Gefäß	Behälter
+Paket
+Franzose
+Schmuckstück
+Fuchsschwanzgewächse	Nelkenartige
+Verschluss
+Präfektur
+Stadt	Siedlung	Ort
+Mann
+Asiat
+Weinsorte	Rotwein	Wein
+Füller	Füllfederhalter	Feder
+Pferderasse
+Mensch
+Textsorte
+Leben
+Haltevorrichtung	Verbindung
+Protokollierung	Darstellung_des_Sachverhalts	Stellungnahme
+Gerät
+Raum	Ort
+Programm
+Bauwerk
+Ewigkeit	Zeitgerade
+Wispel	Fuder	Last
+Knochen
+Gras
+Mehlspeise	Speise
+Oberbayern	Landkreis	Bayern	Europa	Deutschland
+Verwandlung
+Kunst	Handwerk
+Pflanze	Baum	Laubbaum
+Werbung	Soziologie	Psychologie	Marketing
+Sakrament
+Makromolekülstruktur
+Oberflächenstruktur	Textur
+Gebäude
+Einkommen	Gehalt
+Zahl
+Aufgabe
+Sprache	Sprachstatistik	Quantitative_Linguistik	Sprachwissenschaft	Linguistik	Mathematische_Linguistik
+Strich
+Pflanze
+Mehlspeise	Teigware	Nudel_ '' siehe_dazu_auch : '' _Verzeichnis : Deutsch/Essen_und_Trinken/Nudel_und_Pasta
+Verwaltungsbezirk
+Insektenfresser	Säugetier
+Intervention
+Gebirge
+Vorfall	Krankheit
+Gewürz
+Flurfördergerät	Transportmittel
+Spielbrett	Schach	Brett
+Körperteil	Sinnesorgan
+Farbe
+Bewältigung
+romanische_Sprache
+Großelternteil	Urahnin	Ahnin	Vorfahrin	Altvordere	Ahnherrin	Ahnfrau	Großeltern	Ahne	Urahne
+Kaffee
+Amt
+Rhythmik
+Anrede
+Metall
+gerade_Zahl
+Zahl
+Körperbemalung
+Tabakware
+Schale
+Meteorologie	Luftstrom	Geowissenschaften
+Platz
+Gut
+Gericht
+Unabwendbarkeit
+Marke
+Strichplatte	Fadenplatte
+Polizeiabteilung	Kriminalpolizei
+Zeremonie
+'' siehe_auch : '' _Verzeichnis : Deutsch/Zeit_und_Kalender	Zeiteinheit
+Ware
+Wesen	Fabelwesen
+Liegestatt	Bett
+Nachkomme
+Sternbild
+Mädchen
+Beschaffenheit	Stofflichkeit
+Dichtung
+Planung
+Konstruktion
+Gewehr
+Schachzug
+Feldwebel
+Pflanze	Kraut	Blume
+Straße
+Person
+Mensch
+Politik	Mensch
+Wissenschaftler	Pädagoge
+Frau
+Schach	Leichtfigur	Offizier	Schachfigur
+Arbeit
+Bauteil
+Kosmetikartikel
+Foto	Bild
+Bahnhofsgebäude
+Golfschlag
+Schiff	Kahn	Wasserfahrzeug
+Idee
+Kognition
+Schnepfenvogel	Watvogel	Vogel	Tier
+Baum	Pflanze
+Körperflüssigkeit	Sekret
+Waffe	Torpedo
+Aushub	Anlage
+Denken
+Vogel	Singvogel	Tier	Lebewesen	Sperlingsvogel
+Fluss
+Stadt
+Gegenstand	Form
+Staatsbürgerschaft	Pass
+Haar
+Technik
+Siedlungsform
+Pflanze	Gehölz
+Operativer_Eingriff	Operation
+Tageszeit
+Siedlung	Stadtteil
+Lebenslage	Lebensumstand	Lebensbedingung
+Tanz	Sport
+Täuschung
+Geschlossene_Spiele	Eröffnung
+Verwaltungseinheit
+Verleger	Journalist
+Lage
+Tagfalter	Falter
+Pferderasse
+Region
+Schimpfwort	'' thematisch : '' _Beleidigung	Pejorativum
+Geld
+Physiologie
+Essen
+Kindergeschirr	Geschirr
+Admiralsrang
+Kieferngewächs	Nadelbaum
+Bodenbelag	Einrichtungsgegenstand	Möbelstück	Textilie
+Adliger
+Wahrnehmung	Bewusstsein
+Mechanismus
+Stadt
+Arzneimittel	Arznei
+Struktur
+Regierungsform
+Handlung
+Hahnenfußgewächs	Pflanze	Blume
+Fruchtzapfen
+Kapitalismus	Kommerz
+Geschichte
+Umhang	Tracht	Mantel	Kleidung
+Stadt
+Laden
+SS-Offiziersrang	Stabsoffiziersdienstgrad
+Schale
+Methode
+Sicht	Blick
+Weinsorte
+Stadt
+Legierung	Metall
+Ziergegenstand	Gegenstand	Wertgegenstand
+Chemikalie
+Luft	Technik
+Weichtier	Schnecke	Meeresschnecke
+Leiter
+Pflanze	Blume
+Wissenschaftler	Pädagoge
+Menge	Teilmenge	Methode
+Musikgenre	Musikform
+Homiletik
+Vorrichtung
+Rechnung
+Musikstück	Gesangsstück
+Soldat
+Tierteil
+Kuranstalt	Kurort
+Förderstätte
+Rechtswesen	Sanktion
+Handwerker
+Gemeinde
+Meinungsverschiedenheit
+Pflanze
+Fisch	Weißfisch
+Kardinaltugend	Tugend
+Griff
+Zustimmung
+Willenserklärung
+Inselstaat	Staat
+Staudamm
+Sportwagen	Kinderwagen
+Fortbewegungsmittel
+Vereinzelungsanlage
+Hunderasse
+Gemüse	Kohl	Pflanze
+Versetzungszeichen	Vorzeichen
+Busunternehmen
+Fehler
+Schrift	Schriftsystem
+Stichwaffe	Stoßwaffe	Waffe	Jagdwaffe
+Kantine
+Weichtier	Tier	Tintenfisch
+Schichtmeister
+Reinigung
+Spiel
+Tempus	Zeitform
+Ngbandi-Sprache_ ( Niger-Kongo-Sprache )
+Riese
+Ruhegehalt	Pension	{ { österr.| : } } _Ruhebezug
+Hoheitszeichen	Staatssymbol
+Zuwendung
+Grünfläche	Grünanlage
+Erfahrung
+Bekleidung	Kleidungsstück	Oberbekleidung
+Glückssymbol	Organ	Glücksbringer	Blatt
+Sternbild
+Lebensmittelinhaltsstoff	Lebensmittelzutat
+Oxidation
+äquatoriale_Koordinate
+Staat	Land
+Geldschein
+Universum
+Ehrentitel
+Flüssigkeit	Tropfen
+natürliche_Zahl	Zahl
+Singvogel	Vogel
+Holz
+Grundrecht
+Baum	Strauch
+Fisch	Brasse
+Projektion
+Tanzfigur
+Kärtchen
+Turnier
+Land
+Singvogel	Vogel	Tier
+Pflanze
+Kriminalbeamtin	Polizeibeamtin
+Sportgerät	Spielgerät	Ball
+Anzahl
+Frucht
+Rucksack
+Waffe
+Stoff	chemische_Verbindung
+Inselstaat	Staat	Land
+Nahrungsmittel	Lebensmittel
+Mathematik
+Vorrichtung
+Bundesland
+Bissigkeit	Spitze	Stichelei	Stich	Anspielung
+Lebewesen
+Sieg
+Rebe	Rebsorte
+Kunstwerk
+Nachtfalter	Schmetterling	Insekt
+Nahrung	Baumaterial	Baustoff	Biomasse	Werkstoff	Material	Baum	Brennstoff
+Kraft
+Lebenseinstellung	Mensch
+Körperteil
+Kreuzblütengewächs
+Krankheitserreger
+Pokerhand	Pokerblatt
+ausgestorbene_Sprache
+Zahlungsmittel
+optisches_Laufwerk	Hardware
+Nachkommenschaft
+Struktur
+Neobiont	Pflanze
+Schimpfwort
+Friesisch
+Punkt
+Fraktur
+Fell	Gämse
+Radrennfahrer	Bahnfahrer
+Herr
+Bauteil	Maschinenelement
+Beilage
+Pflanzenfamilie
+Kultgegenstand	Zeremoniegegenstand	Machtinsignie
+Beeinflussung	Manipulation
+Beruf
+Auseinandersetzung
+Auswertung
+Pferderennen	Pferdesport
+Gefäß
+Regierung
+Messer	Werkzeug
+Geschlechtsteil	Körperteil
+Handeln	Tätigkeit
+Sprache
+Zucker
+Programmiersprache
+Bundesland
+Nase
+Dichtung
+Obstbaum	Lebewesen	Baum	Pflanze
+Spaß	Unterhaltung	Humor
+Band
+Mengenangabe	Maßeinheit	Rezeptdosierung
+Landsknecht
+Veranlagung
+Wild
+Künstlerin
+Handlungsweise	Handlung	Aktion	Vorgehensweise	Plan	Vorgehen
+Darsteller
+Herrscher
+Erfolgsdelikt	Vergehen	Vorsatzdelikt	Dauerdelikt	Straftat
+Bedecktsamer_ ( `` Magnoliophyta '' )
+Satzzeichen
+Größe	Zahl	Betrag
+Symbol	Schriftzeichen
+Pflanze
+Körperregion	Bauchwand
+chemische_Reaktion	Reaktion
+Gefäß	Behältnis
+Zubehör
+Göttin
+Information	Beilage	Blatt
+Dienstnehmerin
+Einrichtung	Gerät
+Zweiflügler	Insekt
+Obst	Würzmittel	Frucht	Gewürz	Pflanzenteil	Lebensmittel	Zitrusfrucht	Nahrungsmittel	Speise
+Holzwirtschaft
+Honigdrüse	Nektarium
+Wechsel
+Vogel
+Fahrzeugtechnik
+Doldenblütler	Pflanze
+Veränderung
+Person
+Honigdrüse	Nektarium
+Europäerin
+Zeichentheorie	Semiotik
+Fingerfood
+Organismus
+Fluggerät	Luftsportgerät	Gleitfluggerät
+Technik
+Tageszeit
+Kommunikation
+Privatversicherung	Versicherung
+Sportler	Triathlet
+Vogel
+Kopie
+Peitsche
+lexikalische_Computersoftware
+Gehirn
+Situation
+Person	menschliches_Wesen	Mensch
+Person
+Gefäß
+Annäherung
+Vorliebe
+Ausrüstung	Equipment
+Jungtier
+Bittbrief
+Baumaschine
+Beruf	Heilkundiger
+Ausnahmezustand	Notstandsmaßnahme
+Fach
+Temperament
+Held	Halbgott
+Sternbild
+Frachtschiff	Segelschiff
+Gefäß
+Gesellschaftsschicht
+Hühnerei	Ei
+Schall
+Treibstoff	Energieträger	Sprit	Kraftstoff	Brennstoff
+Planetoid	Asteroid	Kleinplanet
+Verbrennung
+Währungseinheit
+Zeit
+Erkenntnistheorie
+Kleidungsstück
+Definition
+Zusammenschluss	Handlung
+Süßigkeit
+Reinigung	Säuberung
+Theologe	Religionswissenschaftler
+Naturprodukt	Farbstoff
+Beratung
+Bier
+Technik
+Personengruppe	Testgruppe
+Stern	Himmelskörper	Gestirn
+Rechtsmittel
+Bart
+Krankheit	Pflanzenkrankheit
+Industrie
+Weinfehler
+Gehäuse
+Person
+Aufkleber
+Gericht
+Bau
+Bohrer
+Steigerung
+Verletzung
+Tier	Perd	Pony
+Triathlon	Mehrkampf
+Aussage
+Technik
+Transportmittel
+Kleidungsstück	Damenbekleidung	Kleidung
+Geschütz	Artillerie
+Arbeiter
+Zitrusfrucht	Pflanze	Südfrucht
+Käfer	Insekt
+Dienstmarke
+Maschinenteil	Maschine
+Tierkreiszeichen	Sternzeichen
+Zustand
+Kreuzblütengewächse	Pflanze
+Hauptstadt	Stadt	Metropole
+Zeitabschnitt
+Gebiet
+Rechnung
+Wertpapierhandel
+Semantische_Rolle
+Körperteil
+Betriebssystem	Software
+Laborgerät
+Endspiel
+Wetterlage
+Springschrecke_ ( Ordnung_Saltatoria )	Insekt	-schrecke
+Körper
+Emotion
+Region	Gegend	Gebiet
+rätomanische_Sprache
+Fahrzeugtechnik
+Meinungsäußerung
+Esel
+Keller
+Gruppe
+Verwaltungsgremium
+Informierung
+Kralle
+Heidekrautgewächs	Halbstrauch	Pflanze
+Fahrzeug	Pferdefuhrwerk
+Jahresabschluss
+Sternbild
+Zeitpunkt
+Unterrichtsstunde
+Sport	Fußball	Fan
+Erdzeitalter	Zeitalter
+Narziss	Mann
+Klaviatur	Tastatur
+Viehseuche	Krankheit	Seuche
+Mathematik	Rechenhilfsmittel
+Beratung
+Nachkomme
+Tür	Tor
+Farbe
+Zylinder	Hohlzylinder
+Reiten ) : '' _Entscheidung	'' beim_Sport_ ( zum_Beispiel_Golf
+Hochschulausbildung	Studium
+Nesselgewächs
+Fähigkeit
+Unternehmen
+Erzieher	Berater	Trainer	Lehrer
+Buch
+Wahrnehmung	Bewusstsein
+Niederlage	Schach
+Deutscher	Preuße
+Person
+Anthropologie
+Geldforderung
+Hauptstadt	Provinzhauptstadt
+Universum
+Läufer
+Hering
+Automobil	Auto
+Gegenstand
+Therapie
+Wühlmaus
+Manguste	Raubtier	Säugetier
+Toxin_ ( Gift )	Arsenverbindung
+Nichtmetall	Element
+Hilfsmittel	Mittel
+Betriebssystem	Mehrbenutzer-Betriebssystem
+Schmuck
+Pilz
+Grundstück
+Brot	Teigware	Gebäck	Weißgebäck
+Energieumwandlung
+Behauptung
+Reifen
+Handeln	Tätigkeit
+Wurst
+Abendkleidung	Kleidungsstück	Kleidung
+Mythos
+Pilz	Hutpilz	Rutenpilz	Ständerpilz
+Lüftung	Architektur
+Sportart	Fortbewegung|FortBewegung|bewegung
+Autor	Verfasser
+Literaturgenre
+Feinkost	Speise
+Schulnote
+Landwirt
+Organisation	Verein
+Werkzeug
+Schriftstück
+Sicherheitsernstfall	Sicherheitsmaßnahme
+Geduldsspiel
+Beere	Frucht
+Wurzelgemüse	'' allgemein : '' _Gemüse
+Jura	Jurisdiktion
+Formation	militärische_Stellung
+Ladenpassage
+Teilsystem
+Gericht	Speise
+Schlaufe
+Teilstreitkraft
+Küchengerät
+SS-Offizier
+Geschmack
+Glossematik
+staatliche_Institution
+Tier
+Titel
+Emulsion
+Geistlicher
+Schmetterling	Spinner	Motte
+Tiefenkasus	semantische_Rolle
+Veranstaltung
+'' thematisch : '' _Beruf	Interpret	Musiker
+Pass
+Gebäude
+Spielgerät	Behälter
+Vorrichtung
+Wasserfahrzeug
+Stange	Stock	Stab
+Inselstaat	Staat	Land
+Waffe
+Stadt
+Förderstätte
+Material	Verbindungselement
+Mahlzeit
+Beere_ { { f } }	Frucht_ { { f } }	Obst_ { { n } }	Nahrung_ { { f } }	Speise_ { { f } }
+Bude
+Gefäß
+Kunstform
+Heilpflanze	Gemüse	Gewürzpflanze
+Person
+Symbol
+Begriff
+Landschaft
+Druckfehler
+Opoid
+Buchung	Konto
+Verwaltungseinheit	administrative_Einheit
+Augenerkrankung	Augenkrankheit
+Wetter	Lichtschein
+Zwergplanet	Plutoid
+Bevölkerung
+Person
+Gravierwerkzeug
+Medizin	Essstörung
+Künstler
+Feuerstelle
+Mensch
+Gewürz	Gewürzmischung
+Provinz
+Aufgussgetränk	Genussmittel	Getränk
+Sportgerät	Stoffball	Ball
+Gott
+Gewürz
+Offiziersdienstgrad
+Navigationselement	Steuerelement
+Schwierigkeit
+Anpassung	Akkulturation
+Computerprogramm
+Konjunktur
+Geschütz	Artillerie
+Erdoberfläche
+Schaf	Nutztier	Vieh	Säugetier	Huftier
+Bitte
+Körper
+Gemeinschaftsverpflegung	Gastgewerbe
+Ursache
+Übertragung	Bild	Wiedergabe
+Nachkomme	Verwandter
+Gotteshaus
+Thermoplast
+Person
+Geisteskraft
+Eingabegerät	Peripheriegerät	Vorrichtung
+Unabwendbarkeit
+Personengruppe
+Bildungserfolg
+Lebewesen
+Koordinatenachse
+Ölbaumgewächse	Pflanze	Baum	Laubbaum
+Verhütungsmittel
+Programmteil
+Vernichtung
+Läuferin
+Kultgegenstand	Zeremoniegegenstand	Machtinsignie
+Beruf
+Chromosomenmutation	Mutation
+Charakterzug
+Rauschmittel	Droge
+Provinz
+Anrede	Titulierung
+Stadtteil	Wiener_Bezirk	Gemeindebezirk
+Stilistik
+Vogel	Papagei	Tier
+Irreführung
+Person
+Wettbewerb
+Apokalypse
+Bollwerk
+Instrument	Schlaginstrument	Idiophon
+Hose
+Strecke
+junger_Mensch
+Nelkengewächs	Pflanze
+Tragwerk
+Doldenblütler	Pflanze
+Sonderkommando	Kommando
+Kosewort
+Vermittlung	Auskunft
+Absehen
+Weinsorte
+Fahrzeug	Wasserfahrzeug
+Krankheitssymptom
+Behälter
+Soziolekt	Dialekt
+Filterbeutel
+Zeiteinheit
+Weichtier	Schnecke	Meeresschnecke
+Tagfalter	Schmetterling	Augenfalter	Insekt
+Verzeichnis
+Darbietung
+Feld	Folge
+Landwirtschaft
+Ort
+Junge
+Wolle
+Schaffleisch	Fleisch
+Ort
+Darm
+Edelstein
+Syntagma
+Trinken	Essen
+Einstellung
+aalartige_Fische_ ( `` Anguilliformes '' )	Fisch	Tier	Lebewesen	Echter_Aal|Echte_Aale_ ( `` Anguillidae '' )	Knochenfisch	Wirbeltier
+Rebsorte
+Veranstaltung	Aufführung
+Aggregat
+Blasinstrument
+Beleuchtung	Lampe	Leuchte
+Spielzeug
+Akzent/Ton
+Fisch	Weißfisch
+Sportler
+Siedlung	Ort	Stadt	Hauptstadt	Verwaltungssitz	Gemeinde	Großstadt
+Gemeinde
+Gefäß
+Kunstköder	Angelzubehör
+Deutscher	Europäer
+Ausdruck
+exekutives_Recht
+Wurzelgemüse	Rübe
+Teppich
+Pelz
+Bank
+Bereicherung
+Charaktereigenschaft
+Abrahamit
+Melodik
+Automarke
+Kaiser
+Subalternoffizier
+Leuchten
+Lärminstrument	Musikinstrument
+Beziehung	Verhältnis
+Selbsteinschätzung
+Knoten	Zierknoten
+Zehnerschlüssel	Werkzeug	Schraubenschlüssel	Zehnlochschlüssel
+Gruppe
+Lampe/Leuchte
+Hahn
+Strich	Prostitution
+Meldung
+Zerkleinerungsmaschine
+Frau	Greisin
+Wettererscheinung	Wind	Luftstrom
+Blütenstand
+Kampf
+gerade_Zahl
+Kirsche	Süßkirsche
+Denkmal
+Fuhrwerk	Pferdefuhrwerk
+Kapelle	Gotteshaus
+Tier	Tracheentier
+Zahlmeister
+Inselgebiet
+Entwicklung
+Idee
+Stadt
+Chlorid
+Fuchsschwanzgewächs	Pflanze
+Flug
+Vikar
+Wetterlage
+Gewehr
+Zeichen
+Physik	Mechanik
+Zunge
+Nebenhimmelsrichtung
+Geschütz	Belagerungseinheit	Belagerungswaffe	Fernwaffe
+Offiziersdienstgrad
+Vergnügung
+Anatomie	Medizin
+Person
+Stadt	Verwaltungssitz	Stadtgemeinde	Hauptort
+Gewürz
+Beschränktheit	Bedrückung	Beengtheit
+Hund	Haustier
+Ehre
