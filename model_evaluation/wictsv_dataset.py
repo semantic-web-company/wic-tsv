@@ -49,15 +49,21 @@ class WiCTSVDataset(torch.utils.data.Dataset):
                                                                 target_inds=target_inds,
                                                                 focus_char=focus_token)
 
-        targets = [cxt.split(' ')[tgt_ind] for cxt, tgt_ind in zip(contexts, target_inds)]
         self.tgt_start_len = []
         self.descr_start_len = []
         sense_ids_strs = []
-        for cxt, tgt_ind, def_, hyps, tgt in zip(contexts, target_inds, definitions, hypernyms, targets):
+        for cxt, tgt_ind, def_, hyps in zip(contexts, target_inds, definitions, hypernyms):
             cxt_index_map, cxt_index_list = self._get_token_index_map_and_list(cxt, tokenizer)
+            if type(tgt_ind) == int:
+                tgt_ind_begin = tgt_ind
+                tgt_ind_end = tgt_ind + 1
+            elif type(tgt_ind) == tuple:
+                tgt_ind_begin, tgt_ind_end = tgt_ind
+            else:
+                raise ValueError(f"target indices may only be of type int or tuple, but is {type(tgt_ind)}")
 
-            target_start_ind = cxt_index_map[tgt_ind][0] + len(['[CLS]'])
-            target_len = len(cxt_index_map[tgt_ind])
+            target_start_ind = cxt_index_map[tgt_ind_begin][0] + len(['[CLS]'])
+            target_len = sum([len(cxt_index_map[idx]) for idx in range(tgt_ind_begin, tgt_ind_end)])
             self.tgt_start_len.append((target_start_ind, target_len))
 
             sense_identifiers_str = def_ + '; ' + ', '.join(hyps)
@@ -114,7 +120,7 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         This method will mark the target word in a context with a special character before and after it,
         e.g. "This is the target in this sentence" --> "This is the $ target $ in this sentence"
         :param contexts: list of context strings
-        :param target_inds: list of target indices
+        :param target_inds: list of target indices, or list of ranges in the form of (begin_ind, end_ind)
         :param focus_char: character which should be taken to mark the target
         :return: list of marked context strings, updated target indices
         """
@@ -122,14 +128,26 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         marked_target_inds = []
         for context, target_i in zip(contexts, target_inds):
             context_tokens = context.split()
-            before_target = context_tokens[:target_i]
-            after_target = context_tokens[target_i + 1:]
+            if type(target_i) == int:
+                begin_i = target_i
+                end_i = target_i + 1
+            elif type(target_i) == tuple:
+                begin_i, end_i = target_i
+            else:
+                raise ValueError(f"target indices may only be of type int or tuple, but is {type(target_i)}")
+            before_target = context_tokens[:begin_i]
+            after_target = context_tokens[end_i:]
             marked_contexts.append(' '.join(before_target +
                                             [focus_char] +
-                                            context_tokens[target_i:target_i + 1] +
+                                            context_tokens[begin_i:end_i] +
                                             [focus_char] +
                                             after_target))
-            marked_target_inds.append(target_i + 1)
+            new_begin_i = begin_i + 1
+            new_end_i = end_i + 1
+            if new_begin_i == new_end_i - 1:
+                marked_target_inds.append(new_begin_i)
+            else:
+                marked_target_inds.append((new_begin_i, new_end_i))
         assert len(marked_contexts) == len(marked_target_inds)
 
         return marked_contexts, marked_target_inds

@@ -21,7 +21,12 @@ def read_wic_tsv(wic_tsv_folder: Path,
     target_inds = []
     examples_path = next(wic_tsv_folder.glob('*_examples.txt'))
     for line in _read_tsv(examples_path):
-        target_inds.append(int(line[tgt_ind_column].strip()))
+        try:
+            target_inds.append(int(line[tgt_ind_column].strip()))
+        except ValueError:
+            target_inds.append((int(line[tgt_ind_column].strip().split("-")[0]),
+                                int(line[tgt_ind_column].strip().split("-")[-1]))
+                               )
         contexts.append(line[cxt_column].strip())
         targets.append(line[tgt_column].strip())
 
@@ -41,6 +46,7 @@ def read_wic_tsv(wic_tsv_folder: Path,
         labels = None
     assert len(contexts) == len(hypernyms) == len(definitions), (len(contexts), len(hypernyms), len(definitions))
     for cxt, t_ind, tgt in zip(contexts, target_inds, targets):
-        if not cxt.split(' ')[t_ind].lower().startswith(tgt[:-1].lower()):
-            assert False, (tgt.lower(), t_ind, cxt.split(' '), cxt.split(' ')[t_ind].lower())
+        t_ind_start = t_ind if type(t_ind) == int else t_ind[0]
+        if not cxt.split(' ')[t_ind_start].lower().startswith(tgt.split(' ')[0][:-1].lower()):
+            assert False, (tgt.lower(), t_ind_start, cxt.split(' '), cxt.split(' ')[t_ind_start].lower())
     return contexts, target_inds, hypernyms, definitions, labels
