@@ -58,10 +58,10 @@ class WiCTSVDataset(torch.utils.data.Dataset):
             descrs_len = len(tokenizer.tokenize(sense_identifiers_str))
             # todo make sure that target token is in context
             cxt_index_map, cxt_index_list = self._get_token_index_map_and_list(cxt, tokenizer, max_len=512-descrs_len-3)
-            if type(tgt_ind) == int:
+            if isinstance(tgt_ind, int):
                 tgt_ind_begin = tgt_ind
                 tgt_ind_end = tgt_ind + 1
-            elif type(tgt_ind) == tuple:
+            elif isinstance(tgt_ind, tuple):
                 tgt_ind_begin, tgt_ind_end = tgt_ind
             else:
                 raise ValueError(f"target indices may only be of type int or tuple, but is {type(tgt_ind)}")
@@ -134,10 +134,10 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         marked_target_inds = []
         for context, target_i in zip(contexts, target_inds):
             context_tokens = context.split()
-            if type(target_i) == int:
+            if isinstance(target_i, int):
                 begin_i = target_i
                 end_i = target_i + 1
-            elif type(target_i) == tuple:
+            elif isinstance(target_i, tuple):
                 begin_i, end_i = target_i
             else:
                 raise ValueError(f"target indices may only be of type int or tuple, but is {type(target_i)}")

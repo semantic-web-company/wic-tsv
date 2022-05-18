@@ -46,7 +46,7 @@ def read_wic_tsv(wic_tsv_folder: Path,
         labels = None
     assert len(contexts) == len(hypernyms) == len(definitions), (len(contexts), len(hypernyms), len(definitions))
     for cxt, t_ind, tgt in zip(contexts, target_inds, targets):
-        t_ind_start = t_ind if type(t_ind) == int else t_ind[0]
+        t_ind_start = t_ind if isinstance(t_ind, int) else t_ind[0]
         if not cxt.split(' ')[t_ind_start].lower().startswith(tgt.split(' ')[0][:-1].lower()):
             assert False, (tgt.lower(), t_ind_start, cxt.split(' '), cxt.split(' ')[t_ind_start].lower())
     return contexts, target_inds, hypernyms, definitions, labels
