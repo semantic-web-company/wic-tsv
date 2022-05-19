@@ -164,9 +164,9 @@ def print_stats(dataset: DatasetSplit, domain=None):
 
 if __name__ == '__main__':
     location = Path(__file__).parent.parent
-    train_folder = location / 'data' /'en' / 'Training'
-    dev_folder = location / 'data' /'en' /'Development'
-    test_folder = location / 'data' /'en' / 'Test'
+    train_folder = location / 'data' /'de' / 'Training'
+    dev_folder = location / 'data' /'de' /'Development'
+    test_folder = location / 'data' /'de' / 'Test'
 
     train_split = DatasetSplit(data_folder=Path(train_folder),
                                examples_file_name='train_examples.txt',
@@ -178,14 +178,14 @@ if __name__ == '__main__':
                              definitions_file_name='dev_definitions.txt',
                              hypernyms_file_name='dev_hypernyms.txt',
                              labels_file_name='dev_labels.txt')
-    # test_split = DatasetSplit(data_folder=Path(test_folder),
-    #                          examples_file_name='test_examples.txt',
-    #                          definitions_file_name='test_definitions.txt',
-    #                          hypernyms_file_name='test_hypernyms.txt',
-    #                          labels_file_name='test_labels.txt',
-    #                          domains_file_name='test_domains.txt')
+    test_split = DatasetSplit(data_folder=Path(test_folder),
+                              examples_file_name='test_examples.txt',
+                              definitions_file_name='test_definitions.txt',
+                              hypernyms_file_name='test_hypernyms.txt',
+                              labels_file_name='test_labels.txt',
+                              domains_file_name='test_domains.txt')
 
-    print(train_split.target_overlap(dev_split))
+    #print(train_split.target_overlap(dev_split))
     # print(train_split.target_overlap(test_split))
     # print(train_split.target_overlap(test_split, dev_split))
     print()
@@ -196,12 +196,13 @@ if __name__ == '__main__':
     # print(test_split.target_overlap(train_split, domain='cps'))
     print()
 
-    print(train_split.sense_overlap(dev_split))
+    #print(train_split.sense_overlap(dev_split))
     # print(train_split.sense_overlap(test_split))
     # print(train_split.sense_overlap(test_split, dev_split))
     print()
 
-    # print(test_split.sense_overlap(train_split))
+    print(test_split.target_overlap(train_split,dev_split))
+    print(test_split.sense_overlap(train_split, dev_split))
     # print(test_split.sense_overlap(train_split, domain='wnt'))
     # print(test_split.sense_overlap(train_split, domain='msh'))
     # print(test_split.sense_overlap(train_split, domain='ctl'))
@@ -213,7 +214,7 @@ if __name__ == '__main__':
     print_stats(dev_split)
 
     # print('\n##### test #####')
-    # print_stats(test_split)
+    print_stats(test_split)
     #
     # print('\n##### wnt')
     # print_stats(test_split, 'wnt')
