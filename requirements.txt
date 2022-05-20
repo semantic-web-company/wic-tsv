@@ -3,4 +3,4 @@ transformers<4
 nltk
 scikit-learn
 numpy
-protobuf==3.20.*
+pandas
