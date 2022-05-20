@@ -5,7 +5,7 @@ import torch
 from transformers import PreTrainedTokenizer
 
 
-class TTVDatasetEncodingOptions(Enum):
+class TTRDatasetEncodingOptions(Enum):
     CTX__CLS_DEF_HYP = '[CLS] context [SEP] class; definition; hypernyms [SEP]'
 
 
@@ -33,7 +33,7 @@ def tokenize_and_preserve_labels(contexts: Union[List[List[str]], List[str]],
     return tokenized_contexts, tokenized_labels
 
 
-class TTVDataset(torch.utils.data.Dataset):
+class TTRDataset(torch.utils.data.Dataset):
 
     def __init__(self,
                  contexts: List[List[str]],
@@ -44,7 +44,7 @@ class TTVDataset(torch.utils.data.Dataset):
                  target_classes: List[str] = None,
                  # neg_examples_per_annotation: int = 1,
                  tag2idx_null_subtoken: Tuple[dict, str, str] = None,
-                 encoding_type=TTVDatasetEncodingOptions.CTX__CLS_DEF_HYP):
+                 encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP):
         """
 
         @param contexts: list of tokenized input strings
@@ -54,11 +54,12 @@ class TTVDataset(torch.utils.data.Dataset):
         @param labels: target labels to train from (e.g. B-Person, I-Person, O)
         @param target_classes: target classes to predict (e.g., Person). If labels are provided, these will be ignored
         @param tag2idx_nulllabel: a tuple of (dict{tag_str:id}, string_of_null_label, string_of_subtoken).
-        If not provided, the BIO (O as null label, ## as subtoken label) is used, with {##:0, O:1, I:2, B:3}
+        0 is reserved for out-of-focus tokens.
+        If not provided, the BIO (O as null label, ## as subtoken label) is used, with {##:1, O:2, I:3, B:4}
         @param encoding_type:
         """
-        self.len = len(contexts)
         self.tokenizer = tokenizer
+
         if labels is None and target_classes is None:
             raise RuntimeError("either target_classes or labels must be provided (XOR)")
         self.labels = None
@@ -67,23 +68,33 @@ class TTVDataset(torch.utils.data.Dataset):
         if tag2idx_null_subtoken is None:
             null_label = 'O'
             subtoken_label = "##"
+
             self.tag2idx = dict()
-            self.tag2idx[subtoken_label] = 0
-            self.tag2idx[null_label] = 1
-            self.tag2idx['I'] = 2
-            self.tag2idx['B'] = 3
+            self.tag2idx[subtoken_label] = 1
+            self.tag2idx[null_label] = 2
+            self.tag2idx['I'] = 3
+            self.tag2idx['B'] = 4
             # self.tag2idx['E'] = 4
             # self.tag2idx['S'] = 5
         else:
             self.tag2idx, null_label, subtoken_label = tag2idx_null_subtoken
+        #out-of-focus token, for e.g. [CLS], or anything after the [SEP]
+        out_of_focus_label = 'oof'
+        self.tag2idx[out_of_focus_label] = 0
+
+        self.definitions = definitions
+        self.definitions[null_label] = ""
+        self.hypernyms = hypernyms
+        self.hypernyms[null_label] = [""]
 
         tokenizer_input = []
-        output_seqs = []
+        output_tags = []
         for i, sent in enumerate(contexts):
             unique_sent_classes = set([x.split('-')[-1] for x in labels[i]]) if labels is not None else set(
                 target_classes)
             for token_cls in unique_sent_classes:
-                if encoding_type is TTVDatasetEncodingOptions.CTX__CLS_DEF_HYP:
+                #should we igrore target class O?
+                if encoding_type is TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP:
                     tokenizer_input.append([" ".join(sent), token_cls + "; "
                                             + definitions[token_cls] + "; "
                                             + ', '.join(hypernyms[token_cls])])
@@ -95,17 +106,21 @@ class TTVDataset(torch.utils.data.Dataset):
                     token_ids = [j for j, label in enumerate(labels[i]) if label.endswith("-" + token_cls)]
                     labels_seq = [label.split('-')[0] if i in token_ids else null_label for i, label in
                                   enumerate(labels[i])]
-                    output_seqs.append(labels_seq)
-
-        if labels is not None:
-            _, tokenized_labels = tokenize_and_preserve_labels(contexts=contexts,
-                                                               labels=labels,
-                                                               tokenizer=self.tokenizer,
-                                                               subtoken_label=subtoken_label)
-            self.labels = torch.tensor([[self.tag2idx[tag] for tag in sent_labels] for sent_labels in tokenized_labels],
-                                       dtype=torch.float)
+                    output_tags.append(labels_seq)
 
         self.encodings = tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding=True)
+        self.len = self.encodings['input_ids'].shape[0]
+        self.max_len = self.encodings['input_ids'].shape[1]
+
+        if labels is not None:
+            _, tokenized_tags = tokenize_and_preserve_labels(contexts=tokenizer_input,
+                                                               labels=output_tags,
+                                                               tokenizer=self.tokenizer,
+                                                               subtoken_label=subtoken_label)
+            label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
+            self.labels = torch.tensor([l + [self.tag2idx[out_of_focus_label]] * (self.max_len-len(l)) for l in label_encodings],
+                                       dtype=torch.long)
+
 
 
     def __getitem__(self, idx):
