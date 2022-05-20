@@ -3,3 +3,4 @@ transformers<4
 nltk
 scikit-learn
 numpy
+pandas
