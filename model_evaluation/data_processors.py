@@ -68,8 +68,8 @@ def read_conll(file_path: Path,
                      keep_default_na=False,
                      header=None)
     df.index = df[token_col]
-    df = df[token_col, ne_col]
-    df.columns = ["token", "ne"]
+    df = df[[token_col, ne_col]]
+    df.columns = ['token', 'ne']
 
     # remove lines indicating a new document
     df = df.drop(doc_split_str.split(delimiter)[0])
@@ -86,21 +86,21 @@ def read_conll(file_path: Path,
     # df['doc'] = doc_ids
 
     sent_grouped = df.groupby("sent")
-    tokens = sent_grouped.apply(lambda s: [x for x in s["word"].values.tolist()])
-    nes = sent_grouped.apply(lambda s: [x for x in s["ne"].values.tolist()])
+    tokens = sent_grouped.apply(lambda s: [x for x in s['token'].values.tolist()])
+    nes = sent_grouped.apply(lambda s: [x for x in s['ne'].values.tolist()])
 
     return tokens, nes, unique_nes
 
 
 def get_conll_doc_and_sent_ids(file_content: str, doc_split_str='-DOCSTART- -X- -X- -X- O\n', sent_split_str="\n\n"):
     raw_docs = file_content.split(doc_split_str)
-    raw_sens = [doc.split(sent_split_str) for doc in raw_docs if doc is not '']
+    raw_sens = [doc.split(sent_split_str) for doc in raw_docs if doc != '']
     doc_ids = []
     sent_ids = []
     current_sent_id = 0
     for doc_i in range(len(raw_sens)):
         for sent_i in range(len(raw_sens[doc_i])):
-            num_lines = len([line for line in raw_sens[doc_i][sent_i].split('\n') if line is not ""])
+            num_lines = len([line for line in raw_sens[doc_i][sent_i].split('\n') if line != ""])
             doc_ids.extend([doc_i] * num_lines)
             sent_ids.extend([current_sent_id] * num_lines)
             current_sent_id += 1
