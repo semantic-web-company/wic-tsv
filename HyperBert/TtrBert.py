@@ -1,11 +1,10 @@
 from pathlib import Path
-from typing import Dict
 
 import torch
-from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 from torch import nn
 from torch.nn import CrossEntropyLoss
-from transformers import BertPreTrainedModel, BertModel, AutoTokenizer, EvalPrediction
+from transformers import BertPreTrainedModel, BertModel, AutoTokenizer
 
 from model_evaluation.ttr_dataset import TTRDataset
 
@@ -83,7 +82,7 @@ if __name__ == '__main__':
     base_path = Path(args.dataset_path)
     output_path = Path(args.model_output_path)
 
-    ttr_path = base_path / 'deutf.train'
+    ttr_path = base_path / 'deuutf.dev'
     logging.log(logging.INFO, "Load model")
 
     model_name = args.model_name
@@ -115,19 +114,17 @@ if __name__ == '__main__':
 
 
 
-
-    def compute_metrics(p: EvalPrediction) -> Dict:
-        fp = p.predictions
-        binary_preds = (p.predictions > 0).astype(type(p.label_ids[0]))
-        binary = binary_preds.T == p.label_ids
-        acc = binary.mean()
-        precision, r, f1, _ = precision_recall_fscore_support(y_true=p.label_ids, y_pred=binary_preds, average='binary')
+    def compute_metrics(pred):
+        labels = [y for x in pred.label_ids for y in x]
+        preds = [y for x in pred.predictions.argmax(-1) for y in x]
+        precision, recall, f1, support = precision_recall_fscore_support(labels, preds, labels=[0,1,2,3,4])
+        acc = accuracy_score(labels, preds)
         return {
-            "acc": acc,
-            "F_1": f1,
-            "P": precision,
-            "R": r,
-            "Positive": binary_preds.sum() / binary_preds.shape[0]
+            'accuracy': acc,
+            'f1': f1,
+            'precision': precision,
+            'recall': recall,
+            'support' : support
         }
 
     training_args = TrainingArguments(
@@ -136,7 +133,7 @@ if __name__ == '__main__':
         do_train=True,
         do_eval=True,
         evaluation_strategy='epoch',
-        num_train_epochs=10,
+        num_train_epochs=2,
         per_device_train_batch_size=4,
     )
     trainer = Trainer(
@@ -151,7 +148,13 @@ if __name__ == '__main__':
     logging.log(logging.INFO, "Start training")
     output = trainer.train()
     print(f'Training output: {output}')
+    model.config.label2id = train_ds.tag2idx
+    model.config.id2label = indx2ner = {id : val for val, id in train_ds.tag2idx.items()}
     trainer.save_model()
     #preds = trainer.predict(test_dataset=test_ds)
     #print(preds)
     #print(preds.predictions.tolist())
+    trainer.eval_dataset=val_ds
+    eval_data = trainer.evaluate()
+    for i in indx2ner.keys():
+        print(indx2ner[i], eval_data['eval_support'][i], eval_data['eval_f1'][i])
