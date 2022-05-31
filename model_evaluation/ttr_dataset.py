@@ -93,32 +93,38 @@ class TTRDataset(torch.utils.data.Dataset):
             unique_sent_classes = set([x.split('-')[-1] for x in labels[i]]) if labels is not None else set(
                 target_classes)
             for token_cls in unique_sent_classes:
-                #should we igrore target class O?
-                if encoding_type is TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP:
-                    tokenizer_input.append([" ".join(sent), token_cls + "; "
-                                            + definitions[token_cls] + "; "
-                                            + ', '.join(hypernyms[token_cls])])
-                else:
-                    raise NotImplementedError
-                ## negative example through label switching?
-                ## negative example through changing span?
-                if labels is not None:
-                    token_ids = [j for j, label in enumerate(labels[i]) if label.endswith("-" + token_cls)]
-                    labels_seq = [label.split('-')[0] if i in token_ids else null_label for i, label in
-                                  enumerate(labels[i])]
-                    output_tags.append(labels_seq)
+                #should we ignore target class O?
+                if token_cls != null_label or len(unique_sent_classes) == 1:
+                    if encoding_type is TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP:
+                        tokenizer_input.append([" ".join(sent), token_cls + "; "
+                                                + definitions[token_cls] + "; "
+                                                + ', '.join(hypernyms[token_cls])])
+                    else:
+                        raise NotImplementedError
+                    ## negative example through label switching?
+                    ## negative example through changing span?
+                    if labels is not None:
+                        token_ids = [j for j, label in enumerate(labels[i]) if label.endswith("-" + token_cls)]
+                        labels_seq = [label.split('-')[0] if i in token_ids else null_label for i, label in
+                                      enumerate(labels[i])]
+                        output_tags.append(labels_seq)
 
-        self.encodings = tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding=True)
+        self.encodings = tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding=True, max_length=512)
         self.len = self.encodings['input_ids'].shape[0]
         self.max_len = self.encodings['input_ids'].shape[1]
 
         if labels is not None:
-            _, tokenized_tags = tokenize_and_preserve_labels(contexts=tokenizer_input,
+            if encoding_type is TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP:
+                input_contexts = [x[0] for x in tokenizer_input]
+            else:
+                raise NotImplementedError
+            _, tokenized_tags = tokenize_and_preserve_labels(contexts=input_contexts,
                                                                labels=output_tags,
                                                                tokenizer=self.tokenizer,
                                                                subtoken_label=subtoken_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
-            self.labels = torch.tensor([l + [self.tag2idx[out_of_focus_label]] * (self.max_len-len(l)) for l in label_encodings],
+            self.labels = torch.tensor([l[:self.max_len] + [self.tag2idx[out_of_focus_label]] * max(0,(self.max_len-len(l)))
+                                        for l in label_encodings],
                                        dtype=torch.long)
 
 

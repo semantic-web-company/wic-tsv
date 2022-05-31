@@ -71,8 +71,11 @@ def read_conll(file_path: Path,
     df = df[[token_col, ne_col]]
     df.columns = ['token', 'ne']
 
-    # remove lines indicating a new document
-    df = df.drop(doc_split_str.split(delimiter)[0])
+    # remove lines indicating a new document, if present
+    try:
+        df = df.drop(doc_split_str.split(delimiter)[0])
+    except KeyError:
+        pass
     df = df.reset_index(drop=True)
 
     unique_nes = df['ne'].unique()
