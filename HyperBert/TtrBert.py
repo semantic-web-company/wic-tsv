@@ -1,3 +1,4 @@
+from collections import Counter
 from pathlib import Path
 
 import torch
@@ -75,14 +76,15 @@ if __name__ == '__main__':
                         format='%(asctime)s %(levelname)-8s %(message)s',)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset_path', nargs='?', default='../data/ttf', type=str)
+    parser.add_argument('--dataset_path', nargs='?', default='../data/ttr', type=str)
     parser.add_argument('--model_output_path', nargs='?', default='./model', type=str)
-    parser.add_argument('--model_name', nargs='?', default='bert-base-uncased', type=str)
+    parser.add_argument('--model_name', nargs='?', default='bert-base-german-cased', type=str)
     args = parser.parse_args()
     base_path = Path(args.dataset_path)
     output_path = Path(args.model_output_path)
 
-    ttr_path = base_path / 'deuutf.dev'
+    #ttr_path = base_path / 'deuutf.dev'
+    ttr_path = base_path / 'ler.conll'
     logging.log(logging.INFO, "Load model")
 
     model_name = args.model_name
@@ -91,33 +93,78 @@ if __name__ == '__main__':
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model.to(device)
 
-    tokens, nes, unique_nes = dp.read_conll(ttr_path,0, 4)
+    #tokens, nes, unique_nes = dp.read_conll(ttr_path,0, 4)
+    tokens, nes, unique_nes = dp.read_conll(ttr_path, 0, 1)
 
     train_token, val_token, train_labels, val_labels = train_test_split(tokens, nes, test_size=0.15, random_state = 42)
     train_token, val_token, train_labels, val_labels = list(train_token), list(val_token), list(train_labels), list(val_labels)
-    def_dict = {"PER" : "eine Person",
-                  "LOC" : "ein Ort",
-                  "ORG": "eine Organisation",
-                  "MISC": "ein Ding"}
-    hyper_dict = {"PER" : ["Person"],
-                  "LOC" : ["Ort"],
-                  "ORG": ["Organisation"],
-                  "MISC": ["Ding"]}
+    def_dict = {"PER" : "Person, ein Mensch",
+                "RR" : "Richter, Person, welche die Rechtsprechung ausübt oder bei Gericht Recht spricht",
+                "AN": "Anwalt, bevollmächtigter Rechtsvertreter",
 
-    #print('train', sum([Counter(l) for l in train_labels]))
+                "LD": "Land,  Glied- oder Teilstaat (in bestimmten Staaten), abgrenzbares, historisch oder natürlich zusammengehöriges Gebiet",
+                "ST": "Stadt meist größere, zivile, zentralisierte, abgegrenzte, häufig und oft historisch mit Stadtrechten ausgestattete Siedlung",
+                "STR": "Straße, ein landgebundenes Verkehrsbauwerk, das dem Bewegen von Fahrzeugen und Fußgängern zwischen zwei Orten und/oder Positionen dient",
+                "LDS": "Landschaft, ein Teil der Erdoberfläche, der sich durch seine einzigartigen physischen und kulturellen Merkmale von der Umgebung abhebt",
+
+                "ORG": "Organisation, in koordinierter Zusammenschluss von Menschen und Ressourcen, der dem Zweck dient, das Gemeinwohl im Arbeitsfeld der Organisation zu verbessern",
+                "UN": "Unternehmen, Gesellschaft, die in Produktion oder Handel tätig ist oder Dienstleistungen erbringt",
+                "INN": "Institution, Einrichtung, Organisationselement, Behörde, Anstalt",
+                "GRT": "Gericht, Organ, dessen Aufgabe es ist, vorgetragene Fälle anzuhören und über sie unter Beachtung der Rechtslage zu entscheiden",
+                "MRK": "Marke, Ware mit einem bestimmten geschützten Namen",
+
+                "GS": "Gesetz, Regel, die ein Gesetzgeber in einem bestimmten Verfahren erlässt und die die jeweilig Untergebenen zu befolgen haben",
+                "VO": "Verordnung, gesetzesähnliche Vorschrift, die von einer Verwaltungsbehörde erlassen wird",
+                "EUN": "EU Norm, Die Europäischen Normen sind Regeln, die von einem der drei europäischen Komitees für Standardisierung ratifiziert worden sind",
+
+                "VS": "Vorschrift, Anweisung, die man befolgen muss",
+                "VT": "Vertrag, rechtlich bindende Vereinbarung zwischen mindestens zwei verschiedenen Partnern",
+
+                "RS": "Rechtsprechung, Menge und/oder Art der erfolgten Gerichtsurteile",
+                "LIT": "Rechtsliteratur"
+                }
+    hyper_dict = {"PER" : ["Person","Mensch"],
+                  "RR" : ["Person", "Jurist"],
+                  "AN": ["Person", "Vertreter"],
+
+                  "LD": ["Ort", "Staat", "Verwaltungsgebiet"],
+                  "ST": ["Ort", "Ortschaft", "Siedlung"],
+                  "STR": ["Ort","Verkehrsweg"],
+                  "LDS": ["Ort","Region"],
+
+                  "ORG": ["Organisation", "Einrichtung"],
+                  "UN": ["Organisation","Gesellschaft", "juristische Person", "Rechtsform"],
+                  "INN": ["Organisation"],
+                  "GRT": ["Organisation", "Organ", "Institution"],
+                  "MRK": ["Organisation"],
+
+                  "GS": ["Rechtsvorschrift"],
+                  "VO": ["Rechtsvorschrift", "Ordnung", "Rechtsnorm"],
+                  "EUN": ["Rechtsvorschrift", "Europäische Vorschrift"],
+
+                  "VS": ["Regulation", "Regel"],
+                  "VT": ["Regulation","Vereinbarung"],
+
+                  "RS": ["Rechtsprechung"],
+                  "LIT": ["Rechtsliteratur"]
+                  }
+
+    print('train', sum([Counter(l) for l in train_labels], Counter()))
     logging.log(logging.INFO, "Load test dataset")
     train_ds = TTRDataset(train_token,hypernyms=hyper_dict, definitions=def_dict, tokenizer=tok, labels=train_labels)
 
-    #print('test', sum([Counter(l) for l in val_labels]))
+    print('test', sum([Counter(l) for l in val_labels], Counter()))
     logging.log(logging.INFO, "Load val dataset")
     val_ds = TTRDataset(val_token,hypernyms=hyper_dict, definitions=def_dict, tokenizer=tok, labels=val_labels)
 
 
 
-    def compute_metrics(pred):
+    def compute_metrics(pred, detailed_metrics=False):
         labels = [y for x in pred.label_ids for y in x]
         preds = [y for x in pred.predictions.argmax(-1) for y in x]
-        precision, recall, f1, support = precision_recall_fscore_support(labels, preds, labels=[0,1,2,3,4])
+        average = None if detailed_metrics else 'micro'
+        precision, recall, f1, support = precision_recall_fscore_support(labels, preds, labels=[0,1,2,3,4], average=average)
+        support = support if support is not None else len(labels)
         acc = accuracy_score(labels, preds)
         return {
             'accuracy': acc,
@@ -133,8 +180,8 @@ if __name__ == '__main__':
         do_train=True,
         do_eval=True,
         evaluation_strategy='epoch',
-        num_train_epochs=2,
-        per_device_train_batch_size=4,
+        num_train_epochs=4,
+        per_device_train_batch_size=16,
     )
     trainer = Trainer(
         model=model,
@@ -142,7 +189,6 @@ if __name__ == '__main__':
         # prediction_loss_only=True,
         train_dataset=train_ds,
         eval_dataset=val_ds,
-        # eval_dataset=test_ds,
         compute_metrics=compute_metrics,
     )
     logging.log(logging.INFO, "Start training")
@@ -151,10 +197,12 @@ if __name__ == '__main__':
     model.config.label2id = train_ds.tag2idx
     model.config.id2label = indx2ner = {id : val for val, id in train_ds.tag2idx.items()}
     trainer.save_model()
-    #preds = trainer.predict(test_dataset=test_ds)
+    preds = trainer.predict(test_dataset=val_ds)
     #print(preds)
     #print(preds.predictions.tolist())
-    trainer.eval_dataset=val_ds
-    eval_data = trainer.evaluate()
+    #trainer.eval_dataset=val_ds
+    #eval_data = trainer.evaluate()
+    eval_data = compute_metrics(preds, True)
+    print(eval_data)
     for i in indx2ner.keys():
-        print(indx2ner[i], eval_data['eval_support'][i], eval_data['eval_f1'][i])
+        print(indx2ner[i], eval_data['support'][i], eval_data['f1'][i])
