@@ -32,10 +32,10 @@ We have 2 different models:
 
 *Remark*: **representations of a token** is the resulting output vector from the last layer of the respective language model -- sometimes also called **embedding**.
 
-Both files can be run as scripts, for example, 
+Both files can be run as scripts, for example, navigate to the root of the repository and then 
 ```bash
-cd HyperBert
-python3 HyperBert3 --dataset_path ../data --model_output_path ./eval --model_name bert-base-uncased
+export PYTHONPATH=$(pwd)  # make sure the folder is discoverable by Python interpreter
+python3 HyperBert/HyperBert3.py --dataset_path ./data/en --model_output_path ./eval --model_name bert-base-uncased
 ```
 The parameters are optional, for defaults check the respective files.
 
