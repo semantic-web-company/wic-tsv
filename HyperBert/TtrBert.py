@@ -97,31 +97,34 @@ if __name__ == '__main__':
     tokens, nes, unique_nes = dp.read_conll(ttr_path, 0, 1)
 
     train_token, val_token, train_labels, val_labels = train_test_split(tokens, nes, test_size=0.15, random_state = 42)
-    train_token, val_token, train_labels, val_labels = list(train_token), list(val_token), list(train_labels), list(val_labels)
-    def_dict = {"PER" : "Person, ein Mensch",
-                "RR" : "Richter, Person, welche die Rechtsprechung ausübt oder bei Gericht Recht spricht",
-                "AN": "Anwalt, bevollmächtigter Rechtsvertreter",
+    train_token, val_token, train_labels, val_labels = list(train_token)[:10], \
+                                                       list(val_token)[:10],\
+                                                       list(train_labels)[:10], \
+                                                       list(val_labels)[:10]
+    def_dict = {"PER" : "ein Mensch",
+                "RR" : "Person, welche die Rechtsprechung ausübt oder bei Gericht Recht spricht",
+                "AN": "bevollmächtigter Rechtsvertreter",
 
-                "LD": "Land,  Glied- oder Teilstaat (in bestimmten Staaten), abgrenzbares, historisch oder natürlich zusammengehöriges Gebiet",
-                "ST": "Stadt meist größere, zivile, zentralisierte, abgegrenzte, häufig und oft historisch mit Stadtrechten ausgestattete Siedlung",
-                "STR": "Straße, ein landgebundenes Verkehrsbauwerk, das dem Bewegen von Fahrzeugen und Fußgängern zwischen zwei Orten und/oder Positionen dient",
-                "LDS": "Landschaft, ein Teil der Erdoberfläche, der sich durch seine einzigartigen physischen und kulturellen Merkmale von der Umgebung abhebt",
+                "LD": "Glied- oder Teilstaat (in bestimmten Staaten), abgrenzbares, historisch oder natürlich zusammengehöriges Gebiet",
+                "ST": "meist größere, zivile, zentralisierte, abgegrenzte, häufig und oft historisch mit Stadtrechten ausgestattete Siedlung",
+                "STR": "ein landgebundenes Verkehrsbauwerk, das dem Bewegen von Fahrzeugen und Fußgängern zwischen zwei Orten und/oder Positionen dient",
+                "LDS": "ein Teil der Erdoberfläche, der sich durch seine einzigartigen physischen und kulturellen Merkmale von der Umgebung abhebt",
 
-                "ORG": "Organisation, in koordinierter Zusammenschluss von Menschen und Ressourcen, der dem Zweck dient, das Gemeinwohl im Arbeitsfeld der Organisation zu verbessern",
-                "UN": "Unternehmen, Gesellschaft, die in Produktion oder Handel tätig ist oder Dienstleistungen erbringt",
-                "INN": "Institution, Einrichtung, Organisationselement, Behörde, Anstalt",
-                "GRT": "Gericht, Organ, dessen Aufgabe es ist, vorgetragene Fälle anzuhören und über sie unter Beachtung der Rechtslage zu entscheiden",
-                "MRK": "Marke, Ware mit einem bestimmten geschützten Namen",
+                "ORG": "in koordinierter Zusammenschluss von Menschen und Ressourcen, der dem Zweck dient, das Gemeinwohl im Arbeitsfeld der Organisation zu verbessern",
+                "UN": "Gesellschaft, die in Produktion oder Handel tätig ist oder Dienstleistungen erbringt",
+                "INN": "Einrichtung, Organisationselement, Behörde, Anstalt",
+                "GRT": "Organ, dessen Aufgabe es ist, vorgetragene Fälle anzuhören und über sie unter Beachtung der Rechtslage zu entscheiden",
+                "MRK": "Ware mit einem bestimmten geschützten Namen",
 
-                "GS": "Gesetz, Regel, die ein Gesetzgeber in einem bestimmten Verfahren erlässt und die die jeweilig Untergebenen zu befolgen haben",
-                "VO": "Verordnung, gesetzesähnliche Vorschrift, die von einer Verwaltungsbehörde erlassen wird",
-                "EUN": "EU Norm, Die Europäischen Normen sind Regeln, die von einem der drei europäischen Komitees für Standardisierung ratifiziert worden sind",
+                "GS": "Regel, die ein Gesetzgeber in einem bestimmten Verfahren erlässt und die die jeweilig Untergebenen zu befolgen haben",
+                "VO": "gesetzesähnliche Vorschrift, die von einer Verwaltungsbehörde erlassen wird",
+                "EUN": "Die Europäischen Normen sind Regeln, die von einem der drei europäischen Komitees für Standardisierung ratifiziert worden sind",
 
-                "VS": "Vorschrift, Anweisung, die man befolgen muss",
-                "VT": "Vertrag, rechtlich bindende Vereinbarung zwischen mindestens zwei verschiedenen Partnern",
+                "VS": "Anweisung, die man befolgen muss",
+                "VT": "rechtlich bindende Vereinbarung zwischen mindestens zwei verschiedenen Partnern",
 
-                "RS": "Rechtsprechung, Menge und/oder Art der erfolgten Gerichtsurteile",
-                "LIT": "Rechtsliteratur"
+                "RS": "Menge und/oder Art der erfolgten Gerichtsurteile",
+                "LIT": ""
                 }
     hyper_dict = {"PER" : ["Person","Mensch"],
                   "RR" : ["Person", "Jurist"],
@@ -148,14 +151,41 @@ if __name__ == '__main__':
                   "RS": ["Rechtsprechung"],
                   "LIT": ["Rechtsliteratur"]
                   }
+    cls_label_dict = {
+        "PER" : "Person",
+        "RR" : "Richter",
+        "AN": "Anwalt",
+
+        "LD": "Land",
+        "ST": "Stadt",
+        "STR": "Straße",
+        "LDS": "Landschaft",
+
+        "ORG": "Organisation",
+        "UN": "Unternehmen",
+        "INN": "Institution",
+        "GRT": "Gericht",
+        "MRK": "Marke",
+
+        "GS": "Gesetz",
+        "VO": "Verordnung",
+        "EUN": "EU Norm",
+
+        "VS": "Vorschrift",
+        "VT": "Vertrag",
+
+        "RS": "Rechtsprechung",
+        "LIT": "Rechtsliteratur"
+        }
+
 
     print('train', sum([Counter(l) for l in train_labels], Counter()))
     logging.log(logging.INFO, "Load test dataset")
-    train_ds = TTRDataset(train_token,hypernyms=hyper_dict, definitions=def_dict, tokenizer=tok, labels=train_labels)
+    train_ds = TTRDataset(train_token, hypernyms=hyper_dict, definitions=def_dict, cls_labels=cls_label_dict, tokenizer=tok, labels=train_labels)
 
     print('test', sum([Counter(l) for l in val_labels], Counter()))
     logging.log(logging.INFO, "Load val dataset")
-    val_ds = TTRDataset(val_token,hypernyms=hyper_dict, definitions=def_dict, tokenizer=tok, labels=val_labels)
+    val_ds = TTRDataset(val_token,hypernyms=hyper_dict, definitions=def_dict, cls_labels=cls_label_dict, tokenizer=tok, labels=val_labels)
 
 
 
