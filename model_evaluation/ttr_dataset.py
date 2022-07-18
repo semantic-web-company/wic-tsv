@@ -1,3 +1,4 @@
+from collections import defaultdict
 from enum import Enum
 from typing import Tuple, List, Union
 
@@ -51,6 +52,7 @@ class TTRDataset(torch.utils.data.Dataset):
         @param contexts: list of tokenized input strings
         @param hypernyms: dictionary of hypernyms for a given target class
         @param definitions: dictionary of definitions for a given target class
+        @param cls_labels: dictionary of verabilzed target labels (e.g., {PER : Person}
         @param tokenizer:
         @param labels: target labels to train from (e.g. B-Person, I-Person, O)
         @param target_classes: target classes to predict (e.g., Person). If labels are provided, these will be ignored
@@ -75,8 +77,8 @@ class TTRDataset(torch.utils.data.Dataset):
             self.tag2idx[self.null_label] = 2
             self.tag2idx['I'] = 3
             self.tag2idx['B'] = 4
-            # self.tag2idx['E'] = 4
-            # self.tag2idx['S'] = 5
+            # self.tag2idx['E'] = 5
+            # self.tag2idx['S'] = 6
         else:
             self.tag2idx, self.null_label, self.subtoken_label = tag2idx_null_subtoken
         #out-of-focus token, for e.g. [CLS], or anything after (including) the [SEP]
@@ -119,7 +121,11 @@ class TTRDataset(torch.utils.data.Dataset):
             tokenizer_input = [[context, token_cls_name + "; " + definition + "; " + hypernyms]]
         else:
             raise NotImplementedError
+        #todo truncation of first or second sequence?
         encodings = self.tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding="max_length", max_length=512)
+        len_total_input = int((encodings.data["attention_mask"] == 1).sum())
+        len_attention_first_seq = (encodings.data["token_type_ids"][0, :len_total_input] == 0).sum()
+        len_tokenized_context = len_attention_first_seq - 2 # minus [CLS] and [SEP] token
         item = {key: val[0] for key, val in encodings.items()}
 
         if self.sent_labels is not None:
@@ -131,9 +137,11 @@ class TTRDataset(torch.utils.data.Dataset):
                                                              tokenizer=self.tokenizer,
                                                              subtoken_label=self.subtoken_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
-            labels = torch.tensor([l[:self.max_len] + [self.tag2idx[self.out_of_focus_label]] * max(0,(self.max_len-len(l)))
-                                        for l in label_encodings],
-                                       dtype=torch.long)
+            labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
+                                   + l[:len_tokenized_context] +           # labels for context
+                                   [self.tag2idx[self.out_of_focus_label]] * max(0,(self.max_len - len_tokenized_context -1)) # oof labels for sense descriptors and padding
+                                   for l in label_encodings],
+                                  dtype=torch.long)
             item['labels'] = labels[0]
         return item
 
