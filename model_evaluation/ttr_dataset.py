@@ -37,16 +37,17 @@ def tokenize_and_preserve_labels(contexts: Union[List[List[str]], List[str]],
 class TTRDataset(torch.utils.data.Dataset):
 
     def __init__(self,
-                 contexts: List[List[str]],
                  hypernyms: dict,
                  definitions: dict,
                  tokenizer: PreTrainedTokenizer,
+                 contexts: List[List[str]]=None,
                  cls_labels: dict = None,
                  labels: List[List[str]] = None,
                  target_classes: List[str] = None,
                  # neg_examples_per_annotation: int = 1,
                  tag2idx_null_subtoken: Tuple[dict, str, str] = None,
-                 encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP):
+                 encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP,
+                 instance_tuples = None):
         """
 
         @param contexts: list of tokenized input strings
@@ -54,18 +55,23 @@ class TTRDataset(torch.utils.data.Dataset):
         @param definitions: dictionary of definitions for a given target class
         @param cls_labels: dictionary of verabilzed target labels (e.g., {PER : Person}
         @param tokenizer:
-        @param labels: target labels to train from (e.g. B-Person, I-Person, O)
-        @param target_classes: target classes to predict (e.g., Person). If labels are provided, these will be ignored
+        @param labels: target labels of the contexts to train from (e.g. [B-PER, I-PER, O, B-ORG])
+        @param target_classes: target classes to predict (e.g., PER). It is expected to set this in test sets, if set
+        in training sets, this is equivalent to train with negative examples. If neither target_classes nor labels are provided,
+        target_classes will be derived from the keys of definitions dict.
         @param tag2idx_null_subtoken: a tuple of (dict{tag_str:id}, string_of_null_label, string_of_subtoken).
         0 is reserved for out-of-focus tokens.
         If not provided, the BIO (O as null label, ## as subtoken label) is used, with {##:1, O:2, I:3, B:4}
         @param encoding_type:
+        @param instance_tuples: list of the form [context_id, context, token_cls]. context_id needs to be aligned with
+        the labels (if provided), context is the non-tokenized context string, and token_cls represents the target class
+        of the instance (e.g., PER)
         """
         self.tokenizer = tokenizer
 
-        if labels is None and target_classes is None:
-            raise RuntimeError("either target_classes or labels must be provided (XOR)")
         self.sent_labels = labels
+        if labels is None and target_classes is None:
+            target_classes = list(definitions.keys())
 
         # is UNK relevant here?
         if tag2idx_null_subtoken is None:
@@ -93,20 +99,41 @@ class TTRDataset(torch.utils.data.Dataset):
 
         self.encoding_type = encoding_type
 
-        self.instance_tuples = []
+        self.instance_tuples = instance_tuples
+        self.instance_dict = None
 
-        for i, sent in enumerate(contexts):
-            unique_sent_classes = set([x.split('-')[-1] for x in labels[i]]) if labels is not None else set(target_classes)
-            ## negative example through label switching?
+        if self.instance_tuples is None:
+            if contexts is None:
+                raise RuntimeError("If no instance_tuples are provided, contexts need to be provided")
+            self.instance_tuples = []
+            self.instance_dict = defaultdict(list)
+            for i, sent in enumerate(contexts):
+                unique_sent_classes = set(target_classes) if target_classes is not None \
+                    else set([x.split('-')[-1] for x in labels[i]])
 
-            for token_cls in unique_sent_classes:
-                #should we ignore target class O?
-                if token_cls != self.null_label or len(unique_sent_classes) == 1:
-                    instance_tuple = [i, " ".join(sent), token_cls]
-                    self.instance_tuples.append(instance_tuple)
+                for token_cls in unique_sent_classes:
+                    #should we ignore target class O?
+                    if token_cls != self.null_label or len(unique_sent_classes) == 1:
+                        instance_tuple = [i, " ".join(sent), token_cls]
+                        self.instance_tuples.append(instance_tuple)
+                        self.instance_dict[token_cls].append(len(self.instance_tuples) - 1)
+
+        if self.instance_dict is None:
+            self.instance_dict = defaultdict(list)
+            for i, (_, _, target_cls) in enumerate(self.instance_tuples):
+                self.instance_dict[target_cls].append(i)
+
 
         self.len = len(self.instance_tuples)
         self.max_len = 512
+
+    def get_sub_dataset(self, target_cls):
+        filtered_instances = [x for i, x in enumerate(self.instance_tuples) if i in self.instance_dict[target_cls]]
+        return TTRDataset(hypernyms=self.hypernyms,
+                          definitions=self.definitions,
+                          tokenizer=self.tokenizer,
+                          instance_tuples=filtered_instances,
+                          labels=self.sent_labels)
 
 
     def __getitem__(self, idx):
