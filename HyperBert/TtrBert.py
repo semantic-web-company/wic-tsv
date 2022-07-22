@@ -38,7 +38,8 @@ class BertForNer(BertPreTrainedModel):
                 inputs_embeds=None,
                 labels=None,
                 output_attentions=None,
-                output_hidden_states=None
+                output_hidden_states=None,
+                offset_mapping=None
                 ):
         bert_output = self.bert(
             input_ids,
@@ -88,7 +89,7 @@ if __name__ == '__main__':
     logging.log(logging.INFO, "Load model")
 
     model_name = args.model_name
-    tok = AutoTokenizer.from_pretrained(model_name)
+    tok = AutoTokenizer.from_pretrained(model_name, use_fast=True)
     model = BertForNer.from_pretrained(model_name, num_labels=5)
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model.to(device)
