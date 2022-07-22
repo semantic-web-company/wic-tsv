@@ -1,9 +1,10 @@
+import random
 from collections import defaultdict
 from enum import Enum
 from typing import Tuple, List, Union
 
 import torch
-from transformers import PreTrainedTokenizer
+from transformers import PreTrainedTokenizerFast
 
 
 class TTRDatasetEncodingOptions(Enum):
@@ -39,12 +40,12 @@ class TTRDataset(torch.utils.data.Dataset):
     def __init__(self,
                  hypernyms: dict,
                  definitions: dict,
-                 tokenizer: PreTrainedTokenizer,
+                 tokenizer: PreTrainedTokenizerFast,
                  contexts: List[List[str]]=None,
                  cls_labels: dict = None,
                  labels: List[List[str]] = None,
                  target_classes: List[str] = None,
-                 # neg_examples_per_annotation: int = 1,
+                 neg_examples_per_annotation: int = None,
                  tag2idx_null_subtoken: Tuple[dict, str, str] = None,
                  encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP,
                  instance_tuples = None):
@@ -91,6 +92,7 @@ class TTRDataset(torch.utils.data.Dataset):
         self.out_of_focus_label = 'oof'
         self.tag2idx[self.out_of_focus_label] = 0
 
+        #todo remove unnecessary sense descriptors? (such not present in target classes if provided?)
         self.definitions = definitions
         self.definitions[self.null_label] = ""
         self.hypernyms = hypernyms
@@ -110,6 +112,9 @@ class TTRDataset(torch.utils.data.Dataset):
             for i, sent in enumerate(contexts):
                 unique_sent_classes = set(target_classes) if target_classes is not None \
                     else set([x.split('-')[-1] for x in labels[i]])
+                if target_classes is None and neg_examples_per_annotation is not None:
+                    other_senses = [x for x in self.definitions.keys() if x not in unique_sent_classes and x != self.null_label]
+                    unique_sent_classes.update(random.choices(other_senses, k=neg_examples_per_annotation))
 
                 for token_cls in unique_sent_classes:
                     #should we ignore target class O?
@@ -135,6 +140,35 @@ class TTRDataset(torch.utils.data.Dataset):
                           instance_tuples=filtered_instances,
                           labels=self.sent_labels)
 
+    def get_offsets(self, idx=None):
+        indices = [idx] if idx is not None else list(range(self.len))
+        offsets = []
+        for i in indices:
+            offsets.append(self[i]['offset_mapping'])
+        return offsets
+
+    def get_len_tokenized_context(self, idx=None, encodings=None):
+        indices = [idx] if idx is not None else list(range(self.len))
+        if encodings is None:
+            encodings = [self[i] for i in indices]
+        else:
+            encodings = [encodings.data]
+
+        lens_tokenized_context = []
+        for e in encodings:
+            len_total_input = int((e["attention_mask"] == 1).sum()) # len of everything before the padding
+            len_attention_first_seq = (e["token_type_ids"][ :len_total_input] == 0).sum() # len of everything before (including) the first [SEP]
+            lens_tokenized_context.append(int(len_attention_first_seq - 2)) # minus [CLS] and [SEP]
+        return lens_tokenized_context
+
+    def get_contexts(self, idx=None):
+        indices = [idx] if idx is not None else list(range(self.len))
+        contexts = []
+        for i in indices:
+            _, context, _ = self.instance_tuples[i]
+            contexts.append(context)
+        return contexts
+
 
     def __getitem__(self, idx):
         sent_i, context, token_cls = self.instance_tuples[idx]
@@ -149,10 +183,12 @@ class TTRDataset(torch.utils.data.Dataset):
         else:
             raise NotImplementedError
         #todo truncation of first or second sequence?
-        encodings = self.tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding="max_length", max_length=512)
-        len_total_input = int((encodings.data["attention_mask"] == 1).sum())
-        len_attention_first_seq = (encodings.data["token_type_ids"][0, :len_total_input] == 0).sum()
-        len_tokenized_context = len_attention_first_seq - 2 # minus [CLS] and [SEP] token
+        encodings = self.tokenizer(tokenizer_input,
+                                   return_tensors='pt',
+                                   truncation=True,
+                                   padding="max_length",
+                                   max_length=512,
+                                   return_offsets_mapping=True)
         item = {key: val[0] for key, val in encodings.items()}
 
         if self.sent_labels is not None:
@@ -165,8 +201,9 @@ class TTRDataset(torch.utils.data.Dataset):
                                                              subtoken_label=self.subtoken_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
             labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
-                                   + l[:len_tokenized_context] +           # labels for context
-                                   [self.tag2idx[self.out_of_focus_label]] * max(0,(self.max_len - len_tokenized_context -1)) # oof labels for sense descriptors and padding
+                                   + l[:self.get_len_tokenized_context(encodings=encodings)[0]] +           # labels for context
+                                   [self.tag2idx[self.out_of_focus_label]] *
+                                   max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # oof labels for sense descriptors and padding
                                    for l in label_encodings],
                                   dtype=torch.long)
             item['labels'] = labels[0]
