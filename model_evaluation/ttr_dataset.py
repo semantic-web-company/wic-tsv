@@ -157,7 +157,7 @@ class TTRDataset(torch.utils.data.Dataset):
         lens_tokenized_context = []
         for e in encodings:
             len_total_input = int((e["attention_mask"] == 1).sum()) # len of everything before the padding
-            len_attention_first_seq = (e["token_type_ids"][ :len_total_input] == 0).sum() # len of everything before (including) the first [SEP]
+            len_attention_first_seq = (e["token_type_ids"].squeeze()[:len_total_input] == 0).sum() # len of everything before (including) the first [SEP]
             lens_tokenized_context.append(int(len_attention_first_seq - 2)) # minus [CLS] and [SEP]
         return lens_tokenized_context
 
