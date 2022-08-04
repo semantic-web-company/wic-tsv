@@ -36,7 +36,7 @@ class BertForNer(BertPreTrainedModel):
                 position_ids=None,
                 head_mask=None,
                 inputs_embeds=None,
-                labels=None,
+                label_ids=None,
                 output_attentions=None,
                 output_hidden_states=None,
                 offset_mapping=None
@@ -59,7 +59,7 @@ class BertForNer(BertPreTrainedModel):
 
         if labels is not None:
             loss_fct = CrossEntropyLoss()
-            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            loss = loss_fct(logits.view(-1, self.num_labels), label_ids.view(-1))
             outputs = (loss,) + outputs
 
         return outputs
