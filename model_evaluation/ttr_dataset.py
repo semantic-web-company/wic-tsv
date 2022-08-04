@@ -200,13 +200,18 @@ class TTRDataset(torch.utils.data.Dataset):
                                                              tokenizer=self.tokenizer,
                                                              subtoken_label=self.subtoken_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
+#             labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
+#                                    + l[:self.get_len_tokenized_context(encodings=encodings)[0]] +           # labels for context
+#                                    [self.tag2idx[self.out_of_focus_label]] *
+#                                    max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # oof labels for sense descriptors and padding
+#                                    for l in label_encodings],
+#                                   dtype=torch.long)
+#             item['labels'] = labels[0]
             labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
-                                   + l[:self.get_len_tokenized_context(encodings=encodings)[0]] +           # labels for context
-                                   [self.tag2idx[self.out_of_focus_label]] *
-                                   max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # oof labels for sense descriptors and padding
+                                   + l[:self.get_len_tokenized_context(encodings=encodings)[0]]           # labels for context
                                    for l in label_encodings],
                                   dtype=torch.long)
-            item['labels'] = labels[0]
+            item['label_ids'] = labels[0]
         return item
 
 
