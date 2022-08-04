@@ -206,6 +206,9 @@ class TTRDataset(torch.utils.data.Dataset):
                                    max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # oof labels for sense descriptors and padding
                                    for l in label_encodings],
                                   dtype=torch.long)
+            cxt_size = self.get_len_tokenized_context(encodings=encodings)
+            pad_size = max(0,(self.max_len - cxt_size[0] - 1))
+            print(cxt_size, pad_size, labels.shape)
 #             item['labels'] = labels[0]
             item['label_ids'] = labels[0]
         return item
