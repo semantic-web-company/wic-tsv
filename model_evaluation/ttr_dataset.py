@@ -50,16 +50,20 @@ class TTRDataset(torch.utils.data.Dataset):
                  encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP,
                  instance_tuples = None):
         """
-
-        @param contexts: list of tokenized input strings
-        @param hypernyms: dictionary of hypernyms for a given target class
-        @param definitions: dictionary of definitions for a given target class
-        @param cls_labels: dictionary of verabilzed target labels (e.g., {PER : Person}
-        @param tokenizer:
+        #todo add assertion for if dashes are in labels
+        @param hypernyms: dictionary of hypernyms for a given target class (e.g., {PER : human being})
+        @param definitions: dictionary of definitions for a given target class (e.g., {PER : an weird kind of ape })
+        @param tokenizer: FastTokenizer to be used
+        @param contexts: list of tokenized input strings (e.g. [["this", "is", "doc", "1"], ["this", "is", "doc", "2"]]
+        @param cls_labels: dictionary of verbalized target labels (e.g., {PER : Person})
         @param labels: target labels of the contexts to train from (e.g. [B-PER, I-PER, O, B-ORG])
-        @param target_classes: target classes to predict (e.g., PER). It is expected to set this in test sets, if set
-        in training sets, this is equivalent to train with negative examples. If neither target_classes nor labels are provided,
-        target_classes will be derived from the keys of definitions dict.
+        @param target_classes: target classes to predict (e.g., [PER, ORG]). It is expected to set this in test sets,
+        if set in training sets, this is equivalent to train with (|target_classes| - 1) negative examples .
+        If neither target_classes nor labels are provided, target_classes will be derived from the keys of definitions dict.
+        @param neg_examples_per_annotation: number of negative examples (by target class switching) per annotation.
+        Is is expected to set this in train sets, if set in test sets, the resulting metrics might be skewed. If not set
+        or set to 0 for training, the model might lean towards an all-true classifier
+        Only taken into account if target_classes is not set.
         @param tag2idx_null_subtoken: a tuple of (dict{tag_str:id}, string_of_null_label, string_of_subtoken).
         0 is reserved for out-of-focus tokens.
         If not provided, the BIO (O as null label, ## as subtoken label) is used, with {##:1, O:2, I:3, B:4}
