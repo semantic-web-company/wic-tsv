@@ -106,13 +106,13 @@ class TTRDataset(torch.utils.data.Dataset):
         self.encoding_type = encoding_type
 
         self.instance_tuples = instance_tuples
-        self.instance_dict = None
+        self.tgt_cls_instance_dict = None
 
         if self.instance_tuples is None:
             if contexts is None:
-                raise RuntimeError("If no instance_tuples are provided, contexts need to be provided")
+                raise ValueError("If no instance_tuples are provided, contexts need to be provided")
             self.instance_tuples = []
-            self.instance_dict = defaultdict(list)
+            self.tgt_cls_instance_dict = defaultdict(list)
             for i, sent in enumerate(contexts):
                 unique_sent_classes = set(target_classes) if target_classes is not None \
                     else set([x.split('-')[-1] for x in labels[i]])
@@ -125,19 +125,24 @@ class TTRDataset(torch.utils.data.Dataset):
                     if token_cls != self.null_label or len(unique_sent_classes) == 1:
                         instance_tuple = [i, " ".join(sent), token_cls]
                         self.instance_tuples.append(instance_tuple)
-                        self.instance_dict[token_cls].append(len(self.instance_tuples) - 1)
+                        self.tgt_cls_instance_dict[token_cls].append(len(self.instance_tuples) - 1)
 
-        if self.instance_dict is None:
-            self.instance_dict = defaultdict(list)
+        if self.tgt_cls_instance_dict is None:
+            self.tgt_cls_instance_dict = defaultdict(list)
             for i, (_, _, target_cls) in enumerate(self.instance_tuples):
-                self.instance_dict[target_cls].append(i)
+                self.tgt_cls_instance_dict[target_cls].append(i)
 
 
         self.len = len(self.instance_tuples)
         self.max_len = 512
 
-    def get_sub_dataset(self, target_cls):
-        filtered_instances = [x for i, x in enumerate(self.instance_tuples) if i in self.instance_dict[target_cls]]
+    def get_sub_dataset(self, target_cls=None, context_id=None):
+        filtered_instances = self.instance_tuples
+        if target_cls:
+            filtered_instances = [x for i, x in enumerate(self.filtered_instances)
+                                  if i in self.tgt_cls_instance_dict[target_cls]]
+        if context_id:
+            filtered_instances = [x for x in enumerate(self.filtered_instances) if x[0] == context_id]
         return TTRDataset(hypernyms=self.hypernyms,
                           definitions=self.definitions,
                           tokenizer=self.tokenizer,
