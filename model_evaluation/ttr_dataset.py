@@ -1,3 +1,4 @@
+import logging
 import random
 from collections import defaultdict
 from enum import Enum
@@ -59,6 +60,8 @@ class TTRDataset(torch.utils.data.Dataset):
         @param cls_labels: dictionary of verbalized target labels (e.g., {PER : Person})
         @param reduce_classes: If set to true, hypernym, definition, cls_labels and target classes dicts will be reduced to only those
         classes that appear in the labels (e.g. to avoid information leakage when training on a subset of classes)
+        alternatively, a list of classes can be provided (e.g., when training only on a subset of the training set,
+        but all original classes should be taken into account)
         @param labels: target labels of the contexts to train from (e.g. [B-PER, I-PER, O, B-ORG])
         @param target_classes: target classes to predict (e.g., [PER, ORG]). It is expected to set this in test sets,
         if set in training sets, this is equivalent to train with (|target_classes| - 1) negative examples .
@@ -78,10 +81,14 @@ class TTRDataset(torch.utils.data.Dataset):
         self.tokenizer = tokenizer
 
         if reduce_classes:
-            label_set = set(["-".join(l.split('-')[-len(l.split('-')) + 1:]) for label_list in labels for l in label_list])
+            if isinstance(reduce_classes, list):
+                label_set = set(reduce_classes)
+            else:
+                label_set = set(["-".join(l.split('-')[-len(l.split('-')) + 1:]) for label_list in labels for l in label_list])
             hypernyms = {k:v for k, v in hypernyms.items() if k in label_set}
             cls_labels = {k:v for k, v in cls_labels.items() if k in label_set} if cls_labels is not None else cls_labels
             target_classes = [x for x in target_classes if x in label_set] if target_classes is not None else target_classes
+            logging.log(logging.INFO, f"Classes are reduced, final number {len(hypernyms)}")
 
         self.sent_labels = labels
         if labels is None and target_classes is None:
@@ -124,7 +131,7 @@ class TTRDataset(torch.utils.data.Dataset):
             self.tgt_cls_instance_dict = defaultdict(list)
             for i, sent in enumerate(contexts):
                 unique_sent_classes = set(target_classes) if target_classes is not None \
-            else set(["-".join(x.split('-')[-len(x.split('-')):]) for x in labels[i]])
+            else set(["-".join(x.split('-')[-len(x.split('-')) + 1 :]) for x in labels[i]])
                 if target_classes is None and neg_examples_per_annotation is not None:
                     other_senses = [x for x in self.definitions.keys() if x not in unique_sent_classes and x != self.null_label]
                     unique_sent_classes.update(random.choices(other_senses, k=neg_examples_per_annotation))
