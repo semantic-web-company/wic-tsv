@@ -50,7 +50,8 @@ class TTRDataset(torch.utils.data.Dataset):
                  neg_examples_per_annotation: int = None,
                  tag2idx_null_subtoken: Tuple[dict, str, str] = None,
                  encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP,
-                 instance_tuples = None):
+                 instance_tuples = None,
+                 seed = 42):
         """
         #todo add assertion for if dashes are in labels
         @param hypernyms: dictionary of hypernyms for a given target class (e.g., {PER : human being})
@@ -78,6 +79,7 @@ class TTRDataset(torch.utils.data.Dataset):
         the labels (if provided), context is the non-tokenized context string, and token_cls represents the target class
         of the instance (e.g., PER)
         """
+        random.seed(seed)
         self.tokenizer = tokenizer
 
         if reduce_classes:
@@ -93,7 +95,7 @@ class TTRDataset(torch.utils.data.Dataset):
 
         self.sent_labels = labels
         if labels is None and target_classes is None:
-            target_classes = list(definitions.keys())
+            target_classes = sorted(list(definitions.keys()))
 
         # is UNK relevant here?
         if tag2idx_null_subtoken is None:
@@ -132,10 +134,11 @@ class TTRDataset(torch.utils.data.Dataset):
             self.tgt_cls_instance_dict = defaultdict(list)
             for i, sent in enumerate(contexts):
                 unique_sent_classes = set(target_classes) if target_classes is not None \
-            else set(["-".join(x.split('-')[-len(x.split('-')) + 1 :]) for x in labels[i]])
+                else set(["-".join(x.split('-')[-len(x.split('-')) + 1 :]) for x in labels[i]])
                 if target_classes is None and neg_examples_per_annotation is not None:
-                    other_senses = [x for x in self.definitions.keys() if x not in unique_sent_classes and x != self.null_label]
-                    unique_sent_classes.update(random.choices(other_senses, k=neg_examples_per_annotation))
+                    other_senses = sorted([x for x in self.definitions.keys() if x not in unique_sent_classes
+                                           and x != self.null_label])
+                    unique_sent_classes.update(random.choices(other_senses, k=neg_examples_per_annotation, ))
 
                 for token_cls in unique_sent_classes:
                     #should we ignore target class O?
