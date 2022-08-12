@@ -142,7 +142,7 @@ class TTRDataset(torch.utils.data.Dataset):
 
                 for token_cls in unique_sent_classes:
                     #should we ignore target class O?
-                    if token_cls != self.null_label or len(unique_sent_classes) == 1:
+                    if token_cls != self.null_label: # or len(unique_sent_classes) == 1:
                         instance_tuple = [i, " ".join(sent), token_cls]
                         self.instance_tuples.append(instance_tuple)
                         self.tgt_cls_instance_dict[token_cls].append(len(self.instance_tuples) - 1)
