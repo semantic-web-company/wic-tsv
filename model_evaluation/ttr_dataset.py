@@ -159,10 +159,10 @@ class TTRDataset(torch.utils.data.Dataset):
     def get_sub_dataset(self, target_cls=None, context_id=None):
         filtered_instances = self.instance_tuples
         if target_cls:
-            filtered_instances = [x for i, x in enumerate(self.filtered_instances)
+            filtered_instances = [x for i, x in enumerate(filtered_instances)
                                   if i in self.tgt_cls_instance_dict[target_cls]]
         if context_id:
-            filtered_instances = [x for x in enumerate(self.filtered_instances) if x[0] == context_id]
+            filtered_instances = [x for x in enumerate(filtered_instances) if x[0] == context_id]
         return TTRDataset(hypernyms=self.hypernyms,
                           definitions=self.definitions,
                           tokenizer=self.tokenizer,
