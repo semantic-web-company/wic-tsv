@@ -85,10 +85,11 @@ class TTRDataset(torch.utils.data.Dataset):
                 label_set = set(reduce_classes)
             else:
                 label_set = set(["-".join(l.split('-')[-len(l.split('-')) + 1:]) for label_list in labels for l in label_list])
+            definitions = {k:v for k, v in definitions.items() if k in label_set}
             hypernyms = {k:v for k, v in hypernyms.items() if k in label_set}
             cls_labels = {k:v for k, v in cls_labels.items() if k in label_set} if cls_labels is not None else cls_labels
             target_classes = [x for x in target_classes if x in label_set] if target_classes is not None else target_classes
-            logging.log(logging.INFO, f"Classes are reduced, final number {len(hypernyms)}")
+            logging.log(logging.INFO, f"Classes are reduced, final number {len(definitions)}")
 
         self.sent_labels = labels
         if labels is None and target_classes is None:
