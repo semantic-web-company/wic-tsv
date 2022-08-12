@@ -1,19 +1,92 @@
 from collections import Counter
 from pathlib import Path
 
+import nltk
 import torch
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 from torch import nn
 from torch.nn import CrossEntropyLoss
 from transformers import BertPreTrainedModel, BertModel, AutoTokenizer
 
-from model_evaluation.ttr_dataset import TTRDataset
+from model_evaluation.ttr_dataset import TTRDataset, TTRSepDataset
 
 
-class TtrBert():
-    def __init__(self):
-        #model = BertForTokenClassification.from_pretrained("bert-base-german-cased", num_labels=len(ner2indx))
-        bert = BertForNer.from_pretrained("bert-base-german-cased", num_labels=5)
+class TtrBert(BertPreTrainedModel):
+    def __init__(self, config):
+        super().__init__(config)
+
+        self.bert = BertModel(config)
+
+        self.num_labels = config.num_labels
+        self.classifier = nn.Linear(config.hidden_size, self.num_labels)
+        self.dropout = nn.Dropout(config.hidden_dropout_prob)
+
+        self.init_weights()
+
+
+    def forward(self,
+            _1_input_ids=None,
+            _1_attention_mask=None,
+            _1_token_type_ids=None,
+            _1_position_ids=None,
+            _1_head_mask=None,
+            _1_inputs_embeds=None,
+            _1_offset_mapping=None,
+            _1_output_attentions=None,
+            _1_output_hidden_states=None,
+            _2_input_ids=None,
+            _2_attention_mask=None,
+            _2_token_type_ids=None,
+            _2_position_ids=None,
+            _2_head_mask=None,
+            _2_inputs_embeds=None,
+            _2_offset_mapping=None,
+            _2_output_attentions=None,
+            _2_output_hidden_states=None,
+            labels=None
+            ):
+
+        _1_bert_output = self.bert(
+            _1_input_ids,
+            attention_mask=_1_attention_mask,
+            token_type_ids=_1_token_type_ids,
+            position_ids=_1_position_ids,
+            head_mask=_1_head_mask,
+            inputs_embeds=_1_inputs_embeds,
+            output_attentions=_1_output_attentions,
+            output_hidden_states=_1_output_hidden_states,
+        )
+        _1_reduced_bert_output = _1_bert_output[0]
+        _1_dropout_output = self.dropout(_1_reduced_bert_output)
+
+        _2_bert_output = self.bert(
+            _2_input_ids,
+            attention_mask=_2_attention_mask,
+            token_type_ids=_2_token_type_ids,
+            position_ids=_2_position_ids,
+            head_mask=_2_head_mask,
+            inputs_embeds=_2_inputs_embeds,
+            output_attentions=_2_output_attentions,
+            output_hidden_states=_2_output_hidden_states,
+        )
+        _2_reduced_bert_output = _2_bert_output[0]
+        _2_dropout_output = self.dropout(_2_reduced_bert_output)
+
+        #todo fixme
+        # get aggregated representation of 2nd output
+        # concat with 1st output along dim=2
+        # feed concatenated input to classifier
+        # adjust input dim of classifier (probably 2*hidden_dim)
+        logits = self.classifier(_2_dropout_output)
+        outputs = (logits,)
+
+
+        if labels is not None:
+            loss_fct = CrossEntropyLoss()
+            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            outputs = (loss,) + outputs
+
+        return outputs
 
 
 class BertForNer(BertPreTrainedModel):

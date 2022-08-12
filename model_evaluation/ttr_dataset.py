@@ -115,7 +115,6 @@ class TTRDataset(torch.utils.data.Dataset):
         self.out_of_focus_label = 'oof'
         self.tag2idx[self.out_of_focus_label] = 0
 
-        #todo remove unnecessary sense descriptors? (such not present in target classes if provided?)
         self.definitions = definitions
         self.definitions[self.null_label] = ""
         self.hypernyms = hypernyms
@@ -241,3 +240,56 @@ class TTRDataset(torch.utils.data.Dataset):
 
     def __len__(self):
         return self.len
+
+
+
+class TTRSepDataset(TTRDataset):
+    def __getitem__(self, idx):
+        sent_i, context, token_cls = self.instance_tuples[idx]
+
+        if self.encoding_type is TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP:
+            definition = self.definitions[token_cls]
+            hypernyms = ', '.join(self.hypernyms[token_cls])
+            token_cls_name = token_cls
+            if self.cls_labels is not None and token_cls in self.cls_labels.keys():
+                token_cls_name = self.cls_labels[token_cls]
+            _1_tokenizer_input = [[context, ""]]
+            _2_tokenizer_input = [["", token_cls_name + "; " + definition + "; " + hypernyms]]
+        else:
+            raise NotImplementedError
+        #todo truncation of first or second sequence?
+        _1_encodings = self.tokenizer(_1_tokenizer_input,
+                                   return_tensors='pt',
+                                   truncation=True,
+                                   padding="max_length",
+                                   max_length=512,
+                                   return_offsets_mapping=True)
+        _2_encodings = self.tokenizer(_2_tokenizer_input,
+                                      return_tensors='pt',
+                                      truncation=True,
+                                      padding="max_length",
+                                      max_length=512,
+                                      return_offsets_mapping=True)
+        item = {"_1_" + key: val[0] for key, val in _1_encodings.items()}
+        item.update({"_2_" + key: val[0] for key, val in _2_encodings.items()})
+
+        if self.sent_labels is not None:
+            token_ids = [j for j, label in enumerate(self.sent_labels[sent_i]) if label.endswith("-" + token_cls)]
+            labels_seq = [label.split('-')[0] if i in token_ids else self.null_label for i, label in
+                          enumerate(self.sent_labels[sent_i])]
+            _, tokenized_tags = tokenize_and_preserve_labels(contexts=[context],
+                                                             labels=[labels_seq],
+                                                             tokenizer=self.tokenizer,
+                                                             subtoken_label=self.subtoken_label)
+            label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
+            labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
+                                   + l[:self.get_len_tokenized_context(encodings=_1_encodings)[0]] +           # labels for context
+                                   [self.tag2idx[self.out_of_focus_label]] *
+                                   max(0,(self.max_len - self.get_len_tokenized_context(encodings=_1_encodings)[0] -1)) # oof labels for sense descriptors and padding
+                                   for l in label_encodings],
+                                  dtype=torch.long)
+            item['labels'] = labels[0]
+        return item
+
+
+
