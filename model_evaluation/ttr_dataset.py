@@ -2,7 +2,7 @@ import logging
 import random
 from collections import defaultdict
 from enum import Enum
-from typing import Tuple, List, Union
+from typing import List, Union
 
 import torch
 from transformers import PreTrainedTokenizerFast
@@ -33,6 +33,7 @@ def tokenize_and_preserve_labels(contexts: Union[List[List[str]], List[str]],
             sent_tokens += tokens
         tokenized_contexts.append(sent_tokens)
         tokenized_labels.append(token_labels)
+        assert (len(tokenized_contexts) == len(tokenized_labels))
     return tokenized_contexts, tokenized_labels
 
 
@@ -48,12 +49,11 @@ class TTRDataset(torch.utils.data.Dataset):
                  labels: List[List[str]] = None,
                  target_classes: List[str] = None,
                  neg_examples_per_annotation: int = None,
-                 tag2idx_null_subtoken: Tuple[dict, str, str] = None,
+                 tag2idx: dict= None,
                  encoding_type=TTRDatasetEncodingOptions.CTX__CLS_DEF_HYP,
                  instance_tuples = None,
                  seed = 42):
         """
-        #todo add assertion for if dashes are in labels
         @param hypernyms: dictionary of hypernyms for a given target class (e.g., {PER : human being})
         @param definitions: dictionary of definitions for a given target class (e.g., {PER : an weird kind of ape })
         @param tokenizer: FastTokenizer to be used
@@ -71,9 +71,8 @@ class TTRDataset(torch.utils.data.Dataset):
         Is is expected to set this in train sets, if set in test sets, the resulting metrics might be skewed. If not set
         or set to 0 for training, the model might lean towards an all-true classifier
         Only taken into account if target_classes is not set.
-        @param tag2idx_null_subtoken: a tuple of (dict{tag_str:id}, string_of_null_label, string_of_subtoken).
-        0 is reserved for out-of-focus tokens.
-        If not provided, the BIO (O as null label, ## as subtoken label) is used, with {##:1, O:2, I:3, B:4}
+        @param tag2idx: dictionary of {tag_str:id} -100 is reserved for ignore tokens (CLS tokens, subtokens, etc).
+        If not provided, the BIO (-100 as ignore label) is used, with {O:0, I:1, B:2}
         @param encoding_type:
         @param instance_tuples: list of the form [context_id, context, token_cls]. context_id needs to be aligned with
         the labels (if provided), context is the non-tokenized context string, and token_cls represents the target class
@@ -98,22 +97,21 @@ class TTRDataset(torch.utils.data.Dataset):
             target_classes = sorted(list(definitions.keys()))
 
         # is UNK relevant here?
-        if tag2idx_null_subtoken is None:
+        if tag2idx is None:
             self.null_label = 'O'
-            self.subtoken_label = "##"
 
             self.tag2idx = dict()
-            self.tag2idx[self.subtoken_label] = 1
-            self.tag2idx[self.null_label] = 2
-            self.tag2idx['I'] = 3
-            self.tag2idx['B'] = 4
-            # self.tag2idx['E'] = 5
-            # self.tag2idx['S'] = 6
+            self.tag2idx[self.null_label] = 0
+            self.tag2idx['I'] = 1
+            self.tag2idx['B'] = 2
+            # self.tag2idx['E'] = 3
+            # self.tag2idx['S'] = 4
         else:
-            self.tag2idx, self.null_label, self.subtoken_label = tag2idx_null_subtoken
-        #out-of-focus token, for e.g. [CLS], or anything after (including) the [SEP]
-        self.out_of_focus_label = 'oof'
-        self.tag2idx[self.out_of_focus_label] = 0
+            self.tag2idx = tag2idx
+        # tokens to be ignored, for e.g. [CLS], or anything after (including) the [SEP], sub-word tokens
+        # -100 is ignored by the loss from loss computation
+        self.ignore_label = 'ignore'
+        self.tag2idx[self.ignore_label] = -100
 
         self.definitions = definitions
         self.definitions[self.null_label] = ""
@@ -226,12 +224,12 @@ class TTRDataset(torch.utils.data.Dataset):
             _, tokenized_tags = tokenize_and_preserve_labels(contexts=[context],
                                                              labels=[labels_seq],
                                                              tokenizer=self.tokenizer,
-                                                             subtoken_label=self.subtoken_label)
+                                                             subtoken_label=self.ignore_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
-            labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
+            labels = torch.tensor([[self.tag2idx[self.ignore_label]] # [CLS]
                                    + l[:self.get_len_tokenized_context(encodings=encodings)[0]] +           # labels for context
-                                   [self.tag2idx[self.out_of_focus_label]] *
-                                   max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # oof labels for sense descriptors and padding
+                                   [self.tag2idx[self.ignore_label]] *
+                                   max(0,(self.max_len - self.get_len_tokenized_context(encodings=encodings)[0] -1)) # ignore labels for sense descriptors and padding
                                    for l in label_encodings],
                                   dtype=torch.long)
             item['labels'] = labels[0]
@@ -280,11 +278,11 @@ class TTRSepDataset(TTRDataset):
             _, tokenized_tags = tokenize_and_preserve_labels(contexts=[context],
                                                              labels=[labels_seq],
                                                              tokenizer=self.tokenizer,
-                                                             subtoken_label=self.subtoken_label)
+                                                             subtoken_label=self.ignore_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
-            labels = torch.tensor([[self.tag2idx[self.out_of_focus_label]] # [CLS]
+            labels = torch.tensor([[self.tag2idx[self.ignore_label]] # [CLS]
                                    + l[:self.get_len_tokenized_context(encodings=_1_encodings)[0]] +           # labels for context
-                                   [self.tag2idx[self.out_of_focus_label]] *
+                                   [self.tag2idx[self.ignore_label]] *
                                    max(0,(self.max_len - self.get_len_tokenized_context(encodings=_1_encodings)[0] -1)) # oof labels for sense descriptors and padding
                                    for l in label_encodings],
                                   dtype=torch.long)
