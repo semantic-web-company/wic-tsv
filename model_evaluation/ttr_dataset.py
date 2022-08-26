@@ -254,7 +254,7 @@ class TTRSepDataset(TTRDataset):
             token_cls_name = token_cls
             if self.cls_labels is not None and token_cls in self.cls_labels.keys():
                 token_cls_name = self.cls_labels[token_cls]
-            _1_tokenizer_input = [[context, ""]]
+            _1_tokenizer_input = [context]
             _2_tokenizer_input = [["", token_cls_name + "; " + definition + "; " + hypernyms]]
         else:
             raise NotImplementedError
@@ -262,13 +262,11 @@ class TTRSepDataset(TTRDataset):
         _1_encodings = self.tokenizer(_1_tokenizer_input,
                                    return_tensors='pt',
                                    truncation=True,
-                                   #padding="max_length",
                                    max_length=512,
                                    return_offsets_mapping=True)
         _2_encodings = self.tokenizer(_2_tokenizer_input,
                                       return_tensors='pt',
                                       truncation=True,
-                                      #padding="max_length",
                                       max_length=512,
                                       return_offsets_mapping=True)
         item = {"_1_" + key: val[0] for key, val in _1_encodings.items()}
@@ -284,11 +282,10 @@ class TTRSepDataset(TTRDataset):
                                                              subtoken_label=self.ignore_label)
             label_encodings = [[self.tag2idx[tag] for tag in sent_tags] for sent_tags in tokenized_tags]
             labels = torch.tensor([[self.tag2idx[self.ignore_label]] # [CLS]
-                                   + l[:self.get_len_tokenized_context(encodings=_1_encodings)[0]] #+           # labels for context
-                                   #[self.tag2idx[self.ignore_label]] *
-                                   #max(0,(self.max_len - self.get_len_tokenized_context(encodings=_1_encodings)[0] -1)) # oof labels for sense descriptors and padding
-                                   for l in label_encodings
-                                   ],
+                                   + l[:self.get_len_tokenized_context(encodings=_1_encodings)[0]]           # labels for context
+                                   # [self.tag2idx[self.ignore_label]] *
+                                   # max(0,(self.max_len - self.get_len_tokenized_context(encodings=_1_encodings)[0] -1)) # oof labels for sense descriptors and padding
+                                   for l in label_encodings],
                                   dtype=torch.long)
             item['labels'] = labels[0]
         return item
