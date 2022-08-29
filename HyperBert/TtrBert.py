@@ -20,6 +20,7 @@ class TtrBert(BertPreTrainedModel):
 
         self.num_labels = config.num_labels
         self.classifier = nn.Linear(2 * config.hidden_size, self.num_labels)
+        self.biclassifier = nn.Bilinear(config.hidden_size, config.hidden_size, self.num_labels)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
 
         self.init_weights()
@@ -72,18 +73,21 @@ class TtrBert(BertPreTrainedModel):
                 output_hidden_states=_2_output_hidden_states,
             )
             _2_reduced_bert_output = _2_bert_output[0]
-        token_type_1_total_per_line = torch.sum(_2_token_type_ids, dim=1)
         sum_output = torch.sum(input=(_2_reduced_bert_output * _2_token_type_ids.unsqueeze(-1)), dim=1)
+        token_type_1_total_per_line = torch.sum(_2_token_type_ids, dim=1)
         mean_output = torch.div(sum_output, token_type_1_total_per_line.unsqueeze(-1))
         _2_dropout_output = self.dropout(mean_output)  # (bs, hidden_dim)
+        expanded = _2_dropout_output.unsqueeze(1).expand(-1, _1_dropout_output.size(1), -1).contiguous()   # (bs, seq_size, hidden_dim)
 
-        expanded = _2_dropout_output.unsqueeze(1).expand(-1, _1_dropout_output.size(1), -1)
-        pooled_output = torch.cat((
-            _1_dropout_output,
-            expanded
-        ), 2)  # (bs, seq_size, 2*dim)
+        # pooled_output = torch.cat((
+        #     _1_dropout_output,
+        #     expanded
+        # ), 2)  # (bs, seq_size, 2*dim)
+        # logits = self.classifier(pooled_output)
 
-        logits = self.classifier(pooled_output)
+        logits = self.biclassifier(_1_dropout_output, expanded)  # (bs, seq_size, num_labels)
+        print(logits.shape)
+
         outputs = (logits,)
 
         if labels is not None:
