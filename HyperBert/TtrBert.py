@@ -19,7 +19,7 @@ class TtrBert(BertPreTrainedModel):
         self.bert = BertModel(config)
 
         self.num_labels = config.num_labels
-        self.classifier = nn.Linear(2 * config.hidden_size, self.num_labels)
+        # self.classifier = nn.Linear(2 * config.hidden_size, self.num_labels)
         self.biclassifier = nn.Bilinear(config.hidden_size, config.hidden_size, self.num_labels)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
 
@@ -86,7 +86,6 @@ class TtrBert(BertPreTrainedModel):
         # logits = self.classifier(pooled_output)
 
         logits = self.biclassifier(_1_dropout_output, expanded)  # (bs, seq_size, num_labels)
-        print(logits.shape)
 
         outputs = (logits,)
 
