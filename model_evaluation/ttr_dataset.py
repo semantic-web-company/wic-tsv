@@ -80,6 +80,7 @@ class TTRDataset(torch.utils.data.Dataset):
         """
         random.seed(seed)
         self.tokenizer = tokenizer
+        self.contexts = contexts
 
         if reduce_classes:
             if isinstance(reduce_classes, list):
@@ -238,10 +239,8 @@ class TTRDataset(torch.utils.data.Dataset):
             item['labels'] = labels[0]
         return item
 
-
     def __len__(self):
         return self.len
-
 
 
 class TTRSepDataset(TTRDataset):
