@@ -1,17 +1,17 @@
 from collections import Counter
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
 
-import numpy as np
-from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 import torch
 import torch.nn as nn
+from sklearn.metrics import precision_recall_fscore_support
 from torch.nn import BCEWithLogitsLoss
-from transformers import BertPreTrainedModel, BertModel
 from torch.utils.data import Dataset
 from transformers import AutoTokenizer, EvalPrediction
+from transformers import BertPreTrainedModel, BertModel
 from transformers import Trainer, TrainingArguments
 
+from model_evaluation.data_collators import DataCollatorForSequenceClassificationWithAdditionalItemData
 from model_evaluation.wictsv_dataset import WiCTSVDataset
 
 
@@ -64,8 +64,11 @@ class HyperBertCLS(BertPreTrainedModel):
         outputs = (logits,)  # + bert_output[1:]  # add hidden states and attention if they are here
 
         if labels is not None:
+            if labels is not None:
+                if labels.dtype != torch.float:
+                    labels = labels.type(torch.float)
             loss_fct = BCEWithLogitsLoss()
-            loss = loss_fct(logits.squeeze(1), labels)
+            loss = loss_fct(logits.squeeze(1), labels.squeeze())
             outputs = (loss,) + outputs
 
         return outputs  # (loss), reshaped_logits,  # (hidden_states), (attentions)
@@ -126,7 +129,7 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset_path', nargs='?', default='../data', type=str)
+    parser.add_argument('--dataset_path', nargs='?', default='../data/en', type=str)
     parser.add_argument('--model_output_path', nargs='?', default='./model', type=str)
     parser.add_argument('--model_name', nargs='?', default='bert-base-uncased', type=str)
     args = parser.parse_args()
@@ -139,6 +142,7 @@ if __name__ == '__main__':
     model_name = args.model_name
     tok = AutoTokenizer.from_pretrained(model_name)
     model = HyperBertCLS.from_pretrained(model_name)
+    data_collator = DataCollatorForSequenceClassificationWithAdditionalItemData(tok)
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model.to(device)
 
@@ -179,6 +183,7 @@ if __name__ == '__main__':
         train_dataset=train_ds,
         eval_dataset=dev_ds,
         compute_metrics=compute_metrics,
+        data_collator=data_collator
     )
     output = trainer.train()
     print(f'Training output: {output}')

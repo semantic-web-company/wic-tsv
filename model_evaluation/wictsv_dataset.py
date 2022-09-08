@@ -84,8 +84,7 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         #                                                                             hypernym_sep=' '))]
         else:
             raise NotImplementedError
-
-        self.encodings = tokenizer(tokenizer_input, return_tensors='pt', truncation=True, padding=True)
+        self.tokenizer_input = tokenizer_input
 
 
     @staticmethod
@@ -159,11 +158,12 @@ class WiCTSVDataset(torch.utils.data.Dataset):
         return marked_contexts, marked_target_inds
 
     def __getitem__(self, idx):
-        item = {key: val[idx] for key, val in self.encodings.items()}
+        encodings = self.tokenizer([self.tokenizer_input[idx]], return_tensors='pt', truncation=True)
+        item = {key: val for key, val in encodings.data.items()}
         item['target_start_len'] = torch.tensor(self.tgt_start_len[idx])
         item['descr_start_len'] = torch.tensor(self.descr_start_len[idx])
         if self.labels is not None:
-            item['labels'] = self.labels[idx]
+            item['labels'] = self.labels[idx].unsqueeze(dim=0)
         return item
 
     def __len__(self):

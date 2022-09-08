@@ -10,6 +10,7 @@ from transformers import AutoTokenizer, EvalPrediction, DistilBertModel, DistilB
 from transformers import BertPreTrainedModel, BertModel
 from transformers import Trainer, TrainingArguments
 
+from model_evaluation.data_collators import DataCollatorForSequenceClassificationWithAdditionalItemData
 from model_evaluation.wictsv_dataset import WiCTSVDataset
 
 
@@ -87,8 +88,11 @@ class HyperBert3(BertPreTrainedModel):
         outputs = (logits,)  # + bert_output[1:]  # add hidden states and attention if they are here
 
         if labels is not None:
+            if labels.dtype != torch.float:
+                labels = labels.type(torch.float)
+
             loss_fct = BCEWithLogitsLoss()
-            loss = loss_fct(logits.squeeze(1), labels)
+            loss = loss_fct(logits.squeeze(1), labels.squeeze())
             outputs = (loss,) + outputs
 
         return outputs  # (loss), reshaped_logits,  # (hidden_states), (attentions)
@@ -172,8 +176,11 @@ class HyperDistilBert3(DistilBertPreTrainedModel):
         outputs = (logits,)  # + bert_output[1:]  # add hidden states and attention if they are here
 
         if labels is not None:
+            if labels is not None:
+                if labels.dtype != torch.float:
+                    labels = labels.type(torch.float)
             loss_fct = BCEWithLogitsLoss()
-            loss = loss_fct(logits.squeeze(1), labels)
+            loss = loss_fct(logits.squeeze(1), labels.squeeze())
             outputs = (loss,) + outputs
 
         return outputs  # (loss), reshaped_logits,  # (hidden_states), (attentions)
@@ -201,6 +208,7 @@ if __name__ == '__main__':
     model_name = args.model_name
     tok = AutoTokenizer.from_pretrained(model_name)
     model = HyperBert3.from_pretrained(model_name)
+    data_collator = DataCollatorForSequenceClassificationWithAdditionalItemData(tok)
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model.to(device)
 
@@ -257,6 +265,7 @@ if __name__ == '__main__':
         eval_dataset=dev_ds,
         # eval_dataset=test_ds,
         compute_metrics=compute_metrics,
+        data_collator=data_collator
     )
     output = trainer.train()
     print(f'Training output: {output}')
