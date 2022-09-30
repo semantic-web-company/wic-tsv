@@ -30,8 +30,8 @@ class HyperBert3(BertPreTrainedModel):
     def forward(
             self,
             input_ids=None,
-            target_start_len=None,
-            descr_start_len=None,
+            target_mask=None,
+            descr_mask=None,
             labels=None,
             attention_mask=None,
             token_type_ids=None,
@@ -41,16 +41,20 @@ class HyperBert3(BertPreTrainedModel):
             output_attentions=None,
             output_hidden_states=True,
     ):
-        tgt_inds = []
-        descr_inds = []
-        tgt_embeds = []
-        descr_embeds = []
-        for row in target_start_len.split(1):
-            row_inds = range(row[0, 0], row.sum())
-            tgt_inds.append(list(row_inds))
-        for row in descr_start_len.split(1):
-            row_inds = range(row[0, 0], row.sum())
-            descr_inds.append(list(row_inds))
+        #tgt_inds = {}
+        #descr_inds = {}
+        #tgt_embeds = []
+        #descr_embeds = []
+        #for row_ind, tgt_ind in [(int(x[0]),int(x[1])) for x in target_mask.nonzero()]:
+        #    if row_ind in tgt_inds:
+        #        tgt_inds[row_ind].append(tgt_ind)
+        #    else:
+        #        tgt_inds[row_ind] = [tgt_ind]
+        #for row_ind, tgt_ind in [(int(x[0]),int(x[1])) for x in descr_mask.nonzero()]:
+        #    if row_ind in descr_inds:
+        #        descr_inds[row_ind].append(tgt_ind)
+        #    else:
+        #        descr_inds[row_ind] = [tgt_ind]
 
         bert_output = self.bert(
             input_ids,
@@ -65,16 +69,46 @@ class HyperBert3(BertPreTrainedModel):
         hidden_lastbutone_layer = bert_output[2][-2]  # (bs, seq_len, dim)
         cls_output = bert_output[1]  # (bs, dim)
 
-        for i, seq_out in enumerate(hidden_lastbutone_layer.split(1, dim=0)):
-            seq_out = seq_out.squeeze()
-            row_tgt_embeds = seq_out[tgt_inds[i]]
-            row_tgt_mean_embeds = torch.mean(row_tgt_embeds, dim=0).squeeze()  # (1, dim)
-            row_descr_embeds = seq_out[descr_inds[i]]
-            row_descr_mean_embeds = torch.mean(row_descr_embeds, dim=0).squeeze()  # (1, dim)
-            tgt_embeds.append(row_tgt_mean_embeds)
-            descr_embeds.append(row_descr_mean_embeds)
-        target_output = torch.stack(tgt_embeds)  # (bs, dim)
-        descr_output = torch.stack(descr_embeds)  # (bs, dim)
+        # get mean representation of target tokens and description
+        target_output = torch.div(
+                            torch.matmul(target_mask.unsqueeze(1).type(torch.float),
+                                         hidden_lastbutone_layer
+                                         ).squeeze(),
+                            target_mask.sum(dim=1).unsqueeze(dim=1)
+                        )
+        descr_output = torch.div(
+                            torch.matmul(descr_mask.unsqueeze(1).type(torch.float),
+                                         hidden_lastbutone_layer
+                                         ).squeeze(),
+                            descr_mask.sum(dim=1).unsqueeze(dim=1)
+                        )
+
+        #embedding_dim = hidden_lastbutone_layer.shape[2]
+        #target_mask_matrix = torch.repeat_interleave(target_mask.unsqueeze(2),embedding_dim, dim=2)
+        #descr_mask_matrix = torch.repeat_interleave(descr_mask.unsqueeze(2),embedding_dim, dim=2)
+        #
+        #target_output_2 = (hidden_lastbutone_layer * target_mask_matrix).sum(dim=1) / target_mask_matrix.sum(dim=1)
+        #descr_output_2 = (hidden_lastbutone_layer * descr_mask_matrix).sum(dim=1) / descr_mask_matrix.sum(dim=1)
+        #
+        #for i, seq_out in enumerate(hidden_lastbutone_layer.split(1, dim=0)):
+        #    seq_out = seq_out.squeeze()
+        #    row_tgt_embeds = seq_out[tgt_inds[i]]
+        #    row_tgt_mean_embeds = torch.mean(row_tgt_embeds, dim=0).squeeze()  # (1, dim)
+        #    row_descr_embeds = seq_out[descr_inds[i]]
+        #    row_descr_mean_embeds = torch.mean(row_descr_embeds, dim=0).squeeze()  # (1, dim)
+        #    tgt_embeds.append(row_tgt_mean_embeds)
+        #    descr_embeds.append(row_descr_mean_embeds)
+        #target_output_3 = torch.stack(tgt_embeds)  # (bs, dim)
+        #descr_output_3 = torch.stack(descr_embeds)  # (bs, dim)
+
+        #(torch.allclose(target_output, target_output_2))
+        #(torch.allclose(target_output, target_output_3))
+        #(torch.allclose(target_output_2, target_output_3))
+
+        #(torch.allclose(descr_output, descr_output_2))
+        #(torch.allclose(descr_output, descr_output_3))
+        #(torch.allclose(descr_output_2, descr_output_3))
+
         pooled_output = torch.cat((
             target_output,
             descr_output,
@@ -116,8 +150,8 @@ class HyperDistilBert3(DistilBertPreTrainedModel):
     def forward(
             self,
             input_ids=None,
-            target_start_len=None,
-            descr_start_len=None,
+            target_mask=None,
+            descr_mask=None,
             labels=None,
             attention_mask=None,
             token_type_ids=None,
@@ -127,16 +161,6 @@ class HyperDistilBert3(DistilBertPreTrainedModel):
             output_attentions=None,
             output_hidden_states=True,
     ):
-        tgt_inds = []
-        descr_inds = []
-        tgt_embeds = []
-        descr_embeds = []
-        for row in target_start_len.split(1):
-            row_inds = range(row[0, 0], row.sum())
-            tgt_inds.append(list(row_inds))
-        for row in descr_start_len.split(1):
-            row_inds = range(row[0, 0], row.sum())
-            descr_inds.append(list(row_inds))
 
         bert_output = self.bert(
             input_ids,
@@ -153,16 +177,20 @@ class HyperDistilBert3(DistilBertPreTrainedModel):
         pooled_output = hidden_state[:, 0]  # (bs, dim)
         context_output = self.pre_classifier(pooled_output)  # (bs, dim)
 
-        for i, seq_out in enumerate(hidden_lastbutone_layer.split(1, dim=0)):
-            seq_out = seq_out.squeeze()
-            row_tgt_embeds = seq_out[tgt_inds[i]]
-            row_tgt_mean_embeds = torch.mean(row_tgt_embeds, dim=0).squeeze()  # (1, dim)
-            row_descr_embeds = seq_out[descr_inds[i]]
-            row_descr_mean_embeds = torch.mean(row_descr_embeds, dim=0).squeeze()  # (1, dim)
-            tgt_embeds.append(row_tgt_mean_embeds)
-            descr_embeds.append(row_descr_mean_embeds)
-        target_output = torch.stack(tgt_embeds)  # (bs, dim)
-        descr_output = torch.stack(descr_embeds)  # (bs, dim)
+        # get mean representation of target tokens and description
+        target_output = torch.div(
+            torch.matmul(target_mask.unsqueeze(1).type(torch.float),
+                         hidden_lastbutone_layer
+                         ).squeeze(),
+            target_mask.sum(dim=1).unsqueeze(dim=1)
+        )
+        descr_output = torch.div(
+            torch.matmul(descr_mask.unsqueeze(1).type(torch.float),
+                         hidden_lastbutone_layer
+                         ).squeeze(),
+            descr_mask.sum(dim=1).unsqueeze(dim=1)
+        )
+
         pooled_output = torch.cat((
             target_output,
             descr_output,

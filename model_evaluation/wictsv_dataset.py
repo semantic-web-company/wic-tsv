@@ -160,8 +160,14 @@ class WiCTSVDataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         encodings = self.tokenizer([self.tokenizer_input[idx]], return_tensors='pt', truncation=True)
         item = {key: val for key, val in encodings.data.items()}
-        item['target_start_len'] = torch.tensor(self.tgt_start_len[idx])
-        item['descr_start_len'] = torch.tensor(self.descr_start_len[idx])
+        target_mask = torch.zeros(encodings.data['input_ids'].shape)
+        target_mask_range = range(self.tgt_start_len[idx][0], sum(list(self.tgt_start_len[idx])))
+        target_mask[:,target_mask_range] = 1
+        descr_mask = torch.zeros(encodings.data['input_ids'].shape)
+        descr_mask_range = range(self.descr_start_len[idx][0], sum(list(self.descr_start_len[idx])))
+        descr_mask[:,descr_mask_range] = 1
+        item['target_mask'] = target_mask
+        item['descr_mask'] = descr_mask
         if self.labels is not None:
             item['labels'] = self.labels[idx].unsqueeze(dim=0)
         return item
